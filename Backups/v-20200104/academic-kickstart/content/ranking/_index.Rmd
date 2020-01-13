@@ -1,0 +1,30 @@
+---
+title: 'CPS-Ranking'
+subtitle: 'Chilean Political Science Impact Ranking'
+## author: ''
+date: '2019-12-01'
+## lastmod: ''
+authors: ["bgonzalezbustamante"]
+output: html_document
+
+# View.
+#   1 = List
+#   2 = Compact
+#   3 = Card
+## view: 3
+
+# Optional header image (relative to `static/img/` folder).
+## header:
+  ## caption: ""
+  ## image: ""
+---
+
+This ranking is presented from the highest to the lowest H-Index. The number of cites has been used as a second criterion in case of a tie in H-Index.
+
+It has been elaborated according to the following sampling criteria. First of all, all the paper-givers with a Chilean academic affiliation in the last political science congress organised by the Chilean Association of Political Science in 2018 were identified. After that, people considered was those who possed an active Google Scholar account. Subsequently, well-known researchers in the Chilean field, who also possess a Google Scholar profile, suggested by other people who were selected in the previous step were added. Finally, authors who had added to their profile publications that are not their authorship (because of name confusion, deliberately or without realising it) have been removed from the ranking.
+
+The first measurement has been collected on 2 December 2019. The next one will be collected by March 2020. The dataset can be downloaded from the OSF project (DOI: [10.17605/OSF.IO/C8PRA](http://doi.org/10.17605/OSF.IO/C8PRA)).
+
+
+I would like to thank [Alejandro Olivares](/authors/aolivares), [Carla Cisternas](/authors/ccisternas), and [Rodrigo Cuevas](/authors/rcuevas) for their valuable comments and contributions. If you like to suggest someone, please send an email to bastian.gonzalezbustamante@politics.ox.ac.uk 
+\
