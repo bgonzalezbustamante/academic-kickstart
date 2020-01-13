@@ -1,0 +1,4 @@
+ErrorDocument 404 /~shil5311/404.html
+Redirect /~shil5311/ranking.html http://users.ox.ac.uk/~shil5311/ranking/
+Redirect /~shil5311//ranking-careers.html http://users.ox.ac.uk/~shil5311/ranking/
+Redirect /~shil5311//ranking-network.html http://users.ox.ac.uk/~shil5311/ranking/

@@ -1,0 +1,57 @@
+---
+title: 'Internet, uso de redes sociales digitales y participación en el Cono Sur'
+## author: ''
+date: '2018-04-12'
+slug: internet-uso-de-redes-sociales-digitales-y-participación-en-el-cono-sur
+categories: []
+tags: []
+authors: [González-Bustamante, B.]
+doi: ''
+publishDate: '2019-12-16T11:13:17Z'
+publication_types:
+  - '4'
+publication: 'In P. Cottet (ed.), *Opinión Pública Contemporánea: Otras Posibilidades de Comprensión e Investigación*. Santiago: Social-Ediciones'
+publication_short: ''
+abstract: 'This chapter presents an exploration of the use of the Internet and digital social networks in Argentina, Chile, and Uruguay, as well as their relationship with political activism. For this, the Internet access levels and Southern Cone indicators are described. Subsequently, the consumption of political information is deepened. Finally, the relationship between the use of digital social networks, the consumption of news and political participation -conventional and unconventional- are explored. This allows identifying dimensions linked to the use of digital social networks and specific types of activism or participation.'
+summary: ''
+featured: no
+url_pdf: ~
+url_code: ~
+url_dataset: ~
+url_poster: ~
+url_project: ~
+url_slides: ~
+url_source: ~
+url_video: ~
+## links:
+  ## - icon: file-pdf
+    ## icon_pack: far
+    ## name: PDF
+    ## url: ''
+  ## - icon: open-access 
+    ## icon_pack: ai
+    ## name: PDF
+    ## url: ''
+  ## - icon: dataverse
+    ## icon_pack: ai
+    ## name: Dataset
+    ## url: ''
+  ## - icon: osf
+    ## icon_pack: ai
+    ## name: Project
+    ## url: ''
+  ## - icon: arxiv
+    ## icon_pack: ai
+    ## name: Preprint
+    ## url: ''
+  ## - icon: doi
+    ## icon_pack: ai
+    ## name: DOI
+    ## url: ''
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+slides: ''
+---
