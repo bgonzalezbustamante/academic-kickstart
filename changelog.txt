@@ -1,0 +1,89 @@
+# Changelog
+All notable changes to Bastián González-Bustamante website will be documented in this file.
+
+## [Unreleased]
+
+## [2.4.1] - 2020-03-05
+### Added
+- Updated CPS-Ranking.
+### Changed
+- Update of badges in CPS-Ranking.
+- Update of service section.
+- Update of teaching section.
+- Update of CV in PDF.
+
+## [Released]
+
+## [2.3.1] - 2020-01-14
+### Added
+- CPS-Ranking Shields.io badges in SVG.
+### Changed
+- Update of social networks links.
+- Update of some collaborators information.
+- Update of researchers to be added CPS-Ranking.
+
+## [2.3.0] - 2020-01-05
+### Added
+- Integration between personal website and CPS-Ranking.
+### Changed
+- Update to the Academic for Hugo v.4.7.0.
+- Update of projects section.
+- Htaccess file.
+### Removed
+- CPS-Ranking website.
+
+## [2.2.0] - 2020-01-04
+### Added
+- CPS-Ranking section.
+- Collaborators section.
+- CV in PDF.
+### Changed
+- Update to the Academic for Hugo v.4.6.3.
+
+## [2.1.0] - 2020-01-02
+### Added
+- Preparing integration between CPS-Ranking website and personal site.
+### Deprecated
+- CPS-Ranking website.
+
+## [2.0.0] - 2019-12-16
+### Added
+- Upload new website powered by R and the package blogdown.
+### Changed
+- Htaccess file.
+### Removed
+- HTML website.
+
+## [1.2.0] - 2019-12-15
+### Added
+- Projects section.
+### Changed
+- Division of teaching and service into two sections.
+- Update of list of skills.
+
+## [1.1.0] - 2019-12-12
+### Added
+- Model of website based on the Academic for Hugo v.4.6.0.
+### Deprecated
+- HTML website.
+
+## [1.0.0] - 2019-09-17
+### Added
+- Badges W3C and WAVE.
+- Htaccess file.
+- Sitemap in XML.
+### Fixed
+- XHTML and CSS validation.
+
+## [0.3.0] - 2019-09-05
+### Added
+- Book chapters section in HTML.
+- Teaching and service section in HTML.
+
+## [0.2.0] - 2019-09-04
+### Added
+- Articles section in HTML.
+
+## [0.1.0] - 2019-09-03
+### Added
+- Home section in HTML.
