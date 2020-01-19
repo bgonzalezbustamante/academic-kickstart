@@ -11,6 +11,7 @@ All notable changes to Bastián González-Bustamante website will be documented 
 - Update of service section.
 - Update of teaching section.
 - Update of CV in PDF.
+- Update of funding.
 
 ## [Released]
 
