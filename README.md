@@ -1,4 +1,4 @@
-# academic-hugo
+# academic-kickstart
 **Bastián González-Bustamante website code** \
 **http://users.ox.ac.uk/~shil5311/**
 
