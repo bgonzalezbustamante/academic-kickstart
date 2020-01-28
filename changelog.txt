@@ -6,19 +6,20 @@ All notable changes to Bastián González-Bustamante website will be documented 
 ## [2.4.1] - 2020-03-05
 ### Added
 - Updated CPS-Ranking.
-- Version to the footnote.
+- Version at the footnote.
+- ORCID badge at GitHub repository.
 ### Changed
 - Update of badges in CPS-Ranking.
 - Update of service section.
 - Update of teaching section.
 - Update of CV in PDF.
-- Update of funding.
+- Update of funding sponsor.
 
 ## [Released]
 
 ## [2.3.1] - 2020-01-14
 ### Added
-- CPS-Ranking Shields.io badges in SVG.
+- CPS-Ranking Shields.io badges in SVG at GitHub repository.
 ### Changed
 - Update of social networks links.
 - Update of some collaborators information.
