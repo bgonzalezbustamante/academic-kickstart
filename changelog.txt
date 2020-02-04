@@ -17,11 +17,11 @@ All notable changes to Bastián González-Bustamante website will be documented 
 ### Removed
 - Collaborators section.
 
-## [Released]
-
 ## [2.4.1] 2020-02-04
 ### Changed
 - Revision of upgrade versioning.
+
+## [Released]
 
 ## [2.4.0] - 2020-01-14
 ### Added
