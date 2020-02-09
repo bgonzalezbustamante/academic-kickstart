@@ -3,23 +3,33 @@ All notable changes to Bastián González-Bustamante website will be documented 
 
 ## [Unreleased]
 
-## [2.5.1] - 2020-03-05
+## [2.6.2] - 2020-03-05
 ### Added
 - Updated CPS-Ranking.
 - Version at the footnote.
 - ORCID badge at GitHub repository.
 ### Changed
 - Update of badges in CPS-Ranking.
+
+## [2.5.2] - 2020-02-19
+### Changed
 - Update of service section.
 - Update of teaching section.
 - Update of CV in PDF.
 - Update of funding sponsor.
 ### Removed
 - Collaborators section.
+- Skills section.
+
+## [2.4.2] 2020-02-09
+### Deprecated
+- Skills section.
 
 ## [2.4.1] 2020-02-04
 ### Changed
 - Revision of upgrade versioning.
+### Deprecated
+- Collaborators section.
 
 ## [Released]
 
