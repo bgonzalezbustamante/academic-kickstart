@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bastián González-Bustamante</title>
+    <link>/~shil5311/authors/dsazo/</link>
+      <atom:link href="/~shil5311/authors/dsazo/index.xml" rel="self" type="application/rss+xml" />
+    <description>Bastián González-Bustamante</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>11 February 2020</copyright><lastBuildDate>Mon, 18 Jul 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/~shil5311/img/oxford-logo.png</url>
+      <title>Bastián González-Bustamante</title>
+      <link>/~shil5311/authors/dsazo/</link>
+    </image>
+    
+    <item>
+      <title>Branding político</title>
+      <link>/~shil5311/publication/branding-politico/</link>
+      <pubDate>Mon, 18 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>/~shil5311/publication/branding-politico/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Campaña viral</title>
+      <link>/~shil5311/publication/campana-viral/</link>
+      <pubDate>Mon, 18 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>/~shil5311/publication/campana-viral/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

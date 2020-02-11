@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 | Bastián González-Bustamante</title>
+    <link>/~shil5311/publication_types/1/</link>
+      <atom:link href="/~shil5311/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>11 February 2020</copyright><lastBuildDate>Thu, 05 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/~shil5311/img/oxford-logo.png</url>
+      <title>1</title>
+      <link>/~shil5311/publication_types/1/</link>
+    </image>
+    
+    <item>
+      <title>Public-Private Circulation and the Revolving Door in the Chilean Executive Branch (2000–2014)</title>
+      <link>/~shil5311/publication/revolving-door-in-the-chilean-executive-branch/</link>
+      <pubDate>Thu, 05 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/~shil5311/publication/revolving-door-in-the-chilean-executive-branch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cambios de gabinete y supervivencia de los ministros en Chile durante los gobiernos de la Concertación (1990-2010)</title>
+      <link>/~shil5311/publication/cambios-de-gabinete-y-supervivencia-de-los-ministros-en-chile-durante-los-gobiernos-de-la-concertacion/</link>
+      <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
+      <guid>/~shil5311/publication/cambios-de-gabinete-y-supervivencia-de-los-ministros-en-chile-durante-los-gobiernos-de-la-concertacion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Servicio civil en Chile, análisis de los directivos de primer nivel jerárquico (2003-13)</title>
+      <link>/~shil5311/publication/servicio-civil-en-chile-analisis-de-los-directivos-de-primer-nivel-jerarquico/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/~shil5311/publication/servicio-civil-en-chile-analisis-de-los-directivos-de-primer-nivel-jerarquico/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

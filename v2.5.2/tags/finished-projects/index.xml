@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Finished Projects | Bastián González-Bustamante</title>
+    <link>/~shil5311/tags/finished-projects/</link>
+      <atom:link href="/~shil5311/tags/finished-projects/index.xml" rel="self" type="application/rss+xml" />
+    <description>Finished Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>11 February 2020</copyright><lastBuildDate>Sun, 27 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/~shil5311/img/oxford-logo.png</url>
+      <title>Finished Projects</title>
+      <link>/~shil5311/tags/finished-projects/</link>
+    </image>
+    
+    <item>
+      <title>The Chilean Executive During the Democratic Post-Transition</title>
+      <link>/~shil5311/project/the-chilean-executive-during-the-democratic-post-transition/</link>
+      <pubDate>Sun, 27 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/~shil5311/project/the-chilean-executive-during-the-democratic-post-transition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Baseline Local E-Government Index 2016 in Chile</title>
+      <link>/~shil5311/project/baseline-local-egovernment-index/</link>
+      <pubDate>Sat, 22 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>/~shil5311/project/baseline-local-egovernment-index/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gaps, Representation, and Elite-Mass Congruence in Chile and Uruguay</title>
+      <link>/~shil5311/project/gaps-representation-and-elite-mass-congruence-in-chile-and-uruguay/</link>
+      <pubDate>Sat, 22 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>/~shil5311/project/gaps-representation-and-elite-mass-congruence-in-chile-and-uruguay/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
