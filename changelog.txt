@@ -21,7 +21,7 @@ All notable changes to Bastián González-Bustamante website will be documented 
 - Update of teaching section.
 - Update of CV in PDF.
 - Update of funding sponsor.
-- Update collaborator's profiles.
+- Update collaborators' profiles.
 - Update to the Academic for Hugo v.4.8.0 (WIP).
 
 ## [Released]
