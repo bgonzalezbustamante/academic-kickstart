@@ -23,6 +23,8 @@ All notable changes to Bastián González-Bustamante website will be documented 
 - Update of funding sponsor.
 - Update to the Academic for Hugo v.4.8.0 (WIP).
 
+## [Released]
+
 ## [2.5.2] 2020-02-11
 ### Added
 - Version at the footnote.
@@ -42,8 +44,6 @@ All notable changes to Bastián González-Bustamante website will be documented 
 - Revision of upgrade versioning.
 ### Deprecated
 - Collaborators section.
-
-## [Released]
 
 ## [2.4.0] - 2020-01-14
 ### Added
