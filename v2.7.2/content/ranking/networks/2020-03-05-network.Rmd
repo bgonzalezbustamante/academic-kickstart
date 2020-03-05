@@ -1,0 +1,15 @@
+---
+title: "Co-Author Network Mar. 2020"
+weight: 3
+date: '2020-03-05'
+authors: ["bgonzalezbustamante"]
+## categories: []
+## tags: []
+summary: 'Network plotted on 5 March 2020'
+---
+
+![](Network-Mar-2020.png){ width=90% }
+
+**How to download and cite this dataset?**
+
+González-Bustamante, B. (2020). Chilean Political Science Impact Ranking Dataset v.2.4.2. DOI: [10.17605/OSF.IO/M3NZD](http://doi.org/10.17605/OSF.IO/M3NZD)
