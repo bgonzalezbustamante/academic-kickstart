@@ -8,8 +8,6 @@ All notable changes to "Bastián González-Bustamante website" will be documente
 - Updated CPS-Ranking.
 ### Changed
 - Update of badges in CPS-Ranking.
-- Update of publications.
-- Reduce the number of publications at home.
 - Update of collaborators' profiles.
 - Update to the Academic for Hugo v.4.8.0 (WIP).
 
@@ -20,6 +18,8 @@ All notable changes to "Bastián González-Bustamante website" will be documente
 - Updated CPS-Ranking.
 ### Changed
 - Update of badges in CPS-Ranking.
+- Update of publications.
+- Reduce the number of publications at home.
 
 ## [2.6.2] - 2020-02-22
 ### Changed
