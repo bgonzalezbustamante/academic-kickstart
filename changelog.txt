@@ -11,7 +11,8 @@ All notable changes to "Bastián González-Bustamante website" will be documente
 
 ## [2.9.2] - TBC
 ### Added
-- Upcoming talks section.
+- Upcoming talks section (TBC).
+- Link to the changelog on GitHub repository.
 ### Changed
 - Filter the latest publications at home based on type.
 - Update of collaborators' profiles.
