@@ -14,7 +14,7 @@ All notable changes to "Bastián González-Bustamante website" will be documente
 - Upcoming talks section (TBC).
 - Link to the changelog on GitHub repository.
 ### Changed
-- Profile.
+- Profile and interests.
 - Update of publications.
 - Filter the latest publications at home based on type.
 - Update of projects.
