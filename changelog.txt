@@ -11,10 +11,10 @@ All notable changes to "Bastián González-Bustamante website" will be documente
 
 ## [2.9.3] - 2020-06-03
 ### Added
-- Updated CPS-Ranking.
+- Updated CPS-Ranking (WIP).
 - Link to the changelog on GitHub repository (WIP).
 ### Changed
-- Update of badges in CPS-Ranking.
+- Update of badges in CPS-Ranking (WIP).
 - Update of projects (WIP).
 - Featured publications instead of recent ones (WIP).
 - Minor typesetting corrections in the changelog (WIP).
