@@ -3,22 +3,23 @@ All notable changes to "Bastián González-Bustamante website" will be documente
 
 ## [Unreleased]
 
-## [2.10.3] - 2020-06-05
+## [2.10.3] - 2020-09-05
 ### Added
 - Updated CPS-Ranking.
 ### Changed
 - Update of badges in CPS-Ranking.
 
-## [2.9.3] - TBC
+## [2.9.3] - 2020-06-03
 ### Added
-- Upcoming talks section (TBC).
-- Link to the changelog on GitHub repository.
+- Updated CPS-Ranking.
+- Link to the changelog on GitHub repository (WIP).
 ### Changed
+- Update of badges in CPS-Ranking.
+- Update of projects (WIP).
+- Featured publications instead of recent ones (WIP).
 - Minor typesetting corrections in the changelog (WIP).
-- Profile and interests.
-- Update of publications.
-- Filter the latest publications at home based on type.
-- Update of projects.
+- Update of publications (WIP).
+- Profile and interests (WIP).
 - Update of collaborators' profiles.
 - Update to the Academic for Hugo v.4.8.0 (WIP).
 
