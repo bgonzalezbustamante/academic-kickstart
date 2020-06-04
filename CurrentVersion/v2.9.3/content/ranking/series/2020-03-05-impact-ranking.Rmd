@@ -14,6 +14,7 @@ library(kableExtra)
 
 data <- read.csv("20200305_ranking.csv")
 names(data)[1] = "Ranking"
+data$Cites <- format(data$Cites, big.mark = ",")
 
 kable(data) %>%
   ## kable_styling() %>%

@@ -12,15 +12,15 @@ authors:
 superuser: false
 
 # Role/position
-role: Adjunct Professor at USACH
+role: Lecturer at UVALPO
 
 # Organizations/Affiliations
 organizations:
-- name: Universidad de Santiago de Chile
+- name: Universidad de Valparaíso
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Adjunct Professor in the Department of Public Administration and Policy at the Universidad de Santiago de Chile.
+bio: Lecturer in the School of International Business at the Universidad de Valparaíso.
 
 interests:
 - International Politics
@@ -34,7 +34,7 @@ interests:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:rodrigo.cuevas@usach.cl
+  link: mailto:cuevas.ossandon@gmail.com
 ## - icon: orcid
   ## icon_pack: fab
   ## link: http://

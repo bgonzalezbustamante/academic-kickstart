@@ -90,6 +90,7 @@ Inst_Cum &lt;- within(Inst_Cum, Quartile &lt;- as.integer(cut(Inv_Cum_Index,
                                                         include.lowest = TRUE)))
 Inst_Cum$Inv_Cum_Index &lt;- NULL
 Inst_Cum &lt;- Inst_Cum[order(-Inst_Cum$Cum_H_Index, -Inst_Cum$Cum_Cites), ]
+Inst_Cum$Cum_Cites &lt;- format(Inst_Cum$Cum_Cites, big.mark = &quot;,&quot;)
 rownames(Inst_Cum) &lt;- NULL</code></pre>
 <table>
 <thead>
@@ -100,7 +101,7 @@ Name
 <th style="text-align:right;">
 Cases
 </th>
-<th style="text-align:right;">
+<th style="text-align:left;">
 Cum_Cites
 </th>
 <th style="text-align:right;">
@@ -119,8 +120,8 @@ PUC
 <td style="text-align:right;">
 26
 </td>
-<td style="text-align:right;">
-15752
+<td style="text-align:left;">
+15,752
 </td>
 <td style="text-align:right;">
 234
@@ -136,8 +137,8 @@ UCHILE
 <td style="text-align:right;">
 19
 </td>
-<td style="text-align:right;">
-9972
+<td style="text-align:left;">
+9,972
 </td>
 <td style="text-align:right;">
 189
@@ -153,8 +154,8 @@ UDP
 <td style="text-align:right;">
 17
 </td>
-<td style="text-align:right;">
-13324
+<td style="text-align:left;">
+13,324
 </td>
 <td style="text-align:right;">
 170
@@ -170,8 +171,8 @@ USACH
 <td style="text-align:right;">
 13
 </td>
-<td style="text-align:right;">
-6872
+<td style="text-align:left;">
+6,872
 </td>
 <td style="text-align:right;">
 101
@@ -187,8 +188,8 @@ COES
 <td style="text-align:right;">
 4
 </td>
-<td style="text-align:right;">
-6452
+<td style="text-align:left;">
+6,452
 </td>
 <td style="text-align:right;">
 74
@@ -204,8 +205,8 @@ UDD
 <td style="text-align:right;">
 7
 </td>
-<td style="text-align:right;">
-1225
+<td style="text-align:left;">
+1,225
 </td>
 <td style="text-align:right;">
 42
@@ -221,8 +222,8 @@ UAI
 <td style="text-align:right;">
 8
 </td>
-<td style="text-align:right;">
-1396
+<td style="text-align:left;">
+1,396
 </td>
 <td style="text-align:right;">
 37
@@ -238,8 +239,8 @@ UDEC
 <td style="text-align:right;">
 9
 </td>
-<td style="text-align:right;">
-1216
+<td style="text-align:left;">
+1,216
 </td>
 <td style="text-align:right;">
 37
@@ -255,7 +256,7 @@ UCT
 <td style="text-align:right;">
 5
 </td>
-<td style="text-align:right;">
+<td style="text-align:left;">
 356
 </td>
 <td style="text-align:right;">
@@ -272,7 +273,7 @@ ULAGOS
 <td style="text-align:right;">
 3
 </td>
-<td style="text-align:right;">
+<td style="text-align:left;">
 742
 </td>
 <td style="text-align:right;">
@@ -289,7 +290,7 @@ UTALCA
 <td style="text-align:right;">
 1
 </td>
-<td style="text-align:right;">
+<td style="text-align:left;">
 977
 </td>
 <td style="text-align:right;">
@@ -306,7 +307,7 @@ UACH
 <td style="text-align:right;">
 1
 </td>
-<td style="text-align:right;">
+<td style="text-align:left;">
 727
 </td>
 <td style="text-align:right;">
@@ -323,7 +324,7 @@ UNAB
 <td style="text-align:right;">
 1
 </td>
-<td style="text-align:right;">
+<td style="text-align:left;">
 263
 </td>
 <td style="text-align:right;">
@@ -340,7 +341,7 @@ UA
 <td style="text-align:right;">
 3
 </td>
-<td style="text-align:right;">
+<td style="text-align:left;">
 98
 </td>
 <td style="text-align:right;">
@@ -357,7 +358,7 @@ ANEPE
 <td style="text-align:right;">
 1
 </td>
-<td style="text-align:right;">
+<td style="text-align:left;">
 48
 </td>
 <td style="text-align:right;">
@@ -374,7 +375,7 @@ UMAYOR
 <td style="text-align:right;">
 2
 </td>
-<td style="text-align:right;">
+<td style="text-align:left;">
 65
 </td>
 <td style="text-align:right;">
@@ -391,7 +392,7 @@ UTEM
 <td style="text-align:right;">
 1
 </td>
-<td style="text-align:right;">
+<td style="text-align:left;">
 55
 </td>
 <td style="text-align:right;">
@@ -408,7 +409,7 @@ IIPSS
 <td style="text-align:right;">
 1
 </td>
-<td style="text-align:right;">
+<td style="text-align:left;">
 43
 </td>
 <td style="text-align:right;">
@@ -425,7 +426,7 @@ UVALPO
 <td style="text-align:right;">
 1
 </td>
-<td style="text-align:right;">
+<td style="text-align:left;">
 31
 </td>
 <td style="text-align:right;">
@@ -442,7 +443,7 @@ IL
 <td style="text-align:right;">
 1
 </td>
-<td style="text-align:right;">
+<td style="text-align:left;">
 5
 </td>
 <td style="text-align:right;">
@@ -478,8 +479,8 @@ Inst_Avg &lt;- within(Inst_Avg, Quartile &lt;- as.integer(cut(Inv_Avg_Index,
 Inst_Avg$Inv_Avg_Index &lt;- NULL
 Inst_Avg &lt;- Inst_Avg[order(-Inst_Avg$Avg_H_Index, -Inst_Avg$Avg_Cites), ]
 rownames(Inst_Avg) &lt;- NULL
-Avg_Cites &lt;- format(round(Inst_Avg$Avg_Cites, 2), nsmall = 3)
-Avg_H_Index &lt;- format(round(Inst_Avg$Avg_H_Index, 2), nsmall = 3)
+Avg_Cites &lt;- format(round(Inst_Avg$Avg_Cites, 2), nsmall = 2, big.mark = &quot;,&quot;)
+Avg_H_Index &lt;- format(round(Inst_Avg$Avg_H_Index, 2), nsmall = 2, big.mark = &quot;,&quot;)
 Quartile &lt;- Inst_Avg$Quartile
 Inst_Avg &lt;- select(Inst_Avg, Name, Cases)
 Inst_Avg &lt;- data.frame(Inst_Avg, Avg_Cites, Avg_H_Index, Quartile)</code></pre>
@@ -512,10 +513,10 @@ COES
 4
 </td>
 <td style="text-align:left;">
-1613.000
+1,613.00
 </td>
 <td style="text-align:left;">
-18.500
+18.50
 </td>
 <td style="text-align:right;">
 1
@@ -529,10 +530,10 @@ UTALCA
 1
 </td>
 <td style="text-align:left;">
-977.000
+977.00
 </td>
 <td style="text-align:left;">
-15.000
+15.00
 </td>
 <td style="text-align:right;">
 1
@@ -546,10 +547,10 @@ UACH
 1
 </td>
 <td style="text-align:left;">
-727.000
+727.00
 </td>
 <td style="text-align:left;">
-15.000
+15.00
 </td>
 <td style="text-align:right;">
 1
@@ -563,10 +564,10 @@ UDP
 17
 </td>
 <td style="text-align:left;">
-783.760
+783.76
 </td>
 <td style="text-align:left;">
-10.000
+10.00
 </td>
 <td style="text-align:right;">
 1
@@ -580,10 +581,10 @@ UCHILE
 19
 </td>
 <td style="text-align:left;">
-524.840
+524.84
 </td>
 <td style="text-align:left;">
-9.950
+9.95
 </td>
 <td style="text-align:right;">
 1
@@ -597,10 +598,10 @@ PUC
 26
 </td>
 <td style="text-align:left;">
-605.850
+605.85
 </td>
 <td style="text-align:left;">
-9.000
+9.00
 </td>
 <td style="text-align:right;">
 2
@@ -614,10 +615,10 @@ UNAB
 1
 </td>
 <td style="text-align:left;">
-263.000
+263.00
 </td>
 <td style="text-align:left;">
-8.000
+8.00
 </td>
 <td style="text-align:right;">
 2
@@ -631,10 +632,10 @@ USACH
 13
 </td>
 <td style="text-align:left;">
-528.620
+528.62
 </td>
 <td style="text-align:left;">
-7.770
+7.77
 </td>
 <td style="text-align:right;">
 2
@@ -648,10 +649,10 @@ ULAGOS
 3
 </td>
 <td style="text-align:left;">
-247.330
+247.33
 </td>
 <td style="text-align:left;">
-6.330
+6.33
 </td>
 <td style="text-align:right;">
 2
@@ -665,10 +666,10 @@ UDD
 7
 </td>
 <td style="text-align:left;">
-175.000
+175.00
 </td>
 <td style="text-align:left;">
-6.000
+6.00
 </td>
 <td style="text-align:right;">
 2
@@ -682,10 +683,10 @@ ANEPE
 1
 </td>
 <td style="text-align:left;">
-48.000
+48.00
 </td>
 <td style="text-align:left;">
-5.000
+5.00
 </td>
 <td style="text-align:right;">
 3
@@ -699,10 +700,10 @@ UAI
 8
 </td>
 <td style="text-align:left;">
-174.500
+174.50
 </td>
 <td style="text-align:left;">
-4.620
+4.62
 </td>
 <td style="text-align:right;">
 3
@@ -716,10 +717,10 @@ UCT
 5
 </td>
 <td style="text-align:left;">
-71.200
+71.20
 </td>
 <td style="text-align:left;">
-4.400
+4.40
 </td>
 <td style="text-align:right;">
 3
@@ -733,10 +734,10 @@ UDEC
 9
 </td>
 <td style="text-align:left;">
-135.110
+135.11
 </td>
 <td style="text-align:left;">
-4.110
+4.11
 </td>
 <td style="text-align:right;">
 3
@@ -750,10 +751,10 @@ UTEM
 1
 </td>
 <td style="text-align:left;">
-55.000
+55.00
 </td>
 <td style="text-align:left;">
-3.000
+3.00
 </td>
 <td style="text-align:right;">
 3
@@ -767,10 +768,10 @@ IIPSS
 1
 </td>
 <td style="text-align:left;">
-43.000
+43.00
 </td>
 <td style="text-align:left;">
-3.000
+3.00
 </td>
 <td style="text-align:right;">
 3
@@ -784,10 +785,10 @@ UVALPO
 1
 </td>
 <td style="text-align:left;">
-31.000
+31.00
 </td>
 <td style="text-align:left;">
-3.000
+3.00
 </td>
 <td style="text-align:right;">
 3
@@ -801,10 +802,10 @@ UA
 3
 </td>
 <td style="text-align:left;">
-32.670
+32.67
 </td>
 <td style="text-align:left;">
-2.330
+2.33
 </td>
 <td style="text-align:right;">
 4
@@ -818,10 +819,10 @@ IL
 1
 </td>
 <td style="text-align:left;">
-5.000
+5.00
 </td>
 <td style="text-align:left;">
-2.000
+2.00
 </td>
 <td style="text-align:right;">
 4
@@ -835,10 +836,10 @@ UMAYOR
 2
 </td>
 <td style="text-align:left;">
-32.500
+32.50
 </td>
 <td style="text-align:left;">
-1.500
+1.50
 </td>
 <td style="text-align:right;">
 4

@@ -16,7 +16,7 @@ library(kableExtra)
 library(tidyverse)
 
 ## Data
-data <- read.csv("https://osf.io/8hnx3/download", fileEncoding = "UTF-8")
+data <- read.csv("https://osf.io/zc7d8/download", fileEncoding = "UTF-8")
 
 ## Institutions Codification
 usach <- subset(data, Affiliation == "USACH" | Affiliation == "OXF-USACH") 
@@ -80,6 +80,7 @@ Inst_Cum <- within(Inst_Cum, Quartile <- as.integer(cut(Inv_Cum_Index,
                                                         include.lowest = TRUE)))
 Inst_Cum$Inv_Cum_Index <- NULL
 Inst_Cum <- Inst_Cum[order(-Inst_Cum$Cum_H_Index, -Inst_Cum$Cum_Cites), ]
+Inst_Cum$Cum_Cites <- format(Inst_Cum$Cum_Cites, big.mark = ",")
 rownames(Inst_Cum) <- NULL
 ```
 
@@ -101,8 +102,8 @@ Inst_Avg <- within(Inst_Avg, Quartile <- as.integer(cut(Inv_Avg_Index,
 Inst_Avg$Inv_Avg_Index <- NULL
 Inst_Avg <- Inst_Avg[order(-Inst_Avg$Avg_H_Index, -Inst_Avg$Avg_Cites), ]
 rownames(Inst_Avg) <- NULL
-Avg_Cites <- format(round(Inst_Avg$Avg_Cites, 2), nsmall = 3)
-Avg_H_Index <- format(round(Inst_Avg$Avg_H_Index, 2), nsmall = 3)
+Avg_Cites <- format(round(Inst_Avg$Avg_Cites, 2), nsmall = 2, big.mark = ",")
+Avg_H_Index <- format(round(Inst_Avg$Avg_H_Index, 2), nsmall = 2, big.mark = ",")
 Quartile <- Inst_Avg$Quartile
 Inst_Avg <- select(Inst_Avg, Name, Cases)
 Inst_Avg <- data.frame(Inst_Avg, Avg_Cites, Avg_H_Index, Quartile)

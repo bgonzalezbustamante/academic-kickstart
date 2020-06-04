@@ -14,6 +14,7 @@ library(kableExtra)
 
 data <- read.csv("https://osf.io/zc7d8/download", fileEncoding = "UTF-8")
 names(data)[1] = "Ranking"
+data$Cites <- format(data$Cites, big.mark = ",")
 
 kable(data) %>%
   ## kable_styling() %>%

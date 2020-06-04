@@ -12,15 +12,15 @@ authors:
 superuser: false
 
 # Role/position
-role: Associate Professor at USACH
+role: Full Professor at UVALPO
 
 # Organizations/Affiliations
 organizations:
-- name: Universidad de Santiago de Chile
+- name: Universidad de Valparaíso
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Associate Professor in the Department of Public Administration and Policy at the Universidad de Santiago de Chile.
+bio: Full Professor in the School of Public Administration at the Universidad de Valparaíso.
 
 interests:
 - Public Policies
@@ -33,7 +33,7 @@ interests:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:diego.barria@usach.cl
+  link: mailto:diego.barria@uv.cl
 - icon: orcid
   icon_pack: fab
   link: http://orcid.org/0000-0001-8906-9220
@@ -43,9 +43,9 @@ social:
 ## - icon: google-scholar
   ## icon_pack: ai
   ## link: https://
-## - icon: researchgate
-  ## icon_pack: fab
-  ## link: https://
+- icon: researchgate
+  icon_pack: fab
+  link: https://www.researchgate.net/profile/Diego_Barria_Traverso
 ## - icon: academia
   ## icon_pack: ai
   ## link: https://
