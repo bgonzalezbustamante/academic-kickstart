@@ -12,6 +12,7 @@ All notable changes to "Bastián González-Bustamante website" will be documente
 ## [2.9.4] - TBC
 ### Changed
 - Update to the Academic for Hugo v.4.8.0.
+- Update of relevant experience.
 - Update of book publishers.
 
 ## [Released]
