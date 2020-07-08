@@ -13,11 +13,12 @@ All notable changes to "Bastián González-Bustamante website" will be documente
 ### Changed
 - Update to the Academic for Hugo v.4.8.0.
 - Update of relevant experience.
-- Update of book publishers.
+- Update of academic service.
+- Update of book publishers (TBC).
 
 ## [Released]
 
-## [2.9.4] - 2020-07-07
+## [2.9.4] - 2020-07-08
 ### Changed
 - Update of CV in PDF.
 
