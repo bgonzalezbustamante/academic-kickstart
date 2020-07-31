@@ -18,7 +18,7 @@ All notable changes to "Bastián González-Bustamante website" will be documente
 
 ## [Released]
 
-## [2.9.5] - 2020-07-29
+## [2.9.5] - 2020-07-31
 ### Changed
 - Update of CV in PDF.
 
