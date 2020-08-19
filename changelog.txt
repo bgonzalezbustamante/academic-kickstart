@@ -15,6 +15,7 @@ All notable changes to "Bastián González-Bustamante website" will be documente
 - Update of academic service.
 - Update of relevant experience (TBC).
 - Update of book publishers (TBC).
+- Automatic CV updates (TBC).
 
 ## [Released]
 
