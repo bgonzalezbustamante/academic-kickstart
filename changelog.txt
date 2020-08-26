@@ -19,6 +19,7 @@ All notable changes to "Bastián González-Bustamante website" will be documente
 ## [Released]
 
 ## [2.9.6] - 2020-08-26
+### Changed
 - Automatic CV updates (TBC).
 - Update of badges at GitHub repository.
 
