@@ -92,7 +92,7 @@ All notable changes to "Bastián González-Bustamante website" will be documente
 
 ## [2.4.0] - 2020-01-14
 ### Added
-- CPS-Ranking Shields.io badges in SVG at GitHub repository.
+- CPS-Ranking badges in SVG at GitHub repository.
 ### Changed
 - Update of social networks links.
 - Update of some collaborators information.
