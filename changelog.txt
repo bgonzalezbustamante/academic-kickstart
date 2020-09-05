@@ -19,8 +19,10 @@ All notable changes to "Bastián González-Bustamante website" will be documente
 - Profile and interests (WIP).
 - Update of social icons (WIP).
 - Update of collaborators' profiles (WIP).
-- Update of academic service (WIP).
 - Update of relevant experience WIP).
+- Update of academic service (WIP).
+- Update of awards (WIP).
+- Update of publications (WIP).
 - Update of book publishers (WIP).
 - Update of badges in CPS-Ranking (WIP).
 ### Removed
