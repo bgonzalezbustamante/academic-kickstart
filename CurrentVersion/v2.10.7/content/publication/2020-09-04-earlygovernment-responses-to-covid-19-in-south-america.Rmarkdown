@@ -1,5 +1,5 @@
 ---
-title: 'Early Government Responses to COVID-19 in South American'
+title: 'Early Government Responses to COVID-19 in South America'
 date: '2020-09-04'
 slug: early-government-responses-to-covid-19-in-south-america
 ## categories: []
