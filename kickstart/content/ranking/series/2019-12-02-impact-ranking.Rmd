@@ -1,0 +1,32 @@
+---
+title: "Impact Ranking Dec. 2019"
+weight: 7
+date: '2019-12-02'
+authors: ["bgonzalezbustamante"]
+## categories: []
+## tags: []
+summary: 'Data collected on December 2, 2019'
+---
+
+```{r echo = FALSE}
+## library(scholar)
+library(kableExtra)
+
+data <- read.csv("ranking_dec19.csv")
+names(data)[1] = "Ranking"
+data$Cites <- format(data$Cites, big.mark = ",")
+
+kable(data) %>%
+  ## kable_styling() %>%
+  footnote(general = "The affiliations have been standardised. Data collected on December 2, 2019.")
+```
+
+\
+
+**Would you like to suggest someone?**
+
+Please send an email to <i class="fas fa-envelope"></i> bastian.gonzalezbustamante@politics.ox.ac.uk^[Researchers to be added: Marcelo Mella Polanco (ID qdm2fHgAAAAJ), Hary Hugo Fruhling (ID dJKWN8wAAAAJ), Arturo Arriagada (ID TzPYdWsAAAAJ), Jorge Gordin (ID RJp2E7cAAAAJ), Stefano Palestini (ID 1JylyXQAAAAJ), Ross Mittiga (ID o4ZnQNsAAAAJ), Alfonso Donoso (ID OrPr-3AAAAAJ), Giovanni Agostinis (ID u9c4q20AAAAJ), Antonio Canale-Mayet (ID dFcoyfMAAAAJ), Javier Sajuria (ID elmJq2gAAAAJ), Federico Rojas-de-Galarreta (ID hTyE9WAAAAAJ), Ximena Soto Soutullo (ID r2q0t8cAAAAJ&hl), Luis Garrido-Vergara (ID DlO0jXVS4FIC), and Carolina Acevedo (ID KNKPs0EAAAAJ).]
+
+**How to download and cite this dataset?**
+
+González-Bustamante, B. (2019). *Chilean Political Science Impact Ranking Dataset* [Data collected on December 2, 2019]. DOI: [10.17605/OSF.IO/M3NZD](http://doi.org/10.17605/OSF.IO/M3NZD)
