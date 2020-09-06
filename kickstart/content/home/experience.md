@@ -3,7 +3,7 @@
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 30  # Order that this section will appear.
+weight = 40  # Order that this section will appear.
 
 title = "Relevant Experience"
 subtitle = ""
@@ -20,40 +20,13 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Instructor"
-  company = "Universidad de Santiago de Chile"
+  company = "Universidad de Santiago"
   company_url = ""
   location = "Santiago"
-  date_start = "2018-01-01"
+  date_start = "2014-08-18"
   date_end = ""
   description = """
-  Responsibilities include:
-  
-  * [Teaching >](teaching)
-  * [Academic Service >](service)
-  """
-
-[[experience]]
-  title = "Consultant"
-  company = "United Nations Development Programme"
-  company_url = ""
-  location = "Santiago"
-  date_start = "2016-09-01"
-  date_end = "2017-03-30"
-  description = """
-  Responsibilities include:
-  
-  * [Working paper >](/~shil5311//publication/puerta-giratoria-analisis-de-la-circulacion-publico-privada-en-chile/)
-  """
-
-[[experience]]
-  title = "Adjunct Professor"
-  company = "Universidad de Santiago de Chile"
-  company_url = ""
-  location = "Santiago"
-  date_start = "2014-08-01"
-  date_end = "2017-12-31"
-  description = """
-  Responsibilities include:
+  Currently, I am on a leave of absence. Prior to being appointed as Faculty Member, I worked as an Adjunct Professor between 2014 and 2018.<br />
   
   * [Teaching >](teaching)
   * [Academic Service >](service)
@@ -67,9 +40,6 @@ date_format = "Jan 2006"
   date_start = "2013-09-01"
   date_end = "2016-07-30"
   description = """
-  Responsibilities include:
-  
-  * [Teaching >](teaching)
   """
 
 [design.spacing]
