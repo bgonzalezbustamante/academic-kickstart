@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Bastián González-Bustamante
+title: Bastián González-Bustamante
 weight: 1
 shortname: González-Bustamante, B.
 
@@ -57,18 +57,24 @@ social:
 ## - icon: envelope
   ## icon_pack: far
   ## link: mailto:bastian.gonzalez.b@usach.cl
+- icon: university
+  icon_pack: fas
+  link: http://users.ox.ac.uk/~shil5311/
+- icon: home
+  icon_pack: fas
+  link: https://bgonzalezbustamante.com/
 - icon: orcid
   icon_pack: fab
   link: http://orcid.org/0000-0003-1510-6820
 - icon: osf
   icon_pack: ai
   link: https://osf.io/n62dh/
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?hl=es&user=UknWOrEAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/bgonzalezbustamante
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.co.uk/citations?hl=es&user=UknWOrEAAAAJ
 - icon: researchgate
   icon_pack: fab
   link: https://www.researchgate.net/profile/Bastian_Gonzalez-Bustamante
@@ -85,7 +91,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: files/cv.pdf
+  link: files/CV-Gonzalez-Bustamante.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -100,4 +106,4 @@ I am a PRS in the DPhil in Politics programme in the [Department of Politics and
  
 Before starting the DPhil, I earned a BA (2:1) in Government and an MA (1st) in Political Science, both from the Universidad de Chile. Moreover, I worked as a lecturer at the Universidad de Santiago and the Universidad de Chile, as well as a consultant for the United Nations Development Programme.
  
-My doctoral research is supervised by [Professor Petra Schleiter](https://www.politics.ox.ac.uk/academic-faculty/petra-schleiter.html) at St Hilda’s College and focuses on the stability of cabinets in Latin American presidential democracies. My research is supported by the Chilean National Agency for Research and Development. Additionally, I am interested in the political elite’s socialisation, civil services, political participation, digital media, as well as electronic and open government.
+My doctoral research is supervised by [Professor Petra Schleiter](https://www.politics.ox.ac.uk/academic-faculty/petra-schleiter.html) at St Hilda’s College and focuses on the stability of cabinets in Latin American presidential democracies. My research is supported by the Chilean National Agency for Research and Development.

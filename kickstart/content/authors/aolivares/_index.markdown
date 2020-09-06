@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Alejandro Olivares L.
+title: Alejandro Olivares L.
 weight: 2
 shortname: Olivares, A.
 
@@ -12,7 +12,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Assistant Professor at UCT
+role: Associate Professor
 
 # Organizations/Affiliations
 organizations:
@@ -20,7 +20,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Assistant Professor in the Department of Sociology and Political Science at the Universidad Católica de Temuco.
+bio: Associate Professor in the Department of Sociology and Political Science at the Universidad Católica de Temuco, Chile.
 
 interests:
 - Cabinets Composition

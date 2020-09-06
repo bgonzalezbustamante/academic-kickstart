@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Carla Cisternas
+title: Carla Cisternas
 weight: 4
 shortname: Cisternas, C.
 
@@ -12,15 +12,15 @@ authors:
 superuser: false
 
 # Role/position
-role: MA Student at UCHILE
+role: MA Student in Political Science
 
 # Organizations/Affiliations
 organizations:
 - name: Universidad de Chile
-  url: ""
+  url: "http://www.inap.uchile.cl/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: MA Student in the Instittue for Public Affairs at the Universidad de Chile.
+bio: MA Student in Political Science the Instittue for Public Affairs at the Universidad de Chile. Research Assistant at the Universidad de Santiago de Chile.
 
 interests:
 - Legislative Politics
@@ -35,6 +35,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: mailto:carla.cisternas@usach.cl
+- icon: home
+  icon_pack: fas
+  link: https://carlacisternas.com/
 - icon: orcid
   icon_pack: fab
   link: http://orcid.org/0000-0001-7948-6194

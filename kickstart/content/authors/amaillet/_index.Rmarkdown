@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Antoine Maillet
+title: Antoine Maillet
 weight: 5
 shortname: Maillet, A.
 
@@ -12,12 +12,12 @@ authors:
 superuser: false
 
 # Role/position
-role: Assistant Professor at UCHILE
+role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
 - name: Universidad de Chile
-  url: ""
+  url: "http://www.inap.uchile.cl/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Assistant Professor in the Institute for Public Affairs at the Universidad de Chile. Adjunct Researcher at the Centre for Social Conflict and Cohesion Studies in Chile.
@@ -35,6 +35,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: mailto:antoinemaillet@iap.uchile.cl
+- icon: university
+  icon_pack: fas
+  link: http://www.inap.uchile.cl/instituto/cuerpo-academico/107622/antoine-maillet
 - icon: orcid
   icon_pack: fab
   link: http://orcid.org/0000-0002-4607-3964

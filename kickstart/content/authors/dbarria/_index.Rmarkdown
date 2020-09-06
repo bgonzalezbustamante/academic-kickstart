@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Diego Barría
+title: Diego Barría
 weight: 3
 shortname: Barría, D.
 
@@ -12,15 +12,15 @@ authors:
 superuser: false
 
 # Role/position
-role: Full Professor at UVALPO
+role: Full Professor
 
 # Organizations/Affiliations
 organizations:
 - name: Universidad de Valparaíso
-  url: ""
+  url: "https://www.uv.cl/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Full Professor in the School of Public Administration at the Universidad de Valparaíso.
+bio: Full Professor in the School of Public Administration at the Universidad de Valparaíso, Chile.
 
 interests:
 - Public Policies

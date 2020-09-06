@@ -1,6 +1,6 @@
 ---
 title: "Co-Author Network Mar. 2020"
-weight: 6
+weight: 8
 date: '2020-03-05'
 authors: ["bgonzalezbustamante"]
 ## categories: []

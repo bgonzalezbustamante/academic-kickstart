@@ -9,7 +9,7 @@ doi: ''
 ## publishDate: '2019-11-26'
 publication_types:
   - '0'
-publication: '*Bulletin of Latin American Research*. Early View. DOI: 10.17605/OSF.IO/WBF6M'
+publication: '*Bulletin of Latin American Research*. Early View'
 publication_short: ''
 abstract: 'This article presents a case study of the Chilean executive, focusing on the civil service in the period after the Pinochet dictatorship and the transition of the country to democracy. It provides synchronic and diachronic analysis of the organisation of the executive, public employment and the civil service. Both the qualitative description and statistical evidence reveal the establishment of a flexible regime of public employment with low levels of stability in senior public management positions.'
 summary: ''
@@ -35,18 +35,18 @@ links:
     ## icon_pack: ai
     ## name: Dataset
     ## url: ''
-  - icon: osf
-    icon_pack: ai
-    name: OSF-Project
-    url: 'http://doi.org/10.17605/OSF.IO/MWYC2'
-  - icon: arxiv
-    icon_pack: ai
-    name: Preprint Upon Request
-    url: 'mailto:bastian.gonzalezbustamante@politics.ox.ac.uk'
   - icon: doi
     icon_pack: ai
     name: DOI
     url: 'https://doi.org/10.1111/blar.13044'
+  - icon: arxiv
+    icon_pack: ai
+    name: Preprint Upon Request
+    url: 'mailto:bastian.gonzalezbustamante@politics.ox.ac.uk'
+  - icon: osf
+    icon_pack: ai
+    name: OSF-Project
+    url: 'http://doi.org/10.17605/OSF.IO/MWYC2'
   - icon: users
     icon_pack: fas
     name: CRediT

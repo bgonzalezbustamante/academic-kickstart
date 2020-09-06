@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Luis Garrido-Vergara
+title: Luis Garrido-Vergara
 weight: 10
 shortname: Garrido-Vergara, L.
 
@@ -12,15 +12,15 @@ authors:
 superuser: false
 
 # Role/position
-role: Assistant Professor at USACH
+role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
-- name: Universidad de Santiago de Chile
-  url: ""
+- name: Universidad de Santiago
+  url: "https://www.usach.cl/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Assistant Professor in the Department of Public Administration and Policy at the Universidad de Santiago de Chile.
+bio: Assistant Professor in the Department of Public Administration and Policy at the Universidad de Santiago de Chile. Adjunct Researcher at the Centre for Social Conflict and Cohesion Studies in Chile.
 
 interests:
 - Latin American Politics

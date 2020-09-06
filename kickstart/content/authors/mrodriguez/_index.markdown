@@ -1,7 +1,7 @@
 ---
 # Display name
-name: Matías Rodríguez
-weight: 19
+title: Matías Rodríguez
+weight: 16
 shortname: Rodríguez, M.
 
 # Username (this should match the folder name)
@@ -12,15 +12,15 @@ authors:
 superuser: false
 
 # Role/position
-role: 
+role: Research Assistant
 
 # Organizations/Affiliations
 organizations:
-- name:
-  url: ""
+- name: Universidad de Chile
+  url: "http://www.inap.uchile.cl/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: Research Assistant in the Institute for Public Affairs at the Universidad de Chile.
 
 interests:
 ## - 

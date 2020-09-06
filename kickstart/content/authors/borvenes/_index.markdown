@@ -1,7 +1,7 @@
 ---
 # Display name
-name: Berenice Orvenes
-weight: 12
+title: Berenice Orvenes
+weight: 27
 shortname: Orvenes, B.
 
 # Username (this should match the folder name)
@@ -12,12 +12,12 @@ authors:
 superuser: false
 
 # Role/position
-role: Research Assistant at USACH
+role: Research Assistant
 
 # Organizations/Affiliations
 organizations:
 - name: Universidad de Santiago
-  url: ""
+  url: "https://www.usach.cl/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Research Assistant in the Department of Public Administration and Policy at the Universidad de Santiago de Chile.

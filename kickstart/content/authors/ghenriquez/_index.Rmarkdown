@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Gabriel Henríquez
+title: Gabriel Henríquez
 weight: 7
 shortname: Henríquez, G.
 
@@ -12,15 +12,15 @@ authors:
 superuser: false
 
 # Role/position
-role: 
+role: MA Student
 
 # Organizations/Affiliations
 organizations:
-- name:
-  url: ""
+- name: LSE
+  url: "https://www.lse.ac.uk/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: MA Student at the London School of Economics and Political Science, United Kingdom.
 
 interests:
 ## - 

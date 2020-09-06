@@ -18,10 +18,9 @@ authors: ["bgonzalezbustamante"]
 
 **Peer Reviewer and Expert**
 
-* Varieties of Democracy Project, University of Gothenburg, Sweden 2014, 2018-2020.
+* Varieties of Democracy Project, University of Gothenburg, Sweden, 2014, 2018-2020.
+* Global Academic Reputation Survey, Clarivate Analytics, USA, 2020.
 * Sectoral Commission for Research, Universidad de la República, Uruguay 2016, 2018.
 * Times Higher Education World University Rankings, Elsevier, 2018-2019.
-* WoS & Scopus Journals (since 2013): 
-  + *Colombia Internacional*; *Comunicación y Sociedad*; *Cuadernos.info*; *Cultura*, *Hombre y Sociedad*; *ERLACS*; *Gestión y Política Pública*; *Historia*; *International Review of Administrative Sciences*; *Latin American Politics and Society*; *Latin American Research Review*; *Revista de Ciencia Política*; *Revista de Estudios Sociales*; *Revista de Gestión Pública*; *Revista de Sociologia e Política*; *RMCPyS*.
-* SciELO & Latindex Journals (since 2013): 
-  + *Cuadernos FHyCS-UNJu*; *DAAPGE*; *Desafíos*; *Estado, Gobierno y Gestión Pública*; *e-Ciencias de la Información*; *Perspectivas de la Comunicación*; *Polis, Revista Latinoamericana*; *Política, Revista de Ciencia Política*; *Revista Chilena de Derecho y Ciencia Política*; *Vía Iuris*.
+* Reviewer in WoS-ISI & Scopus journals (since 2013).
+* Reviewer in SciELO & Latindex journals (since 2013).

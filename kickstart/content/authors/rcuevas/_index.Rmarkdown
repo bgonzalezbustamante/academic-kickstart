@@ -1,7 +1,7 @@
 ---
 # Display name
-name: Rodrigo Cuevas
-weight: 20
+title: Rodrigo Cuevas
+weight: 25
 shortname: Cuevas, R.
 
 # Username (this should match the folder name)
@@ -12,15 +12,15 @@ authors:
 superuser: false
 
 # Role/position
-role: Lecturer at UVALPO
+role: Lecturer
 
 # Organizations/Affiliations
 organizations:
-- name: Universidad de Valparaíso
-  url: ""
+- name: Universidad de Chile
+  url: "http://www.inap.uchile.cl/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Lecturer in the School of International Business at the Universidad de Valparaíso.
+bio: Lecturer in the Institute for Public Affairs at the Universidad de Chile.
 
 interests:
 - International Politics

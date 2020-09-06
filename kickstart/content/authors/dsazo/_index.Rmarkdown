@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Diego Sazo
+title: Diego Sazo
 weight: 6
 shortname: Sazo, D.
 
@@ -12,15 +12,15 @@ authors:
 superuser: false
 
 # Role/position
-role: Student at LSE
+role: MPhil/PhD Student in Political Science
 
 # Organizations/Affiliations
 organizations:
 - name: LSE
-  url: ""
+  url: "https://www.lse.ac.uk/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Student at the London School of Economics and Political Science.
+bio: MPhil/PhD Student at the London School of Economics and Political Science, United Kingdom.
 
 interests:
 ## - 

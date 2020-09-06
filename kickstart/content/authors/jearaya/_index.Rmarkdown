@@ -1,7 +1,7 @@
 ---
 # Display name
-name: J. Eduardo Araya
-weight: 14
+title: J. Eduardo Araya
+weight: 12
 shortname: Araya, J. E.
 
 # Username (this should match the folder name)
@@ -12,15 +12,15 @@ authors:
 superuser: false
 
 # Role/position
-role: 
+role: Lecturer
 
 # Organizations/Affiliations
 organizations:
-- name:
-  url: ""
+- name: Universidad de Valparaíso
+  url: "https://www.uv.cl/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: Lecturer at the Universidad de Valparaíso, Chile.
 
 interests:
 ## - 

@@ -1,6 +1,6 @@
 ---
 title: "Impact Ranking Jun. 2020"
-weight: 1
+weight: 3
 date: '2020-06-03'
 authors: ["bgonzalezbustamante"]
 ## categories: []

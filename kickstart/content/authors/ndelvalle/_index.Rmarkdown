@@ -1,7 +1,7 @@
 ---
 # Display name
-name: Nicolás Del Valle
-weight: 13
+title: Nicolás Del Valle
+weight: 11
 shortname: Del Valle, N.
 
 # Username (this should match the folder name)
@@ -12,15 +12,15 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Student at Leiden
+role: PhD Candidate in Philosophy
 
 # Organizations/Affiliations
 organizations:
 - name: Leiden University
-  url: ""
+  url: "https://www.universiteitleiden.nl/en"
 
 # Short bio (displayed in user profile at end of posts)
-bio: PhD candidate at the Institute for Philosophy at Leiden University.
+bio: PhD Candidate in Philosophy at Leiden University, Netherlands.
 
 interests:
 ## - 
