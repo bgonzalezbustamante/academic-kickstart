@@ -1,0 +1,720 @@
+---
+title: "Chilean Universities Ranking Sep. 2020"
+weight: 2
+date: '2020-09-05'
+authors: ["bgonzalezbustamante"]
+## categories: []
+## tags: []
+summary: 'Elaborated on September 5, 2020'
+---
+
+<script src="/~shil5311/rmarkdown-libs/kePrint/kePrint.js"></script>
+
+
+<div id="precoding" class="section level3">
+<h3>Precoding</h3>
+<pre class="r"><code>## Packages
+library(kableExtra)
+library(tidyverse)
+
+## Data
+data &lt;- read.csv(&quot;https://osf.io/mv9z8/download&quot;, fileEncoding = &quot;UTF-8&quot;)
+
+## Institutions Codification
+usach &lt;- subset(data, Affiliation == &quot;USACH&quot; | Affiliation == &quot;OXF-USACH&quot;) 
+puc &lt;- subset(data, Affiliation == &quot;PUC&quot; | Affiliation == &quot;PUC-VDEM&quot;) 
+ua &lt;- subset(data, Affiliation == &quot;UA&quot;) 
+uach &lt;-subset(data, Affiliation == &quot;UACH&quot;)
+uah &lt;- subset(data, Affiliation == &quot;UAH&quot; | Affiliation == &quot;UCHILE-UAH&quot;) 
+uai &lt;- subset(data, Affiliation == &quot;UAI&quot;) 
+uchile &lt;- subset(data, Affiliation == &quot;UCHILE&quot; | Affiliation == &quot;UCHILE-UAH&quot;) 
+uct &lt;- subset(data, Affiliation == &quot;UCT&quot;)
+udd &lt;- subset(data, Affiliation == &quot;UDD&quot;)
+udec &lt;- subset(data, Affiliation == &quot;UDEC&quot;)
+udp &lt;- subset(data, Affiliation == &quot;UDP&quot; | Affiliation == &quot;UDP-COES&quot; |
+                Affiliation == &quot;UDP-NYU&quot; | Affiliation == &quot;UDP-Leiden&quot;) 
+ulagos &lt;- subset(data, Affiliation == &quot;ULAGOS&quot;) 
+umayor &lt;- subset(data, Affiliation == &quot;UMAYOR&quot;) 
+unab &lt;- subset(data, Affiliation == &quot;UNAB&quot;) 
+utalca &lt;- subset(data, Affiliation == &quot;UTALCA&quot;) 
+utem &lt;- subset(data, Affiliation == &quot;UTEM&quot;) 
+uvalpo &lt;- subset(data, Affiliation == &quot;UVALPO&quot;) 
+
+## Dataframe Construction
+Name &lt;- c(&quot;USACH&quot;, &quot;PUC&quot;, &quot;UA&quot;, &quot;UACH&quot;, &quot;UAI&quot;, &quot;UCHILE&quot;, &quot;UCT&quot;, &quot;UDD&quot;, 
+          &quot;UDEC&quot;, &quot;UDP&quot;, &quot;ULAGOS&quot;, &quot;UMAYOR&quot;, &quot;UNAB&quot;, &quot;UTALCA&quot;, &quot;UTEM&quot;, 
+          &quot;UVALPO&quot;)
+Cases &lt;- c(nrow(usach), nrow(puc), nrow(ua), nrow(uach), nrow(uai), 
+           nrow(uchile), nrow(uct), nrow(udd), nrow(udec), nrow(udp), 
+           nrow(ulagos), nrow(umayor), nrow(unab), nrow(utalca), nrow(utem), 
+           nrow(uvalpo))
+Avg_Cites &lt;- c(mean(usach$Cites), mean(puc$Cites), mean(ua$Cites), mean(uach$Cites),
+               mean(uai$Cites), mean(uchile$Cites), mean(uct$Cites), mean(udd$Cites),
+               mean(udec$Cites), mean(udp$Cites), mean(ulagos$Cites), mean(umayor$Cites),
+               mean(unab$Cites), mean(utalca$Cites), mean(utem$Cites),mean(uvalpo$Cites))
+Cum_Cites &lt;- c(sum(usach$Cites), sum(puc$Cites), sum(ua$Cites), sum(uach$Cites),
+               sum(uai$Cites), sum(uchile$Cites), sum(uct$Cites), sum(udd$Cites),
+               sum(udec$Cites), sum(udp$Cites), sum(ulagos$Cites), sum(umayor$Cites),
+               sum(unab$Cites), sum(utalca$Cites), sum(utem$Cites), sum(uvalpo$Cites))
+Avg_H_Index &lt;- c(mean(usach$H_Index), mean(puc$H_Index), mean(ua$H_Index), 
+                 mean(uach$H_Index), mean(uai$H_Index), mean(uchile$H_Index), 
+                 mean(uct$H_Index), mean(udd$H_Index), mean(udec$H_Index), 
+                 mean(udp$H_Index), mean(ulagos$H_Index), mean(umayor$H_Index), 
+                 mean(unab$H_Index), mean(utalca$H_Index), mean(utem$H_Index), 
+                 mean(uvalpo$H_Index))
+Cum_H_Index &lt;- c(sum(usach$H_Index), sum(puc$H_Index), sum(ua$H_Index), 
+                 sum(uach$H_Index), sum(uai$H_Index), sum(uchile$H_Index), sum(uct$H_Index), 
+                 sum(udd$H_Index), sum(udec$H_Index), sum(udp$H_Index), sum(ulagos$H_Index), 
+                 sum(umayor$H_Index), sum(unab$H_Index), sum(utalca$H_Index), 
+                 sum(utem$H_Index), sum(uvalpo$H_Index))
+Inv_Avg_Index &lt;- Avg_H_Index*-1
+Inv_Cum_Index &lt;- Cum_H_Index*-1</code></pre>
+</div>
+<div id="cumulative-ranking" class="section level3">
+<h3>Cumulative Ranking</h3>
+<pre class="r"><code>Inst_Cum &lt;- data.frame(Name, Cases, Cum_Cites, Cum_H_Index, Inv_Cum_Index)
+Inst_Cum[is.na(Inst_Cum)] &lt;- 0
+Inst_Cum &lt;- within(Inst_Cum, Quartile &lt;- as.integer(cut(Inv_Cum_Index, 
+                                                        quantile(Inv_Cum_Index, 
+                                                                 probs = 0:4/4), 
+                                                        include.lowest = TRUE)))
+Inst_Cum$Inv_Cum_Index &lt;- NULL
+Inst_Cum &lt;- Inst_Cum[order(-Inst_Cum$Cum_H_Index, -Inst_Cum$Cum_Cites), ]
+Inst_Cum$Cum_Cites &lt;- format(Inst_Cum$Cum_Cites, big.mark = &quot;,&quot;)
+rownames(Inst_Cum) &lt;- NULL</code></pre>
+<table>
+<thead>
+<tr>
+<th style="text-align:left;">
+Name
+</th>
+<th style="text-align:right;">
+Cases
+</th>
+<th style="text-align:left;">
+Cum_Cites
+</th>
+<th style="text-align:right;">
+Cum_H_Index
+</th>
+<th style="text-align:right;">
+Quartile
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+PUC
+</td>
+<td style="text-align:right;">
+26
+</td>
+<td style="text-align:left;">
+16,505
+</td>
+<td style="text-align:right;">
+235
+</td>
+<td style="text-align:right;">
+1
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+UCHILE
+</td>
+<td style="text-align:right;">
+21
+</td>
+<td style="text-align:left;">
+11,098
+</td>
+<td style="text-align:right;">
+208
+</td>
+<td style="text-align:right;">
+1
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+UDP
+</td>
+<td style="text-align:right;">
+17
+</td>
+<td style="text-align:left;">
+15,996
+</td>
+<td style="text-align:right;">
+184
+</td>
+<td style="text-align:right;">
+1
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+USACH
+</td>
+<td style="text-align:right;">
+13
+</td>
+<td style="text-align:left;">
+7,771
+</td>
+<td style="text-align:right;">
+112
+</td>
+<td style="text-align:right;">
+1
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+UDD
+</td>
+<td style="text-align:right;">
+7
+</td>
+<td style="text-align:left;">
+1,389
+</td>
+<td style="text-align:right;">
+43
+</td>
+<td style="text-align:right;">
+2
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+UDEC
+</td>
+<td style="text-align:right;">
+9
+</td>
+<td style="text-align:left;">
+1,441
+</td>
+<td style="text-align:right;">
+41
+</td>
+<td style="text-align:right;">
+2
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+UAI
+</td>
+<td style="text-align:right;">
+8
+</td>
+<td style="text-align:left;">
+1,579
+</td>
+<td style="text-align:right;">
+39
+</td>
+<td style="text-align:right;">
+2
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+UACH
+</td>
+<td style="text-align:right;">
+2
+</td>
+<td style="text-align:left;">
+1,601
+</td>
+<td style="text-align:right;">
+32
+</td>
+<td style="text-align:right;">
+2
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+UCT
+</td>
+<td style="text-align:right;">
+6
+</td>
+<td style="text-align:left;">
+419
+</td>
+<td style="text-align:right;">
+25
+</td>
+<td style="text-align:right;">
+3
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+UTALCA
+</td>
+<td style="text-align:right;">
+1
+</td>
+<td style="text-align:left;">
+1,083
+</td>
+<td style="text-align:right;">
+18
+</td>
+<td style="text-align:right;">
+3
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+UVALPO
+</td>
+<td style="text-align:right;">
+1
+</td>
+<td style="text-align:left;">
+1,016
+</td>
+<td style="text-align:right;">
+14
+</td>
+<td style="text-align:right;">
+3
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+UA
+</td>
+<td style="text-align:right;">
+3
+</td>
+<td style="text-align:left;">
+131
+</td>
+<td style="text-align:right;">
+8
+</td>
+<td style="text-align:right;">
+3
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+UNAB
+</td>
+<td style="text-align:right;">
+1
+</td>
+<td style="text-align:left;">
+286
+</td>
+<td style="text-align:right;">
+7
+</td>
+<td style="text-align:right;">
+4
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+ULAGOS
+</td>
+<td style="text-align:right;">
+2
+</td>
+<td style="text-align:left;">
+182
+</td>
+<td style="text-align:right;">
+7
+</td>
+<td style="text-align:right;">
+4
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+UMAYOR
+</td>
+<td style="text-align:right;">
+2
+</td>
+<td style="text-align:left;">
+73
+</td>
+<td style="text-align:right;">
+5
+</td>
+<td style="text-align:right;">
+4
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+UTEM
+</td>
+<td style="text-align:right;">
+1
+</td>
+<td style="text-align:left;">
+78
+</td>
+<td style="text-align:right;">
+4
+</td>
+<td style="text-align:right;">
+4
+</td>
+</tr>
+</tbody>
+<tfoot>
+<tr>
+<td style="padding: 0; border: 0;" colspan="100%">
+<span style="font-style: italic;">Note: </span>
+</td>
+</tr>
+<tr>
+<td style="padding: 0; border: 0;" colspan="100%">
+<sup></sup> Compiled using data from the <a href="/~shil5311/ranking/series/2020-09-05-impact-ranking/">CPS-Ranking</a>. Data collected on September 5, 2020.
+</td>
+</tr>
+</tfoot>
+</table>
+</div>
+<div id="average-ranking" class="section level3">
+<h3>Average Ranking</h3>
+<pre class="r"><code>Inst_Avg &lt;- data.frame(Name, Cases, Avg_Cites, Avg_H_Index, Inv_Avg_Index)
+Inst_Avg[is.na(Inst_Avg)] &lt;- 0
+Inst_Avg &lt;- within(Inst_Avg, Quartile &lt;- as.integer(cut(Inv_Avg_Index, 
+                                                        quantile(Inv_Avg_Index, 
+                                                                 probs = 0:4/4), 
+                                                        include.lowest = TRUE)))
+Inst_Avg$Inv_Avg_Index &lt;- NULL
+Inst_Avg &lt;- Inst_Avg[order(-Inst_Avg$Avg_H_Index, -Inst_Avg$Avg_Cites), ]
+rownames(Inst_Avg) &lt;- NULL
+Avg_Cites &lt;- format(round(Inst_Avg$Avg_Cites, 2), nsmall = 2, big.mark = &quot;,&quot;)
+Avg_H_Index &lt;- format(round(Inst_Avg$Avg_H_Index, 2), nsmall = 2, big.mark = &quot;,&quot;)
+Quartile &lt;- Inst_Avg$Quartile
+Inst_Avg &lt;- select(Inst_Avg, Name, Cases)
+Inst_Avg &lt;- data.frame(Inst_Avg, Avg_Cites, Avg_H_Index, Quartile)</code></pre>
+<table>
+<thead>
+<tr>
+<th style="text-align:left;">
+Name
+</th>
+<th style="text-align:right;">
+Cases
+</th>
+<th style="text-align:left;">
+Avg_Cites
+</th>
+<th style="text-align:left;">
+Avg_H_Index
+</th>
+<th style="text-align:right;">
+Quartile
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+UTALCA
+</td>
+<td style="text-align:right;">
+1
+</td>
+<td style="text-align:left;">
+1,083.00
+</td>
+<td style="text-align:left;">
+18.00
+</td>
+<td style="text-align:right;">
+1
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+UACH
+</td>
+<td style="text-align:right;">
+2
+</td>
+<td style="text-align:left;">
+800.50
+</td>
+<td style="text-align:left;">
+16.00
+</td>
+<td style="text-align:right;">
+1
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+UVALPO
+</td>
+<td style="text-align:right;">
+1
+</td>
+<td style="text-align:left;">
+1,016.00
+</td>
+<td style="text-align:left;">
+14.00
+</td>
+<td style="text-align:right;">
+1
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+UDP
+</td>
+<td style="text-align:right;">
+17
+</td>
+<td style="text-align:left;">
+940.94
+</td>
+<td style="text-align:left;">
+10.82
+</td>
+<td style="text-align:right;">
+1
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+UCHILE
+</td>
+<td style="text-align:right;">
+21
+</td>
+<td style="text-align:left;">
+528.48
+</td>
+<td style="text-align:left;">
+9.90
+</td>
+<td style="text-align:right;">
+2
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+PUC
+</td>
+<td style="text-align:right;">
+26
+</td>
+<td style="text-align:left;">
+634.81
+</td>
+<td style="text-align:left;">
+9.04
+</td>
+<td style="text-align:right;">
+2
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+USACH
+</td>
+<td style="text-align:right;">
+13
+</td>
+<td style="text-align:left;">
+597.77
+</td>
+<td style="text-align:left;">
+8.62
+</td>
+<td style="text-align:right;">
+2
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+UNAB
+</td>
+<td style="text-align:right;">
+1
+</td>
+<td style="text-align:left;">
+286.00
+</td>
+<td style="text-align:left;">
+7.00
+</td>
+<td style="text-align:right;">
+2
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+UDD
+</td>
+<td style="text-align:right;">
+7
+</td>
+<td style="text-align:left;">
+198.43
+</td>
+<td style="text-align:left;">
+6.14
+</td>
+<td style="text-align:right;">
+3
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+UAI
+</td>
+<td style="text-align:right;">
+8
+</td>
+<td style="text-align:left;">
+197.38
+</td>
+<td style="text-align:left;">
+4.88
+</td>
+<td style="text-align:right;">
+3
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+UDEC
+</td>
+<td style="text-align:right;">
+9
+</td>
+<td style="text-align:left;">
+160.11
+</td>
+<td style="text-align:left;">
+4.56
+</td>
+<td style="text-align:right;">
+3
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+UCT
+</td>
+<td style="text-align:right;">
+6
+</td>
+<td style="text-align:left;">
+69.83
+</td>
+<td style="text-align:left;">
+4.17
+</td>
+<td style="text-align:right;">
+3
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+UTEM
+</td>
+<td style="text-align:right;">
+1
+</td>
+<td style="text-align:left;">
+78.00
+</td>
+<td style="text-align:left;">
+4.00
+</td>
+<td style="text-align:right;">
+4
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+ULAGOS
+</td>
+<td style="text-align:right;">
+2
+</td>
+<td style="text-align:left;">
+91.00
+</td>
+<td style="text-align:left;">
+3.50
+</td>
+<td style="text-align:right;">
+4
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+UA
+</td>
+<td style="text-align:right;">
+3
+</td>
+<td style="text-align:left;">
+43.67
+</td>
+<td style="text-align:left;">
+2.67
+</td>
+<td style="text-align:right;">
+4
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+UMAYOR
+</td>
+<td style="text-align:right;">
+2
+</td>
+<td style="text-align:left;">
+36.50
+</td>
+<td style="text-align:left;">
+2.50
+</td>
+<td style="text-align:right;">
+4
+</td>
+</tr>
+</tbody>
+<tfoot>
+<tr>
+<td style="padding: 0; border: 0;" colspan="100%">
+<span style="font-style: italic;">Note: </span>
+</td>
+</tr>
+<tr>
+<td style="padding: 0; border: 0;" colspan="100%">
+<sup></sup> Compiled using data from the <a href="/~shil5311/ranking/series/2020-09-05-impact-ranking/">CPS-Ranking</a>. Data collected on September 5, 2020.
+</td>
+</tr>
+</tfoot>
+</table>
+<p><br />
+</p>
+<p><strong>How to download and cite this dataset?</strong></p>
+<p>González-Bustamante, B. (2020). <em>Chilean Political Science Impact Ranking Dataset</em> [Data collected on September 5, 2020]. DOI: <a href="http://doi.org/10.17605/OSF.IO/M3NZD">10.17605/OSF.IO/M3NZD</a></p>
+</div>
