@@ -18,5 +18,5 @@ autolink = true
 email_form = 0
 
 [design.spacing]
-  padding = ["50px", "0", "50px", "0"]
+  padding = ["50px", "0", "0", "0"]
 +++
