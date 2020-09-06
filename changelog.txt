@@ -7,15 +7,15 @@ All notable changes to "Bastián González-Bustamante website" will be documente
 ### Added
 - Updated CPS-Ranking.
 ### Changed
+- Update to the Academic for Hugo v.4.8.0 (academic-master).
 - Update of badges in CPS-Ranking.
 
 ## [Released]
 
 ## [2.10.7] 2020-09-05
 ### Added
-- Updated CPS-Ranking (WIP).
+- Updated CPS-Ranking.
 ### Changed
-- Update to the Academic for Hugo v.4.8.0.
 - Profile and interests.
 - Update of social icons.
 - Update of collaborators' profiles.
@@ -24,7 +24,7 @@ All notable changes to "Bastián González-Bustamante website" will be documente
 - Update of awards.
 - Update of publications.
 - Update of book publishers.
-- Update of badges in CPS-Ranking (WIP).
+- Update of badges in CPS-Ranking.
 ### Removed
 - Projects section.
 
