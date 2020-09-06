@@ -146,13 +146,13 @@
   translation: Location
 
 - id: pub_wos
-  translation: WoS/SSCI article
+  translation: WoS-ISI/SSCI article
 
 - id: pub_scopus
   translation: Scopus article
 
 - id: pub_esci
-  translation: ESCI article
+  translation: WoS-ISI/ESCI article
 
 - id: pub_book
   translation: Book
