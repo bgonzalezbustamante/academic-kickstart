@@ -1,5 +1,5 @@
 # academic-kickstart
-**Bastián González-Bustamante website code** \
+**Bastián González-Bustamante Oxford Website Code** \
 **http://users.ox.ac.uk/~shil5311/**
 
 [![Version](https://img.shields.io/badge/version-v2.10.7-blue.svg)](https://github.com/bgonzalezbustamante/academic-hugo/blob/master/changelog.txt) [![Update](https://img.shields.io/badge/latest%20release-September%202020-orange.svg)](http://users.ox.ac.uk/~shil5311/) [![GitHub issues](https://img.shields.io/github/issues/bgonzalezbustamante/academic-kickstart.svg)](https://github.com/bgonzalezbustamante/academic-kickstart/issues/) [![GitHub issues-closed](https://img.shields.io/github/issues-closed/bgonzalezbustamante/academic-kickstart.svg)](https://github.com/bgonzalezbustamante/academic-kickstart/issues?q=is%3Aissue+is%3Aclosed) [![ORCID](https://img.shields.io/badge/ORCID%20iD-0000--0003--1510--6820-brightgreen.svg)](http://orcid.org/0000-0003-1510-6820) [![License](https://img.shields.io/badge/license-CC--BY--4.0-black)](https://github.com/bgonzalezbustamante/academic-kickstart/blob/master/LICENSE.txt) [![R](https://img.shields.io/badge/made%20with-R%20v3.6.1-1f425f.svg)](https://cran.r-project.org/) [![Status](https://img.shields.io/website-up-down-green-red/http/users.ox.ac.uk/~shil5311.svg)](http://users.ox.ac.uk/~shil5311/)
