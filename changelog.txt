@@ -3,7 +3,7 @@ All notable changes to "Bastián González-Bustamante Oxford Website" will be do
 
 ## [Unreleased]
 
-## [2.11.8] - 2020-12-05
+## [2.12.8] - 2021-03-05
 ### Added
 - Updated CPS-Ranking.
 ### Changed
@@ -11,6 +11,13 @@ All notable changes to "Bastián González-Bustamante Oxford Website" will be do
 - Update of badges in CPS-Ranking.
 
 ## [Released]
+
+## [2.11.8] - 2020-12-16
+### Added
+- Updated CPS-Ranking.
+### Changed
+- Update of badges in CPS-Ranking.
+- Update of publications.
 
 ## [2.10.8] 2020-09-11
 ### Changed
