@@ -3,21 +3,34 @@ All notable changes to "Bastián González-Bustamante Oxford Website" will be do
 
 ## [Unreleased]
 
-## [2.12.8] - 2021-03-05
+## [3.0.0] - TBC
+### Added
+- Landing page on ox.ac.uk domain.
+### Changed
+- Website from ox.ac.uk to bgonzalezbustamante.com.
+
+## [2.12.9] - 2021-03-05
 ### Added
 - Updated CPS-Ranking.
 ### Changed
-- Update to the Academic for Hugo v.4.8.0 (academic-master).
 - Update of badges in CPS-Ranking.
 
-## [Released]
+## [2.11.9] - 2020-12-17 (WIP)
+### Changed
+- Update to the Academic for Hugo v.4.8.0 on R v.3.6.1 and Hugo v.0.74.3.
+- Downgrading blogdown::install_hugo(version = "0.74.3", force = TRUE)
+- Minor corrections.
 
 ## [2.11.8] - 2020-12-16
 ### Added
 - Updated CPS-Ranking.
 ### Changed
 - Update of badges in CPS-Ranking.
+- Profile and interests.
 - Update of publications.
+- Update of relevant experience.
+
+## [Released]
 
 ## [2.10.8] 2020-09-11
 ### Changed
@@ -127,7 +140,7 @@ All notable changes to "Bastián González-Bustamante Oxford Website" will be do
 ### Added
 - Integration between personal website and CPS-Ranking.
 ### Changed
-- Update to the Academic for Hugo v.4.7.0.
+- Update to the Academic for Hugo v.4.7.0 on R v.3.6.1 and Hugo v.0.74.3.
 - Update of projects section.
 - Htaccess file.
 ### Removed
