@@ -18,7 +18,7 @@ All notable changes to "Bastián González-Bustamante Oxford Website" will be do
 
 ## [2.11.9] - 2020-12-17 (WIP)
 ### Changed
-- Update to the Academic for Hugo v.4.8.0 on R v.3.6.1 and Hugo v.0.74.3.
+- Update to the Academic for Hugo v4.8.0 on R v3.6.1 and Hugo v0.74.3.
 - Downgrading blogdown::install_hugo(version = "0.74.3", force = TRUE).
 - Minor corrections.
 
@@ -141,7 +141,7 @@ All notable changes to "Bastián González-Bustamante Oxford Website" will be do
 ### Added
 - Integration between personal website and CPS-Ranking.
 ### Changed
-- Update to the Academic for Hugo v.4.7.0 on R ~v.3.6.1 and Hugo ~v.0.74.3.
+- Update to the Academic for Hugo v4.7.0 on R ~v3.6.1 and Hugo ~v0.74.3.
 - Update of projects section.
 - Htaccess file.
 ### Removed
@@ -153,7 +153,7 @@ All notable changes to "Bastián González-Bustamante Oxford Website" will be do
 - Collaborators section.
 - CV in PDF.
 ### Changed
-- Update to the Academic for Hugo v.4.6.3.
+- Update to the Academic for Hugo v4.6.3.
 
 ## [2.1.0] - 2020-01-02
 ### Added
@@ -178,7 +178,7 @@ All notable changes to "Bastián González-Bustamante Oxford Website" will be do
 
 ## [1.1.0] - 2019-12-12
 ### Added
-- Model of website based on the Academic for Hugo v.4.6.0.
+- Model of website based on the Academic for Hugo v4.6.0.
 ### Deprecated
 - HTML website.
 
