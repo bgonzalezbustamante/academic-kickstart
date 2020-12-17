@@ -20,6 +20,7 @@ All notable changes to "Bastián González-Bustamante Oxford Website" will be do
 ### Changed
 - Update to the Academic for Hugo v4.8.0 on R v3.6.1 and Hugo v0.74.3.
 - Downgrading blogdown::install_hugo(version = "0.74.3", force = TRUE).
+- Update of collaborators' profiles.
 - Minor corrections.
 
 ## [2.11.8] - 2020-12-16
