@@ -23,23 +23,22 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Instructor
-    company: Universidad de Santiag
+    company: Universidad de Santiag0
     company_url: 'https://fae.usach.cl/'
     location: Santiago
     date_start: '2014-08-14'
     date_end: ''
     description: |2-
-        Responsibilities include:
+        Currently, I am on a leave of absence. Prior to being appointed as an Instructor, I worked as an Adjunct Professor between 2014 and 2018.
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * [Teaching >](teaching)
+        * [Academic Service >](service)
         
-  - title: Professor
-    company: University X
-    company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+  - title: Lecturer
+    company: Universidad de Chile
+    company_url: 'http://www.inap.uchile.cl/'
+    location: Santiago
+    date_start: '2013-09-01'
+    date_end: '2016-07-30'
+    description: ''
 ---
