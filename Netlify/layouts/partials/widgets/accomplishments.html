@@ -2,11 +2,7 @@
 {{ $page := .page }}
 
 <!-- Accomplishments widget -->
-<div class="row">
-  <div class="col-12 col-lg-4 section-heading">
-    <h1>{{ with $page.Title }}{{ . | markdownify }}{{ end }}</h1>
-    {{ with $page.Params.subtitle }}<p>{{ . | markdownify }}</p>{{ end }}
-  </div>
+
   <div class="col-12 col-lg-8">
     {{ with $page.Content }}{{ . }}{{ end }}
 
@@ -46,7 +42,7 @@
     {{end}}
 
     <div class="see-all">
-      <a href="/~shil5311/awards/">
+      <a href="/awards/">
         See all honours and awards
         <i class="fas fa-angle-right"></i>
       </a>
