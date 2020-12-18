@@ -5,7 +5,6 @@ widget: contact
 
 # This file represents a page section.
 headless: true
-active: false
 
 # Order that this section appears on the page.
 weight: 130
@@ -18,6 +17,7 @@ content:
   autolink: true
   
   # Email form provider
+email_form = 0
   form:
     provider: netlify
     formspree:
