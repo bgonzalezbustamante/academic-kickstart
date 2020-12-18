@@ -1,0 +1,23 @@
+---
+title: "Bastián González-Bustamante"
+image: "img/bgonzalezbustamante.jpg"
+links:
+  - label: Web Page
+    url: "https://bgonzalezbustamante.com/"
+  - label: ORCID iD
+    url: "http://orcid.org/0000-0003-1510-6820"
+  - label: GitHub
+    url: "https://github.com/bgonzalezbustamante"
+  - label: Email
+    url: "bastian.gonzalezbustamante@politics.ox.ac.uk"
+output:
+  postcards::trestles
+---
+
+I am a PRS in the DPhil (PhD) in Politics programme in the [Department of Politics and International Relations](https://www.politics.ox.ac.uk/) and [St Hilda’s College](https://www.sthildas.ox.ac.uk/) at the [University of Oxford](http://www.ox.ac.uk/), United Kingdom. Furthermore, I am an Instructor in the Department of Public Administration and Policy at the [Faculty of Economics and Management](https://fae.usach.cl/) at the Universidad de Santiago, where I have been working since 2014. 
+ 
+Before starting the DPhil, I earned a BA (2:1) in Government and an MA (1st) in Political Science, both from the Universidad de Chile. Moreover, I worked as a lecturer at the Universidad de Santiago and the Universidad de Chile, as well as a consultant for the United Nations Development Programme.
+ 
+My doctoral research is supervised by [Professor Petra Schleiter](https://www.politics.ox.ac.uk/academic-faculty/petra-schleiter.html) at St Hilda’s College and focuses on the stability of cabinets in Latin American presidential democracies. My research is supported by the Chilean National Agency for Research and Development.
+
+For further information on my publications and experience see my website [bgonzalezbustamante.com](https://bgonzalezbustamante.com/)
