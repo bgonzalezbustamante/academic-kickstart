@@ -5,7 +5,7 @@ All notable changes to "Bastián González-Bustamante Oxford Website" will be do
 
 ## [3.1.1] - TBC
 ## Changed
-- CPS-Ranking from ox.ac.uk to an own domain.
+- CPS-Ranking from bgonzalezbustamante.com to an own domain.
 
 ## [3.1.0] - 2021-03-05
 ### Added
