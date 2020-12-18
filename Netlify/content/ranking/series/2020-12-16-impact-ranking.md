@@ -1,7 +1,7 @@
 ---
 title: "Impact Ranking Dec. 2020"
 weight: 1
-date: "December 16, 2020"
+date: "2020-12-16"
 authors: ["bgonzalezbustamante"]
 ## categories: []
 ## tags: []
