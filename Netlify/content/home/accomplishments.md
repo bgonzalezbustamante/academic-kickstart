@@ -11,7 +11,7 @@ weight: 50
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
 title: "Honours and Awards"
-subtitle: "[All Honours and Awards >](awards)"
+## subtitle: "[All Honours and Awards >](awards)"
 
 # Date format
 #   Refer to https://wowchemy.com/docs/customization/#date-format
