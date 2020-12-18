@@ -1,0 +1,8 @@
+<meta name="description" content="Bastián González-Bustamante, PRS DPhil in Politics in the Department of Politics and International Relations and St Hilda&#39;s College at the University of Oxford, United Kingdom. Instructor in the Department of Public Administration and Policy at the Faculty of Economics and Management at the Universidad de Santiago de Chile.">
+
+<link rel="icon" type="image/png" href="img/favicon.png">
+
+  <meta property="og:site_name" content="Bastián González-Bustamante">
+  <meta property="og:title" content="Bastián González-Bustamante">
+  <meta property="og:description" content="Bastián González-Bustamante, PRS DPhil (PhD) in Politics in the Department of Politics and International Relations and St Hilda&#39;s College at the University of Oxford, United Kingdom. Instructor in the Department of Public Administration and Policy at the Faculty of Economics and Management at the Universidad de Santiago de Chile."><meta property="og:image" content="img/oxford-logo.png">
+  <meta property="twitter:image" content="img/oxford-logo.png"><meta property="og:locale" content="en-us">
