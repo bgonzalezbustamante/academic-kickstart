@@ -31,6 +31,6 @@ design:
     padding:
       - 50px
       - '0'
-      - 50px
+      - 25px
       - '0'
 ---
