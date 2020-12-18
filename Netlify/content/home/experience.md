@@ -10,7 +10,7 @@ headless: true
 weight: 40
 
 title: Relevant Experience
-subtitle:
+## subtitle:
 
 # Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format
@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Instructor
-    company: Universidad de Santiag0
+    company: Universidad de Santiago
     company_url: 'https://fae.usach.cl/'
     location: Santiago
     date_start: '2014-08-14'
@@ -41,4 +41,12 @@ experience:
     date_start: '2013-09-01'
     date_end: '2016-07-30'
     description: ''
+
+design:
+  spacing:
+    padding:
+      - 50px
+      - '0'
+      - 50px
+      - '0'
 ---
