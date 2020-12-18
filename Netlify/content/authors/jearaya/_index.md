@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Eduardo Araya
+title: J. Eduardo Araya
 weight: 11
 shortname: Araya, J. E.
 
