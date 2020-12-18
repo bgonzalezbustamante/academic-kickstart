@@ -35,13 +35,4 @@ design:
   #   3 = Card
   #   4 = Citation (publication only)
   view: 4
-
-
-design:
-  spacing:
-    padding:
-      - 50px
-      - '0'
-      - 50px
-      - '0'
 ---
