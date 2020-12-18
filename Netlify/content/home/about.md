@@ -20,6 +20,6 @@ weight: 20
 author: bgonzalezbustamante
 
 [design.spacing]
-  padding = ["50px", "0", "50px", "0"]
+  padding: ["50px", "0", "50px", "0"]
 +++
 ---
