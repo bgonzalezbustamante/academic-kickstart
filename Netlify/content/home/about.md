@@ -18,4 +18,8 @@ weight: 20
 # This should be the username (folder name) of a profile in your `content/authors/` folder.
 # See https://wowchemy.com/docs/get-started/#introduce-yourself
 author: bgonzalezbustamante
+
+[design.spacing]
+  padding = ["50px", "0", "50px", "0"]
++++
 ---
