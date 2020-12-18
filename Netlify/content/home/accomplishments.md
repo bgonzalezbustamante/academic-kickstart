@@ -48,4 +48,7 @@ item:
   organization_url: https://www.datacamp.com
   title: 'Object-Oriented Programming in R: S3 and R6 Course'
   url: ""
+
+design.spacing:
+- padding: ["50px", "0", "50px", "0"]
 ---
