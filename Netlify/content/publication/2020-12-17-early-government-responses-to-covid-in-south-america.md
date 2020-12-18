@@ -1,6 +1,6 @@
 ---
 title: 'Early Government Responses to COVID-19 in South America'
-date: '2021-01-01'
+date: '2020-12-17'
 slug: early-government-responses-to-covid-in-south-america
 ## categories: []
 ## tags: []
