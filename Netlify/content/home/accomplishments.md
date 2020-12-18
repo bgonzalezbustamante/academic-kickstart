@@ -49,9 +49,11 @@ item:
   title: 'Object-Oriented Programming in R: S3 and R6 Course'
   url: ""
 
-design.spacing:
-- padding: 50px 0 50px 0
-
-design.spacing:
-- padding: ["50px", "0", "50px", "0"]
+design:
+  spacing:
+    padding:
+      - 50px
+      - '0'
+      - 50px
+      - '0'
 ---
