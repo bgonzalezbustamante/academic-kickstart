@@ -19,7 +19,7 @@ weight: 20
 # See https://wowchemy.com/docs/get-started/#introduce-yourself
 author: bgonzalezbustamante
 
-.home-section {
+design.spacing {
   padding: 50px 0 50px 0;
   }
 ---
