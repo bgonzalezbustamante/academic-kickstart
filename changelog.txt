@@ -3,20 +3,34 @@ All notable changes to "Bastián González-Bustamante Oxford Website" will be do
 
 ## [Unreleased]
 
-## [3.0.0] - TBC
-### Added
-- Landing page on ox.ac.uk domain.
-### Changed
-- Website from ox.ac.uk to bgonzalezbustamante.com.
-- CPS-Ranking from ox.ac.uk to own domain.
+## [3.1.1] - TBC
+## Changed
+- CPS-Ranking from ox.ac.uk to an own domain.
 
-## [2.12.9] - 2021-03-05
+## [3.1.0] - 2021-03-05
 ### Added
 - Updated CPS-Ranking.
 ### Changed
 - Update of badges in CPS-Ranking.
 
-## [2.11.9] - 2020-12-17 (WIP)
+## [3.0.0] - TBC
+### Added
+- Automatic deployment from GitHub with Netlify.
+- DNS domain redirections.
+- Landing page on ox.ac.uk domain.
+### Changed
+- Website from ox.ac.uk to bgonzalezbustamante.com.
+- CPS-Ranking from ox.ac.uk to bgonzalezbustamante.com.
+### Removed
+- Uploading by FTP on ox.ac.uk server.
+
+## [2.12.9] - 2020-12-18 (WIP)
+### Added
+- Preparing automatic deployment from GitHub with Netlify.
+### Deprecated
+- Uploading by FTP on ox.ac.uk server.
+
+## [2.11.9] - 2020-12-17
 ### Changed
 - Update to the Academic for Hugo v4.8.0 on R v3.6.1 and Hugo v0.74.3.
 - Downgrading blogdown::install_hugo(version = "0.74.3", force = TRUE).
