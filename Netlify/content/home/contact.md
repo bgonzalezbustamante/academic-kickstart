@@ -27,4 +27,10 @@ content:
   
 design:
   columns: '2'
+  spacing:
+    padding:
+      - 50px
+      - '0'
+      - 50px
+      - '0'
 ---
