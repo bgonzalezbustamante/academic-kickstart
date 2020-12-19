@@ -9,7 +9,7 @@ links:
   - label: GitHub
     url: "https://github.com/bgonzalezbustamante"
   - label: Email
-    url: "bastian.gonzalezbustamante@politics.ox.ac.uk"
+    url: "mailto:bastian.gonzalezbustamante@politics.ox.ac.uk"
 output:
   postcards::trestles
 ---
@@ -20,4 +20,4 @@ Before starting the DPhil, I earned a BA (2:1) in Government and an MA (1st) in 
  
 My doctoral research is supervised by [Professor Petra Schleiter](https://www.politics.ox.ac.uk/academic-faculty/petra-schleiter.html) at St Hilda’s College and focuses on the stability of cabinets in Latin American presidential democracies. My research is supported by the Chilean National Agency for Research and Development.
 
-For further information on my publications and experience see my website [bgonzalezbustamante.com](https://bgonzalezbustamante.com/)
+For further information on my publications and experience see my website [bgonzalezbustamante.com](https://bgonzalezbustamante.com/). The Chilean Political Science Impact Ranking (CPS-Ranking) is available on [bgonzalezbustamante.com/cps-ranking](https://bgonzalezbustamante.com/cps-ranking).
