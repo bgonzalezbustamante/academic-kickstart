@@ -1,0 +1,43 @@
+## Settings
+title: Bastián González-Bustamante
+description: 'PRS DPhil in Politics, University of Oxford'
+url: https://bgonzalezbustamante.com
+baseurl: '/'
+encoding: UTF-8
+
+google_analytics: 'UA-174550874-1'
+## disqus_shortname: ''
+
+author:
+  name: 'Bastián González-Bustamante'
+  email: bastian.gonzalezbustamante@politics.ox.ac.uk
+  twitter_username: bastiangb
+  github_username:  bgonzalezbustamante
+
+defaults:
+  -
+    scope:
+      path: ''
+      type: 'posts'
+    values:
+        layout: 'post'
+
+## Build settings
+destination: _site
+paginate: 10
+permalink: /:year/:title/
+markdown: kramdown
+highlighter: rouge
+
+sass:
+    sass_dir: _sass
+    style: compressed
+
+kramdown:
+  # use Github Flavored Markdown
+  input: GFM
+  # do not replace newlines by <br>s
+  hard_wrap: false
+
+plugins: ['jekyll-paginate']
+exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']

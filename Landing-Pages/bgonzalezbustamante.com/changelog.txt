@@ -1,0 +1,35 @@
+# Changelog
+All notable changes to "bgonzalezbustamante.com landing page" will be documented in this file.
+
+## [Unreleased]
+
+## [Released]
+
+## [1.3.1] - 2020-09-06
+### Changed
+- Foundation icons.
+
+## [1.3.0] - 2020-08-26
+### Added
+- Badges in SVG at GitHub repository.
+### Changed
+- Automatic CV updates.
+
+## [1.2.0] - 2020-08-19
+### Added
+- CV typed in LaTeX.
+
+## [1.1.0] - 2020-08-15
+### Added
+- MIT License
+
+## [1.0.0] - 2020-08-07
+### Changed
+- Foundation icons.
+
+## [1.0.0] - 2020-08-05
+### Added
+- GitHub repository.
+- GitHub page powered by Jekyll.
+- DNS domain redirections.
+- Changelog in TXT format at GitHub repository.
