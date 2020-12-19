@@ -17,6 +17,7 @@ All notable changes to "Bastián González-Bustamante Website" will be documente
 
 ## [3.0.0] - 2020-12-19
 ### Added
+- Update to the Wowchemy 5.0.0-beta.1 for Hugo.
 - Automatic deployment from GitHub with Netlify.
 - DNS domain redirections.
 - SSL/TLS certificate.
@@ -24,6 +25,7 @@ All notable changes to "Bastián González-Bustamante Website" will be documente
 ### Changed
 - Website from ox.ac.uk to bgonzalezbustamante.com.
 - CPS-Ranking from ox.ac.uk to bgonzalezbustamante.com.
+- Update of social icons.
 ### Removed
 - Uploading by FTP on ox.ac.uk server.
 
