@@ -1,5 +1,5 @@
 # Changelog
-All notable changes to "Bastián González-Bustamante Oxford Website" will be documented in this file.
+All notable changes to "Bastián González-Bustamante Website" will be documented in this file.
 
 ## [Unreleased]
 
@@ -12,6 +12,8 @@ All notable changes to "Bastián González-Bustamante Oxford Website" will be do
 - Updated CPS-Ranking.
 ### Changed
 - Update of badges in CPS-Ranking.
+
+## [Released]
 
 ## [3.0.0] - 2020-12-19
 ### Added
@@ -45,8 +47,6 @@ All notable changes to "Bastián González-Bustamante Oxford Website" will be do
 - Profile and interests.
 - Update of publications.
 - Update of relevant experience.
-
-## [Released]
 
 ## [2.10.8] 2020-09-11
 ### Changed
