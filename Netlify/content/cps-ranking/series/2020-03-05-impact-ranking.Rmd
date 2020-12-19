@@ -25,7 +25,7 @@ kable(data) %>%
 
 **Would you like to suggest someone?**
 
-Please send an email to bastian.gonzalezbustamante@politics.ox.ac.uk^[Researchers to be added: Andrés Dockendorff (ID fJbvIm4AAAAJ), Hector Bahamonde (ID 3FHDoL0AAAAJ), Renata Retamal Iturriaga (ID V8JzxeQAAAAJ), Gonzalo Contreras Aguirre (ID bsi-e88AAAAJ), Lucas Perelló (ID ShRtBhMAAAAJ), and Carlos Cantillana (ID 8iP3MuwAAAAJ).]
+Please send an email to <i class="fas fa-envelope"></i> &nbsp; bastian.gonzalezbustamante@politics.ox.ac.uk^[Researchers to be added: Andrés Dockendorff (ID fJbvIm4AAAAJ), Hector Bahamonde (ID 3FHDoL0AAAAJ), Renata Retamal Iturriaga (ID V8JzxeQAAAAJ), Gonzalo Contreras Aguirre (ID bsi-e88AAAAJ), Lucas Perelló (ID ShRtBhMAAAAJ), and Carlos Cantillana (ID 8iP3MuwAAAAJ).]
 
 **How to download and cite this dataset?**
 
