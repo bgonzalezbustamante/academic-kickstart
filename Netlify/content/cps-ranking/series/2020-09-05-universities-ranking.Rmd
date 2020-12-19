@@ -1,5 +1,5 @@
 ---
-title: "Chilean Universities Ranking Sep. 2020"
+title: "Chilean Universities Ranking September 2020"
 weight: 3
 date: '2020-09-05'
 authors: ["bgonzalezbustamante"]
@@ -87,7 +87,7 @@ rownames(Inst_Cum) <- NULL
 ```{r echo = FALSE}
 kable(Inst_Cum) %>%
   ## kable_styling() %>%
-  footnote(general = "Compiled using data from the [CPS-Ranking](/~shil5311/ranking/series/2020-09-05-impact-ranking/). Data collected on September 5, 2020.")
+  footnote(general = "Compiled using data from the [CPS-Ranking](/cps-ranking/series/2020-09-05-impact-ranking/). Data collected on September 5, 2020.")
 ```
 
 ### Average Ranking
@@ -111,7 +111,7 @@ Inst_Avg <- data.frame(Inst_Avg, Avg_Cites, Avg_H_Index, Quartile)
 ```{r echo = FALSE}
 kable(Inst_Avg) %>%
   ## kable_styling() %>%
-  footnote(general = "Compiled using data from the [CPS-Ranking](/~shil5311/ranking/series/2020-09-05-impact-ranking/). Data collected on September 5, 2020.")
+  footnote(general = "Compiled using data from the [CPS-Ranking](/cps-ranking/series/2020-09-05-impact-ranking/). Data collected on September 5, 2020.")
 ```
 
 \

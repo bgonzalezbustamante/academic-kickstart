@@ -1,5 +1,5 @@
 ---
-title: "Impact Ranking Dec. 2019"
+title: "Impact Ranking December 2019"
 weight: 10
 date: '2019-12-02'
 authors: ["bgonzalezbustamante"]
@@ -25,7 +25,7 @@ kable(data) %>%
 
 **Would you like to suggest someone?**
 
-Please send an email to <i class="fas fa-envelope"></i> bastian.gonzalezbustamante@politics.ox.ac.uk^[Researchers to be added: Marcelo Mella Polanco (ID qdm2fHgAAAAJ), Hary Hugo Fruhling (ID dJKWN8wAAAAJ), Arturo Arriagada (ID TzPYdWsAAAAJ), Jorge Gordin (ID RJp2E7cAAAAJ), Stefano Palestini (ID 1JylyXQAAAAJ), Ross Mittiga (ID o4ZnQNsAAAAJ), Alfonso Donoso (ID OrPr-3AAAAAJ), Giovanni Agostinis (ID u9c4q20AAAAJ), Antonio Canale-Mayet (ID dFcoyfMAAAAJ), Javier Sajuria (ID elmJq2gAAAAJ), Federico Rojas-de-Galarreta (ID hTyE9WAAAAAJ), Ximena Soto Soutullo (ID r2q0t8cAAAAJ&hl), Luis Garrido-Vergara (ID DlO0jXVS4FIC), and Carolina Acevedo (ID KNKPs0EAAAAJ).]
+Please send an email to <i class="fas fa-envelope"></i> &nbsp; bastian.gonzalezbustamante@politics.ox.ac.uk^[Researchers to be added: Marcelo Mella Polanco (ID qdm2fHgAAAAJ), Hary Hugo Fruhling (ID dJKWN8wAAAAJ), Arturo Arriagada (ID TzPYdWsAAAAJ), Jorge Gordin (ID RJp2E7cAAAAJ), Stefano Palestini (ID 1JylyXQAAAAJ), Ross Mittiga (ID o4ZnQNsAAAAJ), Alfonso Donoso (ID OrPr-3AAAAAJ), Giovanni Agostinis (ID u9c4q20AAAAJ), Antonio Canale-Mayet (ID dFcoyfMAAAAJ), Javier Sajuria (ID elmJq2gAAAAJ), Federico Rojas-de-Galarreta (ID hTyE9WAAAAAJ), Ximena Soto Soutullo (ID r2q0t8cAAAAJ&hl), Luis Garrido-Vergara (ID DlO0jXVS4FIC), and Carolina Acevedo (ID KNKPs0EAAAAJ).]
 
 **How to download and cite this dataset?**
 
