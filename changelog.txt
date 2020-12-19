@@ -13,7 +13,7 @@ All notable changes to "Bastián González-Bustamante Oxford Website" will be do
 ### Changed
 - Update of badges in CPS-Ranking.
 
-## [3.0.0] - TBC
+## [3.0.0] - 2020-12-19
 ### Added
 - Automatic deployment from GitHub with Netlify.
 - DNS domain redirections.
@@ -24,7 +24,7 @@ All notable changes to "Bastián González-Bustamante Oxford Website" will be do
 ### Removed
 - Uploading by FTP on ox.ac.uk server.
 
-## [2.12.9] - 2020-12-18 (WIP)
+## [2.12.9] - 2020-12-18
 ### Added
 - Preparing automatic deployment from GitHub with Netlify.
 ### Deprecated
