@@ -60,9 +60,9 @@ social:
 - icon: home
   icon_pack: fas
   link: https://bgonzalezbustamante.com/
-- icon: university
-  icon_pack: fas
-  link: http://users.ox.ac.uk/~shil5311/
+## - icon: university
+  ## icon_pack: fas
+  ## link: http://users.ox.ac.uk/~shil5311/
 - icon: orcid
   icon_pack: fab
   link: http://orcid.org/0000-0003-1510-6820
