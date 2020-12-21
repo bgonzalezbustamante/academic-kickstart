@@ -21,6 +21,7 @@ All notable changes to "Bastián González-Bustamante Website" will be documente
 - Automatic deployment from GitHub with Netlify.
 - DNS domain redirections.
 - SSL/TLS certificate.
+- Analytics tracker.
 - Landing page on ox.ac.uk domain (WIP).
 ### Changed
 - Website from ox.ac.uk to bgonzalezbustamante.com.
