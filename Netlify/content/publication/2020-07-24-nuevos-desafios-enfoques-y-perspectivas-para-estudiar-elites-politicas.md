@@ -31,14 +31,14 @@ links:
     icon_pack: ai
     name: PDF
     url: 'https://journals.iai.spk-berlin.de/index.php/iberoamericana/article/view/2736'
-  - icon: arxiv
-    icon_pack: ai
-    name: Preprint
-    url: 'https://doi.org/10.31235/osf.io/syqu4'
   - icon: doi
     icon_pack: ai
     name: DOI
     url: 'https://doi.org/10.18441/ibam.20.2020.74.229-259'
+  - icon: arxiv
+    icon_pack: ai
+    name: Preprint
+    url: 'https://doi.org/10.31235/osf.io/syqu4'
   - icon: osf
     icon_pack: ai
     name: OSF-Project
@@ -46,7 +46,7 @@ links:
   ## - icon: dataverse
     ## icon_pack: ai
     ## name: Dataset
-    ## url: 'http://doi.org/10.7910/DVN/CMU36B'
+    ## url: ''
   ## - icon: users
     ## icon_pack: fas
     ## name: CRediT
