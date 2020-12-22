@@ -3,23 +3,17 @@ All notable changes to "Bastián González-Bustamante website code" will be docu
 
 ## [Unreleased]
 
-## [3.4.0] - TBC
+## [3.3.0] - TBC
 ### Added
 - Recent talks section.
 ## Changed
 - CPS-Ranking from bgonzalezbustamante.com to an own domain.
 
-## [3.3.0] - 2021-03-05
+## [3.2.0] - 2021-03-05
 ### Added
 - Updated CPS-Ranking.
 ### Changed
 - Update of badges in CPS-Ranking.
-
-## [3.2.0] - TBC
-### Added
-- Integration with CRediT (WIP).
-### Changed
-- Automatic CRediT updates (WIP).
 
 ## [Released]
 
@@ -27,9 +21,12 @@ All notable changes to "Bastián González-Bustamante website code" will be docu
 ### Added
 - Preparing integration with CRediT.
 - Landing page on ox.ac.uk domain.
+- Integration with CRediT.
 ### Changed
+- Automatic CRediT updates.
 - Minor corrections.
 - Revision of upgrade versioning.
+- Update of collaborators' profiles.
 
 ## [3.0.0] - 2020-12-19
 ### Added
