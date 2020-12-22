@@ -39,4 +39,4 @@ CRediT (Contributor Roles Taxonomy) is high-level taxonomy, including 14 roles, 
 
 <small>Source: Compiled using badges from [Center for Open Science](https://github.com/CenterForOpenScience/open_research_badges) and core definitions from [CASRAI](https://casrai.org/credit/).</small><br />
 
-## Collaboration Projects
+# Collaboration Projects
