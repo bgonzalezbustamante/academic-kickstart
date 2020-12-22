@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Sergio Toro
-weight: 18
+weight: 14
 shortname: Toro, S.
 
 # Username (this should match the folder name)

@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Juan Bautista Canavesi Sosa
-weight: 24
+weight: 26
 shortname: Canavesi Sosa, J. B.
 
 # Username (this should match the folder name)

@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Berenice Orvenes
-weight: 27
+weight: 11
 shortname: Orvenes, B.
 
 # Username (this should match the folder name)

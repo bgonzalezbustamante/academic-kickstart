@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Matías Rodríguez
-weight: 16
+weight: 21
 shortname: Rodríguez, M.
 
 # Username (this should match the folder name)

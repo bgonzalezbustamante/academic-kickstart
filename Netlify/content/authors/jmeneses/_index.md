@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Javiera Meneses
-weight: 15
+weight: 20
 shortname: Meneses, J.
 
 # Username (this should match the folder name)
