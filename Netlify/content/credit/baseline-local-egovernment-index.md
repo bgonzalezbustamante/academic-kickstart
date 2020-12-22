@@ -1,12 +1,12 @@
 ---
 title: 'Baseline Local E-Government Index 2016 in Chile'
 date: '2017-12-04'
-authors: ["bgonzalezbustamante"]
+authors: ["bgonzalezbustamante", "acarvajal", "agonzalez"]
 summary: 'DOI: 10.17605/OSF.IO/JPVS2'
 ---
 
 **Bibliographic Contributors** <br />
-[Bastián González-Bustamante](../../authors/bgonzalezbustamante) (BG), [Ariane Carvajal](../../authors/acarvajal) (AC), [Andrea González](../authors/agonzalez) (AG)
+[Bastián González-Bustamante](../../) (BG), [Ariane Carvajal](../../authors/acarvajal) (AC), [Andrea González](../authors/agonzalez) (AG)
 
 **Non-Bibliographic Contributors** <br />
 [Diego Barría](../../authors/dbarria) (DB), [Carla Cisternas](../../authors/ccisternas) (CC), [Luis Garrido-Vergara](../../authors/lgarridovergara) (LG)
