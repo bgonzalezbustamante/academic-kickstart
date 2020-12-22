@@ -44,9 +44,9 @@ social:
 - icon: osf
   icon_pack: ai
   link: https://osf.io/xkhdn/
-## - icon: google-scholar
-  ## icon_pack: ai
-  ## link: https://
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.cl/citations?user=ArIMp5YAAAAJ&hl
 - icon: researchgate
   icon_pack: fab
   link: https://www.researchgate.net/profile/Carla_Cisternas3
@@ -56,6 +56,9 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/carlacisternasg
+- icon: cv
+  icon_pack: ai
+  link: https://carlacisternas.com/CV-Carla-Cisternas.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
