@@ -44,5 +44,5 @@ Cisternas, C., and González-Bustamante, B. (*forthcoming*). Title TBC. <br />
 | 3.0 | January 23, 2019 | AOM revised |
 | 4.0 | TBC | AOM revised |
 
-<small>DOI: TBC</small>
+<small>DOI: TBC</small><br />
 <small>Last updated: June 16, 2020.</small>
