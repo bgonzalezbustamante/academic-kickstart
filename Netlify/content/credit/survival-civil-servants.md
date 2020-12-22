@@ -5,6 +5,8 @@ authors: ["bgonzalezbustamante", "mastete", "borvenes"]
 summary: 'DOI: 10.17605/OSF.IO/WBF6M'
 ---
 
+## Project CRediT
+
 **Bibliographic Contributors** <br />
 [Bastián González-Bustamante](../../) (BG), [Matías Astete](../../authors/mastete) (MA), [Berenice Orvenes](../../authors/borvenes) (BO)
 

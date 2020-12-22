@@ -5,6 +5,8 @@ authors: ["bgonzalezbustamante"]
 summary: 'DOI: 10.17605/OSF.IO/YSX25'
 ---
 
+## Project CRediT
+
 **Bibliographic Contributor** <br />
 [Bastián González-Bustamante](../../) (BG)
 
