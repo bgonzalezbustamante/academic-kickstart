@@ -6,10 +6,10 @@ summary: 'DOI: 10.17605/OSF.IO/JPVS2'
 ---
 
 **Bibliographic Contributors** <br />
-[Bastián González-Bustamante](../authors/bgonzalezbustamante) (BG), [Ariane Carvajal](../authors/acarvajal) (AC), [Andrea González](../authors/agonzalez) (AG)
+[Bastián González-Bustamante](../../authors/bgonzalezbustamante) (BG), [Ariane Carvajal](../../authors/acarvajal) (AC), [Andrea González](../authors/agonzalez) (AG)
 
 **Non-Bibliographic Contributors** <br />
-[Diego Barría](../authors/dbarria) (DB), [Carla Cisternas](../authors/ccisternas) (CC), [Luis Garrido-Vergara](../authors/lgarridovergara) (LG)
+[Diego Barría](../../authors/dbarria) (DB), [Carla Cisternas](../../authors/ccisternas) (CC), [Luis Garrido-Vergara](../../authors/lgarridovergara) (LG)
 
 **Funding** <br />
 This research was partially funded by the Universidad de Santiago de Chile under the project USA1498.37. The funder had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.
@@ -34,21 +34,22 @@ González-Bustamante, B., Carvajal, A., and González, A. (2020). Determinantes 
 | CC | [<img src="../writing_review.png" align="left" width="50" />](../writing_review.png) |
 | LG | [<img src="../writing_review.png" align="left" width="50" />](../writing_review.png) |
 
-<small>Source: Compiled using badges from [Center for Open Science](https://github.com/CenterForOpenScience/open_research_badges) and core definitions from [CASRAI](https://casrai.org/credit/). Further information on [bgonzalezbustamante.com/credit](../credit).</small><br />
+<small>Note: Further information on [bgonzalezbustamante.com/credit](../).</small><br />
+<small>Source: Compiled using badges from [Center for Open Science](https://github.com/CenterForOpenScience/open_research_badges) and core definitions from [CASRAI](https://casrai.org/credit/).</small><br />
 
 **Revision History**
 
 | Revision | Date | Description |
 |---|---|---|
-| 1.0 | Dec 4, 2017 | Author's Original Manuscript (AOM) submitted to peer review |
-| 2.0 | Sep 11, 2018 | AOM revised based on the first round of peer review |
-| 3.0 | Jan 4, 2019 | AOM revised |
-| 4.0 | Jan 30, 2019 | AOM revised |
-| 5.0 | Mar 15, 2019 | Accepted Manuscript (AM) after the peer review process |
-| 6.0 | Oct 13, 2019 | AM revised |
-| 7.0 | Oct 17, 2019 | AM revised |
-| 8.0 | Nov 20, 2019 | AM revised |
-| 9.0 | Feb 6, 2020 | Version of Record (VOR) |
+| 1.0 | December 4, 2017 | Author's Original Manuscript (AOM) submitted to peer review |
+| 2.0 | September 11, 2018 | AOM revised based on the first round of peer review |
+| 3.0 | January 4, 2019 | AOM revised |
+| 4.0 | January 30, 2019 | AOM revised |
+| 5.0 | March 15, 2019 | Accepted Manuscript (AM) after the peer review process |
+| 6.0 | October 13, 2019 | AM revised |
+| 7.0 | October 17, 2019 | AM revised |
+| 8.0 | November 20, 2019 | AM revised |
+| 9.0 | February 6, 2020 | Version of Record (VOR) |
 
-<small>DOI: [10.17605/OSF.IO/JPVS2](http://doi.org/10.17605/OSF.IO/JPVS2)</small>
-<small>Last updated: Jun 16, 2020.</small>
+<small>DOI: [10.17605/OSF.IO/JPVS2](http://doi.org/10.17605/OSF.IO/JPVS2)</small><br />
+<small>Last updated: June 16, 2020.</small>
