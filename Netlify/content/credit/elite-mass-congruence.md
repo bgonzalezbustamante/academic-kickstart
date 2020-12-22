@@ -2,7 +2,7 @@
 title: 'Gaps, Representation, and Elite-Mass Congruence in Chile and Uruguay'
 date: '2018-05-01'
 authors: ["bgonzalezbustamante"]
-summary: 'DOI: [10.17605/OSF.IO/YSX25](http://doi.org/10.17605/OSF.IO/YSX25)'
+summary: 'DOI: 10.17605/OSF.IO/YSX25'
 ---
 
 **Bibliographic Contributor** <br />
@@ -25,7 +25,7 @@ González-Bustamante, B. (2019). Brechas, representación y congruencia élite-c
 
 **Contributions** 
 
-| Contributor | Role |
+| | |
 |---|---|
 | BG | [<img src="../conceptualization.png" align="left" width="50" />](../conceptualization.png) [<img src="../formal_analysis.png" align="left" width="50" />](../formal_analysis.png) [<img src="../methodology.png" align="left" width="50" />](../methodology.png) [<img src="../computation.png" align="left" width="50" />](../computation.png) [<img src="../testing.png" align="left" width="50" />](../testing.png) [<img src="../data_visualization.png" align="left" width="50" />](../data_visualization.png) [<img src="../writing_initial_draft.png" align="left" width="50" />](../writing_initial_draft.png) [<img src="../writing_review.png" align="left" width="50" />](../writing_review.png) |
 | AJ | [<img src="../data_curation.png" align="left" width="50" />](../data_curation.png) [<img src="../funding_acquisition.png" align="left" width="50" />](../funding_acquisition.png) [<img src="../investigation.png" align="left" width="50" />](../investigation.png) [<img src="../project_administration.png" align="left" width="50" />](../project_administration.png) [<img src="../resources.png" align="left" width="50" />](../resources.png) [<img src="../supervision.png" align="left" width="50" />](../supervision.png) |

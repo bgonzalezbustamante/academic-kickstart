@@ -22,7 +22,7 @@ González-Bustamante, B., Astete, M., and Orvenes, B. (*forthcoming*). Title TBC
 
 **Contributions** 
 
-| Contributor | Role |
+| | |
 |---|---|
 | BG | [<img src="../conceptualization.png" align="left" width="50" />](../conceptualization.png) [<img src="../formal_analysis.png" align="left" width="50" />](../formal_analysis.png) [<img src="../funding_acquisition.png" align="left" width="50" />](../funding_acquisition.png) [<img src="../methodology.png" align="left" width="50" />](../methodology.png) [<img src="../project_administration.png" align="left" width="50" />](../project_administration.png) [<img src="../resources.png" align="left" width="50" />](../resources.png) [<img src="../computation.png" align="left" width="50" />](../computation.png) [<img src="../supervision.png" align="left" width="50" />](../supervision.png) [<img src="../data_visualization.png" align="left" width="50" />](../data_visualization.png) [<img src="../writing_initial_draft.png" align="left" width="50" />](../writing_initial_draft.png) [<img src="../writing_review.png" align="left" width="50" />](../writing_review.png) |
 | MA | [<img src="../data_curation.png" align="left" width="50" />](../data_curation.png) [<img src="../investigation.png" align="left" width="50" />](../investigation.png) [<img src="../resources.png" align="left" width="50" />](../resources.png) [<img src="../writing_initial_draft.png" align="left" width="50" />](../writing_initial_draft.png) [<img src="../writing_review.png" align="left" width="50" />](../writing_review.png) |

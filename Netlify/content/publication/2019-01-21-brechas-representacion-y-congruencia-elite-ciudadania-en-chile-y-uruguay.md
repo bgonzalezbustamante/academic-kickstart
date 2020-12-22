@@ -50,7 +50,7 @@ links:
   - icon: users
     icon_pack: fas
     name: CRediT
-    url: 'https://bgonzalezbustamante.github.io/CRediT/elite-mass-congruence.html'
+    url: 'credit/elite-mass-congruence'
 image:
   caption: ''
   focal_point: ''

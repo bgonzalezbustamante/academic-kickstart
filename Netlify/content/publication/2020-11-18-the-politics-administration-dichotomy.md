@@ -50,7 +50,7 @@ links:
   - icon: users
     icon_pack: fas
     name: CRediT
-    url: 'https://bgonzalezbustamante.github.io/CRediT/chilean-executive-post-transition.html'
+    url: 'credit/chilean-executive-post-transition'
 image:
   caption: ''
   focal_point: ''
