@@ -6,7 +6,7 @@ summary: 'DOI: 10.17605/OSF.IO/MWYC2'
 ---
 
 **Bibliographic Contributor** <br />
-Bastián González-Bustamante (BG) 
+[Bastián González-Bustamante](../../) (BG)
 
 **Non-Bibliographic Contributors** <br />
 Carlos Huneeus (CH), [Carla Cisternas](../../authors/ccisternas) (CC), [Matías Astete](../../authors/mastete) (MA), [Berenice Orvenes](../../authors/borvenes) (BO)
@@ -21,7 +21,7 @@ The author declared no potential conflict of interest with respect to this resea
 González-Bustamante, B. (2019).  The Politics‐Administration Dichotomy: A Case Study of the Chilean Executive during the Democratic Post‐Transition. *Preprint upon request by email* [bastian.gonzalezbustamante@politics.ox.ac.uk](mailto:bastian.gonzalezbustamante@politics.ox.ac.uk)
 
 **Peer-Reviewed Publication** <br />
-González-Bustamante, B. (2020).  The Politics‐Administration Dichotomy: A Case Study of the Chilean Executive during the Democratic Post‐Transition. <em>Bulletin of Latin American Research, 39</em>(5), 582-597. DOI: [10.1111/blar.13044](https://doi.org/10.1111/blar.13044)
+González-Bustamante, B. (2020).  The Politics‐Administration Dichotomy: A Case Study of the Chilean Executive during the Democratic Post‐Transition. *Bulletin of Latin American Research, 39*(5), 582-597. DOI: [10.1111/blar.13044](https://doi.org/10.1111/blar.13044)
 
 **Contributions** 
 
