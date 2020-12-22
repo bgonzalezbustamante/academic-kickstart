@@ -2,7 +2,7 @@
 title: 'Gaps, Representation, and Elite-Mass Congruence in Chile and Uruguay'
 date: '2018-05-01'
 authors: ["bgonzalezbustamante"]
-summary: 'DOI: 10.17605/OSF.IO/YSX25'
+summary: 'DOI: [10.17605/OSF.IO/YSX25](http://doi.org/10.17605/OSF.IO/YSX25)'
 ---
 
 **Bibliographic Contributor** <br />
