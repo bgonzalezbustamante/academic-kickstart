@@ -50,7 +50,8 @@ links:
   - icon: users
     icon_pack: fas
     name: CRediT
-    url: 'https://bgonzalezbustamante.github.io/CRediT/chilean-executive-post-transition.html'
+    url: 'publication/aplicacion-de-forceatlas2-algoritmo-de-diseno-grafico/'
+    ## url: 'https://bgonzalezbustamante.github.io/CRediT/chilean-executive-post-transition.html'
 image:
   caption: ''
   focal_point: ''
