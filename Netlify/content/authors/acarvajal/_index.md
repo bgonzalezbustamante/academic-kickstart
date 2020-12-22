@@ -35,9 +35,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: mailto:ariane.carvajal@usach.cl
-## - icon: orcid
-  ## icon_pack: fab
-  ## link: http://
+- icon: orcid
+  icon_pack: fab
+  link: http://orcid.org/0000-0002-6181-7458
 ## - icon: osf
   ## icon_pack: ai
   ## link: https://
