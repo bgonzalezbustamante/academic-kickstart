@@ -17,16 +17,16 @@ All notable changes to "Bastián González-Bustamante website code" will be docu
 
 ## [3.2.0] - TBC
 ### Added
-- Integration with CRediT.
+- Integration with CRediT (WIP).
 ### Changed
-- Automatic CRediT updates.
+- Automatic CRediT updates (WIP).
 
 ## [Released]
 
 ## [3.1.0] - 2020-12-22
 ### Added
 - Preparing integration with CRediT.
-- Landing page on ox.ac.uk domain (WIP).
+- Landing page on ox.ac.uk domain.
 ### Changed
 - Minor corrections.
 - Revision of upgrade versioning.
