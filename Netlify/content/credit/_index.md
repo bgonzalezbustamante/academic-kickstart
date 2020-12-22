@@ -20,7 +20,7 @@ output: html_document
 
 CRediT (Contributor Roles Taxonomy) is high-level taxonomy, including 14 roles, that can be used to represent the roles typically played by contributors to scientific scholarly output. The roles describe each contributor’s specific contribution to the scholarly output. [See further details](https://casrai.org/credit/).
 
-**[Revise some of my collaboration projects](collaboration-projects)**.
+**[Revise some of my collaboration projects](projects)**.
 
 | **Badge** | **Role** | **Definition** 
 |---|---|---|
