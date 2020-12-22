@@ -1,7 +1,7 @@
 ---
 title: 'Social Sciences in Repression Contexts'
 date: '2018-09-06'
-authors: ["bgonzalezbustamante"]
+authors: ["bgonzalezbustamante", "ccisternas"]
 summary: 'DOI: TBC'
 ---
 

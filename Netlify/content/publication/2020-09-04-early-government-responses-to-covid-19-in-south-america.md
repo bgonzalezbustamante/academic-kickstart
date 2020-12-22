@@ -54,7 +54,7 @@ links:
   - icon: users
     icon_pack: fas
     name: CRediT
-    url: 'https://bgonzalezbustamante.github.io/CRediT/covid-19-south-america.html'
+    url: 'credit/covid-19-south-america'
 image:
   caption: ''
   focal_point: ''
