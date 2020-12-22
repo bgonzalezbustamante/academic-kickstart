@@ -1,3 +1,10 @@
+---
+title: 'Chilean Political Science Impact Ranking'
+date: '02-12-2019'
+lastmod: '01-12-2019'
+authors: ["bgonzalezbustamante"]
+---
+
 ## Chilean Political Science Impact Ranking
 <small>DOI: [10.17605/OSF.IO/C8PRA](http://doi.org/10.17605/OSF.IO/C8PRA)</small><br />
 <small>Website: [http://users.ox.ac.uk/~shil5311/ranking/](http://users.ox.ac.uk/~shil5311/ranking/)</small>
