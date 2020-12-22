@@ -6,8 +6,6 @@ authors: ["bgonzalezbustamante", "acarvajal", "agonzalez"]
 summary: 'DOI: 10.17605/OSF.IO/JPVS2'
 ---
 
-## Project CRediT
-
 **Bibliographic Contributors** <br />
 [Bastián González-Bustamante](../../) (BG), [Ariane Carvajal](../../authors/acarvajal) (AC), [Andrea González](../../authors/agonzalez) (AG)
 

@@ -6,8 +6,6 @@ authors: ["bgonzalezbustamante"]
 summary: 'DOI: 10.17605/OSF.IO/MWYC2'
 ---
 
-## Project CRediT
-
 **Bibliographic Contributor** <br />
 [Bastián González-Bustamante](../../) (BG)
 
