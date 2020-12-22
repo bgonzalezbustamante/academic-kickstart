@@ -1,28 +1,35 @@
 # Changelog
-All notable changes to "Bastián González-Bustamante website" will be documented in this file.
+All notable changes to "Bastián González-Bustamante website code" will be documented in this file.
 
 ## [Unreleased]
 
-## [3.3.0] - TBC
+## [3.4.0] - TBC
 ### Added
-- Integrating CRediT.
 - Recent talks section.
 ## Changed
 - CPS-Ranking from bgonzalezbustamante.com to an own domain.
 
-## [3.2.0] - 2021-03-05
+## [3.3.0] - 2021-03-05
 ### Added
 - Updated CPS-Ranking.
 ### Changed
 - Update of badges in CPS-Ranking.
 
+## [3.2.0] - TBC
+### Added
+- Integration with CRediT.
+### Changed
+- Automatic CRediT updates.
+
 ## [Released]
 
 ## [3.1.0] - 2020-12-22
 ### Added
+- Preparing integration with CRediT.
 - Landing page on ox.ac.uk domain (WIP).
 ### Changed
 - Minor corrections.
+- Revision of upgrade versioning.
 
 ## [3.0.0] - 2020-12-19
 ### Added
@@ -38,20 +45,20 @@ All notable changes to "Bastián González-Bustamante website" will be documente
 ### Removed
 - Uploading by FTP on ox.ac.uk server.
 
-## [2.12.9] - 2020-12-18
+## [2.14.9] - 2020-12-18
 ### Added
 - Preparing automatic deployment from GitHub with Netlify.
 ### Deprecated
 - Uploading by FTP on ox.ac.uk server.
 
-## [2.11.9] - 2020-12-17
+## [2.13.9] - 2020-12-17
 ### Changed
 - Update to the Academic for Hugo v4.8.0 on R v3.6.1 and Hugo v0.74.3.
 - Downgrading blogdown::install_hugo(version = "0.74.3", force = TRUE).
 - Update of collaborators' profiles.
 - Minor corrections.
 
-## [2.11.8] - 2020-12-16
+## [2.13.8] - 2020-12-16
 ### Added
 - Updated CPS-Ranking.
 ### Changed
@@ -60,11 +67,11 @@ All notable changes to "Bastián González-Bustamante website" will be documente
 - Update of publications.
 - Update of relevant experience.
 
-## [2.10.8] 2020-09-11
+## [2.12.8] 2020-09-11
 ### Changed
 - Update of publications.
 
-## [2.10.7] 2020-09-05
+## [2.12.7] 2020-09-05
 ### Added
 - Updated CPS-Ranking.
 ### Changed
@@ -80,24 +87,24 @@ All notable changes to "Bastián González-Bustamante website" will be documente
 ### Removed
 - Projects section.
 
-## [2.9.7] 2020-09-04
+## [2.11.7] 2020-09-04
 ### Deprecated
 - Projects section.
 
-## [2.9.6] - 2020-08-26
+## [2.11.6] - 2020-08-26
 ### Changed
 - Automatic CV updates.
 - Update of badges at GitHub repository.
 
-## [2.9.5] - 2020-07-31
+## [2.11.5] - 2020-07-31
 ### Changed
 - Update of CV in PDF.
 
-## [2.9.4] - 2020-07-08
+## [2.11.4] - 2020-07-08
 ### Changed
 - Update of CV in PDF.
 
-## [2.9.3] - 2020-06-03
+## [2.11.3] - 2020-06-03
 ### Added
 - Updated CPS-Ranking.
 - Link to the changelog at GitHub repository.
@@ -110,9 +117,18 @@ All notable changes to "Bastián González-Bustamante website" will be documente
 - Minor typesetting corrections in the changelog.
 - Update of collaborators' profiles.
 
-## [2.8.3] - 2020-04-30
+## [2.10.3] - 2020-05-02
+### Added
+- Competing interests CRediT.
+- Funding information CRediT.
+
+## [2.9.3] - 2020-04-30
 ### Changed
-- Minor typesetting corrections in the changelog.
+- Minor typesetting corrections in the changelog
+
+## [2.9.2] - 2020-03-19
+### Added
+CRediT GitHub repository.
 
 ## [2.8.2] - 2020-03-14
 ### Added
