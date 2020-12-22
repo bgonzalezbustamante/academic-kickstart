@@ -20,11 +20,11 @@ output: html_document
 
 CRediT (Contributor Roles Taxonomy) is high-level taxonomy, including 14 roles, that can be used to represent the roles typically played by contributors to scientific scholarly output. The roles describe each contributor’s specific contribution to the scholarly output. [See further details](https://casrai.org/credit/).
 
-**[Revise some of my collaboration projects](projects)**.
+**[Revise some of my collaboration projects](../projects)**.
 
 | **Badge** | **Role** | **Definition** 
 |---|---|---|
-| [<img src="conceptualization.png" align="center" width="75" />](conceptualization.png) | Conceptualization | Ideas, formulation or evolution of overarching research goals and aims. |
+| [<img src="conceptualization.png" align="center" width="60" />](conceptualization.png) | Conceptualization | Ideas, formulation or evolution of overarching research goals and aims. |
 | [<img src="data_curation.png" align="center" width="60" />](data_curation.png) | Data curation | Produce metadata, scrub data and maintain research data for initial use and later re-use. |
 | [<img src="formal_analysis.png" align="center" width="60" />](formal_analysis.png) | Formal analysis | Application of statistical, mathematical, computational, or other formal techniques to analyze data. |
 | [<img src="funding_acquisition.png" align="center" width="60" />](funding_acquisition.png) | Funding acquisition | Acquisition of the financial support for the project leading to this publication. |
