@@ -1,5 +1,6 @@
 ---
 title: 'Gaps, Representation, and Elite-Mass Congruence in Chile and Uruguay'
+subtitle: 'Project CRediT'
 date: '2018-05-01'
 authors: ["bgonzalezbustamante"]
 summary: 'DOI: 10.17605/OSF.IO/YSX25'

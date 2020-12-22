@@ -1,5 +1,6 @@
 ---
 title: 'Survival of the Senior Civil Servants in the Chilean Executive Branch'
+subtitle: 'Project CRediT'
 date: '2020-04-19'
 authors: ["bgonzalezbustamante", "mastete", "borvenes"]
 summary: 'DOI: 10.17605/OSF.IO/WBF6M'

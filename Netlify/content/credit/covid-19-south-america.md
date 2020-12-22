@@ -1,5 +1,6 @@
 ---
 title: 'COVID-19 Pandemic in South America'
+subtitle: 'Project CRediT'
 date: '2020-05-31'
 authors: ["bgonzalezbustamante"]
 summary: 'DOI: 10.17605/OSF.IO/6FM7X'
