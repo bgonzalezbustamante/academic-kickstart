@@ -10,28 +10,28 @@ var viewedQuotes =[];
 //Array to hold quotes, sources, citaitons & years
 var quotes = [
 	{
-		quote: "Abandon normal instructions",
+		quote: Cuidado, la mortalidad por asma es muy alta en la actualidad",
 		source: "",
 		citation: "",
 		year: "",
 		tags: ""
 	},
 	{
-		quote: "Accept advice",
+		quote: "Conocerás a alguien muy profesional",
 		source: "",
 		citation: "",
 		year: "",
 		tags: "",
 	},
 	{
-		quote: "Adding on",
+		quote: "No sacarás la vuelta, realizarás observación participante",
 		source: "",
 		citation: "",
 		year: "",
 		tags: "",
 	},
 	{
-		quote: "A line has two sides",
+		quote: "Abrirás una nueva línea de investigación de alto impacto en la región",
 		source: "",
 		citation: "",
 		year: "",

@@ -18,12 +18,11 @@ output: html_document
 
 ---
 
-<body id="bgcolor">
 <div class="container">
 <div id="quote-box">
-<p class="quote">Abandon desire</p>
+<p class="quote"><strong>¡Te declararán la guerra!</strong></p>
 </div>
-<button id="loadQuote">Show another strategy</button>
+<button id="loadQuote">Sacar otra galleta</button>
 </div>
 <script src="../files/script.js"></script>
 <script>
