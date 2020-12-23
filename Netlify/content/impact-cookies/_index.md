@@ -18,8 +18,14 @@ output: html_document
 
 ---
 
-<div id="quoteDisplay">
+<body id="bgcolor">
+<div class="container">
+<div id="quote-box">
+<p class="quote">Abandon desire</p>
 </div>
-<button onclick="newQuote()">New Quote</button>
-
-<script scr="https://bgonzalezbustamante.com/files/javascript.js"></script>
+<button id="loadQuote">Show another strategy</button>
+</div>
+<script src="../files/script.js"></script>
+<script>
+setInterval(printQuote, 500000);
+</script>
