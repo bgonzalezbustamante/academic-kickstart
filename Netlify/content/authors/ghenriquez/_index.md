@@ -12,7 +12,7 @@ authors:
 superuser: false
 
 # Role/position
-role: MA in International Affairs
+role: MSc International Political Economy
 
 # Organizations/Affiliations
 organizations:
@@ -20,7 +20,7 @@ organizations:
   url: "https://www.lse.ac.uk/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Dual MA in International Affairs at the London School of Economics and Political Science, United Kingdom, and SciencesPo, France.
+bio: Dual MSc/MA in Political Economy and International Affairs at the London School of Economics and Political Science (LSE), United Kingdom, and SciencesPo, France.
 
 interests:
 ## - 
@@ -65,6 +65,8 @@ user_groups:
 
 \
 \
-Dual MA in International Affairs \
-London School of Economics and Political Science, United Kingdom \
+MSc International Political Economy  \
+London School of Economics and Political Science (LSE), United Kingdom
+
+MA in International Affairs \
 SciencesPo, France

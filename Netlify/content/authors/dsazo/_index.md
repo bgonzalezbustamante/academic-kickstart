@@ -20,7 +20,7 @@ organizations:
   url: "https://www.lse.ac.uk/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: MPhil/PhD Student in Political Science at the London School of Economics and Political Science, United Kingdom.
+bio: MPhil/PhD Student in Political Science at the London School of Economics and Political Science (LSE), United Kingdom.
 
 interests:
 ## - 
@@ -66,4 +66,4 @@ user_groups:
 \
 \
 MPhil/PhD Student in Political Science \
-London School of Economics and Political Science, United Kingdom
+London School of Economics and Political Science (LSE), United Kingdom
