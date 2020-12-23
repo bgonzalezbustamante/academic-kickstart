@@ -10,7 +10,7 @@ var viewedQuotes =[];
 //Array to hold quotes, sources, citaitons & years
 var quotes = [
 	{
-		quote: Cuidado, la mortalidad por asma es muy alta en la actualidad",
+		quote: "Cuidado, la mortalidad por asma es muy alta en la actualidad",
 		source: "",
 		citation: "",
 		year: "",
