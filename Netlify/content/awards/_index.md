@@ -11,7 +11,7 @@ St Hilda's College at the University of Oxford (2020)\
 
 **Becas Chile Doctoral Scholarship Abroad**\
 Chilean National Agency for Research and Development (2019)\
-*Tuition fees, transport and living expenses for pursuing a DPhil at the University of Oxford (ANID/PFCHA/72200340), £160,000. Oxford, United Kingdom.*
+*Tuition fees, transport and living expenses for pursuing a DPhil (PhD) at the University of Oxford (ANID/PFCHA/72200340), £160,000. Oxford, United Kingdom.*
 
 **LASA Travel Grant**\
 Latin American Studies Association (2016)\
