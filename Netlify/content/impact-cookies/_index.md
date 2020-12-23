@@ -18,4 +18,8 @@ output: html_document
 
 ---
 
-![Quote](https://github-readme-quotes.herokuapp.com/quote?quotesUrl=https://bgonzalezbustamante.com/files/quotes.json)
+<div id="quoteDisplay">
+</div>
+<button onclick="newQuote()">New Quote</button>
+
+<script scr="../files/javascript.js"></script>
