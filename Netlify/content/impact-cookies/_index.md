@@ -18,7 +18,7 @@ output: html_document
 
 ---
 
-<br /><br />
+<br />
 <div class="container" style="text-align: center;">
 <div id="quote-box">
 <p class="quote"><strong>¡Te declararán la guerra!</strong></p>
