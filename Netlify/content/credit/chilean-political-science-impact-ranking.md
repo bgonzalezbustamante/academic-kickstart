@@ -7,10 +7,10 @@ summary: 'DOI: 10.17605/OSF.IO/C8PRA'
 ---
 
 **Bibliographic Contributor** <br />
-[Bastián González-Bustamante](https://bgonzalezbustamante.com/) (BG)
+[Bastián González-Bustamante](../../) (BG)
 
 **Non-Bibliographic Contributors** <br />
-[Alejandro Olivares](../authors/aolivares) (AO), [Carla Cisternas](../authors/ccisternas) (CC), [Rodrigo Cuevas](../authors/rcuevas) (RC)
+[Alejandro Olivares](../../authors/aolivares) (AO), [Carla Cisternas](../../authors/ccisternas) (CC), [Rodrigo Cuevas](../../authors/rcuevas) (RC)
 
 **Funding** <br />
 This research did not receive any specific grant from funding agencies in the public, commercial, or not-for-profit sectors.
