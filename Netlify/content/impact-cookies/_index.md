@@ -20,9 +20,9 @@ output: html_document
 
 <div class="container">
 <div id="quote-box">
-<p class="quote"><strong>¡Te declararán la guerra!</strong></p>
+<p class="quote">Abandon desire</p>
 </div>
-<button id="loadQuote">Sacar otra galleta</button>
+<button id="loadQuote">Show another strategy</button>
 </div>
 <script src="../files/script.js"></script>
 <script>
