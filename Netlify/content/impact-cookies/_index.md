@@ -22,4 +22,4 @@ output: html_document
 </div>
 <button onclick="newQuote()">New Quote</button>
 
-<script scr="../files/javascript.js"></script>
+<script scr="https://bgonzalezbustamante.com/files/javascript.js"></script>
