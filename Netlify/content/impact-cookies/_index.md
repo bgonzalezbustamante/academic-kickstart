@@ -18,4 +18,4 @@ output: html_document
 
 ---
 
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=default&animation=default&layout=socrates?quotesUrl=https://bgonzalezbustamante.com/files/quotes.json)
+![Quote](https://github-readme-quotes.herokuapp.com/quote?quotesUrl=https://bgonzalezbustamante.com/files/quotes.json)
