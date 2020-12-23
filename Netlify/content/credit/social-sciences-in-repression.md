@@ -10,7 +10,7 @@ summary: 'DOI: TBC'
 [Carla Cisternas](../../authors/ccisternas), [Bastián González-Bustamante](../../) (BG)
 
 **Non-Bibliographic Contributors** <br />
-[Diego Barría](../../authors/dbarria) (DB), Elinor Luco (EL), Diego Letelier (DL), Erika Celsi (EC), Camila Martínez (CM)
+[Diego Barría](../../authors/dbarria) (DB), [Elinor Luco](../../authors/eluco) (EL), Diego Letelier (DL), Erika Celsi (EC), Camila Martínez (CM)
 
 **Funding** <br />
 This research was partially funded by the Universidad de Santiago de Chile under the projects USA1498.37 and USA1498.57. The funder had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.
