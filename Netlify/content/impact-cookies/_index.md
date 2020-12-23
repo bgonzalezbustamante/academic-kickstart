@@ -18,11 +18,12 @@ output: html_document
 
 ---
 
+<br /><br />
 <div class="container" style="text-align: center;">
 <div id="quote-box">
 <p class="quote"><strong>¡Te declararán la guerra!</strong></p>
 </div>
-<button id="loadQuote">Sacar otra galleta</button>
+<button id="loadQuote">Saca otra galleta coompaadree</button>
 </div>
 <script src="../files/script.js"></script>
 <script>

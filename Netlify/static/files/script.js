@@ -10,7 +10,7 @@ var viewedQuotes =[];
 //Array to hold quotes, sources, citaitons & years
 var quotes = [
 	{
-		quote: "Cuidado, la mortalidad por asma es muy alta en la actualidad",
+		quote: "<strong>Cuidado, la mortalidad por asma es muy alta en la actualidad</strong>",
 		source: "",
 		citation: "",
 		year: "",
@@ -38,28 +38,28 @@ var quotes = [
 		tags: "",
 	},
 	{
-		quote: "Always the first steps",
+		quote: "Toda doctora puede ser un proyecto",
 		source: "",
 		citation: "",
 		year: "",
 		tags: "",
 	},
 	{
-		quote: "Ask people to work against their better judgement",
+		quote: "Aplicarás técnicas complejas y sofisticadas",
 		source: "",
 		citation: "",
 		year: "",
 		tags: "",
 	},
 	{
-		quote: "Ask your body",
+		quote: "La vida puede ser dura, deberás aprender a transformar las dificultades en bonos",
 		source: "",
 		citation: "",
 		year: "",
 		tags: "",
 	},
 	{
-		quote: "Be dirty",
+		quote: "Descubrirás que tus colegas no entienden que tienes otro nivel de vida",
 		source: "",
 		citation: "",
 		year: "",
