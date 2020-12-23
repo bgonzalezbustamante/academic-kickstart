@@ -15,7 +15,7 @@ summary: 'DOI: 10.17605/OSF.IO/JPVS2'
 **Funding** <br />
 This research was partially funded by the Universidad de Santiago de Chile under the project USA1498.37. The funder had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.
 
-**Competing interests** <br />
+**Competing Interests** <br />
 The authors declared no potential conflict of interest with respect to this research.
 
 **Preprint** <br />

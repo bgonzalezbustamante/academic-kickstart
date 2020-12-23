@@ -12,7 +12,7 @@ summary: 'DOI: 10.17605/OSF.IO/6FM7X'
 **Funding** <br />
 This research did not receive any specific grant from funding agencies in the public, commercial, or not-for-profit sectors.
 
-**Competing interests** <br />
+**Competing Interests** <br />
 The author declared no potential conflict of interest with respect to this research.
 
 **Preprint** <br />

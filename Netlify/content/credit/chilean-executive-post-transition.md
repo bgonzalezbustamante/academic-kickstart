@@ -15,7 +15,7 @@ Carlos Huneeus (CH), [Carla Cisternas](../../authors/ccisternas) (CC), [Matías 
 **Funding** <br />
 This research was possible thanks to financial support from the Department of Public Administration and Policy of the Universidad de Santiago de Chile under the 2018 Academic Performance Agreement. The funder had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.
 
-**Competing interests** <br />
+**Competing Interests** <br />
 The author declared no potential conflict of interest with respect to this research.
 
 **Preprint** <br />

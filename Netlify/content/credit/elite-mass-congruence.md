@@ -15,7 +15,7 @@ Alfredo Joignant (AJ), [Antoine Maillet](../../authors/amaillet) (AM)
 **Funding** <br />
 This research was possible thanks to financial support from the IDRC-Canada under the project "A  Crisis  of  Legitimacy: Challenges of the Political Order in Argentina, Chile, and Uruguay" (Alfredo Joignant, PI) and the support of the Latin American Studies Association (Grant/2016/40071). The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.
 
-**Competing interests** <br />
+**Competing Interests** <br />
 The author declared no potential conflict of interest with respect to this research.
 
 **Preprint** <br />
