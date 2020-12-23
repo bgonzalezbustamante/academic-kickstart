@@ -50,9 +50,9 @@ social:
 ## - icon: academia
   ## icon_pack: ai
   ## link: https://
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/luisgarridoverg
+## - icon: twitter
+  ## icon_pack: fab
+  ## link: https://twitter.com/luisgarridoverg
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
