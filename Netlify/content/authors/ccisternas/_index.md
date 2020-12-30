@@ -44,6 +44,9 @@ social:
 - icon: osf
   icon_pack: ai
   link: https://osf.io/xkhdn/
+- icon: github
+  icon_pack: fab
+  link: https://github.com/carlacisternasg
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.cl/citations?user=ArIMp5YAAAAJ&hl
