@@ -2,7 +2,7 @@
 title: 'Social Sciences in Repression Contexts'
 subtitle: 'Project CRediT'
 date: '2018-09-06'
-authors: ["bgonzalezbustamante", "ccisternas"]
+authors: ["ccisternas", "bgonzalezbustamante"]
 summary: 'DOI: TBC'
 ---
 
