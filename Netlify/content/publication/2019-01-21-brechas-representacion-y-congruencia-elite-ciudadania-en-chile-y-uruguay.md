@@ -30,15 +30,16 @@ links:
   - icon: open-access 
     icon_pack: ai
     name: PDF
-    url: 'https://convergencia.uaemex.mx/article/view/11097'
+    url: 'https://www.redalyc.org/jatsRepo/105/10559568002/index.html'
+    ## url: 'https://convergencia.uaemex.mx/article/view/11097'
   ## - icon: dataverse
     ## icon_pack: ai
     ## name: Dataset
     ## url: ''
-  - icon: doi
-    icon_pack: ai
-    name: DOI
-    url: 'https://doi.org/10.29101/crcs.v26i80.11097'
+  ## - icon: doi
+    ## icon_pack: ai
+    ## name: DOI
+    ## url: 'https://doi.org/10.29101/crcs.v26i80.11097'
   - icon: arxiv
     icon_pack: ai
     name: Preprint
