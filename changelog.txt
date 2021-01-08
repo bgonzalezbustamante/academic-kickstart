@@ -20,8 +20,10 @@ Automatic updates: CV, research projects and CRediT, and collaborators' profiles
 
 ## [3.2.1] - 2021-01-08
 ### Added
-- Projects section (WIP).
-- Integration research projects with CRediT (WIP)
+- Projects section.
+- Integration research projects with CRediT.
+### Changed
+- Minor corrections.
 
 ## [3.1.1] - 2021-01-03
 ### Changed
