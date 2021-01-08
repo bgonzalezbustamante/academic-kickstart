@@ -46,12 +46,4 @@ design:
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
-
-design:
-  spacing:
-    padding:
-      - 50px
-      - '0'
-      - 50px
-      - '0'
 ---
