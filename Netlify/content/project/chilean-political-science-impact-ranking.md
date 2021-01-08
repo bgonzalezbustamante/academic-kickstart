@@ -42,5 +42,5 @@ The author declared that his employer could have an interest in the subject matt
 | 5.0 | December 1, 2020 | 5th data set |
 
 <small>DOI: [10.17605/OSF.IO/C8PRA](http://doi.org/10.17605/OSF.IO/C8PRA)</small><br />
-<small>Website: [https://bgonzalezbustamante.com/cps-ranking/](../cps-ranking/)</small><br />
+<small>Website: [https://bgonzalezbustamante.com/cps-ranking/](../../cps-ranking/)</small><br />
 <small>Last updated: December 22, 2020.</small>
