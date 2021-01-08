@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Matías Astete
-weight: 10
+weight: 11
 shortname: Astete, M.
 
 # Username (this should match the folder name)
