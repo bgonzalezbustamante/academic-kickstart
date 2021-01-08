@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Andrea González
-weight: 9
+weight: 10
 shortname: González, A.
 
 # Username (this should match the folder name)
