@@ -17,7 +17,7 @@ This research did not receive any specific grant from funding agencies in the pu
 The author declared no potential conflict of interest with respect to this research.
 
 **Preprint** <br />
-González-Bustamante, B. (2020). Title Evolution and early government responses to COVID-19 in South America. *Preprint upon request by email* <i class="fas fa-envelope"></i> &nbsp; [bastian.gonzalezbustamante@politics.ox.ac.uk](mailto:bastian.gonzalezbustamante@politics.ox.ac.uk) <br />
+González-Bustamante, B. (2020). Title Evolution and early government responses to COVID-19 in South America. *Preprint upon request* <i class="fas fa-envelope"></i> &nbsp; [bastian.gonzalezbustamante@politics.ox.ac.uk](mailto:bastian.gonzalezbustamante@politics.ox.ac.uk) <br />
 
 **Peer-Reviewed Publication** <br />
 González-Bustamante, B. (2021). [Evolution and early government responses to COVID-19 in South America](../../publication/early-government-responses-to-covid-19-in-south-america/). *World Development, 137*, 105180. DOI: [10.1016/j.worlddev.2020.105180](https://doi.org/10.1016/j.worlddev.2020.105180)
