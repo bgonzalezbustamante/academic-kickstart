@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Gabriel Henríquez
-weight: 7
+weight: 8
 shortname: Henríquez, G.
 
 # Username (this should match the folder name)
