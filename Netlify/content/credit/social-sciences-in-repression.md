@@ -7,7 +7,7 @@ summary: 'DOI: TBC'
 ---
 
 **Bibliographic Contributors** <br />
-[Carla Cisternas](../../authors/ccisternas), [Bastián González-Bustamante](../../) (BG)
+[Carla Cisternas](../../authors/ccisternas) (CC), [Bastián González-Bustamante](../../) (BG)
 
 **Non-Bibliographic Contributors** <br />
 [Diego Barría](../../authors/dbarria) (DB), [Elinor Luco](../../authors/eluco) (EL), Diego Letelier (DL), Erika Celsi (EC), Camila Martínez (CM)
