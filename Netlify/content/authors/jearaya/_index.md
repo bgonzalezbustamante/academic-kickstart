@@ -1,7 +1,7 @@
 ---
 # Display name
 title: J. Eduardo Araya
-weight: 13
+weight: 14
 shortname: Araya, J. E.
 
 # Username (this should match the folder name)
