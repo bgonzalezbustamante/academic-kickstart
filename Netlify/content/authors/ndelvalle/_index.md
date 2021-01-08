@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Nicolás Del Valle
-weight: 12
+weight: 13
 shortname: Del Valle, N.
 
 # Username (this should match the folder name)
