@@ -3,6 +3,7 @@ title: 'The Chilean Executive During the Democratic Post-Transition'
 subtitle: 'Project CRediT'
 date: '2018-02-20'
 authors: ["bgonzalezbustamante"]
+tags: ['Finished Projects']
 summary: 'DOI: 10.17605/OSF.IO/MWYC2'
 ---
 
