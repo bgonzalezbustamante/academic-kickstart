@@ -5,10 +5,10 @@ widget: portfolio
 
 # This file represents a page section.
 headless: true
-active: false
+active: true
 
 # Order that this section appears on the page.
-weight: 65
+weight: 30
 
 title: Projects
 subtitle: ''
@@ -26,12 +26,12 @@ content:
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove the toolbar, delete the entire `filter_button` block.
   filter_button:
-  - name: All
-    tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
-  - name: Other
-    tag: Demo
+  - name: Ongoing
+    tag: Ongoing
+  - name: Stand-By
+    tag: Stand-By
+  - name: Finished
+    tag: Finished
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
@@ -42,7 +42,7 @@ design:
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view: 2
+  view: 1
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
