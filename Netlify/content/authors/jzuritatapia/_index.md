@@ -1,7 +1,7 @@
 ---
 # Display name
 title: José Zurita-Tapia
-weight: 23
+weight: 24
 shortname: Zurita-Tapia, J.
 
 # Username (this should match the folder name)
