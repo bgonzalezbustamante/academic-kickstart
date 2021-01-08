@@ -20,7 +20,7 @@ This research was possible thanks to financial support from the Department of Pu
 The author declared no potential conflict of interest with respect to this research.
 
 **Preprint** <br />
-González-Bustamante, B. (2019).  The Politics‐Administration Dichotomy: A Case Study of the Chilean Executive during the Democratic Post‐Transition. *Preprint upon request* <i class="fas fa-envelope"></i> &nbsp; [bastian.gonzalezbustamante@politics.ox.ac.uk](mailto:bastian.gonzalezbustamante@politics.ox.ac.uk)
+González-Bustamante, B. (2019).  The Politics‐Administration Dichotomy: A Case Study of the Chilean Executive during the Democratic Post‐Transition. *Preprint upon request by* <i class="fas fa-envelope"></i> &nbsp; [bastian.gonzalezbustamante@politics.ox.ac.uk](mailto:bastian.gonzalezbustamante@politics.ox.ac.uk)
 
 **Peer-Reviewed Publication** <br />
 González-Bustamante, B. (2020). [The Politics‐Administration Dichotomy: A Case Study of the Chilean Executive during the Democratic Post‐Transition](../../publication/the-politics-administration-dichotomy/). *Bulletin of Latin American Research, 39*(5), 582-597. DOI: [10.1111/blar.13044](https://doi.org/10.1111/blar.13044)

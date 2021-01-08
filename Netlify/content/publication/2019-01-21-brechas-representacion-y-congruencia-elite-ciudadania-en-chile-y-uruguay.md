@@ -36,10 +36,10 @@ links:
     ## icon_pack: ai
     ## name: Dataset
     ## url: ''
-  ## - icon: doi
-    ## icon_pack: ai
-    ## name: DOI
-    ## url: 'https://doi.org/10.29101/crcs.v26i80.11097'
+  - icon: doi
+    icon_pack: ai
+    name: DOI
+    url: 'https://doi.org/10.29101/crcs.v26i80.11097'
   - icon: arxiv
     icon_pack: ai
     name: Preprint
@@ -51,7 +51,7 @@ links:
   - icon: users
     icon_pack: fas
     name: CRediT
-    url: 'credit/elite-mass-congruence'
+    url: 'project/elite-mass-congruence'
 image:
   caption: ''
   focal_point: ''

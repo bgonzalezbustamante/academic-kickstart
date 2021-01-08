@@ -54,7 +54,7 @@ links:
   - icon: users
     icon_pack: fas
     name: CRediT
-    url: 'credit/covid-19-south-america'
+    url: 'project/covid-19-south-america'
 image:
   caption: ''
   focal_point: ''

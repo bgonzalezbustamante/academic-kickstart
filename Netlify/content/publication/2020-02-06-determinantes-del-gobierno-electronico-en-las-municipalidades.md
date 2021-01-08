@@ -50,7 +50,7 @@ links:
   - icon: users
     icon_pack: fas
     name: CRediT
-    url: 'credit/baseline-local-egovernment-index'
+    url: 'project/baseline-local-egovernment-index'
 image:
   caption: ''
   focal_point: ''
