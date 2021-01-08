@@ -4,8 +4,8 @@
 widget: portfolio
 
 # This file represents a page section.
-headless: true
-active: true
+headless: false
+active: false
 
 # Order that this section appears on the page.
 weight: 40
@@ -46,4 +46,11 @@ design:
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
+
+  spacing:
+    padding:
+      - 50px
+      - '0'
+      - 50px
+      - '0'
 ---
