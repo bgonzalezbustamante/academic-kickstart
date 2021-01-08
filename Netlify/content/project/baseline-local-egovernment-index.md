@@ -3,6 +3,7 @@ title: 'Baseline Local E-Government Index 2016 in Chile'
 subtitle: 'Project CRediT'
 date: '2017-12-04'
 authors: ["bgonzalezbustamante", "acarvajal", "agonzalez"]
+tags: ['Finished Projects']
 summary: 'DOI: 10.17605/OSF.IO/JPVS2'
 ---
 
