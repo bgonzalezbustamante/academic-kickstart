@@ -21,7 +21,7 @@ The author declared that his employer could have an interest in the subject matt
 
 **Contributions** 
 
-| Contributor | Role |
+| | |
 |---|---|
 | BG | [<img src="../../credit/conceptualization.png" align="left" width="50" />](../../credit/conceptualization.png) [<img src="../../credit/data_curation.png" align="left" width="50" />](../../credit/data_curation.png) [<img src="../../credit/formal_analysis.png" align="left" width="50" />](../../credit/formal_analysis.png) [<img src="../../credit/investigation.png" align="left" width="50" />](../../credit/investigation.png) [<img src="../../credit/methodology.png" align="left" width="50" />](../../credit/methodology.png) [<img src="../../credit/project_administration.png" align="left" width="50" />](../../credit/project_administration.png) [<img src="../../credit/resources.png" align="left" width="50" />](../../credit/resources.png) [<img src="../../credit/computation.png" align="left" width="50" />](../../credit/computation.png) [<img src="../../credit/testing.png" align="left" width="50" />](../../credit/testing.png) [<img src="../../credit/data_visualization.png" align="left" width="50" />](../../credit/data_visualization.png) |
 | AO | [<img src="../../credit/resources.png" align="left" width="50" />](../../credit/resources.png) [<img src="../../credit/testing.png" align="left" width="50" />](../../credit/testing.png) |
