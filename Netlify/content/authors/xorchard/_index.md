@@ -12,7 +12,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Assistant Professor
+role: Director of Department
 
 # Organizations/Affiliations
 organizations:
