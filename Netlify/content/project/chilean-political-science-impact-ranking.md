@@ -3,7 +3,6 @@ title: 'Chilean Political Science Impact Ranking'
 subtitle: 'Project CRediT'
 date: '2019-12-02'
 authors: ["bgonzalezbustamante"]
-tags: ['Ongoing']
 summary: 'DOI: 10.17605/OSF.IO/C8PRA'
 ---
 

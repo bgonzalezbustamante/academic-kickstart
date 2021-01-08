@@ -8,9 +8,9 @@ headless: true
 active: true
 
 # Order that this section appears on the page.
-weight: 30
+weight: 40
 
-title: Projects
+title: Research Projects
 subtitle: ''
 
 content:
@@ -27,11 +27,11 @@ content:
   # To remove the toolbar, delete the entire `filter_button` block.
   filter_button:
   - name: Ongoing
-    tag: Ongoing
+    tag: Ongoing Projects
   - name: Stand-By
-    tag: Stand-By
+    tag: Stand-By Projects
   - name: Finished
-    tag: Finished
+    tag: Finished Projects
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
@@ -46,4 +46,12 @@ design:
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
+
+design:
+  spacing:
+    padding:
+      - 50px
+      - '0'
+      - 50px
+      - '0'
 ---

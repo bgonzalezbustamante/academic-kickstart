@@ -1,9 +1,8 @@
 ---
 title: 'Baseline Local E-Government Index 2016 in Chile'
-subtitle: 'Research Project'
+subtitle: 'Project CRediT'
 date: '2017-12-04'
 authors: ["bgonzalezbustamante", "acarvajal", "agonzalez"]
-tags: ['Finished']
 summary: 'DOI: 10.17605/OSF.IO/JPVS2'
 ---
 
@@ -29,7 +28,7 @@ González-Bustamante, B., Carvajal, A., and González, A. (2020). Determinantes 
 
 | | |
 |---|---|
-| BG | [<img src="../conceptualization.png" align="left" width="50" />](../conceptualization.png) [<img src="../formal_analysis.png" align="left" width="50" />](../../credit/formal_analysis.png) [<img src="../methodology.png" align="left" width="50" />](../methodology.png) [<img src="../project_administration.png" align="left" width="50" />](../project_administration.png) [<img src="../resources.png" align="left" width="50" />](../resources.png) [<img src="../computation.png" align="left" width="50" />](../computation.png) [<img src="../supervision.png" align="left" width="50" />](../supervision.png) [<img src="../data_visualization.png" align="left" width="50" />](../data_visualization.png) [<img src="../writing_initial_draft.png" align="left" width="50" />](../writing_initial_draft.png) [<img src="../writing_review.png" align="left" width="50" />](../writing_review.png) |
+| BG | [<img src="../conceptualization.png" align="left" width="50" />](../conceptualization.png) [<img src="../formal_analysis.png" align="left" width="50" />](../formal_analysis.png) [<img src="../methodology.png" align="left" width="50" />](../methodology.png) [<img src="../project_administration.png" align="left" width="50" />](../project_administration.png) [<img src="../resources.png" align="left" width="50" />](../resources.png) [<img src="../computation.png" align="left" width="50" />](../computation.png) [<img src="../supervision.png" align="left" width="50" />](../supervision.png) [<img src="../data_visualization.png" align="left" width="50" />](../data_visualization.png) [<img src="../writing_initial_draft.png" align="left" width="50" />](../writing_initial_draft.png) [<img src="../writing_review.png" align="left" width="50" />](../writing_review.png) |
 | AC | [<img src="../data_curation.png" align="left" width="50" />](../data_curation.png) [<img src="../investigation.png" align="left" width="50" />](../investigation.png) [<img src="../resources.png" align="left" width="50" />](../resources.png) [<img src="../writing_initial_draft.png" align="left" width="50" />](../writing_initial_draft.png) [<img src="../writing_review.png" align="left" width="50" />](../writing_review.png) |
 | AG | [<img src="../data_curation.png" align="left" width="50" />](../data_curation.png) [<img src="../investigation.png" align="left" width="50" />](../investigation.png) [<img src="../resources.png" align="left" width="50" />](../resources.png) [<img src="../writing_initial_draft.png" align="left" width="50" />](../writing_initial_draft.png) [<img src="../writing_review.png" align="left" width="50" />](../writing_review.png) |
 | DB | [<img src="../funding_acquisition.png" align="left" width="50" />](../funding_acquisition.png) |
