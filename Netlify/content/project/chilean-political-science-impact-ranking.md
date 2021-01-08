@@ -1,6 +1,6 @@
 ---
 title: 'Chilean Political Science Impact Ranking'
-subtitle: 'Project CRediT'
+subtitle: 'Research Project'
 date: '2019-12-02'
 authors: ["bgonzalezbustamante"]
 tags: ['Ongoing Projects']
@@ -23,11 +23,12 @@ The author declared that his employer could have an interest in the subject matt
 
 | Contributor | Role |
 |---|---|
-| BG | [<img src="../conceptualization.png" align="left" width="50" />](../conceptualization.png) [<img src="../data_curation.png" align="left" width="50" />](../data_curation.png) [<img src="../formal_analysis.png" align="left" width="50" />](../formal_analysis.png) [<img src="../investigation.png" align="left" width="50" />](../investigation.png) [<img src="../methodology.png" align="left" width="50" />](../methodology.png) [<img src="../project_administration.png" align="left" width="50" />](../project_administration.png) [<img src="../resources.png" align="left" width="50" />](../resources.png) [<img src="../computation.png" align="left" width="50" />](../computation.png) [<img src="../testing.png" align="left" width="50" />](../testing.png) [<img src="../data_visualization.png" align="left" width="50" />](../data_visualization.png) |
-| AO | [<img src="../resources.png" align="left" width="50" />](../resources.png) [<img src="../testing.png" align="left" width="50" />](../testing.png) |
-| CC | [<img src="../resources.png" align="left" width="50" />](../resources.png) [<img src="../testing.png" align="left" width="50" />](../testing.png) |
-| RC | [<img src="../resources.png" align="left" width="50" />](../resources.png) |
+| BG | [<img src="../../credit/conceptualization.png" align="left" width="50" />](../../credit/conceptualization.png) [<img src="../../credit/data_curation.png" align="left" width="50" />](../../credit/data_curation.png) [<img src="../../credit/formal_analysis.png" align="left" width="50" />](../../credit/formal_analysis.png) [<img src="../../credit/investigation.png" align="left" width="50" />](../../credit/investigation.png) [<img src="../../credit/methodology.png" align="left" width="50" />](../../credit/methodology.png) [<img src="../../credit/project_administration.png" align="left" width="50" />](../../credit/project_administration.png) [<img src="../../credit/resources.png" align="left" width="50" />](../../credit/resources.png) [<img src="../../credit/computation.png" align="left" width="50" />](../../credit/computation.png) [<img src="../../credit/testing.png" align="left" width="50" />](../../credit/testing.png) [<img src="../../credit/data_visualization.png" align="left" width="50" />](../../credit/data_visualization.png) |
+| AO | [<img src="../../credit/resources.png" align="left" width="50" />](../../credit/resources.png) [<img src="../../credit/testing.png" align="left" width="50" />](../../credit/testing.png) |
+| CC | [<img src="../../credit/resources.png" align="left" width="50" />](../../credit/resources.png) [<img src="../../credit/testing.png" align="left" width="50" />](../../credit/testing.png) |
+| RC | [<img src="../../credit/resources.png" align="left" width="50" />](../../credit/resources.png) |
 
+<small>Note: Further information on [bgonzalezbustamante.com/credit](../../credit/).</small><br />
 <small>Source: Compiled using badges from [Center for Open Science](https://github.com/CenterForOpenScience/open_research_badges) and core definitions from [CASRAI](https://casrai.org/credit/).</small><br />
 
 **Revision History**

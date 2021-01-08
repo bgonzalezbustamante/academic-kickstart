@@ -1,6 +1,6 @@
 ---
 title: 'Baseline Local E-Government Index 2016 in Chile'
-subtitle: 'Project CRediT'
+subtitle: 'Research Project'
 date: '2017-12-04'
 authors: ["bgonzalezbustamante", "acarvajal", "agonzalez"]
 tags: ['Finished Projects']
@@ -20,23 +20,23 @@ This research was partially funded by the Universidad de Santiago de Chile under
 The authors declared no potential conflict of interest with respect to this research.
 
 **Preprint** <br />
-González-Bustamante, B., Carvajal, A., and González, A. (2019). Determinantes del gobierno electrónico en las municipalidades: Evidencia del caso chileno. *SocArXiv*. DOI: [10.31235/osf.io/fze3x](http://doi.org/10.31235/osf.io/fze3x)
+González-Bustamante, B., Carvajal, A., and González, A. (2019). [Determinantes del gobierno electrónico en las municipalidades: Evidencia del caso chileno](../../publication/determinantes-del-gobierno-electronico-en-las-municipalidades/). *SocArXiv*. DOI: [10.31235/osf.io/fze3x](http://doi.org/10.31235/osf.io/fze3x)
 
 **Peer-Reviewed Publication** <br />
-González-Bustamante, B., Carvajal, A., and González, A. (2020). Determinantes del gobierno electrónico en las municipalidades: Evidencia del caso chileno. *Gestión y Política Pública, XXIX*(1), 97-129. DOI: [10.29265/gypp.v29i1.658](https://doi.org/10.29265/gypp.v29i1.658) <br />
+González-Bustamante, B., Carvajal, A., and González, A. (2020). [Determinantes del gobierno electrónico en las municipalidades: Evidencia del caso chileno](../../publication/determinantes-del-gobierno-electronico-en-las-municipalidades/). *Gestión y Política Pública, XXIX*(1), 97-129. DOI: [10.29265/gypp.v29i1.658](https://doi.org/10.29265/gypp.v29i1.658) <br />
 
 **Contributions** 
 
 | | |
 |---|---|
-| BG | [<img src="../../credit/conceptualization.png" align="left" width="50" />](../../credit/conceptualization.png) [<img src="../../credit/formal_analysis.png" align="left" width="50" />](../../credit/formal_analysis.png) [<img src="../../credit/methodology.png" align="left" width="50" />](../../credit/methodology.png) [<img src="../../credit/project_administration.png" align="left" width="50" />](../../credit/project_administration.png) [<img src="../../credit/resources.png" align="left" width="50" />](../../credit/resources.png) [<img src="../../credit/computation.png" align="left" width="50" />](../../credit/computation.png) [<img src="../../credit/supervision.png" align="left" width="50" />](../../credit/supervision.png) [<img src="../../credit/data_visualization.png" align="left" width="50" />](../../credit/data_visualization.png) [<img src="../writing_initial_draft.png" align="left" width="50" />](../writing_initial_draft.png) [<img src="../writing_review.png" align="left" width="50" />](../writing_review.png) |
-| AC | [<img src="../data_curation.png" align="left" width="50" />](../data_curation.png) [<img src="../investigation.png" align="left" width="50" />](../investigation.png) [<img src="../resources.png" align="left" width="50" />](../resources.png) [<img src="../writing_initial_draft.png" align="left" width="50" />](../writing_initial_draft.png) [<img src="../writing_review.png" align="left" width="50" />](../writing_review.png) |
-| AG | [<img src="../data_curation.png" align="left" width="50" />](../data_curation.png) [<img src="../investigation.png" align="left" width="50" />](../investigation.png) [<img src="../resources.png" align="left" width="50" />](../resources.png) [<img src="../writing_initial_draft.png" align="left" width="50" />](../writing_initial_draft.png) [<img src="../writing_review.png" align="left" width="50" />](../writing_review.png) |
-| DB | [<img src="../funding_acquisition.png" align="left" width="50" />](../funding_acquisition.png) |
-| CC | [<img src="../writing_review.png" align="left" width="50" />](../writing_review.png) |
-| LG | [<img src="../writing_review.png" align="left" width="50" />](../writing_review.png) |
+| BG | [<img src="../../credit/conceptualization.png" align="left" width="50" />](../../credit/conceptualization.png) [<img src="../../credit/formal_analysis.png" align="left" width="50" />](../../credit/formal_analysis.png) [<img src="../../credit/methodology.png" align="left" width="50" />](../../credit/methodology.png) [<img src="../../credit/project_administration.png" align="left" width="50" />](../../credit/project_administration.png) [<img src="../../credit/resources.png" align="left" width="50" />](../../credit/resources.png) [<img src="../../credit/computation.png" align="left" width="50" />](../../credit/computation.png) [<img src="../../credit/supervision.png" align="left" width="50" />](../../credit/supervision.png) [<img src="../../credit/data_visualization.png" align="left" width="50" />](../../credit/data_visualization.png) [<img src="../../credit/writing_initial_draft.png" align="left" width="50" />](../../credit/writing_initial_draft.png) [<img src="../../credit/writing_review.png" align="left" width="50" />](../writing_review.png) |
+| AC | [<img src="../../credit/data_curation.png" align="left" width="50" />](../../credit/data_curation.png) [<img src="../../credit/investigation.png" align="left" width="50" />](../../credit/investigation.png) [<img src="../../credit/resources.png" align="left" width="50" />](../../credit/resources.png) [<img src="../../credit/writing_initial_draft.png" align="left" width="50" />](../../credit/writing_initial_draft.png) [<img src="../../credit/writing_review.png" align="left" width="50" />](../writing_review.png) |
+| AG | [<img src="../../credit/data_curation.png" align="left" width="50" />](../../credit/data_curation.png) [<img src="../../credit/investigation.png" align="left" width="50" />](../../credit/investigation.png) [<img src="../../credit/resources.png" align="left" width="50" />](../../credit/resources.png) [<img src="../../credit/writing_initial_draft.png" align="left" width="50" />](../../credit/writing_initial_draft.png) [<img src="../writing_review.png" align="left" width="50" />](../../credit/writing_review.png) |
+| DB | [<img src="../../credit/funding_acquisition.png" align="left" width="50" />](../../credit/funding_acquisition.png) |
+| CC | [<img src="../../credit/writing_review.png" align="left" width="50" />](../../credit/writing_review.png) |
+| LG | [<img src="../../credit/writing_review.png" align="left" width="50" />](../../credit/writing_review.png) |
 
-<small>Note: Further information on [bgonzalezbustamante.com/credit](../).</small><br />
+<small>Note: Further information on [bgonzalezbustamante.com/credit](../../credit/).</small><br />
 <small>Source: Compiled using badges from [Center for Open Science](https://github.com/CenterForOpenScience/open_research_badges) and core definitions from [CASRAI](https://casrai.org/credit/).</small><br />
 
 **Revision History**

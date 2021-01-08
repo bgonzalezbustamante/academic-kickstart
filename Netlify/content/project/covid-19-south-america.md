@@ -1,8 +1,9 @@
 ---
 title: 'COVID-19 Pandemic in South America'
-subtitle: 'Project CRediT'
+subtitle: 'Research Project'
 date: '2020-05-31'
 authors: ["bgonzalezbustamante"]
+tags: ['Finished Projects']
 summary: 'DOI: 10.17605/OSF.IO/6FM7X'
 ---
 
@@ -19,15 +20,15 @@ The author declared no potential conflict of interest with respect to this resea
 González-Bustamante, B. (2020). Title Evolution and early government responses to COVID-19 in South America. *Preprint upon request by email* <i class="fas fa-envelope"></i> &nbsp; [bastian.gonzalezbustamante@politics.ox.ac.uk](mailto:bastian.gonzalezbustamante@politics.ox.ac.uk) <br />
 
 **Peer-Reviewed Publication** <br />
-González-Bustamante, B. (2021). Evolution and early government responses to COVID-19 in South America. *World Development, 137*, 105180. DOI: [10.1016/j.worlddev.2020.105180](https://doi.org/10.1016/j.worlddev.2020.105180)
+González-Bustamante, B. (2021). [Evolution and early government responses to COVID-19 in South America](../../publication/early-government-responses-to-covid-19-in-south-america/). *World Development, 137*, 105180. DOI: [10.1016/j.worlddev.2020.105180](https://doi.org/10.1016/j.worlddev.2020.105180)
 
 **Contributions** 
 
 | | |
 |---|---|
-| BG | [<img src="../conceptualization.png" align="left" width="50" />](../conceptualization.png) [<img src="../data_curation.png" align="left" width="50" />](../data_curation.png) [<img src="../formal_analysis.png" align="left" width="50" />](../formal_analysis.png) [<img src="../investigation.png" align="left" width="50" />](../investigation.png) [<img src="../methodology.png" align="left" width="50" />](../methodology.png) [<img src="../project_administration.png" align="left" width="50" />](../project_administration.png) [<img src="../resources.png" align="left" width="50" />](../resources.png) [<img src="../computation.png" align="left" width="50" />](../computation.png) [<img src="../testing.png" align="left" width="50" />](../testing.png) [<img src="../data_visualization.png" align="left" width="50" />](../data_visualization.png) [<img src="../writing_initial_draft.png" align="left" width="50" />](../writing_initial_draft.png) [<img src="../writing_review.png" align="left" width="50" />](../writing_review.png) |
+| BG | [<img src="../../credit/conceptualization.png" align="left" width="50" />](../../credit/conceptualization.png) [<img src="../../credit/data_curation.png" align="left" width="50" />](../../credit/data_curation.png) [<img src="../../credit/formal_analysis.png" align="left" width="50" />](../../credit/formal_analysis.png) [<img src="../../credit/investigation.png" align="left" width="50" />](../../credit/investigation.png) [<img src="../../credit/methodology.png" align="left" width="50" />](../../credit/methodology.png) [<img src="../../credit/project_administration.png" align="left" width="50" />](../../credit/project_administration.png) [<img src="../../credit/resources.png" align="left" width="50" />](../../credit/resources.png) [<img src="../../credit/computation.png" align="left" width="50" />](../../credit/computation.png) [<img src="../../credit/testing.png" align="left" width="50" />](../../credit/testing.png) [<img src="../../credit/data_visualization.png" align="left" width="50" />](../../credit/data_visualization.png) [<img src="../../credit/writing_initial_draft.png" align="left" width="50" />](../../credit/writing_initial_draft.png) [<img src="../../credit/writing_review.png" align="left" width="50" />](../../credit/writing_review.png) |
 
-<small>Note: Further information on [bgonzalezbustamante.com/credit](../).</small><br />
+<small>Note: Further information on [bgonzalezbustamante.com/credit](../../credit/).</small><br />
 <small>Source: Compiled using badges from [Center for Open Science](https://github.com/CenterForOpenScience/open_research_badges) and core definitions from [CASRAI](https://casrai.org/credit/).</small><br />
 
 **Revision History**
