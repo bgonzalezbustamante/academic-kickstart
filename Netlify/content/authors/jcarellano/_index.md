@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Juan Carlos Arellano
-weight: 15
+weight: 16
 shortname: Arellano, J. C.
 
 # Username (this should match the folder name)
