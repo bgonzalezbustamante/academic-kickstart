@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Luis Garrido-Vergara
-weight: 16
+weight: 18
 shortname: Garrido-Vergara, L.
 
 # Username (this should match the folder name)
