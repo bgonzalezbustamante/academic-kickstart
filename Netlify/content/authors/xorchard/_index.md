@@ -12,7 +12,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Director of Department
+role: Head of Department
 
 # Organizations/Affiliations
 organizations:
@@ -20,7 +20,7 @@ organizations:
   url: "http://periodismo.uahurtado.cl/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Director in the Journalism Department at the Universidad Alberto Hurtado.
+bio: Head in the Journalism Department at the Universidad Alberto Hurtado.
 
 interests:
 - Political communication
