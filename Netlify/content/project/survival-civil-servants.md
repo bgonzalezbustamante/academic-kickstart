@@ -14,7 +14,7 @@ summary: 'DOI: 10.17605/OSF.IO/WBF6M'
 [Carla Cisternas](../../authors/ccisternas) (CC)
 
 **Funding** <br />
-This research was possible thanks to financial support from the Department of Public Administration and Policy of the Universidad de Santiago de Chile under the 2018 Academic Performance Agreement. The funder had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.
+This research was possible thanks to financial support from the Department of Public Administration and Policy of the Universidad de Santiago de Chile under the 2018 Academic Performance Agreement. The funder had no role in study design, data collection and analysis, decision to publish, or manuscript preparation.
 
 **Competing Interests** <br />
 The authors declared no potential conflict of interest with respect to this research.
