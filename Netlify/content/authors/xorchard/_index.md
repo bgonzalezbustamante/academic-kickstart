@@ -45,9 +45,9 @@ social:
 ## - icon: google-scholar
   ## icon_pack: ai
   ## link: 
-## - icon: researchgate
-  ## icon_pack: fab
-  ## link: 
+- icon: researchgate
+  icon_pack: fab
+  link: https://www.researchgate.net/profile/Ximena_Orchard2
 - icon: academia
   icon_pack: ai
   link: https://uahurtado.academia.edu/XimenaOrchard
