@@ -38,9 +38,9 @@ social:
 ## - icon: orcid
   ## icon_pack: fab
   ## link: http://
-## - icon: osf
-  ## icon_pack: ai
-  ## link: https://
+- icon: osf
+  icon_pack: ai
+  link: https://osf.io/37keu/
 ## - icon: google-scholar
   ## icon_pack: ai
   ## link: https://
