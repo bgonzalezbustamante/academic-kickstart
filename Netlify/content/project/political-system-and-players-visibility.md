@@ -14,7 +14,7 @@ summary: 'DOI: TBC'
 [Elinor Luco](../../authors/eluco) (EL), Gabriela Gárate (GG), Andrea Carrasco (AC), Isidora Varela (IV), Martín Oyarce (MO)
 
 **Funding** <br />
-This research was funded by the Vice-Chancellor's Office of Research at the Universidad Alberto Hurtado, Chile. The funder had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.
+This research was funded by the Vice-Chancellor's Office of Research at the Universidad Alberto Hurtado, Chile. The funder had no role in study design, data collection and analysis, decision to publish, or manuscript preparation.
 
 **Competing Interests** <br />
 The authors declared no potential conflict of interest with respect to this research.
