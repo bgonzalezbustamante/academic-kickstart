@@ -3,7 +3,7 @@ title: 'Political System and Visibility of Political Players in the Chilean Elit
 subtitle: 'Research Project'
 date: '2019-04-30'
 authors: ["xorchard", "bgonzalezbustamante"]
-tags: ['Ongoing Projects']
+tags: ['Stand-By Projects']
 summary: 'DOI: TBC'
 ---
 
