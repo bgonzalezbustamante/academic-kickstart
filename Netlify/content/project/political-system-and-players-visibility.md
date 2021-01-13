@@ -46,4 +46,5 @@ Orchard, X., and González-Bustamante, B. (*forthcoming*). Title TBC. <br />
 | 3.0 | TBC | Authors' Original Manuscript (AOM)|
 
 <small>DOI: TBC</small><br />
-<small>Last updated: January 8, 2021.</small>
+<small>GitHub Page: TBC</small><br />
+<small>Last updated: January 11, 2021.</small>
