@@ -47,4 +47,5 @@ Orchard, X., and González-Bustamante, B. (*forthcoming*). Title TBC. <br />
 
 <small>DOI: TBC</small><br />
 <small>GitHub Page: TBC</small><br />
-<small>Last updated: January 11, 2021.</small>
+<small>Website: [http://www.investigaciondemedios.cl/proyectos-prensaElite.html](http://www.investigaciondemedios.cl/proyectos-prensaElite.html)</small><br />
+<small>Last updated: January 25, 2021.</small>
