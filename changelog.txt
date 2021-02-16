@@ -1,6 +1,6 @@
 # Changelog
 All notable changes to "Bastián González-Bustamante website code" will be documented in this file.
-Automatic updates: CV, research projects and CRediT, and collaborators' profiles.
+Automatic updates: CV, research projects, CRediT, and collaborators' profiles.
 
 ## [Unreleased]
 
