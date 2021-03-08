@@ -8,8 +8,8 @@ authors: ["bgonzalezbustamante"]
 summary: 'Data collected on December 1, 2020'
 ---
 
- Ranking | Name                        | ID             | Affiliation | Cites | H\_Index | Quartile |
-|-----|---------|-----------------------------|----------------|-------------|-------|----------|----------|
+ Ranking | Name                        | ID             | Affiliation | Cites | H-Index | Quartile |
+|---------|-----------------------------|----------------|-------------|-------|----------|----------|
 | 1   | David Altman                | xWbhhH8AAAAJ   | PUC-VDEM    | 6,086 | $38$     | $1$      |
 | 2   | Lucia Dammert               | Kh9TTGwAAAAJ   | USACH       | 4,866 | $31$     | $1$      |
 | 3   | Cristóbal Rovira Kaltwasser | 4iRjwbMAAAAJ   | UDP         | 6,076 | $30$     | $1$      |
@@ -163,6 +163,8 @@ summary: 'Data collected on December 1, 2020'
 | 151 | Sebastián Carrasco          | CrQouUsAAAAJ   | UCT         | 1     | $1$      | $4$      |
 | 152 | Fernando Schmidt            | wXHJZ4oAAAAJ   | UDD         | 0     | $0$      | $4$      |
 
+<small>Note: The affiliations have been standardised. Data collected on December 1, 2020.</small>
+
 **Would you like to suggest someone?**
 
 Please send an email to <i class="fas fa-envelope"></i> &nbsp; bastian.gonzalezbustamante@politics.ox.ac.uk
@@ -170,4 +172,3 @@ Please send an email to <i class="fas fa-envelope"></i> &nbsp; bastian.gonzalezb
 **How to download and cite this dataset?**
 
 González-Bustamante, B. (2020). *Chilean Political Science Impact Ranking Dataset* [Data collected on December 1, 2020]. DOI: [10.17605/OSF.IO/M3NZD](http://doi.org/10.17605/OSF.IO/M3NZD)
-
