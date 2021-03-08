@@ -1,6 +1,6 @@
 ---
 title: 'Career Trajectories March 2020'
-weight: 8
+## weight: 
 date: '2020-03-05'
 authors: ["bgonzalezbustamante"]
 ## categories: []
