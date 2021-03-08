@@ -1,6 +1,6 @@
 ---
 title: "Co-Author Network December 2019"
-weight: 12
+## weight: 
 date: '2019-12-04'
 authors: ["bgonzalezbustamante"]
 ## categories: []
