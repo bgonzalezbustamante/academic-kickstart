@@ -18,7 +18,7 @@ output: html_document
 
 ---
 
-| [![version](https://img.shields.io/badge/version-v3.2.1-blue.svg)](https://github.com/bgonzalezbustamante/CPS-Ranking/blob/master/changelog.txt) | [![lastrelease](https://img.shields.io/badge/latest%20release-March%202021-orange.svg)](/cps-ranking/series/2021-03-08-impact-ranking/) | [![ranked](https://img.shields.io/badge/cases%20ranked-153-brightgreen.svg)](/cps-ranking/series/2021-03-08-impact-ranking/) | [![nextrelease](https://img.shields.io/badge/next%20release-June%202021-red.svg)](https://github.com/bgonzalezbustamante/CPS-Ranking/blob/master/changelog.txt) | [![tbranked](https://img.shields.io/badge/to%20be%20ranked-0-yellow.svg)](https://github.com/bgonzalezbustamante/CPS-Ranking/blob/master/to-be-ranked.md) |
+| [![version](https://img.shields.io/badge/version-v3.2.2-blue.svg)](https://github.com/bgonzalezbustamante/CPS-Ranking/blob/master/changelog.txt) | [![lastrelease](https://img.shields.io/badge/latest%20release-March%202021-orange.svg)](/cps-ranking/series/2021-03-08-impact-ranking/) | [![ranked](https://img.shields.io/badge/cases%20ranked-153-brightgreen.svg)](/cps-ranking/series/2021-03-08-impact-ranking/) | [![nextrelease](https://img.shields.io/badge/next%20release-June%202021-red.svg)](https://github.com/bgonzalezbustamante/CPS-Ranking/blob/master/changelog.txt) | [![tbranked](https://img.shields.io/badge/to%20be%20ranked-0-yellow.svg)](https://github.com/bgonzalezbustamante/CPS-Ranking/blob/master/to-be-ranked.md) |
 |---|---|---|---|---|
 
 This ranking is presented from the highest to the lowest H-Index. The number of cites has been used as a second criterion in case of a tie in H-Index.
