@@ -166,7 +166,7 @@ summary: 'Data collected on March 1, 2021'
 
 <small>Note: The affiliations have been standardised. Data collected on March 1, 2021. C-Index goes from zero to 100 and reflects the Google profiles' consistency in terms of authorship. Lower values are associated with greater inconsistencies, therefore, the researcher's indicators could be biased, and his/her position might be overestimated. The index has been calculated as follows: </small><br />
 <small>C-Index = $100 - \left(100 * \frac{\sum \text{Cites}}{\sum \text{Cites with Authorship Problems}}\right)$</small><br />
-<small>Researchers to be added: Carla Alberti (ID 3tcX6pYAAAAJ) and Cristóbal Bywaters C. (ID omFHUesAAAAJ).</small><br /><br />
+<small>Researchers to be added: Carla Alberti (ID 3tcX6pYAAAAJ) and Cristóbal Bywaters C. (ID omFHUesAAAAJ).</small><br />
 
 **Would you like to suggest someone?**
 
