@@ -11,7 +11,7 @@ summary: 'DOI: 10.17605/OSF.IO/C8PRA'
 [Bastián González-Bustamante](../../) (BG)
 
 **Non-Bibliographic Contributors** <br />
-[Alejandro Olivares](../../authors/aolivares) (AO), [Carla Cisternas](../../authors/ccisternas) (CC), [Rodrigo Cuevas](../../authors/rcuevas) (RC)
+[Carla Cisternas](../../authors/ccisternas) (CC), [Alejandro Olivares](../../authors/aolivares) (AO), [Rodrigo Cuevas](../../authors/rcuevas) (RC)
 
 **Funding** <br />
 This research did not receive any specific grant from funding agencies in the public, commercial, or not-for-profit sectors.
@@ -24,8 +24,8 @@ The author declared that his employer could have an interest in the subject matt
 | | |
 |---|---|
 | BG | [<img src="../../credit/conceptualization.png" align="left" width="50" />](../../credit/conceptualization.png) [<img src="../../credit/data_curation.png" align="left" width="50" />](../../credit/data_curation.png) [<img src="../../credit/formal_analysis.png" align="left" width="50" />](../../credit/formal_analysis.png) [<img src="../../credit/investigation.png" align="left" width="50" />](../../credit/investigation.png) [<img src="../../credit/methodology.png" align="left" width="50" />](../../credit/methodology.png) [<img src="../../credit/project_administration.png" align="left" width="50" />](../../credit/project_administration.png) [<img src="../../credit/resources.png" align="left" width="50" />](../../credit/resources.png) [<img src="../../credit/computation.png" align="left" width="50" />](../../credit/computation.png) [<img src="../../credit/testing.png" align="left" width="50" />](../../credit/testing.png) [<img src="../../credit/data_visualization.png" align="left" width="50" />](../../credit/data_visualization.png) |
+| CC | [<img src="../../credit/data_curation.png" align="left" width="50" />](../../credit/data_curation.png) [<img src="../../credit/resources.png" align="left" width="50" />](../../credit/resources.png) [<img src="../../credit/testing.png" align="left" width="50" />](../../credit/testing.png) |
 | AO | [<img src="../../credit/resources.png" align="left" width="50" />](../../credit/resources.png) [<img src="../../credit/testing.png" align="left" width="50" />](../../credit/testing.png) |
-| CC | [<img src="../../credit/resources.png" align="left" width="50" />](../../credit/resources.png) [<img src="../../credit/testing.png" align="left" width="50" />](../../credit/testing.png) |
 | RC | [<img src="../../credit/resources.png" align="left" width="50" />](../../credit/resources.png) |
 
 <small>Note: Further information on [bgonzalezbustamante.com/credit](../../credit/).</small><br />
@@ -40,7 +40,8 @@ The author declared that his employer could have an interest in the subject matt
 | 3.0 | June 2, 2020 | 3rd data set |
 | 4.0 | September 5, 2020 | 4th data set |
 | 5.0 | December 1, 2020 | 5th data set |
+| 5.0 | March 1, 2021 | 6th data set |
 
 <small>DOI: [10.17605/OSF.IO/C8PRA](http://doi.org/10.17605/OSF.IO/C8PRA)</small><br />
 <small>Website: [https://bgonzalezbustamante.com/cps-ranking/](../../cps-ranking/)</small><br />
-<small>Last updated: December 22, 2020.</small>
+<small>Last updated: March 8, 2021.</small>
