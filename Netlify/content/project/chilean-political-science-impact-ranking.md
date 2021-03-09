@@ -40,7 +40,7 @@ The author declared that his employer could have an interest in the subject matt
 | 3.0 | June 2, 2020 | 3rd data set |
 | 4.0 | September 5, 2020 | 4th data set |
 | 5.0 | December 1, 2020 | 5th data set |
-| 5.0 | March 1, 2021 | 6th data set |
+| 6.0 | March 1, 2021 | 6th data set |
 
 <small>DOI: [10.17605/OSF.IO/C8PRA](http://doi.org/10.17605/OSF.IO/C8PRA)</small><br />
 <small>Website: [https://bgonzalezbustamante.com/cps-ranking/](../../cps-ranking/)</small><br />
