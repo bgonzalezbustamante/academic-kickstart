@@ -14,7 +14,7 @@ baseurl = "https://bgonzalezbustamante.com/"
 
 # Enter a copyright notice to display in the site footer.
 # To display a copyright symbol, type `&copy;`. For current year, type `{year}`.
-copyright = "8 March {year}"
+copyright = "15 March {year}"
 
 ############################
 ## Advanced options below ##
