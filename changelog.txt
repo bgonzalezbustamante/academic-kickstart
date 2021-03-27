@@ -4,17 +4,22 @@ Automatic updates: CV, research projects, CRediT, collaborators' profiles, and m
 
 ## [Unreleased]
 
-## [3.5.2] - TBC
+## [3.5.3] - TBC
 ### Added
 - Recent talks section.
 ## Changed
 - CPS-Ranking from bgonzalezbustamante.com to an own domain.
 
-## [3.4.2] - 2021-06-05
+## [3.4.3] - 2021-06-05
 ### Added
 - Updated CPS-Ranking.
 ### Changed
 - Update of badges in CPS-Ranking.
+
+## [3.3.3] - 2021-03-27
+### Changed
+- Revision of upgrade versioning.
+- Minor corrections.
 
 ## [Released]
 
@@ -116,7 +121,7 @@ Automatic updates: CV, research projects, CRediT, collaborators' profiles, and m
 ### Added
 - Automatic CV updates.
 ### Changed
-- Update of badges at GitHub repository.
+- Update of badges on GitHub repository.
 
 ## [2.11.5] - 2020-07-31
 ### Changed
@@ -129,7 +134,7 @@ Automatic updates: CV, research projects, CRediT, collaborators' profiles, and m
 ## [2.11.3] - 2020-06-03
 ### Added
 - Updated CPS-Ranking.
-- Link to the changelog at GitHub repository.
+- Link to the changelog on GitHub repository.
 ### Changed
 - Update of badges in CPS-Ranking.
 - Update of projects.
@@ -177,8 +182,8 @@ CRediT GitHub repository.
 ## [2.5.2] 2020-02-11
 ### Added
 - Version at the footnote.
-- ORCID badge at GitHub repository.
 ### Changed
+- Update of badges.
 - Update of badges in CPS-Ranking.
 ### Removed
 - Collaborators section.
@@ -196,7 +201,7 @@ CRediT GitHub repository.
 
 ## [2.4.0] - 2020-01-14
 ### Added
-- CPS-Ranking badges in SVG at GitHub repository.
+- CPS-Ranking badges in SVG on GitHub repository.
 ### Changed
 - Update of social networks links.
 - Update of some collaborators information.
