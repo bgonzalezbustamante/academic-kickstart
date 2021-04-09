@@ -17,7 +17,7 @@ summary: 'DOI: 10.17605/OSF.IO/JPVS2'
 This research was partially funded by the Universidad de Santiago de Chile under the project USA1498.37. The funder had no role in study design, data collection and analysis, decision to publish, or manuscript preparation.
 
 **Competing Interests** <br />
-The authors declared no potential conflict of interest with respect to this research.
+The authors declare no potential conflict of interest with respect to this research.
 
 **Preprint** <br />
 González-Bustamante, B., Carvajal, A., and González, A. (2019). [Determinantes del gobierno electrónico en las municipalidades: Evidencia del caso chileno](../../publication/determinantes-del-gobierno-electronico-en-las-municipalidades/). *SocArXiv*. DOI: [10.31235/osf.io/fze3x](http://doi.org/10.31235/osf.io/fze3x)
