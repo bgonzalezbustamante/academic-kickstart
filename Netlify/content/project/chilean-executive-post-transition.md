@@ -53,7 +53,9 @@ González-Bustamante, B. (2020). [The Politics‐Administration Dichotomy: A Cas
 | 9.0 | October 21, 2019 | AM revised |
 | 10.0 | October 23, 2019 | AM revised |
 | 11.0 | October 24, 2019 | Minor corrections |
-| 12.0 | November 26, 2019 | Version of Record (VOR) |
+| 12.0 | October 25, 2019 | Minor corrections |
+| 13.0 | October 27, 2019 | Minor corrections |
+| 14.0 | November 26, 2019 | Version of Record (VOR) |
 
 <small>DOI: [10.17605/OSF.IO/MWYC2](http://doi.org/10.17605/OSF.IO/MWYC2)</small><br />
-<small>Last updated: December 22, 2020.</small>
+<small>Last updated: April 9, 2021.</small>
