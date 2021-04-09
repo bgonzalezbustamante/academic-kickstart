@@ -14,10 +14,10 @@ summary: 'DOI: 10.17605/OSF.IO/MWYC2'
 Carlos Huneeus (CH), [Carla Cisternas](../../authors/ccisternas) (CC), [Matías Astete](../../authors/mastete) (MA), [Berenice Orvenes](../../authors/borvenes) (BO)
 
 **Funding** <br />
-This research was possible thanks to financial support from the Department of Public Administration and Policy of the Universidad de Santiago de Chile under the 2018 Academic Performance Agreement. The funder had no role in study design, data collection and analysis, decision to publish, or manuscript preparation.
+This research was possible thanks to financial support from the Management and Public Policies Department at the Universidad de Santiago de Chile under the 2018 Academic Performance Agreement. The funder had no role in study design, data collection and analysis, decision to publish, or manuscript preparation.
 
 **Competing Interests** <br />
-The author declared no potential conflict of interest with respect to this research.
+The author declares no potential conflict of interest with respect to this research.
 
 **Preprint** <br />
 González-Bustamante, B. (2019).  The Politics‐Administration Dichotomy: A Case Study of the Chilean Executive during the Democratic Post‐Transition. *Preprint upon request at [bastian.gonzalezbustamante@politics.ox.ac.uk](mailto:bastian.gonzalezbustamante@politics.ox.ac.uk)*
