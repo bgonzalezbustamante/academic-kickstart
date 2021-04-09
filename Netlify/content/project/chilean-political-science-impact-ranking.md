@@ -17,7 +17,7 @@ summary: 'DOI: 10.17605/OSF.IO/C8PRA'
 This research did not receive any specific grant from funding agencies in the public, commercial, or not-for-profit sectors.
 
 **Competing Interests** <br />
-The author declared that his employer could have an interest in the subject matter or material discussed in this project.
+The author declares that his employer could have an interest in the subject matter or material discussed in this project.
 
 **Contributions** 
 
