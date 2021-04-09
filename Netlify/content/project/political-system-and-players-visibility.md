@@ -17,7 +17,7 @@ summary: 'DOI: TBC'
 This research was funded by the Vice-Chancellor's Office of Research at the Universidad Alberto Hurtado, Chile. The funder had no role in study design, data collection and analysis, decision to publish, or manuscript preparation.
 
 **Competing Interests** <br />
-The authors declared no potential conflict of interest with respect to this research.
+The authors declare no potential conflict of interest with respect to this research.
 
 **Preprint in Progress** <br />
 Orchard, X., and González-Bustamante, B. (*forthcoming*). Title TBC. <br />
