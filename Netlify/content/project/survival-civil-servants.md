@@ -11,10 +11,10 @@ summary: 'DOI: 10.17605/OSF.IO/WBF6M'
 [Bastián González-Bustamante](../../) (BG), [Matías Astete](../../authors/mastete) (MA), [Berenice Orvenes](../../authors/borvenes) (BO)
 
 **Funding** <br />
-This research was possible thanks to financial support from the Department of Public Administration and Policy of the Universidad de Santiago de Chile under the 2018 Academic Performance Agreement. The funder had no role in study design, data collection and analysis, decision to publish, or manuscript preparation.
+This research was possible thanks to financial support from the Management and Public Policies Department at the Universidad de Santiago de Chile under the 2018 Academic Performance Agreement. The funder had no role in study design, data collection and analysis, decision to publish, or manuscript preparation.
 
 **Competing Interests** <br />
-The authors declared no potential conflict of interest with respect to this research.
+The authors declare no potential conflict of interest with respect to this research.
 
 **Preprint in Progress** <br />
 González-Bustamante, B., Astete, M., and Orvenes, B. (*forthcoming*). Title TBC. <br />
@@ -34,7 +34,7 @@ González-Bustamante, B., Astete, M., and Orvenes, B. (*forthcoming*). Title TBC
 
 | Revision | Date | Description |
 |---|---|---|
-| 1.0 | TBC | Authors' Original Manuscript (AOM) |
+| 1.0 | April 9, 2021 | Authors' Original Manuscript (AOM) |
 
 <small>DOI: [10.17605/OSF.IO/WBF6M](http://doi.org/10.17605/OSF.IO/WBF6M)</small><br />
-<small>Last updated: February 16, 2021.</small>
+<small>Last updated: April 9, 2021.</small>
