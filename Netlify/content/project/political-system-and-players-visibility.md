@@ -26,7 +26,7 @@ Orchard, X., and González-Bustamante, B. (*forthcoming*). Title TBC. <br />
 
 | | |
 |---|---|
-| XO | [<img src="../../credit/conceptualization.png" align="left" width="50" />](../../credit/conceptualization.png) [<img src="../../credit/data_curation.png" align="left" width="50" />](../../credit/data_curation.png) [<img src="../../credit/funding_acquisition.png" align="left" width="50" />](../../credit/funding_acquisition.png) [<img src="../../credit/methodology.png" align="left" width="50" />](../../credit/methodology.png) [<img src="../../credit/project_administration.png" align="left" width="50" />](../../credit/project_administration.png) [<img src="../../credit/resources.png" align="left" width="50" />](../../credit/resources.png) [<img src="../../credit/supervision.png" align="left" width="50" />](../../credit/supervision.png) [<img src="../../credit/writing_initial_draft.png" align="left" width="50" />](../../credit/writing_initial_draft.png) [<img src="../../credit/writing_review.png" align="left" width="50" />](../../credit/writing_review.png) |
+| XO | [<img src="../../credit/conceptualization.png" align="left" width="50" />](../../credit/conceptualization.png) [<img src="../../credit/data_curation.png" align="left" width="50" />](../../credit/data_curation.png) [<img src="../../credit/funding_acquisition.png" align="left" width="50" />](../../credit/funding_acquisition.png) [<img src="../../credit/methodology.png" align="left" width="50" />](../../credit/methodology.png) [<img src="../../credit/project_administration.png" align="left" width="50" />](../../credit/project_administration.png) [<img src="../../credit/resources.png" align="left" width="50" />](../../credit/resources.png) [<img src="../../credit/supervision.png" align="left" width="50" />](../../credit/supervision.png) [<img src="../../credit/testing.png" align="left" width="50" />](../../credit/testing.png) [<img src="../../credit/writing_initial_draft.png" align="left" width="50" />](../../credit/writing_initial_draft.png) [<img src="../../credit/writing_review.png" align="left" width="50" />](../../credit/writing_review.png) |
 | BG | [<img src="../../credit/conceptualization.png" align="left" width="50" />](../../credit/conceptualization.png) [<img src="../../credit/data_curation.png" align="left" width="50" />](../../credit/data_curation.png) [<img src="../../credit/formal_analysis.png" align="left" width="50" />](../../credit/formal_analysis.png) [<img src="../../credit/methodology.png" align="left" width="50" />](../../credit/methodology.png) [<img src="../../credit/resources.png" align="left" width="50" />](../../credit/resources.png) [<img src="../../credit/computation.png" align="left" width="50" />](../../credit/computation.png) [<img src="../../credit/testing.png" align="left" width="50" />](../../credit/testing.png) [<img src="../../credit/data_visualization.png" align="left" width="50" />](../../credit/data_visualization.png) [<img src="../../credit/writing_initial_draft.png" align="left" width="50" />](../../credit/writing_initial_draft.png) [<img src="../../credit/writing_review.png" align="left" width="50" />](../../credit/writing_review.png) |
 | EL | [<img src="../../credit/investigation.png" align="left" width="50" />](../../credit/investigation.png) |
 | GG | [<img src="../../credit/investigation.png" align="left" width="50" />](../../credit/investigation.png) |
@@ -43,9 +43,9 @@ Orchard, X., and González-Bustamante, B. (*forthcoming*). Title TBC. <br />
 |---|---|---|
 | 1.0 | May 2, 2019 | Sampling procedure document |
 | 2.0 | July 3, 2019 | Sample validation document |
-| 3.0 | TBC | Authors' Original Manuscript (AOM)|
+| 3.0 | April 12, 2021 | Authors' Original Manuscript (AOM)|
 
 <small>DOI: TBC</small><br />
 <small>GitHub Page: TBC</small><br />
 <small>Website: [http://www.investigaciondemedios.cl/proyectos-prensaElite.html](http://www.investigaciondemedios.cl/proyectos-prensaElite.html)</small><br />
-<small>Last updated: January 25, 2021.</small>
+<small>Last updated: April 12, 2021.</small>
