@@ -16,12 +16,12 @@ Automatic updates: CV, research projects, CRediT, collaborators' profiles, and m
 ### Changed
 - Update of badges in CPS-Ranking.
 
+## [Released]
+
 ## [3.3.3] - 2021-03-27
 ### Changed
 - Revision of upgrade versioning.
 - Minor corrections.
-
-## [Released]
 
 ## [3.3.2] - 2021-03-16
 ### Changed
