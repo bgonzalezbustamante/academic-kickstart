@@ -166,7 +166,7 @@ summary: 'Data collected on March 1, 2021'
 
 <small>Note: The affiliations have been standardised. Data collected on March 1, 2021. C-Index goes from zero to 100 and reflects the Google profiles' consistency in terms of authorship. Lower values are associated with greater inconsistencies, therefore, the researcher's indicators could be biased, and his/her position might be overestimated. The index has been calculated as follows: </small><br />
 <small>C-Index = $100 - \left(100 * \frac{\sum \text{Cites}}{\sum \text{Cites with Authorship Problems}}\right)$</small><br />
-<small>Researchers to be added: Carla Alberti (ID 3tcX6pYAAAAJ), Cristóbal Bywaters C. (ID omFHUesAAAAJ), Maite De Cea (ID tHL6bFwAAAAJ), Lucia Miranda Leibe (ID PfjSTeUAAAAJ), Carlos Meléndez (ID JD_X4KYAAAAJ), Nerea C. Palma (ID qNc7eZgAAAAJ), Diego Telias (ID ZjxwRK0AAAAJ), and Amy L. Atchison (ID LWLkiYMAAAAJ).</small><br /><br />
+<small>Researchers to be added: Carla Alberti (ID 3tcX6pYAAAAJ), Cristóbal Bywaters C. (ID omFHUesAAAAJ), Maite De Cea (ID tHL6bFwAAAAJ), Lucia Miranda Leibe (ID PfjSTeUAAAAJ), Carlos Meléndez (ID JD_X4KYAAAAJ), Nerea C. Palma (ID qNc7eZgAAAAJ), Diego Telias (ID ZjxwRK0AAAAJ), Amy L. Atchison (ID LWLkiYMAAAAJ), Arlette Martínez Ossa (ID kv5dWS4AAAAJ), Pablo Argote (ID 6DqP7GsAAAAJ), and Jaime Baeza Freer (ID xwVLXRQAAAAJ).</small><br /><br />
 
 **Would you like to suggest someone?**
 
