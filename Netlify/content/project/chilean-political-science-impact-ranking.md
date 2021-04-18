@@ -24,8 +24,8 @@ The author declares that his employer could have an interest in the subject matt
 | | |
 |---|---|
 | BG | [<img src="../../credit/conceptualization.png" align="left" width="50" />](../../credit/conceptualization.png) [<img src="../../credit/data_curation.png" align="left" width="50" />](../../credit/data_curation.png) [<img src="../../credit/formal_analysis.png" align="left" width="50" />](../../credit/formal_analysis.png) [<img src="../../credit/investigation.png" align="left" width="50" />](../../credit/investigation.png) [<img src="../../credit/methodology.png" align="left" width="50" />](../../credit/methodology.png) [<img src="../../credit/project_administration.png" align="left" width="50" />](../../credit/project_administration.png) [<img src="../../credit/resources.png" align="left" width="50" />](../../credit/resources.png) [<img src="../../credit/computation.png" align="left" width="50" />](../../credit/computation.png) [<img src="../../credit/testing.png" align="left" width="50" />](../../credit/testing.png) [<img src="../../credit/data_visualization.png" align="left" width="50" />](../../credit/data_visualization.png) |
+| AO | [<img src="../../credit/data_curation.png" align="left" width="50" />](../../credit/data_curation.png) [<img src="../../credit/resources.png" align="left" width="50" />](../../credit/resources.png) [<img src="../../credit/testing.png" align="left" width="50" />](../../credit/testing.png) |
 | CC | [<img src="../../credit/data_curation.png" align="left" width="50" />](../../credit/data_curation.png) [<img src="../../credit/resources.png" align="left" width="50" />](../../credit/resources.png) [<img src="../../credit/testing.png" align="left" width="50" />](../../credit/testing.png) |
-| AO | [<img src="../../credit/resources.png" align="left" width="50" />](../../credit/resources.png) [<img src="../../credit/testing.png" align="left" width="50" />](../../credit/testing.png) |
 | RC | [<img src="../../credit/resources.png" align="left" width="50" />](../../credit/resources.png) |
 
 <small>Note: Further information on [bgonzalezbustamante.com/credit](../../credit/).</small><br />
@@ -44,4 +44,4 @@ The author declares that his employer could have an interest in the subject matt
 
 <small>DOI: [10.17605/OSF.IO/C8PRA](http://doi.org/10.17605/OSF.IO/C8PRA)</small><br />
 <small>Website: [https://bgonzalezbustamante.com/cps-ranking/](../../cps-ranking/)</small><br />
-<small>Last updated: March 8, 2021.</small>
+<small>Last updated: April 18, 2021.</small>
