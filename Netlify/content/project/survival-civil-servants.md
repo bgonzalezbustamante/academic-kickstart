@@ -35,6 +35,7 @@ González-Bustamante, B., Astete, M., and Orvenes, B. (*forthcoming*). Title TBC
 | Revision | Date | Description |
 |---|---|---|
 | 1.0 | April 9, 2021 | Authors' Original Manuscript (AOM) |
+| 2.0 | April 16, 2021 | AOM revised submitted to peer review |
 
 <small>DOI: [10.17605/OSF.IO/WBF6M](http://doi.org/10.17605/OSF.IO/WBF6M)</small><br />
-<small>Last updated: April 9, 2021.</small>
+<small>Last updated: April 16, 2021.</small>
