@@ -9,7 +9,7 @@ doi: ''
 ## publishDate: '2019-12-15T22:29:32Z'
 publication_types:
   - '5'
-publication: '*Revista de Sociología*, (29), 37-54'
+publication: '*Revista de Sociología*, 29, 37-54'
 publication_short: ''
 abstract: 'This paper analyses the main factors that allow access to Michelle Bachelet’s cabinet (2006-2010) and Sebastián Piñera’s cabinet (2010-2014) in Chile, with focus on the influence of participation in think tanks to access the cabinet. We work with a database of 102 cases corresponding to 90 people who were appointed ministers in the mentioned period. We present a description of the group and a Qualitative Comparative Analysis (QCA). The results find that think tank membership is a relevant factor for appointments in political and economic ministries during both governments.'
 summary: ''
