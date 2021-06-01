@@ -4,13 +4,13 @@ Automatic updates: CV, research projects, CRediT, collaborators' profiles, and m
 
 ## [Unreleased]
 
-## [3.5.4] - TBC
+## [3.6.3] - TBC
 ### Added
 - Recent talks section.
 ## Changed
 - CPS-Ranking from bgonzalezbustamante.com to an own domain.
 
-## [3.4.4] - 2021-06-05
+## [3.5.3] - 2021-06-05
 ### Added
 - Updated CPS-Ranking.
 ### Changed
@@ -18,8 +18,11 @@ Automatic updates: CV, research projects, CRediT, collaborators' profiles, and m
 
 ## [Released]
 
-## [3.3.4] - 2021-06-01
+## [3.4.3] - 2021-06-01
+### Added
+- Updated CPS-Ranking.
 ### Changed
+- Update of badges in CPS-Ranking.
 - Minor corrections.
 - Update of social icons.
 
