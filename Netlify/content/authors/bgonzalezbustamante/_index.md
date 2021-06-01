@@ -60,9 +60,9 @@ social:
 - icon: home
   icon_pack: fas
   link: https://bgonzalezbustamante.com/
-## - icon: university
-  ## icon_pack: fas
-  ## link: http://users.ox.ac.uk/~shil5311/
+- icon: university
+  icon_pack: fas
+  link: https://users.ox.ac.uk/~shil5311/
 - icon: orcid
   icon_pack: fab
   link: http://orcid.org/0000-0003-1510-6820
@@ -102,7 +102,7 @@ user_groups:
 - Researchers
 ---
 
-I am completing my DPhil (PhD) dissertation in the [Department of Politics and International Relations](https://www.politics.ox.ac.uk/) and [St Hilda’s College](https://www.sthildas.ox.ac.uk/) at the [University of Oxford](http://www.ox.ac.uk/), United Kingdom. I am currently based at Oxford, working on my research. Furthermore, I am an Instructor Professor in the Management and Public Policies Department at the [Faculty of Administration and Economics](https://fae.usach.cl/) at the Universidad de Santiago de Chile.
+I am completing my DPhil (PhD) dissertation in the [Department of Politics and International Relations](https://www.politics.ox.ac.uk/) and [St Hilda’s College](https://www.sthildas.ox.ac.uk/) at the [University of Oxford](http://www.ox.ac.uk/), United Kingdom. I am currently based in Oxford, working on my research. Furthermore, I am an Instructor Professor in the Management and Public Policies Department at the [Faculty of Administration and Economics](https://fae.usach.cl/) at the Universidad de Santiago de Chile.
 
 Before starting the DPhil in October 2019, I earned an MA (1st) in Political Science and a BA (2:1) in Government, both from the Universidad de Chile. Moreover, I served as a lecturer at the Universidad de Chile and a consultant for the United Nations Development Programme (UNDP).
 
