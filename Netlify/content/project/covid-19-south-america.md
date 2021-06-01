@@ -3,7 +3,7 @@ title: 'COVID-19 Pandemic in South America'
 subtitle: 'Research Project'
 date: '2020-05-31'
 authors: ["bgonzalezbustamante"]
-tags: ['Finished Projects']
+tags: ['Stand-By Projects']
 summary: 'DOI: 10.17605/OSF.IO/6FM7X'
 ---
 
