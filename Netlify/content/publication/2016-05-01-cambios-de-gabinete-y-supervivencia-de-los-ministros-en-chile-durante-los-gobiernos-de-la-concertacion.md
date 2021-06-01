@@ -9,7 +9,7 @@ doi: ''
 ## publishDate: '2019-12-15T19:30:16Z'
 publication_types:
   - '1'
-publication: '*Colombia Internacional*, (87), 81-108'
+publication: '*Colombia Internacional*, 87, 81-108'
 publication_short: ''
 abstract: 'This article analyses cabinet turnover and factors that had an influence on the survival of 180 ministers in Chile between 1990 and 2010. With survival analysis, specifically, proportional hazards models and Cox regressions with shared-frailty, the individual characteristics of ministers, such as survival/risk predictors and the influence of institutional factors and critical events, are evaluated. It reveals that there were different individual predictors for ministers during the first and second decade of the period, as well as the fact that critical events such as economic crises and corruption scandals influenced the survival of ministers.'
 summary: ''
