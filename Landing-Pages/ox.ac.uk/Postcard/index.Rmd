@@ -1,0 +1,23 @@
+---
+title: "Bastián González-Bustamante"
+image: "img/bgonzalezbustamante.jpg"
+links:
+  - label: Website
+    url: "https://bgonzalezbustamante.com/"
+  - label: ORCID iD
+    url: "http://orcid.org/0000-0003-1510-6820"
+  - label: GitHub
+    url: "https://github.com/bgonzalezbustamante"
+  - label: Email
+    url: "mailto:bastian.gonzalezbustamante@politics.ox.ac.uk"
+output:
+  postcards::trestles
+---
+
+I am completing my DPhil (PhD) dissertation in the [Department of Politics and International Relations](https://www.politics.ox.ac.uk/) and [St Hilda’s College](https://www.sthildas.ox.ac.uk/) at the [University of Oxford](http://www.ox.ac.uk/), United Kingdom. I am currently based in Oxford, working on my research. Furthermore, I am an Instructor Professor in the Management and Public Policies Department at the [Faculty of Administration and Economics](https://fae.usach.cl/) at the Universidad de Santiago de Chile.
+
+Before starting the DPhil in October 2019, I earned an MA (1st) in Political Science and a BA (2:1) in Government, both from the Universidad de Chile. Moreover, I served as a lecturer at the Universidad de Chile and a consultant for the United Nations Development Programme (UNDP).
+
+My doctoral research is supervised by [Professor Petra Schleiter](https://www.politics.ox.ac.uk/academic-faculty/petra-schleiter.html) and focuses on cabinets’ stability in Latin American presidential democracies. In my DPhil project, I combine the principal-agent theory elements to evaluate the actors’ incentives and strategies in presidential systems. My empirical strategy employs propensity scores and matching methods, competing risks models, and IV estimations. My research is funded by the Chilean National Agency for Research and Development.
+
+For further information on my publications and experience, see my website [bgonzalezbustamante.com](https://bgonzalezbustamante.com/). The Chilean Political Science Impact Ranking (CPS-Ranking) is available for the moment at [bgonzalezbustamante.com/cps-ranking](https://bgonzalezbustamante.com/cps-ranking).
