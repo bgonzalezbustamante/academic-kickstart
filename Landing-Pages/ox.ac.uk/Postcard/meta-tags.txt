@@ -1,0 +1,15 @@
+<meta name="author" content="Bastián González-Bustamante">
+<meta name="description" content="Bastián González-Bustamante. DPhil (PhD) Researcher in the Department of Politics and International Relations and St Hilda's College at the University of Oxford, United Kingdom. Instructor Professor in the Management and Public Policies Department at the Faculty of Administration and Economics at the Universidad de Santiago de Chile.">
+
+<link rel="icon" type="image/png" href="img/favicon.png">
+<link rel="canonical" href="http://users.ox.ac.uk/~shil5311/">
+
+  <meta property="twitter:site" content="@bastiangb">
+  <meta property="twitter:creator" content="@bastiangb"> 
+  <meta property="og:site_name" content="Bastián González-Bustamante">
+  <meta property="og:url" content="http://users.ox.ac.uk/~shil5311/">
+  <meta property="og:title" content="Bastián González-Bustamante">
+  <meta property="og:description" content="Bastián González-Bustamante. DPhil (PhD) Researcher in the Department of Politics and International Relations and St Hilda's College at the University of Oxford, United Kingdom. Instructor Professor in the Management and Public Policies Department at the Faculty of Administration and Economics at the Universidad de Santiago de Chile.">
+  <meta property="og:image" content="img/oxford-logo.png">
+  <meta property="twitter:image" content="img/oxford-logo.png">
+  <meta property="og:locale" content="en-gb">
