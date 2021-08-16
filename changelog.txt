@@ -4,19 +4,24 @@ Automatic updates: CV, research projects, CRediT, collaborators' profiles, and m
 
 ## [Unreleased]
 
-## [3.6.3] - TBC
+## [3.6.4] - TBC
 ### Added
 - Recent talks section.
 ## Changed
 - CPS-Ranking from bgonzalezbustamante.com to an own domain.
 
-## [3.5.3] - 2021-06-05
+## [3.5.4] - 2021-09-05
 ### Added
+- Update to the Wowchemy 5.3.0 for Hugo.
 - Updated CPS-Ranking.
 ### Changed
 - Update of badges in CPS-Ranking.
 
 ## [Released]
+
+## [3.4.4] - 2021-08-16
+### Removed
+- Projects section.
 
 ## [3.4.3] - 2021-06-01
 ### Added
@@ -25,6 +30,8 @@ Automatic updates: CV, research projects, CRediT, collaborators' profiles, and m
 - Update of badges in CPS-Ranking.
 - Minor corrections.
 - Update of social icons.
+### Deprecated
+- Projects section.
 
 ## [3.3.3] - 2021-03-27
 ### Changed
