@@ -9,7 +9,7 @@ doi: ''
 ## publishDate: '2019-12-15T23:21:43Z'
 publication_types:
   - '6'
-publication: '*Serie Política, Gestión y Políticas Públicas*, (2), 1-26'
+publication: '*Serie Política, Gestión y Políticas Públicas*, 2, 1-26'
 publication_short: ''
 abstract: 'This paper analyses whether alternative digital media foster pluralism on the political agenda of Chilean media. It considers a data set collected by tracking the two major written digital media in Chile, which belong to the most significant media holdings, during June 2013, and a non-probabilistic sample of alternative printed digital media. Both content and emotion analysis are carried out to compare their agendas and to analyse their level of diversity and the tone in which the media address these issues. The results show that the political agendas of the alternative media are less diverse than in the case of the written digital media. However, those agendas differ from those of electronic versions of traditional media, which also are highly homogeneous. Also, it is shown that these new media use a more neutral tone in their publications.'
 summary: ''
