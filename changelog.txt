@@ -20,8 +20,8 @@ Automatic updates: CV, research projects, CRediT, collaborators' profiles, and m
 ## [Released]
 
 ## [3.4.4] - 2021-08-16
-### Removed
-- Projects section.
+### Changed
+- Update of publications.
 
 ## [3.4.3] - 2021-06-01
 ### Added
@@ -30,8 +30,6 @@ Automatic updates: CV, research projects, CRediT, collaborators' profiles, and m
 - Update of badges in CPS-Ranking.
 - Minor corrections.
 - Update of social icons.
-### Deprecated
-- Projects section.
 
 ## [3.3.3] - 2021-03-27
 ### Changed
