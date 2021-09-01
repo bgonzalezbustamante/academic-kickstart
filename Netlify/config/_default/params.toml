@@ -211,7 +211,9 @@ plugins_js  = []
   #   0: Disabled
   #   1: Disqus (https://disqus.com)
   #   2: Commento (https://commento.io)
-  engine = 0
+  ## engine = 0 (deprecated)
+  ## Version 5.0 Beta 3 (February 2021)
+  provider = ""
 
   # Which page types are commentable?
   commentable = {page = false, post = false, docs = false, project = false, publication = false, talk = false}
@@ -234,7 +236,9 @@ plugins_js  = []
   #   0: No search engine
   #   1: Academic (built-in)
   #   2: Algolia (https://www.algolia.com)
-  engine = 1
+  ## engine = 1 (deprecated)
+  ## Version 5.0 Beta 3 (February 2021)
+  provider = "wowchemy"
 
   # Configuration of Algolia search engine.
   # Paste the values from your Algolia dashboard.
@@ -262,7 +266,9 @@ plugins_js  = []
   #   1: Google Maps
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
-  engine = 2
+  ## engine = 2 (deprecated)
+  ## Version 5.0 Beta 3 (February 2021)
+  provider = "mapnik"
   api_key = ""
   zoom = 15
 
@@ -286,5 +292,8 @@ plugins_js  = []
 [icon.pack]
   ai = true  # Academicons icon pack https://jpswalsh.github.io/academicons/
 
+############################
+## Breadcrumbs (Version 5.0 Beta 2, January 2021)
+############################
 [breadcrumb]
   page_types = {book = true}
