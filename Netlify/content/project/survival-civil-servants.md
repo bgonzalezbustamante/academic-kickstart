@@ -3,7 +3,7 @@ title: 'Survival of the Senior Civil Servants in the Chilean Executive Branch'
 subtitle: 'Research Project'
 date: '2020-04-19'
 authors: ["bgonzalezbustamante", "mastete", "borvenes"]
-tags: ['Stand-By Projects']
+tags: ['Standby Projects']
 summary: 'DOI: 10.17605/OSF.IO/WBF6M'
 ---
 
