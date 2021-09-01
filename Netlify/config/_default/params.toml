@@ -278,7 +278,7 @@ plugins_js  = []
 ############################
 [cms]
   # See https://wowchemy.com/docs/install/
-  netlify_cms = true
+  netlify_cms = false
 
 ############################
 ## Icon Pack Extensions
