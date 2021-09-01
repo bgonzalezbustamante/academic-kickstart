@@ -184,7 +184,7 @@ summary: 'Data collected on September 1, 2021'
 
 **Would you like to suggest someone?**
 
-Please send an email to <i class="fas fa-envelope"></i> &nbsp; bastian.gonzalezbustamante@politics.ox.ac.uk
+Please send an email to <i class="fas fa-envelope"></i> bastian.gonzalezbustamante@politics.ox.ac.uk
 
 **How to download and cite this dataset?**
 
