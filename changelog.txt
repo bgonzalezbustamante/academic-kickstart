@@ -12,7 +12,6 @@ Automatic updates: CV, research projects, CRediT, collaborators' profiles, and m
 
 ## [3.6.4] - 2021-12-01
 ### Added
-- Update to the Wowchemy 5.3.0 for Hugo.
 - Updated CPS-Ranking.
 ### Changed
 - Update of badges in CPS-Ranking.
@@ -21,8 +20,9 @@ Automatic updates: CV, research projects, CRediT, collaborators' profiles, and m
 
 ## [3.5.4] - 2021-09-01
 ### Added
+- Update to the Wowchemy 5.3.0 for Hugo.
 - Updated CPS-Ranking.
-- Wowchemy 5.3.0 for Hugo tests.
+- Wowchemy 5.1.0 and 5.2.0 breacking changes.
 ### Changed
 - Update of badges in CPS-Ranking.
 - Minor corrections.
