@@ -28,8 +28,8 @@ content:
   filter_button:
   - name: Ongoing
     tag: Ongoing Projects
-  - name: Stand-By
-    tag: Stand-By Projects
+  - name: Standby
+    tag: Standby Projects
   - name: Finished
     tag: Finished Projects
 
