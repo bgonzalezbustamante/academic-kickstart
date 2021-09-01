@@ -285,3 +285,6 @@ plugins_js  = []
 ############################
 [icon.pack]
   ai = true  # Academicons icon pack https://jpswalsh.github.io/academicons/
+
+[breadcrumb]
+  page_types = {book = true}
