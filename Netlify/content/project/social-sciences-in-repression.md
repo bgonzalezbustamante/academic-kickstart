@@ -3,7 +3,7 @@ title: 'Social Sciences in Repression Contexts'
 subtitle: 'Research Project'
 date: '2018-09-06'
 authors: ["ccisternas", "bgonzalezbustamante"]
-tags: ['Stand-By Projects']
+tags: ['Standby Projects']
 summary: 'DOI: TBC'
 ---
 
