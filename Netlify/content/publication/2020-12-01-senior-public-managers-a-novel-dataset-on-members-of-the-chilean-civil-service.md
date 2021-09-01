@@ -27,14 +27,14 @@ links:
     ## icon_pack: far
     ## name: PDF
     ## url: ''
-  ## - icon: open-access 
-    ## icon_pack: ai
-    ## name: PDF
-    ## url: ''
-  ## - icon: doi
-    ## icon_pack: ai
-    ## name: DOI
-    ## url: ''
+  - icon: open-access 
+    icon_pack: ai
+    name: PDF
+    url: 'https://www.researchgate.net/publication/354055962_Altos_Directivos_Publicos_Un_nuevo_conjunto_de_datos_de_miembros_del_servicio_civil_chileno'
+  - icon: doi
+    icon_pack: ai
+    name: DOI
+    url: 'https://doi.org/10.22370/rgp.2020.9.2.2920'
   - icon: arxiv
     icon_pack: ai
     name: Preprint
