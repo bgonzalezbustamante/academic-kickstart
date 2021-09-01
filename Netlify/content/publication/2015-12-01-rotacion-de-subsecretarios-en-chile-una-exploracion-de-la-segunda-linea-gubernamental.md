@@ -43,10 +43,10 @@ links:
     ## icon_pack: ai
     ## name: Preprint
     ## url: ''
-  ## - icon: doi
-    ## icon_pack: ai
-    ## name: DOI
-    ## url: ''
+  - icon: doi
+    icon_pack: ai
+    name: DOI
+    url: 'https://doi.org/10.22370/rgp.2015.4.2.2230'
 image:
   caption: ''
   focal_point: ''
