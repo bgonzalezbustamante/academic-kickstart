@@ -20,7 +20,7 @@ organizations:
   url: "https://fae.usach.cl/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Research Assistant in the Department of Public Administration and Policy at the Universidad de Santiago de Chile.
+bio: Research Assistant in the Management and Public Policies Department at the Faculty of Administration and Economics at the Universidad de Santiago de Chile.
 
 interests:
 ## - 
