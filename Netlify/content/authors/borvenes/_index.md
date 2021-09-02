@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Berenice Orvenes
-weight: 12
+weight: 9
 shortname: Orvenes, B.
 
 # Username (this should match the folder name)
@@ -35,6 +35,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: mailto:berenice.orvenes@usach.cl
+- icon: university
+  icon_pack: fas
+  link: https://training-datalab.com/
 ## - icon: orcid
   ## icon_pack: fab
   ## link: http://
