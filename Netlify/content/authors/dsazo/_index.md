@@ -34,7 +34,7 @@ interests:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:dsazo@uc.cl
+  link: d.n.sazo-munoz@lse.ac.uk
 ## - icon: orcid
   ## icon_pack: fab
   ## link: http://
