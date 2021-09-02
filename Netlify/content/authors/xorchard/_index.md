@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Ximena Orchard
-weight: 6
+weight: 12
 shortname: Orchard, X.
 
 # Username (this should match the folder name)
