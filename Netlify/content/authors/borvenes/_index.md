@@ -69,6 +69,6 @@ user_groups:
 \
 \
 Research Assistant \
-Department of Public Administration and Policy \
-Faculty of Economics and Management \
+Management and Public Policies Department \
+Faculty of Administration and Economics \
 Universidad de Santiago de Chile
