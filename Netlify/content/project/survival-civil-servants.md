@@ -3,7 +3,7 @@ title: 'Survival of the Senior Civil Servants in the Chilean Executive Branch'
 subtitle: 'Research Project'
 date: '2020-04-19'
 authors: ["bgonzalezbustamante", "mastete", "borvenes"]
-tags: ['Standby Projects']
+tags: ['Finished Projects']
 summary: 'DOI: 10.17605/OSF.IO/WBF6M'
 ---
 
@@ -16,8 +16,11 @@ This research was possible thanks to financial support from the Management and P
 **Competing Interests** <br />
 The authors declare no potential conflict of interest with respect to this research.
 
-**Preprint in Progress** <br />
-González-Bustamante, B., Astete, M., and Orvenes, B. (*forthcoming*). Title TBC. <br />
+**Preprint** <br />
+González-Bustamante, B., Astete, M., and Orvenes, B. (2021). Senior Public Managers: A Novel Dataset on Members of the Chilean Civil Service. SocArXiv DOI: [10.31235/osf.io/vshcz](https://doi.org/10.31235/osf.io/vshcz)
+
+**Peer-Reviewed Publication** <br />
+González-Bustamante, B., Astete, M., and Orvenes, B. (2020). Altos directivos públicos: Un nuevo conjunto de datos de miembros del servicio civil chileno. *Revista de Gestión Pública, IX*(2), 151-169. DOI: [10.22370/rgp.2020.9.2.2920](https://doi.org/10.22370/rgp.2020.9.2.2920)<br />
 
 **Contributions** 
 
@@ -36,6 +39,10 @@ González-Bustamante, B., Astete, M., and Orvenes, B. (*forthcoming*). Title TBC
 |---|---|---|
 | 1.0 | April 9, 2021 | Authors' Original Manuscript (AOM) |
 | 2.0 | April 16, 2021 | AOM revised submitted to peer review |
+| 3.0 | July 16, 2021 | Accepted Manuscript (AM) after the peer review process |
+| 4.0 | July 21, 2021 | AM revised based on the editor’s comments |
+| 5.0 | August 23, 2021 | Minor corrections |
 
 <small>DOI: [10.17605/OSF.IO/WBF6M](http://doi.org/10.17605/OSF.IO/WBF6M)</small><br />
-<small>Last updated: April 16, 2021.</small>
+<small>GitHub Page: TBC</small><br />
+<small>Last updated: September 1, 2021.</small>
