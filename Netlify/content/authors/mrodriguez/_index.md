@@ -20,7 +20,7 @@ organizations:
   url: "http://www.inap.uchile.cl/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Research Assistant in the Institute for Public Affairs at the Universidad de Chile.
+bio: Research Assistant in the Institute of Public Affairs at the Universidad de Chile.
 
 interests:
 ## - 
@@ -66,5 +66,5 @@ user_groups:
 \
 \
 Research Assistant \
-Institute for Public Affairs \
+Institute of Public Affairs \
 Universidad de Chile
