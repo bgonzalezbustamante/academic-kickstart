@@ -20,7 +20,7 @@ organizations:
   url: "http://www.ox.ac.uk/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: DPhil (PhD) Researcher in the Department of Politics and International Relations and St Hilda’s College at the University of Oxford. Instructor Professor in the Management and Public Policies Department at the Faculty of Administration and Economics at the Universidad de Santiago de Chile.
+bio: DPhil (PhD) Researcher in the Department of Politics and International Relations and St Hilda’s College at the University of Oxford, United Kingdom. Instructor Professor in the Management and Public Policies Department at the Faculty of Administration and Economics at the Universidad de Santiago de Chile.
 
 interests:
 - Cabinets composition
