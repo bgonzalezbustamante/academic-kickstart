@@ -71,5 +71,7 @@ user_groups:
 
 \
 \
-Editorial Assistant \
-Tufte Working Papers (ISSN 2735-6043)
+Research Assistant \
+Management and Public Policies Department \
+Faculty of Administration and Economics \
+Universidad de Santiago de Chile
