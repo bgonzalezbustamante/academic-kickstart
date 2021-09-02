@@ -7,7 +7,8 @@ tags: ['Standby Projects']
 summary: 'DOI: 10.17605/OSF.IO/6FM7X'
 ---
 
-## Early Responses
+## Early Responses 
+<br />
 
 **Bibliographic Contributor** <br />
 [Bastián González-Bustamante](../../) (BG)
@@ -19,7 +20,7 @@ This research did not receive any specific grant from funding agencies in the pu
 The author declares no potential conflict of interest with respect to this research.
 
 **Preprint** <br />
-González-Bustamante, B. (2020). Evolution and early government responses to COVID-19 in South America. *Preprint upon request at [bastian.gonzalezbustamante@politics.ox.ac.uk](mailto:bastian.gonzalezbustamante@politics.ox.ac.uk)* <br />
+González-Bustamante, B. (2020). [Evolution and early government responses to COVID-19 in South America](../../publication/early-government-responses-to-covid-19-in-south-america/). *Preprint upon request at [bastian.gonzalezbustamante@politics.ox.ac.uk](mailto:bastian.gonzalezbustamante@politics.ox.ac.uk)* <br />
 
 **Peer-Reviewed Publication** <br />
 González-Bustamante, B. (2021). [Evolution and early government responses to COVID-19 in South America](../../publication/early-government-responses-to-covid-19-in-south-america/). *World Development, 137*, 105180. DOI: [10.1016/j.worlddev.2020.105180](https://doi.org/10.1016/j.worlddev.2020.105180)
@@ -46,8 +47,10 @@ González-Bustamante, B. (2021). [Evolution and early government responses to CO
 <small>DOI: [10.17605/OSF.IO/6FM7X](http://doi.org/10.17605/OSF.IO/6FM7X)</small><br />
 <small>GitHub Page: [https://bgonzalezbustamante.github.io/COVID-19-South-America/](https://bgonzalezbustamante.github.io/COVID-19-South-America/)</small><br />
 <small>Last updated: September 24, 2020.</small>
+<br />
 
 ## Mobility and Poverty
+<br />
 
 **Bibliographic Contributor** <br />
 [Bastián González-Bustamante](../../) (BG)
