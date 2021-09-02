@@ -35,6 +35,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: mailto:alejandro.olivares@uct.cl
+- icon: university
+  icon_pack: fas
+  link: https://training-datalab.com/
 - icon: orcid
   icon_pack: fab
   link: http://orcid.org/0000-0001-6934-2437
