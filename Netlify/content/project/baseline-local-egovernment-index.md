@@ -20,7 +20,7 @@ This research was partially funded by the Universidad de Santiago de Chile under
 The authors declare no potential conflict of interest with respect to this research.
 
 **Preprint** <br />
-González-Bustamante, B., Carvajal, A., and González, A. (2019). [Determinantes del gobierno electrónico en las municipalidades: Evidencia del caso chileno](../../publication/determinantes-del-gobierno-electronico-en-las-municipalidades/). *SocArXiv*. DOI: [10.31235/osf.io/fze3x](http://doi.org/10.31235/osf.io/fze3x)
+González-Bustamante, B., Carvajal, A., and González, A. (2019). [Determinantes del gobierno electrónico en las municipalidades: Evidencia del caso chileno](../../publication/determinantes-del-gobierno-electronico-en-las-municipalidades/). SocArXiv DOI: [10.31235/osf.io/fze3x](http://doi.org/10.31235/osf.io/fze3x)
 
 **Peer-Reviewed Publication** <br />
 González-Bustamante, B., Carvajal, A., and González, A. (2020). [Determinantes del gobierno electrónico en las municipalidades: Evidencia del caso chileno](../../publication/determinantes-del-gobierno-electronico-en-las-municipalidades/). *Gestión y Política Pública, XXIX*(1), 97-129. DOI: [10.29265/gypp.v29i1.658](https://doi.org/10.29265/gypp.v29i1.658) <br />
