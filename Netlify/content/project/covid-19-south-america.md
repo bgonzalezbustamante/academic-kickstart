@@ -7,8 +7,7 @@ tags: ['Standby Projects']
 summary: 'DOI: 10.17605/OSF.IO/6FM7X'
 ---
 
-## Early Responses 
-<br />
+# Early Responses 
 
 **Bibliographic Contributor** <br />
 [Bastián González-Bustamante](../../) (BG)
