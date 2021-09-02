@@ -12,7 +12,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Assistant Professor
+role: Associate Professor
 
 # Organizations/Affiliations
 organizations:
@@ -20,7 +20,7 @@ organizations:
   url: "http://www.inap.uchile.cl/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Assistant Professor in the Institute for Public Affairs at the Universidad de Chile.
+bio: Associate Professor in the Institute for Public Affairs at the Universidad de Chile.
 
 interests:
 - State development
@@ -68,6 +68,6 @@ user_groups:
 
 \
 \
-Assistant Professor \
-Institute for Public Affairs \
+Associate Professor \
+Institute of Public Affairs \
 Universidad de Chile
