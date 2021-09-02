@@ -1,7 +1,7 @@
 ---
 title: 'Mobility, Poverty, and COVID-19 in South America'
 subtitle: 'Research Project'
-date: '2020-03-01'
+date: '2021-03-01'
 authors: ["bgonzalezbustamante"]
 tags: ['Standby Projects']
 summary: 'DOI: 10.17605/OSF.IO/6FM7X'
