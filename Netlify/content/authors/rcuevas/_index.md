@@ -35,6 +35,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: mailto:cuevas.ossandon@gmail.com
+- icon: university
+  icon_pack: fas
+  link: https://training-datalab.com/
 ## - icon: orcid
   ## icon_pack: fab
   ## link: http://
