@@ -35,6 +35,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: mailto:c.g.cisternas.guasch@hum.leidenuniv.nl
+- icon: university
+  icon_pack: fas
+  link: https://training-datalab.com/
 - icon: home
   icon_pack: fas
   link: https://carlacisternas.com/
