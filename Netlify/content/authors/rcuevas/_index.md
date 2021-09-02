@@ -20,7 +20,7 @@ organizations:
   url: "http://www.inap.uchile.cl/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Lecturer in the Institute for Public Affairs at the Universidad de Chile.
+bio: Lecturer in the Institute of Public Affairs at the Universidad de Chile.
 
 interests:
 - International politics
@@ -34,7 +34,7 @@ interests:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:cuevas.ossandon@gmail.com
+  link: mailto:rodrigocuevas@uchile.cl
 - icon: university
   icon_pack: fas
   link: https://training-datalab.com/
@@ -69,5 +69,5 @@ user_groups:
 \
 \
 Lecturer \
-Institute for Public Affairs \
+Institute of Public Affairs \
 Universidad de Chile
