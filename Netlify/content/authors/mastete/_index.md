@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Matías Astete
-weight: 11
+weight: 8
 shortname: Astete, M.
 
 # Username (this should match the folder name)
@@ -35,6 +35,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: mailto:matias.astete@usach.cl
+- icon: university
+  icon_pack: fas
+  link: https://training-datalab.com/
 ## - icon: orcid
   ## icon_pack: fab
   ## link: http://
