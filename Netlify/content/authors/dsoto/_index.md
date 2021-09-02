@@ -34,7 +34,7 @@ interests:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:dh.sotos@gmail.com
+  link: mailto:diego.soto@graduateinstitute.ch
 ## - icon: orcid
   ## icon_pack: fab
   ## link: http://
