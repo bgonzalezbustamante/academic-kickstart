@@ -20,7 +20,7 @@ This research was possible thanks to financial support from the IDRC-Canada unde
 The author declares no potential conflict of interest with respect to this research.
 
 **Preprint** <br />
-González-Bustamante, B. (2019). [Brechas, representación y congruencia élite-ciudadanía en Chile y Uruguay](../../publication/brechas-representacion-y-congruencia-elite-ciudadania-en-chile-y-uruguay/). *SocArXiv*. DOI: [10.31235/osf.io/cqym8](http://doi.org/10.31235/osf.io/cqym8)
+González-Bustamante, B. (2019). [Brechas, representación y congruencia élite-ciudadanía en Chile y Uruguay](../../publication/brechas-representacion-y-congruencia-elite-ciudadania-en-chile-y-uruguay/). SocArXiv DOI: [10.31235/osf.io/cqym8](http://doi.org/10.31235/osf.io/cqym8)
 
 **Peer-Reviewed Publication** <br />
 González-Bustamante, B. (2019). [Brechas, representación y congruencia élite-ciudadanía en Chile y Uruguay](../../publication/brechas-representacion-y-congruencia-elite-ciudadania-en-chile-y-uruguay/). *Convergencia. Revista de Ciencias Sociales*, (80), 1-27. DOI: [10.29101/crcs.v26i80.11097](https://doi.org/10.29101/crcs.v26i80.11097) <br />
