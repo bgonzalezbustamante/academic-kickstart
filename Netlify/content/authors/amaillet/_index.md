@@ -20,7 +20,7 @@ organizations:
   url: "http://www.inap.uchile.cl/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Associate Professor in the Institute for Public Affairs at the Universidad de Chile.
+bio: Associate Professor in the Institute of Public Affairs at the Universidad de Chile.
 
 interests:
 - State development
