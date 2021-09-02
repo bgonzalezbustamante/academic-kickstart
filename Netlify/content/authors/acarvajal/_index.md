@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Ariane Carvajal
-weight: 9
+weight: 10
 shortname: Carvajal, A.
 
 # Username (this should match the folder name)
