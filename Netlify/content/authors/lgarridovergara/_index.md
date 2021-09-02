@@ -34,7 +34,7 @@ interests:
 social:
 - icon: envelope
   icon_pack: fas
-  link: luis.garrido.v@iap.uchile.cl
+  link: mailto:luis.garrido.v@iap.uchile.cl
 ## - icon: orcid
   ## icon_pack: fab
   ## link: http://
