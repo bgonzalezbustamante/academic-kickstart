@@ -12,15 +12,15 @@ authors:
 superuser: false
 
 # Role/position
-role: Editorial Assistant
+role: Research Assistant
 
 # Organizations/Affiliations
 organizations:
-- name: Tufte Working Papers
-  url: "https://tuftepapers.com/"
+- name: Universidad de Santiago
+  url: "https://fae.usach.cl/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Editorial Assistant in the Tufte Working Papers (ISSN 2735-6043).
+bio: Research Assistant in the Department of Public Administration and Policy at the Universidad de Santiago de Chile.
 
 interests:
 ## - 
@@ -37,7 +37,7 @@ social:
   link: mailto:elinor.luco@usach.cl
 - icon: university
   icon_pack: fas
-  link: https://tuftepapers.com/
+  link: https://training-datalab.com/
 ## - icon: orcid
   ## icon_pack: fab
   ## link: http://
