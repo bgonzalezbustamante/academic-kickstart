@@ -17,10 +17,10 @@ This research was possible thanks to financial support from the Management and P
 The authors declare no potential conflict of interest with respect to this research.
 
 **Preprint** <br />
-González-Bustamante, B., Astete, M., and Orvenes, B. (2021). Senior Public Managers: A Novel Dataset on Members of the Chilean Civil Service. SocArXiv DOI: [10.31235/osf.io/vshcz](https://doi.org/10.31235/osf.io/vshcz)
+González-Bustamante, B., Astete, M., and Orvenes, B. (2021). [Senior Public Managers: A Novel Dataset on Members of the Chilean Civil Service](../../publication/senior-public-managers-a-novel-dataset-on-members-of-the-chilean-civil-service/). SocArXiv DOI: [10.31235/osf.io/vshcz](https://doi.org/10.31235/osf.io/vshcz)
 
 **Peer-Reviewed Publication** <br />
-González-Bustamante, B., Astete, M., and Orvenes, B. (2020). Altos directivos públicos: Un nuevo conjunto de datos de miembros del servicio civil chileno. *Revista de Gestión Pública, IX*(2), 151-169. DOI: [10.22370/rgp.2020.9.2.2920](https://doi.org/10.22370/rgp.2020.9.2.2920)<br />
+González-Bustamante, B., Astete, M., and Orvenes, B. (2020). [Altos directivos públicos: Un nuevo conjunto de datos de miembros del servicio civil chileno](../../senior-public-managers-a-novel-dataset-on-members-of-the-chilean-civil-service/). *Revista de Gestión Pública, IX*(2), 151-169. DOI: [10.22370/rgp.2020.9.2.2920](https://doi.org/10.22370/rgp.2020.9.2.2920)<br />
 
 **Contributions** 
 
