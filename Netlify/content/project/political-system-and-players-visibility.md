@@ -19,8 +19,8 @@ This research was funded by the Vice-Chancellor's Office of Research at the Univ
 **Competing Interests** <br />
 The authors declare no potential conflict of interest with respect to this research.
 
-**Preprint in Progress** <br />
-Orchard, X., and González-Bustamante, B. (*forthcoming*). Title TBC. <br />
+**Preprint** <br />
+Orchard, X., and González-Bustamante, B. (2021). Title TBC. <br />
 
 **Contributions**
 
@@ -44,8 +44,11 @@ Orchard, X., and González-Bustamante, B. (*forthcoming*). Title TBC. <br />
 | 1.0 | May 2, 2019 | Sampling procedure document |
 | 2.0 | July 3, 2019 | Sample validation document |
 | 3.0 | April 12, 2021 | Authors' Original Manuscript (AOM)|
+| 4.0 | April 19, 2021 | AOM revised submitted to peer review |
+| 5.0 | August 30, 2021 | AOM revised based on the first round of peer review |
+
 
 <small>DOI: TBC</small><br />
 <small>GitHub Page: TBC</small><br />
 <small>Website: [http://www.investigaciondemedios.cl/proyectos-prensaElite.html](http://www.investigaciondemedios.cl/proyectos-prensaElite.html)</small><br />
-<small>Last updated: April 12, 2021.</small>
+<small>Last updated: September 1, 2021.</small>
