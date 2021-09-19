@@ -1,6 +1,6 @@
 # Changelog
 All notable changes to "Bastián González-Bustamante website code" will be documented in this file.
-Automatic updates: CV, research projects, CRediT, collaborators' profiles, and minor corrections in CPS-Ranking.
+Automatic updates: CV, research projects, CRediT, Xaringan, collaborators' profiles, and minor corrections in CPS-Ranking.
 
 ## [Unreleased]
 
@@ -24,7 +24,8 @@ Automatic updates: CV, research projects, CRediT, collaborators' profiles, and m
 
 ## [3.6.4] - 2021-09-19
 ### Added
-- Xarigan slides folder.
+- Xaringan slides folder.
+- Automatic corrections in Xaringan slides.
 
 ## [3.5.4] - 2021-09-01
 ### Added
