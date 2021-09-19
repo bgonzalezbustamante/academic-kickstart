@@ -4,23 +4,27 @@ Automatic updates: CV, research projects, CRediT, collaborators' profiles, and m
 
 ## [Unreleased]
 
-## [3.8.4] - TBC
+## [3.8.5] - TBC
 ### Added
 - Recent talks section.
 ## Changed
 - CPS-Ranking from bgonzalezbustamante.com to an own domain.
 
-## [3.7.4] - 2021-12-01
+## [3.7.5] - 2021-12-01
 ### Added
 - Updated CPS-Ranking.
 ### Changed
 - Update of badges in CPS-Ranking.
 
-## [3.6.4] - 2021-09-15
-### Added
-- Xarigan slices folder.
+## [3.6.5] - TBC
+### Changed
+- Update of publications.
 
 ## [Released]
+
+## [3.6.4] - 2021-09-19
+### Added
+- Xarigan slides folder.
 
 ## [3.5.4] - 2021-09-01
 ### Added
