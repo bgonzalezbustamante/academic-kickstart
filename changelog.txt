@@ -4,28 +4,37 @@ Automatic updates: CV, research projects, CRediT, Xaringan, collaborators' profi
 
 ## [Unreleased]
 
-## [3.8.5] - TBC
+## [4.0.0] - TBC
 ### Added
+- News sections.
 - Recent talks section.
 ## Changed
 - CPS-Ranking from bgonzalezbustamante.com to an own domain.
 
-## [3.7.5] - 2021-12-01
+## [3.8.5] - 2021-12-01
 ### Added
 - Updated CPS-Ranking.
 ### Changed
 - Update of badges in CPS-Ranking.
 
-## [3.6.5] - TBC
+## [3.7.5] - TBC
 ### Changed
 - Update of publications.
 
 ## [Released]
 
+## [3.7.4] - 2021-10-18
+### Changed
+- Minor corrections.
+### Removed
+- TinyLetter newsletter.
+
 ## [3.6.4] - 2021-09-19
 ### Added
 - Xaringan slides folder.
 - Automatic corrections in Xaringan slides.
+### Deprecated
+- TinyLetter newsletter.
 
 ## [3.5.4] - 2021-09-01
 ### Added
