@@ -180,7 +180,8 @@ summary: 'Data collected on September 1, 2021'
 |   168   | Fernando Schmidt            | wXHJZ4oAAAAJ   | UDD         |   0   |    0   |    4   |
 |   169   | Nerea C. Palma              | qNc7eZgAAAAJ   | PUC         |   0   |    0   |    4   |
 
-<small>Note: The affiliations have been standardised. Data collected on September 1, 2021.</small><br /><br />
+<small>Note: The affiliations have been standardised. Data collected on September 1, 2021.</small><br />
+<small>Researchers to be added: Leslie Wehner (ID 8jxM4fcAAAAJ).</small><br /><br />
 
 **Would you like to suggest someone?**
 
