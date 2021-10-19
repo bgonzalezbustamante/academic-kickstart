@@ -8,7 +8,7 @@ Automatic updates: CV, research projects, CRediT, Xaringan, collaborators' profi
 ### Added
 - News sections.
 - Recent talks section.
-## Changed
+### Changed
 - CPS-Ranking from bgonzalezbustamante.com to an own domain.
 
 ## [3.8.5] - 2021-12-01
