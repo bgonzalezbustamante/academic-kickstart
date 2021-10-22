@@ -20,6 +20,7 @@ Automatic updates: CV, research projects, CRediT, Xaringan, collaborators' profi
 ## [3.7.5] - TBC
 ### Changed
 - Update of publications.
+- Scripts and folders names standardisation.
 
 ## [Released]
 
