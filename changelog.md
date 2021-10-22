@@ -26,6 +26,7 @@ Automatic updates: CV, research projects, CRediT, Xaringan, collaborators' profi
 ## [3.7.4] - 2021-10-18
 ### Changed
 - Minor corrections.
+- Revision of upgrade versioning.
 ### Removed
 - TinyLetter newsletter.
 
