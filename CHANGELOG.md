@@ -28,6 +28,7 @@ Automatic updates: CV, research projects, CRediT, Xaringan, collaborators' profi
 ### Changed
 - Minor corrections.
 - Revision of upgrade versioning.
+- Changelog in MD format on GitHub repository.
 ### Removed
 - TinyLetter newsletter.
 
