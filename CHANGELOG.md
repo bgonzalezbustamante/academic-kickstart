@@ -253,6 +253,7 @@ Automatic updates: CV, research projects, CRediT, Xaringan, collaborators' profi
 ## [2.3.0] - 2020-01-05
 ### Added
 - Integration between personal website and CPS-Ranking.
+- README on GitHub repository.
 ### Changed
 - Update to the Academic for Hugo v4.7.0 on R ~v3.6.1 and Hugo ~v0.74.3.
 - Update of projects section.
