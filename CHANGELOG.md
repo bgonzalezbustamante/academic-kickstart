@@ -11,16 +11,20 @@ Automatic updates: CV, research projects, CRediT, Xaringan, collaborators' profi
 ### Changed
 - CPS-Ranking from bgonzalezbustamante.com to an own domain.
 
-## [3.8.5] - 2021-12-01
+## [3.8.6] - 2021-12-01
 ### Added
 - Updated CPS-Ranking.
 ### Changed
 - Update of badges in CPS-Ranking.
 
-## [3.7.5] - TBC
+## [3.7.6] - TBC
 ### Changed
 - Update of publications.
 - Scripts and folders names standardisation.
+
+## [3.7.5] - 2021-10-31
+### Changed
+- Minor corrections.
 
 ## [Released]
 
