@@ -184,7 +184,7 @@ Automatic updates: CV, research projects, CRediT, Xaringan, collaborators' profi
 - Featured publications instead of recent ones.
 - Update of publications.
 - Profile and interests.
-- Minor typesetting corrections in the changelog.
+- Minor corrections.
 - Update of collaborators' profiles.
 
 ## [2.10.3] - 2020-05-02
@@ -194,11 +194,11 @@ Automatic updates: CV, research projects, CRediT, Xaringan, collaborators' profi
 
 ## [2.9.3] - 2020-04-30
 ### Changed
-- Minor typesetting corrections in the changelog
+- Minor corrections.
 
 ## [2.9.2] - 2020-03-19
 ### Added
-CRediT GitHub repository.
+- CRediT GitHub repository.
 
 ## [2.8.2] - 2020-03-14
 ### Added
