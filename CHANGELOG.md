@@ -1,6 +1,6 @@
 # Changelog
 All notable changes to "Bastián González-Bustamante website code" will be documented in this file.
-Automatic updates: CV, research projects, CRediT, Xaringan, collaborators' profiles, and minor corrections in CPS-Ranking.
+Automatic updates: CV, research projects, CRediT, Xaringan presentations, collaborators' profiles, and minor corrections in the CPS-Ranking.
 
 ## [Unreleased]
 
@@ -11,16 +11,20 @@ Automatic updates: CV, research projects, CRediT, Xaringan, collaborators' profi
 ### Changed
 - CPS-Ranking from bgonzalezbustamante.com to an own domain.
 
-## [3.8.6] - 2021-12-01
+## [3.8.7] - 2021-12-01
 ### Added
 - Updated CPS-Ranking.
 ### Changed
 - Update of badges in CPS-Ranking.
 
-## [3.7.6] - TBC
+## [3.7.7] - TBC
 ### Changed
 - Update of publications.
 - Scripts and folders names standardisation.
+
+## [3.7.6] - 2021-11-05
+- License in MD format on GitHub repository.
+- Minor corrections.
 
 ## [3.7.5] - 2021-10-31
 ### Changed
