@@ -6,8 +6,8 @@ Automatic updates: CV, research projects, CRediT, Xaringan presentations, collab
 
 ## [4.0.0] - TBC
 ### Added
-- News sections.
-- Recent talks section.
+- News sections (TBC).
+- Recent talks section (TBC).
 ### Changed
 - CPS-Ranking from bgonzalezbustamante.com to an own domain.
 
@@ -15,14 +15,15 @@ Automatic updates: CV, research projects, CRediT, Xaringan presentations, collab
 ### Added
 - Updated CPS-Ranking.
 ### Changed
-- Update of badges in CPS-Ranking.
-
-## [3.7.7] - TBC
-### Changed
 - Update of publications.
 - Scripts and folders names standardisation.
 
+## [3.7.7] - 2021-11-15
+### Changed
+- Revision of upgrade versioning.
+
 ## [3.7.6] - 2021-11-05
+### Changed
 - License in MD format on GitHub repository.
 - Minor corrections.
 
@@ -54,7 +55,6 @@ Automatic updates: CV, research projects, CRediT, Xaringan presentations, collab
 - Wowchemy 5.1.0 and 5.2.0 breacking changes.
 - TinyLetter newsletter.
 ### Changed
-- Update of badges in CPS-Ranking.
 - Minor corrections.
 
 ## [3.4.4] - 2021-08-16
@@ -65,9 +65,7 @@ Automatic updates: CV, research projects, CRediT, Xaringan presentations, collab
 ### Added
 - Updated CPS-Ranking.
 ### Changed
-- Update of badges in CPS-Ranking.
 - Minor corrections.
-- Update of social icons.
 
 ## [3.3.3] - 2021-03-27
 ### Changed
@@ -76,14 +74,12 @@ Automatic updates: CV, research projects, CRediT, Xaringan presentations, collab
 
 ## [3.3.2] - 2021-03-16
 ### Changed
-- Profile and interests.
+- Minor corrections.
 
 ## [3.3.1] - 2021-03-08
 ### Added
 - Updated CPS-Ranking.
 - Automatic minor corrections in CPS-Ranking.
-### Changed
-- Update of badges in CPS-Ranking.
 
 ## [3.2.1] - 2021-01-08
 ### Added
@@ -139,10 +135,8 @@ Automatic updates: CV, research projects, CRediT, Xaringan presentations, collab
 ### Added
 - Updated CPS-Ranking.
 ### Changed
-- Update of badges in CPS-Ranking.
-- Profile and interests.
+- Minor corrections.
 - Update of publications.
-- Update of relevant experience.
 
 ## [2.13.7] 2020-09-11
 ### Changed
@@ -152,15 +146,12 @@ Automatic updates: CV, research projects, CRediT, Xaringan presentations, collab
 ### Added
 - Updated CPS-Ranking.
 ### Changed
-- Profile and interests.
-- Update of social icons.
+- Minor corrections.
 - Update of collaborators' profiles.
-- Update of relevant experience.
 - Update of academic service.
 - Update of awards.
 - Update of publications.
 - Update of book publishers.
-- Update of badges in CPS-Ranking.
 ### Removed
 - Projects section.
 
@@ -187,11 +178,9 @@ Automatic updates: CV, research projects, CRediT, Xaringan presentations, collab
 - Updated CPS-Ranking.
 - Link to the changelog on GitHub repository.
 ### Changed
-- Update of badges in CPS-Ranking.
 - Update of projects.
 - Featured publications instead of recent ones.
 - Update of publications.
-- Profile and interests.
 - Minor corrections.
 - Update of collaborators' profiles.
 
@@ -212,7 +201,6 @@ Automatic updates: CV, research projects, CRediT, Xaringan presentations, collab
 ### Added
 - Updated CPS-Ranking.
 ### Changed
-- Update of badges in CPS-Ranking.
 - Update of projects.
 
 ## [2.7.2] - 2020-03-05
@@ -234,8 +222,7 @@ Automatic updates: CV, research projects, CRediT, Xaringan presentations, collab
 ### Added
 - Version at the footnote.
 ### Changed
-- Update of badges.
-- Update of badges in CPS-Ranking.
+- Minor corrections.
 ### Removed
 - Collaborators section.
 - Skills section.
@@ -254,8 +241,8 @@ Automatic updates: CV, research projects, CRediT, Xaringan presentations, collab
 ### Added
 - CPS-Ranking badges in SVG on GitHub repository.
 ### Changed
-- Update of social networks links.
-- Update of some collaborators information.
+- Minor corrections.
+- Update of collaborators' profiles.
 - Update of researchers to be added CPS-Ranking.
 
 ## [2.3.0] - 2020-01-05
