@@ -30,8 +30,6 @@ content:
     tag: Data
   - name: Demonstrations
     tag: Demonstrations
-  - name: Replication
-    tag: Replication
   - name: Resources
     tag: Resources
   - name: Scraping
