@@ -1,5 +1,5 @@
 ---
-title: 'Rotación de subsecretarios en Chile: Una exploración de la segunda línea gubernamental, 1990-2014'
+title: 'Rotación de subsecretarios en Chile: una exploración de la segunda línea gubernamental, 1990-2014'
 date: '2015-12-01'
 slug: rotacion-de-subsecretarios-en-chile-una-exploracion-de-la-segunda-linea-gubernamental
 ## categories: []
@@ -23,14 +23,18 @@ url_slides: ~
 url_source: ~
 url_video: ~
 links:
-  - icon: file-pdf
-    icon_pack: far
+  ## - icon: file-pdf
+    ## icon_pack: far
+    ## name: PDF
+    ## url: ''
+  - icon: open-access 
+    icon_pack: ai
     name: PDF
     url: 'https://www.researchgate.net/publication/321977889_Rotacion_de_subsecretarios_en_Chile_una_exploracion_de_la_segunda_linea_gubernamental_1990-2014'
-  - icon: dataverse
-    icon_pack: ai
-    name: Dataset
-    url: 'https://doi.org/10.5281/zenodo.5715384'
+  ## - icon: dataverse
+    ## icon_pack: ai
+    ## name: Dataset
+    ## url: ''
   ## - icon: osf
     ## icon_pack: ai
     ## name: OSF-Project
