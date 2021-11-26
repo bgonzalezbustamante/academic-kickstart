@@ -23,15 +23,11 @@ url_slides: ~
 url_source: ~
 url_video: ~
 links:
-  ## - icon: file-pdf
-    ## icon_pack: far
-    ## name: PDF
-    ## url: ''
-  - icon: open-access 
-    icon_pack: ai
+  - icon: file-pdf
+    icon_pack: far
     name: PDF
-    url: 'https://www.redalyc.org/jatsRepo/105/10559568002/index.html'
-    ## url: 'https://convergencia.uaemex.mx/article/view/11097'
+    url: 'https://convergencia.uaemex.mx/article/view/11097'
+    ## url: 'https://www.redalyc.org/jatsRepo/105/10559568002/index.html'
   ## - icon: dataverse
     ## icon_pack: ai
     ## name: Dataset
