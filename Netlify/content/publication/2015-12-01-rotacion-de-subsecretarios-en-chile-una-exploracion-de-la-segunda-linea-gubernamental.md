@@ -27,6 +27,10 @@ links:
     icon_pack: far
     name: PDF
     url: 'https://www.researchgate.net/publication/321977889_Rotacion_de_subsecretarios_en_Chile_una_exploracion_de_la_segunda_linea_gubernamental_1990-2014'
+  - icon: doi
+    icon_pack: ai
+    name: DOI
+    url: 'https://doi.org/10.22370/rgp.2015.4.2.2230'
   - icon: dataverse
     icon_pack: ai
     name: Dataset
@@ -39,10 +43,6 @@ links:
     ## icon_pack: ai
     ## name: Preprint
     ## url: ''
-  - icon: doi
-    icon_pack: ai
-    name: DOI
-    url: 'https://doi.org/10.22370/rgp.2015.4.2.2230'
 image:
   caption: ''
   focal_point: ''
