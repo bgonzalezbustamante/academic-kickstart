@@ -1,5 +1,5 @@
 ---
-title: 'Élites políticas, económicas e intelectuales: Una agenda de investigación creciente para la ciencia política'
+title: 'Élites políticas, económicas e intelectuales: una agenda de investigación creciente para la ciencia política'
 date: '2016-07-07'
 slug: elites-politicas-econemicas-e-intelectuales
 ## categories: []
@@ -23,8 +23,12 @@ url_slides: ~
 url_source: ~
 url_video: ~
 links:
-  - icon: file-pdf
-    icon_pack: far
+  ## - icon: file-pdf
+    ## icon_pack: far
+    ## name: PDF
+    ## url: ''
+  - icon: open-access 
+    icon_pack: ai
     name: PDF
     url: 'https://revistapolitica.uchile.cl/index.php/RP/article/view/42690'
   ## - icon: dataverse
