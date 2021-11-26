@@ -50,7 +50,7 @@ links:
   - icon: users
     icon_pack: fas
     name: CRediT
-    url: 'project/baseline-local-egovernment-index'
+    url: 'https://bgonzalezbustamante.github.io/CRediT/baseline-local-egovernment-index.html'
 image:
   caption: ''
   focal_point: ''
