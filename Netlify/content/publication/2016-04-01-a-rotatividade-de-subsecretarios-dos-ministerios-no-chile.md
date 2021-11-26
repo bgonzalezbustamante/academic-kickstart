@@ -23,14 +23,18 @@ url_slides: ~
 url_source: ~
 url_video: ~
 links:
-  - icon: file-pdf
-    icon_pack: far
+  ## - icon: file-pdf
+    ## icon_pack: far
+    ## name: PDF
+    ## url: ''
+  - icon: open-access 
+    icon_pack: ai
     name: PDF
     url: 'https://www.researchgate.net/publication/321993740_A_rotatividade_de_subsecretarios_dos_ministerios_no_Chile_1990-2014'
-  - icon: dataverse
-    icon_pack: ai
-    name: Dataset
-    url: 'https://doi.org/10.5281/zenodo.5715384'
+  ## - icon: dataverse
+    ## icon_pack: ai
+    ## name: Dataset
+    ## url: ''
   ## - icon: osf
     ## icon_pack: ai
     ## name: OSF-Project
