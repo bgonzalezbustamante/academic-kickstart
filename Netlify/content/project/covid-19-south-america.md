@@ -5,6 +5,7 @@ date: '2020-05-31'
 authors: ["bgonzalezbustamante"]
 tags: ['Finished Projects']
 summary: 'DOI: 10.17605/OSF.IO/6FM7X'
+external_link: "https://bgonzalezbustamante.github.io/COVID-19-South-America/"
 ---
 
 **Bibliographic Contributor** <br />
