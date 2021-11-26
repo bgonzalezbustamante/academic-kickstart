@@ -27,6 +27,10 @@ links:
     icon_pack: far
     name: PDF
     url: 'https://www.tandfonline.com/doi/full/10.1080/10978526.2019.1652099'
+  ## - icon: open-access 
+    ## icon_pack: ai
+    ## name: PDF
+    ## url: ''
   ## - icon: dataverse
     ## icon_pack: ai
     ## name: Dataset
