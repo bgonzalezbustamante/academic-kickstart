@@ -11,12 +11,18 @@ Automatic updates: CV, research projects, CRediT, Xaringan presentations, collab
 ### Changed
 - CPS-Ranking from bgonzalezbustamante.com to an own domain (TBC).
 
-## [3.9.7] - 2021-12-05
+## [3.10.7] - 2021-12-05
 ### Added
 - Updated CPS-Ranking.
 ### Changed
 - Update of publications.
 - Scripts and folders names standardisation.
+
+## [3.9.7] - 2021-11-26
+### Added
+- Unlicense license on GitHub repository.
+### Removed
+- License CC-BY Attribution 4.0 International on GitHub repository.
 
 ## [Released]
 
@@ -27,6 +33,7 @@ Automatic updates: CV, research projects, CRediT, Xaringan presentations, collab
 - Minor corrections.
 ### Deprecated
 - Projects section.
+- License CC-BY Attribution 4.0 International on GitHub repository.
 
 ## [3.7.7] - 2021-11-15
 ### Changed
@@ -170,6 +177,7 @@ Automatic updates: CV, research projects, CRediT, Xaringan presentations, collab
 ## [2.12.5] - 2020-08-26
 ### Added
 - Automatic CV updates.
+- License CC-BY Attribution 4.0 International on GitHub repository.
 ### Changed
 - Update of badges on GitHub repository.
 
