@@ -23,12 +23,8 @@ url_slides: ~
 url_source: ~
 url_video: ~
 links:
-  ## - icon: file-pdf
-    ## icon_pack: far
-    ## name: PDF
-    ## url: ''
-  - icon: open-access 
-    icon_pack: ai
+  - icon: file-pdf
+    icon_pack: far
     name: PDF
     url: 'http://www.gestionypoliticapublica.cide.edu/ojscide/index.php/gypp/article/view/658'
   - icon: doi
@@ -47,10 +43,6 @@ links:
     icon_pack: ai
     name: Dataset
     url: 'http://doi.org/10.7910/DVN/CMU36B'
-  - icon: users
-    icon_pack: fas
-    name: CRediT
-    url: 'project/baseline-local-egovernment-index'
 image:
   caption: ''
   focal_point: ''
