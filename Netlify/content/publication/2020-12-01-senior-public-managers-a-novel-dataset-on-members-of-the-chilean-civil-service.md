@@ -23,8 +23,12 @@ url_slides: ~
 url_source: ~
 url_video: ~
 links:
-  - icon: file-pdf
-    icon_pack: far
+  ## - icon: file-pdf
+    ## icon_pack: far
+    ## name: PDF
+    ## url: ''
+  - icon: open-access 
+    icon_pack: ai
     name: PDF
     url: 'https://www.researchgate.net/publication/354055962_Altos_Directivos_Publicos_Un_nuevo_conjunto_de_datos_de_miembros_del_servicio_civil_chileno'
   - icon: doi
@@ -47,6 +51,10 @@ links:
     ## icon_pack: ai
     ## name: Dataset
     ## url: ''
+  - icon: users
+    icon_pack: fas
+    name: CRediT
+    url: 'project/survival-civil-servants'
 image:
   caption: ''
   focal_point: ''
