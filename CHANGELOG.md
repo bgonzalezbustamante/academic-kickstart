@@ -1,6 +1,6 @@
 # Changelog
 All notable changes to "Bastián González-Bustamante website code" will be documented in this file.
-Automatic updates: CV, research projects, CRediT, Xaringan presentations, collaborators' profiles, and minor corrections in the CPS-Ranking.
+Automatic updates: CV, data and code, CRediT, Xaringan presentations, collaborators' profiles, and minor corrections in the CPS-Ranking.
 
 ## [Unreleased]
 
@@ -18,13 +18,18 @@ Automatic updates: CV, research projects, CRediT, Xaringan presentations, collab
 - Update of publications.
 - Scripts and folders names standardisation.
 
+## [Released]
+
 ## [3.9.7] - 2021-11-26
 ### Added
 - Unlicense license on GitHub repository.
+- Data and code section.
+- Automatic data and code updates.
+### Changed
+- Minor corrections.
 ### Removed
 - License CC-BY Attribution 4.0 International on GitHub repository.
-
-## [Released]
+- Projects section.
 
 ## [3.8.7] - 2021-11-17
 ## Added
@@ -113,6 +118,7 @@ Automatic updates: CV, research projects, CRediT, Xaringan presentations, collab
 - Landing page on ox.ac.uk domain.
 - Integration with CRediT.
 - Automatic CRediT updates.
+- Automatic projects updates.
 - Automatic collaborator's profiles updates.
 - Easter egg.
 ### Changed
