@@ -23,8 +23,12 @@ url_slides: ~
 url_source: ~
 url_video: ~
 links:
-  - icon: file-pdf
-    icon_pack: far
+  ## - icon: file-pdf
+    ## icon_pack: far
+    ## name: PDF
+    ## url: ''
+  - icon: open-access 
+    icon_pack: ai
     name: PDF
     url: 'https://journals.iai.spk-berlin.de/index.php/iberoamericana/article/view/2736'
   - icon: doi
@@ -42,6 +46,10 @@ links:
   ## - icon: dataverse
     ## icon_pack: ai
     ## name: Dataset
+    ## url: ''
+  ## - icon: users
+    ## icon_pack: fas
+    ## name: CRediT
     ## url: ''
 image:
   caption: ''
