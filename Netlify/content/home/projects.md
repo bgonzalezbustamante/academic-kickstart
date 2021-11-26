@@ -26,13 +26,17 @@ content:
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove the toolbar, delete the entire `filter_button` block.
   filter_button:
-  - name: Ongoing
-    tag: Ongoing Projects
-  - name: Standby
-    tag: Standby Projects
-  - name: Finished
-    tag: Finished Projects
-
+  - name: Data
+    tag: Data
+  - name: Demonstrations
+    tag: Demonstrations
+  - name: Replication
+    tag: Replication
+  - name: Resources
+    tag: Resources
+  - name: Scraping
+    tag: Scraping
+    
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
   columns: '2'
