@@ -23,10 +23,10 @@ url_slides: ~
 url_source: ~
 url_video: ~
 ## links:
-  - icon: file-pdf
-    icon_pack: far
-    name: PDF
-    url: 'https://libros.uchile.cl/1208'
+  ## - icon: file-pdf
+    ## icon_pack: far
+    ## name: PDF
+    ## url: ''
   ## - icon: open-access 
     ## icon_pack: ai
     ## name: PDF
@@ -43,10 +43,10 @@ url_video: ~
     ## icon_pack: ai
     ## name: Preprint
     ## url: ''
-  - icon: doi
-    icon_pack: ai
-    name: DOI
-    url: 'https://doi.org/10.34720/2nd0-8t73'
+  ## - icon: doi
+    ## icon_pack: ai
+    ## name: DOI
+    ## url: ''
 image:
   caption: ''
   focal_point: ''
