@@ -27,6 +27,10 @@ links:
     ## icon_pack: far
     ## name: PDF
     ## url: ''
+  ## - icon: open-access 
+    ## icon_pack: ai
+    ## name: PDF
+    ## url: ''
   ## - icon: dataverse
     ## icon_pack: ai
     ## name: Dataset
