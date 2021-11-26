@@ -47,10 +47,6 @@ links:
     icon_pack: ai
     name: OSF-Project
     url: 'http://doi.org/10.17605/OSF.IO/MWYC2'
-  - icon: users
-    icon_pack: fas
-    name: CRediT
-    url: 'project/chilean-executive-post-transition'
 image:
   caption: ''
   focal_point: ''
