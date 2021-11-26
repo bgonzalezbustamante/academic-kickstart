@@ -1,5 +1,5 @@
 ---
-title: 'Rotación de subsecretarios en Chile: una exploración de la segunda línea gubernamental, 1990-2014'
+title: 'Rotación de subsecretarios en Chile: Una exploración de la segunda línea gubernamental, 1990-2014'
 date: '2015-12-01'
 slug: rotacion-de-subsecretarios-en-chile-una-exploracion-de-la-segunda-linea-gubernamental
 ## categories: []
