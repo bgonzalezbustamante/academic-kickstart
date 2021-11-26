@@ -27,6 +27,10 @@ links:
     icon_pack: ai
     name: PDF
     url: 'https://link.springer.com/referenceworkentry/10.1007%2F978-3-319-20928-9_2699'
+  ## - icon: open-access 
+    ## icon_pack: ai
+    ## name: PDF
+    ## url: ''
   ## - icon: dataverse
     ## icon_pack: ai
     ## name: Dataset
