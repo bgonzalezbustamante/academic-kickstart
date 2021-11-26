@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Instructor
+  - title: Instructor Professor
     company: Universidad de Santiago
     company_url: 'https://fae.usach.cl/'
     location: Santiago
