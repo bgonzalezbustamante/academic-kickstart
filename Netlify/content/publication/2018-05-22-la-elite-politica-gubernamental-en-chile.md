@@ -23,8 +23,12 @@ url_slides: ~
 url_source: ~
 url_video: ~
 links:
-  - icon: file-pdf
-    icon_pack: far
+  ## - icon: file-pdf
+    ## icon_pack: far
+    ## name: PDF
+    ## url: ''
+  - icon: open-access 
+    icon_pack: ai
     name: PDF
     url: 'https://www.researchgate.net/publication/325699783_Elites_en_las_Americas_diferentes_perspectivas_Elites_in_the_Americas_Different_Perspectives'
   ## - icon: dataverse
