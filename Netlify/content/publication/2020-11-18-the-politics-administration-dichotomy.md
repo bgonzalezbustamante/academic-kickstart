@@ -27,6 +27,10 @@ links:
     icon_pack: far
     name: PDF
     url: 'https://onlinelibrary.wiley.com/doi/10.1111/blar.13044'
+  ## - icon: open-access 
+    ## icon_pack: ai
+    ## name: PDF
+    ## url: ''
   ## - icon: dataverse
     ## icon_pack: ai
     ## name: Dataset
@@ -43,6 +47,10 @@ links:
     icon_pack: ai
     name: OSF-Project
     url: 'http://doi.org/10.17605/OSF.IO/MWYC2'
+  - icon: users
+    icon_pack: fas
+    name: CRediT
+    url: 'project/chilean-executive-post-transition'
 image:
   caption: ''
   focal_point: ''
