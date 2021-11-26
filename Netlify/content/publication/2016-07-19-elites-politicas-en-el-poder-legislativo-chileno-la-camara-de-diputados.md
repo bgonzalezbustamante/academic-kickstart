@@ -1,5 +1,5 @@
 ---
-title: 'Élites políticas en el poder legislativo chileno: La Cámara de Diputados (1990-2014)'
+title: 'Élites políticas en el poder legislativo chileno: la Cámara de Diputados (1990-2014)'
 date: '2016-07-19'
 slug: elites-politicas-en-el-poder-legislativo-chileno-la-camara-de-diputados
 ## categories: []
@@ -23,8 +23,12 @@ url_slides: ~
 url_source: ~
 url_video: ~
 links:
-  - icon: file-pdf
-    icon_pack: far
+  ## - icon: file-pdf
+    ## icon_pack: far
+    ## name: PDF
+    ## url: ''
+  - icon: open-access 
+    icon_pack: ai
     name: PDF
     url: 'https://revistapolitica.uchile.cl/index.php/RP/article/view/42691'
   ## - icon: dataverse
