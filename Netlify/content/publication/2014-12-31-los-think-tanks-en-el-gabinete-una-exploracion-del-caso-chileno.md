@@ -1,5 +1,5 @@
 ---
-title: 'Los think tanks en el gabinete: una exploración del caso chileno (2006-2014)'
+title: 'Los think tanks en el gabinete: Una exploración del caso chileno (2006-2014)'
 date: '2014-12-31'
 slug: los-think-tanks-en-el-gabinete-una-exploracion-del-caso-chileno
 ## categories: []
@@ -23,12 +23,8 @@ url_slides: ~
 url_source: ~
 url_video: ~
 links:
-  ## - icon: file-pdf
-    ## icon_pack: far
-    ## name: PDF
-    ## url: ''
-  - icon: open-access 
-    icon_pack: ai
+  - icon: file-pdf
+    icon_pack: far
     name: PDF
     url: 'https://revistadesociologia.uchile.cl/index.php/RDS/article/view/36177'
   ## - icon: dataverse
