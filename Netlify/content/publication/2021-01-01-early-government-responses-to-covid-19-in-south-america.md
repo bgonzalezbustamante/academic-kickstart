@@ -51,10 +51,6 @@ links:
     ## icon_pack: ai
     ## name: Dataset
     ## url: ''
-  - icon: users
-    icon_pack: fas
-    name: CRediT
-    url: 'project/covid-19-south-america'
 image:
   caption: ''
   focal_point: ''
