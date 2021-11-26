@@ -23,12 +23,8 @@ url_slides: ~
 url_source: ~
 url_video: ~
 links:
-  ## - icon: file-pdf
-    ## icon_pack: far
-    ## name: PDF
-    ## url: ''
-  - icon: open-access 
-    icon_pack: ai
+  - icon: file-pdf
+    icon_pack: far
     name: PDF
     url: 'http://www.revistas.usach.cl/ojs/index.php/politicas/article/view/2182'
   ## - icon: dataverse
