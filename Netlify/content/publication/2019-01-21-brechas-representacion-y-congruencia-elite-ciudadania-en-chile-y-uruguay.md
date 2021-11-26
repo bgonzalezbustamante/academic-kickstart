@@ -48,10 +48,6 @@ links:
     icon_pack: ai
     name: OSF-Project
     url: 'http://doi.org/10.17605/OSF.IO/YSX25'
-  - icon: users
-    icon_pack: fas
-    name: CRediT
-    url: 'project/elite-mass-congruence'
 image:
   caption: ''
   focal_point: ''
