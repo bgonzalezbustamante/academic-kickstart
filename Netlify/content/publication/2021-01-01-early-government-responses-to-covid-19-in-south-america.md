@@ -27,10 +27,6 @@ links:
     icon_pack: far
     name: PDF
     url: 'https://www.sciencedirect.com/science/article/pii/S0305750X20303077'
-  ## - icon: open-access 
-    ## icon_pack: ai
-    ## name: PDF
-    ## url: ''
   - icon: doi
     icon_pack: ai
     name: DOI
