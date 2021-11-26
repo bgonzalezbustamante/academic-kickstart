@@ -27,10 +27,6 @@ links:
     icon_pack: far
     name: PDF
     url: 'https://onlinelibrary.wiley.com/doi/10.1111/blar.13044'
-  ## - icon: open-access 
-    ## icon_pack: ai
-    ## name: PDF
-    ## url: ''
   ## - icon: dataverse
     ## icon_pack: ai
     ## name: Dataset
