@@ -47,10 +47,6 @@ links:
     icon_pack: ai
     name: Dataset
     url: 'http://doi.org/10.7910/DVN/CMU36B'
-  - icon: users
-    icon_pack: fas
-    name: CRediT
-    url: 'project/baseline-local-egovernment-index'
 image:
   caption: ''
   focal_point: ''
