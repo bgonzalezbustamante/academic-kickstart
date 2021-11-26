@@ -23,8 +23,12 @@ url_slides: ~
 url_source: ~
 url_video: ~
 links:
-  - icon: file-pdf
-    icon_pack: far
+  ## - icon: file-pdf
+    ## icon_pack: far
+    ## name: PDF
+    ## url: ''
+  - icon: open-access 
+    icon_pack: ai
     name: PDF
     url: 'https://www.researchgate.net/publication/260517478_Campanas_digitales_Branding_o_participacion_politica_El_rol_de_las_redes_sociales_en_la_ultima_campana_presidencial_chilena'
   ## - icon: dataverse
