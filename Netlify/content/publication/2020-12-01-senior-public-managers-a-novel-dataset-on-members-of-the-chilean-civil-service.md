@@ -23,8 +23,8 @@ url_slides: ~
 url_source: ~
 url_video: ~
 links:
-  - icon: open-access 
-    icon_pack: ai
+  - icon: file-pdf
+    icon_pack: far
     name: PDF
     url: 'https://www.researchgate.net/publication/354055962_Altos_Directivos_Publicos_Un_nuevo_conjunto_de_datos_de_miembros_del_servicio_civil_chileno'
   - icon: doi
