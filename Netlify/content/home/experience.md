@@ -38,6 +38,7 @@ experience:
   - title: Lecturer
     company: Universidad de Chile
     company_url: 'http://www.inap.uchile.cl/'
+    company_logo: uchile
     location: Santiago
     date_start: '2013-09-01'
     date_end: '2016-07-30'
