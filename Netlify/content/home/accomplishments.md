@@ -10,7 +10,7 @@ headless: true
 weight: 50
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: "Honours and Awards"
+title: "Relevant Honours and Awards"
 ## subtitle: "[All Honours and Awards >](awards)"
 
 # Date format
@@ -27,16 +27,16 @@ date_format: Jan 2006
 item:
 - certificate_url: ''
   date_end: ''
-  date_start: "2020-02-13"
-  description: "Allowances for books and conference participation (travel grant was declined because of coronavirus pandemic), £745. Oxford, United Kingdom."
+  date_start: "2021-11-04"
+  description: "Allowances for conference participation in the USA, £950. Oxford, United Kingdom."
   organization: University of Oxford
   organization_url: ''
-  title: St Hilda’s College Book and Travel Grants
+  title: St Hilda’s College Travel Grant
   url: ''
 - certificate_url: ''
   date_end: "2023-10-05"
   date_start: "2019-10-06"
-  description: "Tuition fees, transport and living expenses for pursuing a DPhil at the University of Oxford (ANID/PFCHA/72200340), £160,000. Oxford, United Kingdom."
+  description: "Tuition fees, transport and living expenses for pursuing a DPhil (PhD) at the University of Oxford (ANID/PFCHA/72200340), £160,000. Oxford, United Kingdom."
   organization: Chilean National Agency for Research and Development
   organization_url: ''
   title: Becas Chile Doctoral Scholarship Abroad
