@@ -25,7 +25,7 @@ experience:
   - title: Instructor Professor
     company: Universidad de Santiago
     company_url: 'https://fae.usach.cl/'
-    company_logo: usach
+    ## company_logo: usach
     location: Santiago
     date_start: '2014-08-14'
     date_end: ''
@@ -38,7 +38,7 @@ experience:
   - title: Lecturer
     company: Universidad de Chile
     company_url: 'http://www.inap.uchile.cl/'
-    company_logo: uchile
+    ## company_logo: uchile
     location: Santiago
     date_start: '2013-09-01'
     date_end: '2016-07-30'
