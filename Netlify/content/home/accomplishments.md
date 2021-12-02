@@ -30,6 +30,7 @@ item:
   date_start: "2020-02-13"
   description: "Allowances for books and conference participation (travel grant was declined because of coronavirus pandemic), £745. Oxford, United Kingdom."
   organization: University of Oxford
+  organization_logo: university_of_oxford
   organization_url: ''
   title: St Hilda’s College Book and Travel Grants
   url: ''
