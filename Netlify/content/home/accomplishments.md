@@ -10,7 +10,7 @@ headless: true
 weight: 50
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: "Relevant Honours and Awards"
+title: "Relevant Awards"
 ## subtitle: "[All Honours and Awards >](awards)"
 
 # Date format
@@ -27,7 +27,7 @@ date_format: Jan 2006
 item:
 - certificate_url: ''
   date_end: ''
-  date_start: "2021-11-04"
+  date_start: "2022-05-01"
   description: "Allowances for conference participation in the USA, £950. Oxford, United Kingdom."
   organization: University of Oxford
   organization_url: ''
