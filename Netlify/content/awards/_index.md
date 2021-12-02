@@ -5,9 +5,17 @@ date: '12-12-2019'
 authors: ["bgonzalezbustamante"]
 ---
 
-**St Hilda’s College at the University of Oxford Book and Travel Grants**\
+**St Hilda’s College Travel Grant**\
+St Hilda's College at the University of Oxford (2022)\
+*Allowances for conference participation in the USA, £950. Oxford, United Kingdom.*
+
+**St Hilda’s College Muriel Wise Fund and Book Grant**\
+St Hilda's College at the University of Oxford (2021)\
+*Research grant for the training of machine learning algorithms, DPhil (PhD) project data storage, and allowances for books, £530. Oxford, United Kingdom.*
+
+**St Hilda’s College Travel and Book Grants**\
 St Hilda's College at the University of Oxford (2020)\
-*Allowances for books and conference participation (travel grant was declined because of coronavirus pandemic), £745. Oxford, United Kingdom.*
+*Allowances for conference participation in Portugal and books, £745. Oxford, United Kingdom.*
 
 **Becas Chile Doctoral Scholarship Abroad**\
 Chilean National Agency for Research and Development (2019)\
