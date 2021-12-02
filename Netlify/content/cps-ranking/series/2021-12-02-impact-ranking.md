@@ -1,7 +1,7 @@
 ---
 title: "Impact Ranking December 2021"
 ## weight: 
-date: '2021-12-12'
+date: '2021-12-02'
 authors: ["bgonzalezbustamante"]
 ## categories: []
 ## tags: []
