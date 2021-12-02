@@ -25,6 +25,7 @@ experience:
   - title: Instructor Professor
     company: Universidad de Santiago
     company_url: 'https://fae.usach.cl/'
+    company_logo: usach
     location: Santiago
     date_start: '2014-08-14'
     date_end: ''
