@@ -27,7 +27,7 @@ date_format: Jan 2006
 item:
 - certificate_url: ''
   date_end: ''
-  date_start: "2022-05-01"
+  date_start: "2022-05-05"
   description: "Allowances for conference participation in the USA, £950. Oxford, United Kingdom."
   organization: University of Oxford
   organization_url: ''
