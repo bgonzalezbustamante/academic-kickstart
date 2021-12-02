@@ -12,7 +12,7 @@ authors:
 superuser: false
 
 # Role/position
-role: MPhil/PhD Student in Political Science
+role: MRes/PhD Student in Political Science
 
 # Organizations/Affiliations
 organizations:
@@ -20,7 +20,7 @@ organizations:
   url: "https://www.lse.ac.uk/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: MPhil/PhD Student in Political Science at the London School of Economics and Political Science (LSE), United Kingdom.
+bio: MRes/PhD Student in Political Science at the London School of Economics and Political Science (LSE), United Kingdom.
 
 interests:
 ## - 
@@ -65,5 +65,5 @@ user_groups:
 
 \
 \
-MPhil/PhD Student in Political Science \
+MRes/PhD Student in Political Science \
 London School of Economics and Political Science (LSE), United Kingdom
