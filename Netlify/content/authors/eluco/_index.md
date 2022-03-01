@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Elinor Luco
-weight: 29
+weight: 31
 shortname: Luco, E.
 
 # Username (this should match the folder name)
