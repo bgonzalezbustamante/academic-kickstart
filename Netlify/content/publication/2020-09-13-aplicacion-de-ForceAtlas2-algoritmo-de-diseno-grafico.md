@@ -1,12 +1,12 @@
 ---
 title: 'Aplicación de ForceAtlas2, un algoritmo de diseño gráfico continúo, para el estudio de las élites'
 date: '2020-09-13'
-slug: aplicacion-de-forceatlas2-algoritmo-de-diseno-grafico
+slug: aplicacion-de-forceatlas2-algoritmo-de-diseno-grafico-continuo
 ## categories: []
 ## tags: []
 authors: ["bgonzalezbustamante", "ccisternas"]
 doi: ''
-## publishDate: '2018-11-01'
+## publishDate: ''
 publication_types:
   - '6'
 publication: '*Tufte Working Papers*, 1, 1-15'
