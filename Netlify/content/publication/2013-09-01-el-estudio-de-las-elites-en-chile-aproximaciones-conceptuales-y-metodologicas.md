@@ -6,7 +6,7 @@ slug: el-estudio-de-las-elites-en-chile-aproximaciones-conceptuales-y-metodologi
 ## tags: []
 authors: ["bgonzalezbustamante"]
 doi: ''
-## publishDate: '2019-12-15T22:42:13Z'
+## publishDate: ''
 publication_types:
   - '5'
 publication: '*Intersticios Sociales*, 6, 1-20'
@@ -27,21 +27,21 @@ links:
     icon_pack: far
     name: PDF
     url: 'http://ref.scielo.org/zrnp2k'
-  ## - icon: dataverse
+  ## - icon: doi
     ## icon_pack: ai
-    ## name: Dataset
-    ## url: ''
-  ## - icon: osf
-    ## icon_pack: ai
-    ## name: OSF-Project
+    ## name: DOI
     ## url: ''
   ## - icon: arxiv
     ## icon_pack: ai
     ## name: Preprint
     ## url: ''
-  ## - icon: doi
+  ## - icon: osf
     ## icon_pack: ai
-    ## name: DOI
+    ## name: OSF-Project
+    ## url: ''
+  ## - icon: dataverse
+    ## icon_pack: ai
+    ## name: Dataset
     ## url: ''
 image:
   caption: ''
