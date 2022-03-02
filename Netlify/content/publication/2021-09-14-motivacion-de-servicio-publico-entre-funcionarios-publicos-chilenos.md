@@ -4,7 +4,7 @@ date: '2021-09-14'
 slug: motivacion-de-servicio-publico-entre-funcionarios-publicos-chilenos
 ## categories: []
 ## tags: []
-authors: ["ccuevas", "bgonzalezbustamante", "mcalenderonorellana", "dbarria"]
+authors: ["ccuevas", "bgonzalezbustamante", "mcalderonorellana", "dbarria"]
 doi: ''
 ## publishDate: '2021-09-14'
 publication_types:
