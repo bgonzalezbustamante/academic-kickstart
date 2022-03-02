@@ -6,7 +6,7 @@ slug: chile-la-campana-digital
 ## tags: []
 authors: ["bgonzalezbustamante", "ghenriquez"]
 doi: ''
-## publishDate: '2019-12-16T12:37:07Z'
+## publishDate: ''
 publication_types:
   - '4'
 publication: 'In I. Crespo and J. del Rey (eds.), *Comunicación Política & Campañas Electorales en América Latina*. Buenos Aires: Editorial Biblos'
@@ -27,21 +27,21 @@ links:
     ## icon_pack: far
     ## name: PDF
     ## url: ''
-  ## - icon: dataverse
+  ## - icon: doi
     ## icon_pack: ai
-    ## name: Dataset
-    ## url: ''
-  ## - icon: osf
-    ## icon_pack: ai
-    ## name: OSF-Project
+    ## name: DOI
     ## url: ''
   ## - icon: arxiv
     ## icon_pack: ai
     ## name: Preprint
     ## url: ''
-  ## - icon: doi
+  ## - icon: osf
     ## icon_pack: ai
-    ## name: DOI
+    ## name: OSF-Project
+    ## url: ''
+  ## - icon: dataverse
+    ## icon_pack: ai
+    ## name: Dataset
     ## url: ''
 image:
   caption: ''
