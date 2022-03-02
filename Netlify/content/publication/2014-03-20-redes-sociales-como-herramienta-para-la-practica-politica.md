@@ -6,7 +6,7 @@ slug: redes-sociales-como-herramienta-para-la-practica-politica
 ## tags: []
 authors: ["bgonzalezbustamante"]
 doi: ''
-## publishDate: '2019-12-16T12:32:05Z'
+## publishDate: ''
 publication_types:
   - '4'
 publication: 'In O. Avilés *et al.*  (eds.), *Práctica Política y Medios Digitales*. Santiago: Instituto Igualdad'
@@ -27,21 +27,21 @@ links:
     ## icon_pack: far
     ## name: PDF
     ## url: ''
-  ## - icon: dataverse
+  ## - icon: doi
     ## icon_pack: ai
-    ## name: Dataset
-    ## url: ''
-  ## - icon: osf
-    ## icon_pack: ai
-    ## name: OSF-Project
+    ## name: DOI
     ## url: ''
   ## - icon: arxiv
     ## icon_pack: ai
     ## name: Preprint
     ## url: ''
-  ## - icon: doi
+  ## - icon: osf
     ## icon_pack: ai
-    ## name: DOI
+    ## name: OSF-Project
+    ## url: ''
+  ## - icon: dataverse
+    ## icon_pack: ai
+    ## name: Dataset
     ## url: ''
 image:
   caption: ''
