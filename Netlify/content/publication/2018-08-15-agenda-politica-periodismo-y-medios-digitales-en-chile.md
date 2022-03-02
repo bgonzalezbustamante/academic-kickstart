@@ -1,5 +1,5 @@
 ---
-title: 'Agenda política, periodismo y medios digitales en Chile. Notas de investigación sobre pluralismo informativo'
+title: 'Agenda política, periodismo y medios digitales en Chile: Notas de investigación sobre pluralismo informativo'
 date: '2018-08-15'
 slug: agenda-politica-periodismo-y-medios-digitales-en-chile
 ## categories: []
