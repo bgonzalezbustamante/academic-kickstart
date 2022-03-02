@@ -6,7 +6,7 @@ slug: the-politics-administration-dichotomy
 ## tags: []
 authors: ["bgonzalezbustamante"]
 doi: ''
-## publishDate: '2019-11-26'
+## publishDate: ''
 publication_types:
   - '0'
 publication: '*Bulletin of Latin American Research, 39*(5), 582-597'
@@ -27,10 +27,6 @@ links:
     icon_pack: far
     name: PDF
     url: 'https://onlinelibrary.wiley.com/doi/10.1111/blar.13044'
-  ## - icon: dataverse
-    ## icon_pack: ai
-    ## name: Dataset
-    ## url: ''
   - icon: doi
     icon_pack: ai
     name: DOI
@@ -43,6 +39,10 @@ links:
     icon_pack: ai
     name: OSF-Project
     url: 'http://doi.org/10.17605/OSF.IO/MWYC2'
+  ## - icon: dataverse
+    ## icon_pack: ai
+    ## name: Dataset
+    ## url: ''
 image:
   caption: ''
   focal_point: ''
