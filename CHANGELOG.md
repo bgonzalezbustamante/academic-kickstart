@@ -11,13 +11,10 @@ Automatic updates: CV, data and code, CRediT, Xaringan presentations, collaborat
 ### Changed
 - CPS-Ranking from bgonzalezbustamante.com to an own domain (TBC).
 
-## [3.12.8] - 2022-03-05
+## [3.12.7] - 2022-06-05
 ### Added
 - Updated CPS-Ranking.
-
-## [3.11.8] - TBC
 ### Changed
-- Update of publications.
 - Scripts and folders names standardisation.
 
 ## [Released]
@@ -25,6 +22,8 @@ Automatic updates: CV, data and code, CRediT, Xaringan presentations, collaborat
 ## [3.11.7] - 2022-03-01
 ### Added
 - Updated CPS-Ranking.
+### Changed
+- Update of publications.
 
 ## [3.10.7] - 2021-12-02
 ### Added
