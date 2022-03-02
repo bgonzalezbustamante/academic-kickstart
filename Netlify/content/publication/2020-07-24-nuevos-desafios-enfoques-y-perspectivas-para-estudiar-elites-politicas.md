@@ -6,7 +6,7 @@ slug: nuevos-desafios-enfoques-y-perspectivas-para-estudiar-elites-politicas
 ## tags: []
 authors: ["aolivares", "bgonzalezbustamante", "storo", "jcarellano", "ayanesrojas", "jzuritatapia", "avlopes", "crobledoguzman", "jbcanavesisosa"]
 doi: ''
-## publishDate: '2020-04-11'
+## publishDate: ''
 publication_types:
   - '1'
 publication: '*Iberoamericana. América Latina - España - Portugal, XX*(74), 229–259'
