@@ -6,7 +6,7 @@ slug: factores-de-acceso-y-permanencia-de-la-elite-politica-gubernamental-en-chi
 ## tags: []
 authors: ["bgonzalezbustamante"]
 doi: ''
-## publishDate: '2019-12-15T22:37:11Z'
+## publishDate: ''
 publication_types:
   - '5'
 publication: '*Política, Revista de Ciencia Política, 51*(1), 119-153'
@@ -27,22 +27,22 @@ links:
     icon_pack: far
     name: PDF
     url: 'https://revistapolitica.uchile.cl/index.php/RP/article/view/27436'
-  ## - icon: doi
-    ## icon_pack: ai
-    ## name: DOI
-    ## url: ''
+  - icon: doi
+    icon_pack: ai
+    name: DOI
+    url: 'https://doi.org/10.5354/0716-1077.2013.27436'
   ## - icon: arxiv
     ## icon_pack: ai
     ## name: Preprint
+    ## url: ''
+  ## - icon: osf
+    ## icon_pack: ai
+    ## name: OSF-Project
     ## url: ''
   - icon: dataverse
     icon_pack: ai
     name: Dataset
     url: 'https://doi.org/10.5281/zenodo.6098061'
-  ## - icon: osf
-    ## icon_pack: ai
-    ## name: OSF-Project
-    ## url: ''
 image:
   caption: ''
   focal_point: ''
