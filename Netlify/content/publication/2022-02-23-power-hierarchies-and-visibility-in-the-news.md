@@ -27,10 +27,10 @@ links:
     ## icon_pack: far
     ## name: PDF
     ## url: ''
-  - icon: doi
-    icon_pack: ai
-    name: DOI
-    url: 'https://doi.org/10.1016/j.worlddev.2020.105180'
+  ## - icon: doi
+    ## icon_pack: ai
+    ## name: DOI
+    ## url: ''
   - icon: arxiv
     icon_pack: ai
     name: Preprint Upon Request
