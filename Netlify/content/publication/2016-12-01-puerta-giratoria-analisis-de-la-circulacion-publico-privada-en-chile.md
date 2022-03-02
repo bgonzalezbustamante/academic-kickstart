@@ -27,22 +27,22 @@ links:
     icon_pack: far
     name: PDF
     url: 'https://www.latinamerica.undp.org/content/rblac/es/home/library/democratic_governance/-puerta-giratoria--analisis-de-la-circulacion-publico-privada-en.html'
-  ## - icon: dataverse
+  - icon: doi
+    icon_pack: ai
+    name: DOI
+    url: 'https://doi.org/10.13140/RG.2.2.25510.42566'
+  ## - icon: arxiv
     ## icon_pack: ai
-    ## name: Dataset
+    ## name: Preprint
     ## url: ''
   ## - icon: osf
     ## icon_pack: ai
     ## name: OSF-Project
     ## url: ''
-  ## - icon: arxiv
+  ## - icon: dataverse
     ## icon_pack: ai
-    ## name: Preprint
+    ## name: Dataset
     ## url: ''
-  - icon: doi
-    icon_pack: ai
-    name: DOI
-    url: 'https://doi.org/10.13140/RG.2.2.25510.42566'
 image:
   caption: ''
   focal_point: ''
