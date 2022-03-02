@@ -6,7 +6,7 @@ slug: senior-public-managers-a-novel-dataset-on-members-of-the-chilean-civil-ser
 ## tags: []
 authors: ["bgonzalezbustamante", "mastete", "borvenes"]
 doi: ''
-## publishDate: '2020-12-01'
+## publishDate: ''
 publication_types:
   - '2'
 publication: '*Revista de Gestión Pública, IX*(2), 151-169'
