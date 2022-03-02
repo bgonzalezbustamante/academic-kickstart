@@ -6,7 +6,7 @@ slug: servicio-civil-en-chile-analisis-de-los-directivos-de-primer-nivel-jerarqu
 ## tags: []
 authors: ["bgonzalezbustamante", "aolivares", "pabarca", "emolina"]
 doi: ''
-## publishDate: '2019-12-15T20:34:32Z'
+## publishDate: ''
 publication_types:
   - '1'
 publication: '*Revista de Administração Pública, 50*(1), 59-79'
@@ -27,22 +27,22 @@ links:
     icon_pack: far
     name: PDF
     url: 'http://ref.scielo.org/zy34h8'
-  ## - icon: dataverse
+  - icon: doi
+    icon_pack: ai
+    name: DOI
+    url: 'http://dx.doi.org/10.1590/0034-7612145767'
+  ## - icon: arxiv
     ## icon_pack: ai
-    ## name: Dataset
+    ## name: Preprint
     ## url: ''
   ## - icon: osf
     ## icon_pack: ai
     ## name: OSF-Project
     ## url: ''
-  ## - icon: arxiv
+  ## - icon: dataverse
     ## icon_pack: ai
-    ## name: Preprint
+    ## name: Dataset
     ## url: ''
-  - icon: doi
-    icon_pack: ai
-    name: DOI
-    url: 'http://dx.doi.org/10.1590/0034-7612145767'
 image:
   caption: ''
   focal_point: ''
