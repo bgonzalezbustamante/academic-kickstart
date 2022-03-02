@@ -6,7 +6,7 @@ slug: pluralismo-en-los-medios-digitales-escritos-en-chile
 ## tags: []
 authors: ["bgonzalezbustamante", "dsoto"]
 doi: ''
-## publishDate: '2019-12-15T23:21:43Z'
+## publishDate: ''
 publication_types:
   - '6'
 publication: '*Serie Política, Gestión y Políticas Públicas*, 2, 1-26'
@@ -27,22 +27,22 @@ links:
     ## icon_pack: far
     ## name: PDF
     ## url: ''
-  ## - icon: dataverse
+  - icon: doi
+    icon_pack: ai
+    name: DOI
+    url: 'https://doi.org/10.13140/RG.2.2.33899.03362'
+  ## - icon: arxiv
     ## icon_pack: ai
-    ## name: Dataset
+    ## name: Preprint
     ## url: ''
   ## - icon: osf
     ## icon_pack: ai
     ## name: OSF-Project
     ## url: ''
-  ## - icon: arxiv
+  ## - icon: dataverse
     ## icon_pack: ai
-    ## name: Preprint
+    ## name: Dataset
     ## url: ''
-  - icon: doi
-    icon_pack: ai
-    name: DOI
-    url: 'https://doi.org/10.13140/RG.2.2.33899.03362'
 image:
   caption: ''
   focal_point: ''
