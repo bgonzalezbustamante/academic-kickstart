@@ -6,7 +6,7 @@ slug: elites-politicas-en-el-poder-legislativo-chileno-la-camara-de-diputados
 ## tags: []
 authors: ["bgonzalezbustamante", "ccisternas"]
 doi: ''
-## publishDate: '2019-12-15T21:01:24Z'
+## publishDate: ''
 publication_types:
   - '5'
 publication: '*Política, Revista de Ciencia Política, 54*(1), 19-52'
@@ -27,21 +27,21 @@ links:
     icon_pack: far
     name: PDF
     url: 'https://revistapolitica.uchile.cl/index.php/RP/article/view/42691'
-  ## - icon: dataverse
+  ## - icon: doi
     ## icon_pack: ai
-    ## name: Dataset
-    ## url: ''
-  ## - icon: osf
-    ## icon_pack: ai
-    ## name: OSF-Project
+    ## name: DOI
     ## url: ''
   ## - icon: arxiv
     ## icon_pack: ai
     ## name: Preprint
     ## url: ''
-  ## - icon: doi
+  ## - icon: osf
     ## icon_pack: ai
-    ## name: DOI
+    ## name: OSF-Project
+    ## url: ''
+  ## - icon: dataverse
+    ## icon_pack: ai
+    ## name: Dataset
     ## url: ''
 image:
   caption: ''
