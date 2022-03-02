@@ -6,7 +6,7 @@ slug: early-government-responses-to-covid-19-in-south-america
 ## tags: []
 authors: ["bgonzalezbustamante"]
 doi: ''
-## publishDate: '2021-01-01'
+## publishDate: ''
 publication_types:
   - '0'
 publication: '*World Development, 137*, 105180'
