@@ -182,7 +182,7 @@ summary: 'Data collected on March 1, 2022'
 |   170   | Shirley Gotz                | MsPC8uwAAAAJ   | UAH         |    1   |    1   |    4   |
 |   171   | Nerea C. Palma              | qNc7eZgAAAAJ   | PUC         |    0   |    0   |    4   |
 
-<small>Note: The affiliations have been standardised. Data collected on March 2, 2022.</small><br /><br />
+<small>Note: The affiliations have been standardised. Data collected on March 1, 2022.</small><br /><br />
 
 **Would you like to suggest someone?**
 
