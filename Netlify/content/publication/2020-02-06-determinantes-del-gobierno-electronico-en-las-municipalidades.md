@@ -6,7 +6,7 @@ slug: determinantes-del-gobierno-electronico-en-las-municipalidades
 ## tags: []
 authors: ["bgonzalezbustamante", "acarvajal", "agonzalez"]
 doi: ''
-## publishDate: '2020-02-06T20:11:08Z'
+## publishDate: ''
 publication_types:
   - '0'
 publication: '*Gestión y Política Pública, XXIX*(1), 97-129'
