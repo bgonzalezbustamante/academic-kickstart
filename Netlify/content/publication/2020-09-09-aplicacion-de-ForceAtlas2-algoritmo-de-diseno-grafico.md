@@ -26,23 +26,23 @@ links:
   - icon: file-pdf
     icon_pack: far
     name: PDF
-    url: 'https://training-datalab.com/tufte-working-papers/'
-  ## - icon: dataverse
-    ## icon_pack: ai
-    ## name: Dataset
-    ## url: ''
-  ## - icon: osf
-    ## icon_pack: ai
-    ## name: OSF-Project
-    ## url: ''
-  - icon: arxiv
-    icon_pack: ai
-    name: Preprint
     url: 'https://doi.org/10.31235/osf.io/gxrkc'
   ## - icon: doi
     ## icon_pack: ai
     ## name: DOI
     ## url: 'https://doi.org/10.13140/RG.2.2.15355.16163'
+  ## - icon: arxiv
+    ## icon_pack: ai
+    ## name: Preprint
+    ## url: 'https://doi.org/10.31235/osf.io/gxrkc'
+  ## - icon: osf
+    ## icon_pack: ai
+    ## name: OSF-Project
+    ## url: ''
+  ## - icon: dataverse
+    ## icon_pack: ai
+    ## name: Dataset
+    ## url: ''
 image:
   caption: ''
   focal_point: ''
