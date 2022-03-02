@@ -6,7 +6,7 @@ slug: evaluando-twitter-como-indicador-de-opinion-publica
 ## tags: []
 authors: ["bgonzalezbustamante"]
 doi: ''
-## publishDate: '2019-12-15T21:52:22Z'
+## publishDate: ''
 publication_types:
   - '5'
 publication: '*Revista SAAP, 9*(1), 119-141'
@@ -27,21 +27,21 @@ links:
     icon_pack: far
     name: PDF
     url: 'http://ref.scielo.org/dwzhns'
-  ## - icon: dataverse
+  ## - icon: doi
     ## icon_pack: ai
-    ## name: Dataset
-    ## url: ''
-  ## - icon: osf
-    ## icon_pack: ai
-    ## name: OSF-Project
+    ## name: DOI
     ## url: ''
   ## - icon: arxiv
     ## icon_pack: ai
     ## name: Preprint
     ## url: ''
-  ## - icon: doi
+  ## - icon: osf
     ## icon_pack: ai
-    ## name: DOI
+    ## name: OSF-Project
+    ## url: ''
+  ## - icon: dataverse
+    ## icon_pack: ai
+    ## name: Dataset
     ## url: ''
 image:
   caption: ''
