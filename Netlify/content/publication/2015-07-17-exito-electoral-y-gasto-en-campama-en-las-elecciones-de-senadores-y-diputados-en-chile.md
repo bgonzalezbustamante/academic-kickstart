@@ -6,7 +6,7 @@ slug: exito-electoral-y-gasto-en-campana-en-las-elecciones-de-senadores-y-diputa
 ## tags: []
 authors: ["bgonzalezbustamante"]
 doi: ''
-## publishDate: '2019-12-15T22:07:59Z'
+## publishDate: ''
 publication_types:
   - '5'
 publication: '*Políticas Públicas, 8*(1), 21-35'
@@ -27,21 +27,21 @@ links:
     icon_pack: far
     name: PDF
     url: 'http://www.revistas.usach.cl/ojs/index.php/politicas/article/view/2182'
-  ## - icon: dataverse
+  ## - icon: doi
     ## icon_pack: ai
-    ## name: Dataset
-    ## url: ''
-  ## - icon: osf
-    ## icon_pack: ai
-    ## name: OSF-Project
+    ## name: DOI
     ## url: ''
   ## - icon: arxiv
     ## icon_pack: ai
     ## name: Preprint
     ## url: ''
-  ## - icon: doi
+  ## - icon: osf
     ## icon_pack: ai
-    ## name: DOI
+    ## name: OSF-Project
+    ## url: ''
+  ## - icon: dataverse
+    ## icon_pack: ai
+    ## name: Dataset
     ## url: ''
 image:
   caption: ''
