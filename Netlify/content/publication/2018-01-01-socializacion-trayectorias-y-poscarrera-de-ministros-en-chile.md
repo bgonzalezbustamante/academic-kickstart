@@ -27,22 +27,22 @@ links:
     icon_pack: far
     name: PDF
     url: 'http://www.politicaygobierno.cide.edu/index.php/pyg/article/view/1080/'
-  ## - icon: dataverse
+  ## - icon: doi
     ## icon_pack: ai
-    ## name: Dataset
-    ## url: ''
-  ## - icon: osf
-    ## icon_pack: ai
-    ## name: OSF-Project
+    ## name: DOI
     ## url: ''
   ## - icon: arxiv
     ## icon_pack: ai
     ## name: Preprint
     ## url: ''
-  ## - icon: doi
+  ## - icon: osf
     ## icon_pack: ai
-    ## name: DOI
+    ## name: OSF-Project
     ## url: ''
+  - icon: dataverse
+    icon_pack: ai
+    name: Dataset
+    url: 'https://doi.org/10.5281/zenodo.6098061'
 image:
   caption: ''
   focal_point: ''
