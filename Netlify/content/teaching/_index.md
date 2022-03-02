@@ -4,11 +4,15 @@ date: '12-12-2019'
 authors: ["bgonzalezbustamante"]
 ---
 
+**Universidad Mayor, School of Business**
+
+* Machine Learning in Public Policy and Economics (undergraduate workshop, Prof. Carla Cisternas), Spring 2021.
+
 **University of Oxford, Department of Politics and International Relations**
 
 * Comparative Government (undergraduate tutorial, Prof. Petra Schleiter), Hilary 2020.
 
-**Universidad de Santiago, Faculty of Economics and Management**
+**Universidad de Santiago,  Faculty of Administration and Economics**
 
 * Political Science I (undergraduate lecture), Spring 2014, 2018, Fall 2015-2019.
 * Political Science II (undergraduate lecture), Spring 2015-2018.
