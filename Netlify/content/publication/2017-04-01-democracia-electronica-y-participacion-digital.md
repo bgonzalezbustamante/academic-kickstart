@@ -6,7 +6,7 @@ slug: democracia-electronica-y-participacion-digital
 ## tags: []
 authors: ["dbarria", "bgonzalezbustamante", "jearaya"]
 doi: ''
-## publishDate: '2019-12-16T11:39:22Z'
+## publishDate: ''
 publication_types:
   - '4'
 publication: 'In J. R. Gil-García, J. I. Criado, and J. C. Téllez (eds.), *Tecnologías de Información y Comunicación en la Administración Pública: Conceptos, Enfoques, Aplicaciones y Resultados*. Mexico City: INFOTEC'
@@ -27,21 +27,21 @@ links:
     icon_pack: far
     name: PDF
     url: 'https://www.researchgate.net/publication/321980289_Democracia_electronica_y_participacion_digital_Avances_y_desafios'
-  ## - icon: dataverse
+  ## - icon: doi
     ## icon_pack: ai
-    ## name: Dataset
-    ## url: ''
-  ## - icon: osf
-    ## icon_pack: ai
-    ## name: OSF-Project
+    ## name: DOI
     ## url: ''
   ## - icon: arxiv
     ## icon_pack: ai
     ## name: Preprint
     ## url: ''
-  ## - icon: doi
+  ## - icon: osf
     ## icon_pack: ai
-    ## name: DOI
+    ## name: OSF-Project
+    ## url: ''
+  ## - icon: dataverse
+    ## icon_pack: ai
+    ## name: Dataset
     ## url: ''
 image:
   caption: ''
