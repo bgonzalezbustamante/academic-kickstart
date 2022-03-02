@@ -6,7 +6,7 @@ slug: la-literatura-sobre-gobierno-abierto-en-espanol
 ## tags: []
 authors: ["dbarria", "bgonzalezbustamante", "ccisternas"]
 doi: ''
-## publishDate: '2019-12-15T18:39:21Z'
+## publishDate: ''
 publication_types:
   - '2'
 publication: '*Nóesis. Revista de Ciencias Sociales y Humanidades, 28*(56), 22-42'
@@ -27,22 +27,22 @@ links:
     icon_pack: far
     name: PDF
     url: 'http://erevistas.uacj.mx/ojs/index.php/noesis/article/view/1718'
-  ## - icon: dataverse
+  - icon: doi
+    icon_pack: ai
+    name: DOI
+    url: 'http://dx.doi.org/10.20983/noesis.2019.2.3'
+  ## - icon: arxiv
     ## icon_pack: ai
-    ## name: Dataset
+    ## name: Preprint
     ## url: ''
   ## - icon: osf
     ## icon_pack: ai
     ## name: OSF-Project
     ## url: ''
-  ## - icon: arxiv
+  ## - icon: dataverse
     ## icon_pack: ai
-    ## name: Preprint
+    ## name: Dataset
     ## url: ''
-  - icon: doi
-    icon_pack: ai
-    name: DOI
-    url: 'http://dx.doi.org/10.20983/noesis.2019.2.3'
 image:
   caption: ''
   focal_point: ''
