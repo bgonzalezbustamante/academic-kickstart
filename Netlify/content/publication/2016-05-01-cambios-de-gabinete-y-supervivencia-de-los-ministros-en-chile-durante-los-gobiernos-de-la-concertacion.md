@@ -27,10 +27,10 @@ links:
     icon_pack: far
     name: PDF
     url: 'https://revistas.uniandes.edu.co/doi/full/10.7440/colombiaint87.2016.04'
-  ## - icon: dataverse
-    ## icon_pack: ai
-    ## name: Dataset
-    ## url: ''
+  - icon: dataverse
+    icon_pack: ai
+    name: Dataset
+    url: 'https://doi.org/10.5281/zenodo.5744536'
   ## - icon: osf
     ## icon_pack: ai
     ## name: OSF-Project
