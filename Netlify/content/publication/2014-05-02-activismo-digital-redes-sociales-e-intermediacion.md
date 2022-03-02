@@ -6,7 +6,7 @@ slug: activismo-digital-redes-sociales-e-intermediacion
 ## tags: []
 authors: ["bgonzalezbustamante"]
 doi: ''
-## publishDate: '2019-12-16T12:32:05Z'
+## publishDate: ''
 publication_types:
   - '4'
 publication: 'In S. Millaleo and P. Cárcamo (eds.), *Mediaciones del sistema político frente al activismo digital*. Santiago: Fundación Democracia y Desarrollo'
@@ -27,21 +27,21 @@ links:
     icon_pack: far
     name: PDF
     url: 'https://www.researchgate.net/publication/321992867_Activismo_digital_redes_sociales_e_intermediacion'
-  ## - icon: dataverse
+  ## - icon: doi
     ## icon_pack: ai
-    ## name: Dataset
-    ## url: ''
-  ## - icon: osf
-    ## icon_pack: ai
-    ## name: OSF-Project
+    ## name: DOI
     ## url: ''
   ## - icon: arxiv
     ## icon_pack: ai
     ## name: Preprint
     ## url: ''
-  ## - icon: doi
+  ## - icon: osf
     ## icon_pack: ai
-    ## name: DOI
+    ## name: OSF-Project
+    ## url: ''
+  ## - icon: dataverse
+    ## icon_pack: ai
+    ## name: Dataset
     ## url: ''
 image:
   caption: ''
