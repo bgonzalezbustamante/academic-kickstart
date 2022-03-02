@@ -6,7 +6,7 @@ slug: cambios-de-gabinete-y-supervivencia-de-los-ministros-en-chile-durante-los-
 ## tags: []
 authors: ["bgonzalezbustamante", "aolivares"]
 doi: ''
-## publishDate: '2019-12-15T19:30:16Z'
+## publishDate: ''
 publication_types:
   - '1'
 publication: '*Colombia Internacional*, 87, 81-108'
