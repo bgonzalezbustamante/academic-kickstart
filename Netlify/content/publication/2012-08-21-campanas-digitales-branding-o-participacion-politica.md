@@ -6,7 +6,7 @@ slug: campanas-digitales-branding-o-participacion-politica
 ## tags: []
 authors: ["bgonzalezbustamante", "ghenriquez"]
 doi: ''
-## publishDate: '2019-12-15T22:46:29Z'
+## publishDate: ''
 publication_types:
   - '5'
 publication: '*Más Poder Local*, 12, 32-39'
@@ -27,21 +27,21 @@ links:
     icon_pack: far
     name: PDF
     url: 'https://www.researchgate.net/publication/260517478_Campanas_digitales_Branding_o_participacion_politica_El_rol_de_las_redes_sociales_en_la_ultima_campana_presidencial_chilena'
-  ## - icon: dataverse
+  ## - icon: doi
     ## icon_pack: ai
-    ## name: Dataset
-    ## url: ''
-  ## - icon: osf
-    ## icon_pack: ai
-    ## name: OSF-Project
+    ## name: DOI
     ## url: ''
   ## - icon: arxiv
     ## icon_pack: ai
     ## name: Preprint
     ## url: ''
-  ## - icon: doi
+  ## - icon: osf
     ## icon_pack: ai
-    ## name: DOI
+    ## name: OSF-Project
+    ## url: ''
+  ## - icon: dataverse
+    ## icon_pack: ai
+    ## name: Dataset
     ## url: ''
 image:
   caption: ''
