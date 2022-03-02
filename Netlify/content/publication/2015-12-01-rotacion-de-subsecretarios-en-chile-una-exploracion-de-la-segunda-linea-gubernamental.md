@@ -6,7 +6,7 @@ slug: rotacion-de-subsecretarios-en-chile-una-exploracion-de-la-segunda-linea-gu
 ## tags: []
 authors: ["bgonzalezbustamante", "aolivares"]
 doi: ''
-## publishDate: '2019-12-15T20:41:07Z'
+## publishDate: ''
 publication_types:
   - '2'
 publication: '*Revista de Gestión Pública, IV*(2), 151-190'
@@ -31,18 +31,18 @@ links:
     icon_pack: ai
     name: DOI
     url: 'https://doi.org/10.22370/rgp.2015.4.2.2230'
-  - icon: dataverse
-    icon_pack: ai
-    name: Dataset
-    url: 'https://doi.org/10.5281/zenodo.5715384'
-  ## - icon: osf
-    ## icon_pack: ai
-    ## name: OSF-Project
-    ## url: ''
   ## - icon: arxiv
     ## icon_pack: ai
     ## name: Preprint
     ## url: ''
+  ## - icon: osf
+    ## icon_pack: ai
+    ## name: OSF-Project
+    ## url: ''
+  - icon: dataverse
+    icon_pack: ai
+    name: Dataset
+    url: 'https://doi.org/10.5281/zenodo.5715384'
 image:
   caption: ''
   focal_point: ''
