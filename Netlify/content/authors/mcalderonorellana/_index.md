@@ -41,12 +41,12 @@ social:
 ## - icon: osf
   ## icon_pack: ai
   ## link: https://
-## - icon: google-scholar
-  ## icon_pack: ai
-  ## link: https://
-## - icon: researchgate
-  ## icon_pack: fab
-  ## link: https://
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.cl/citations?user=9YHBkNQAAAAJ
+- icon: researchgate
+  icon_pack: fab
+  link: https://www.researchgate.net/profile/Magdalena-Calderon
 ## - icon: academia
   ## icon_pack: ai
   ## link: https://
