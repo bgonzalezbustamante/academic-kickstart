@@ -6,7 +6,7 @@ slug: brechas-representacion-y-congruencia-elite-ciudadania-en-chile-y-uruguay
 ## tags: []
 authors: ["bgonzalezbustamante"]
 doi: ''
-## publishDate: '2019-12-15T18:16:02Z'
+## publishDate: ''
 publication_types:
   - '0'
 publication: '*Convergencia. Revista de Ciencias Sociales*, 80, 1-27'
@@ -28,10 +28,6 @@ links:
     name: PDF
     ## url: 'https://convergencia.uaemex.mx/article/view/11097'
     url: 'https://www.redalyc.org/jatsRepo/105/10559568002/index.html'
-  ## - icon: dataverse
-    ## icon_pack: ai
-    ## name: Dataset
-    ## url: ''
   - icon: doi
     icon_pack: ai
     name: DOI
@@ -44,6 +40,10 @@ links:
     icon_pack: ai
     name: OSF-Project
     url: 'http://doi.org/10.17605/OSF.IO/YSX25'
+  ## - icon: dataverse
+    ## icon_pack: ai
+    ## name: Dataset
+    ## url: ''
 image:
   caption: ''
   focal_point: ''
