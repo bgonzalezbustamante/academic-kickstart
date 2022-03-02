@@ -6,7 +6,7 @@ slug: civil-service-models-in-latin-america
 ## tags: []
 authors: ["bgonzalezbustamante"]
 doi: ''
-## publishDate: '2019-12-15T18:44:17Z'
+## publishDate: ''
 publication_types:
   - '4'
 publication: 'In A. Farazmand (ed.), *Global Encyclopedia of Public Administration, Public Policy, and Governance*. Cham: Springer'
@@ -27,14 +27,6 @@ links:
     icon_pack: far
     name: PDF
     url: 'https://link.springer.com/referenceworkentry/10.1007%2F978-3-319-20928-9_2699'
-  ## - icon: dataverse
-    ## icon_pack: ai
-    ## name: Dataset
-    ## url: ''
-  ## - icon: osf
-    ## icon_pack: ai
-    ## name: OSF-Project
-    ## url: ''
   - icon: doi
     icon_pack: ai
     name: DOI
@@ -43,6 +35,14 @@ links:
     icon_pack: ai
     name: Preprint
     url: 'https://doi.org/10.31235/osf.io/mp4qd'
+  ## - icon: osf
+    ## icon_pack: ai
+    ## name: OSF-Project
+    ## url: ''
+  ## - icon: dataverse
+    ## icon_pack: ai
+    ## name: Dataset
+    ## url: ''
 image:
   caption: ''
   focal_point: ''
