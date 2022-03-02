@@ -27,10 +27,6 @@ links:
     ## icon_pack: far
     ## name: PDF
     ## url: ''
-  ## - icon: open-access 
-    ## icon_pack: ai
-    ## name: PDF
-    ## url: ''
   ## - icon: doi
     ## icon_pack: ai
     ## name: DOI
@@ -50,10 +46,6 @@ links:
   ## - icon: dataverse
     ## icon_pack: ai
     ## name: Dataset
-    ## url: ''
-  ## - icon: users
-    ## icon_pack: fas
-    ## name: CRediT
     ## url: ''
 image:
   caption: ''
