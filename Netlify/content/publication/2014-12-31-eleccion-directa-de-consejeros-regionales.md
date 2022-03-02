@@ -6,7 +6,7 @@ slug: eleccion-directa-de-consejeros-regionales
 ## tags: []
 authors: ["bgonzalezbustamante"]
 doi: ''
-## publishDate: '2019-12-15T22:15:12Z'
+## publishDate: ''
 publication_types:
   - '5'
 publication: '*Política, Revista de Ciencia Política, 52*(2), 49-91'
@@ -27,21 +27,21 @@ links:
     icon_pack: far
     name: PDF
     url: 'https://revistapolitica.uchile.cl/index.php/RP/article/view/36137'
-  ## - icon: dataverse
+  ## - icon: doi
     ## icon_pack: ai
-    ## name: Dataset
-    ## url: ''
-  ## - icon: osf
-    ## icon_pack: ai
-    ## name: OSF-Project
+    ## name: DOI
     ## url: ''
   ## - icon: arxiv
     ## icon_pack: ai
     ## name: Preprint
     ## url: ''
-  ## - icon: doi
+  ## - icon: osf
     ## icon_pack: ai
-    ## name: DOI
+    ## name: OSF-Project
+    ## url: ''
+  ## - icon: dataverse
+    ## icon_pack: ai
+    ## name: Dataset
     ## url: ''
 image:
   caption: ''
