@@ -6,7 +6,7 @@ slug: campaaa-viral
 ## tags: []
 authors: ["bgonzalezbustamante", "dsazo"]
 doi: ''
-## publishDate: '2019-12-16T12:20:26Z'
+## publishDate: ''
 publication_types:
   - '4'
 publication: 'In I. Crespo *et al.* (eds.), *Diccionario Enciclopédico de Comunicación Política. 2nd Edition*. Madrid: Centro de Estudios Políticos y Constitucionales'
@@ -27,21 +27,21 @@ links:
     ## icon_pack: far
     ## name: PDF
     ## url: ''
-  ## - icon: dataverse
+  ## - icon: doi
     ## icon_pack: ai
-    ## name: Dataset
-    ## url: ''
-  ## - icon: osf
-    ## icon_pack: ai
-    ## name: OSF-Project
+    ## name: DOI
     ## url: ''
   ## - icon: arxiv
     ## icon_pack: ai
     ## name: Preprint
     ## url: ''
-  ## - icon: doi
+  ## - icon: osf
     ## icon_pack: ai
-    ## name: DOI
+    ## name: OSF-Project
+    ## url: ''
+  ## - icon: dataverse
+    ## icon_pack: ai
+    ## name: Dataset
     ## url: ''
 image:
   caption: ''
