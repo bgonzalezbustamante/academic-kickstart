@@ -6,7 +6,7 @@ slug: la-elite-politica-gubernamental-en-chile
 ## tags: []
 authors: ["bgonzalezbustamante", "aolivares"]
 doi: ''
-## publishDate: '2019-12-16T11:20:28Z'
+## publishDate: ''
 publication_types:
   - '4'
 publication: 'In A. Codato and F. Espinoza (eds.), *Las Élites en las Américas: Diferentes Perspectivas*. Curitiba: Editora Universidade Federal do Paraná'
