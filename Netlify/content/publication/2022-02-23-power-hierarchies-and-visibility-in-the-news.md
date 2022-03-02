@@ -6,7 +6,7 @@ slug: power-hierarchies-and-visibility-in-the-news
 ## tags: []
 authors: ["xorchard","bgonzalezbustamante"]
 doi: ''
-## publishDate: '2022-02-01'
+## publishDate: ''
 publication_types:
   - '0'
 publication: '*The International Journal of Press/Politics*'
