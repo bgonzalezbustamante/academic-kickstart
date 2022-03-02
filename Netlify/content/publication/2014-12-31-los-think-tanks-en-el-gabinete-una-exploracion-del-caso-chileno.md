@@ -6,7 +6,7 @@ slug: los-think-tanks-en-el-gabinete-una-exploracion-del-caso-chileno
 ## tags: []
 authors: ["aolivares", "bgonzalezbustamante", "jmeneses", "mrodriguez"]
 doi: ''
-## publishDate: '2019-12-15T22:29:32Z'
+## publishDate: ''
 publication_types:
   - '5'
 publication: '*Revista de Sociología*, 29, 37-54'
@@ -27,22 +27,22 @@ links:
     icon_pack: far
     name: PDF
     url: 'https://revistadesociologia.uchile.cl/index.php/RDS/article/view/36177'
-  ## - icon: dataverse
+  - icon: doi
+    icon_pack: ai
+    name: DOI
+    url: 'http://doi.org/10.5354/0719-529X.2014.36177'
+  ## - icon: arxiv
     ## icon_pack: ai
-    ## name: Dataset
+    ## name: Preprint
     ## url: ''
   ## - icon: osf
     ## icon_pack: ai
     ## name: OSF-Project
     ## url: ''
-  ## - icon: arxiv
+  ## - icon: dataverse
     ## icon_pack: ai
-    ## name: Preprint
+    ## name: Dataset
     ## url: ''
-  - icon: doi
-    icon_pack: ai
-    name: DOI
-    url: 'http://doi.org/10.5354/0719-529X.2014.36177'
 image:
   caption: ''
   focal_point: ''
