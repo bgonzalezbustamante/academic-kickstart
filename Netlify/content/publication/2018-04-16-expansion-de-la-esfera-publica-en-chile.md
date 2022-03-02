@@ -6,7 +6,7 @@ slug: expansion-de-la-esfera-publica-en-chile
 ## tags: []
 authors: ["bgonzalezbustamante", "dbarria"]
 doi: ''
-## publishDate: '2019-12-16T11:28:56Z'
+## publishDate: ''
 publication_types:
   - '4'
 publication: 'In N. Del Valle (ed.), *Transformaciones de la Esfera Pública en Chile. Luchas Sociales, Espacio Público y Pluralismo Informativo*. Santiago: RIL Editores'
@@ -27,21 +27,21 @@ links:
     ## icon_pack: far
     ## name: PDF
     ## url: ''
-  ## - icon: dataverse
+  ## - icon: doi
     ## icon_pack: ai
-    ## name: Dataset
-    ## url: ''
-  ## - icon: osf
-    ## icon_pack: ai
-    ## name: OSF-Project
+    ## name: DOI
     ## url: ''
   - icon: arxiv
     icon_pack: ai
     name: Preprint
     url: 'https://doi.org/10.31235/osf.io/nkftb'
-  ## - icon: doi
+  ## - icon: osf
     ## icon_pack: ai
-    ## name: DOI
+    ## name: OSF-Project
+    ## url: ''
+  ## - icon: dataverse
+    ## icon_pack: ai
+    ## name: Dataset
     ## url: ''
 image:
   caption: ''
