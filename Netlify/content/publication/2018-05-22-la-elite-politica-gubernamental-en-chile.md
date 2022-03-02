@@ -39,7 +39,7 @@ links:
     ## icon_pack: ai
     ## name: OSF-Project
     ## url: ''
-  - icon: dataverse
+  - icon: zenodo
     icon_pack: ai
     name: Dataset
     url: 'https://doi.org/10.5281/zenodo.5744536'
