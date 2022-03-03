@@ -6,7 +6,7 @@ authors: ["bgonzalezbustamante"]
 
 **Universidad Mayor, School of Business**
 
-* Machine Learning in Public Policy and Economics (undergraduate workshop, Prof. Carla Cisternas), Spring 2021.
+* Machine Learning in Public Policy and Economics (workshop, Prof. Carla Cisternas), Spring 2021.
 
 **University of Oxford, Department of Politics and International Relations**
 
