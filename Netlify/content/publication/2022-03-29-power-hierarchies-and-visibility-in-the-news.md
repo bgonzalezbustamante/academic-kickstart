@@ -1,6 +1,6 @@
 ---
 title: 'Power Hierarchies and Visibility in the News: Exploring Determinants of Politicians’ Presence and Prominence in the Chilean Press (1991-2019)'
-date: '2022-02-29'
+date: '2022-03-29'
 slug: power-hierarchies-and-visibility-in-the-news
 ## categories: []
 ## tags: []
