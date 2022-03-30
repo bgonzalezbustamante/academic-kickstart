@@ -11,7 +11,7 @@ publication_types:
   - '6'
 publication: '*Tufte Working Papers*, 2, 1-21'
 publication_short: ''
-abstract: 'This working paper analyses the consistency of the political sophistication measurement as a predictor of both political participation and engagement with the 2016/17 Americas Barometer in 19 Latin American countries (*N* = 31.285). Turnout, protests participation, political efficacy, partisanship, interest, and media consumption are assessed. In order to do this, maximum likelihood logit models with Taylor linearization variance estimator and mixed-effects logistic regressions are carried out. Findings show that political sophistication is robustly significant for every dependant variable assessed with a positive effect, except for political efficacy, which presents an inverse effect.'
+abstract: 'This working paper analyses the consistency of the political sophistication measurement as a predictor of both political participation and engagement with the 2016/17 Americas Barometer in 19 Latin American countries (*N* = 31,285). Turnout, protests participation, political efficacy, partisanship, interest, and media consumption are assessed. In order to do this, maximum likelihood logit models with Taylor linearization variance estimator and mixed-effects logistic regressions are carried out. Findings show that political sophistication is robustly significant for every dependant variable assessed with a positive effect, except for political efficacy, which presents an inverse effect.'
 summary: ''
 featured: no
 url_pdf: ~
