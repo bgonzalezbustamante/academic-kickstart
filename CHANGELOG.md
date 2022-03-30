@@ -22,6 +22,9 @@ Automatic updates: CV, data and code, CRediT, Xaringan presentations, collaborat
 ## [3.12.7] - 2022-03-30
 ### Added
 - MIT license.
+### Changed
+- Update of publications.
+- Update of social icons.
 ### Removed
 - Unlicense license on GitHub repository.
 
