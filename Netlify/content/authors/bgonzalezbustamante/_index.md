@@ -49,11 +49,11 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:bastian.gonzalezbustamante@politics.ox.ac.uk 
-  ## '#contact' 
+  link: mailto:bastian.gonzalezbustamante@politics.ox.ac.uk
+  ## '#contact'
 ## - icon: mail-bulk
   ## icon_pack: fas
-  ## link: mailto:bastian.gonzalezbustamante@st-hildas.ox.ac.uk 
+  ## link: mailto:bastian.gonzalezbustamante@st-hildas.ox.ac.uk
 ## - icon: envelope
   ## icon_pack: far
   ## link: mailto:bastian.gonzalez.b@usach.cl
@@ -62,7 +62,7 @@ social:
   link: https://bgonzalezbustamante.com/
 - icon: university
   icon_pack: fas
-  link: https://users.ox.ac.uk/~shil5311/
+  link: https://www.politics.ox.ac.uk/person/bastian-gonzalez-bustamante
 - icon: orcid
   icon_pack: fab
   link: http://orcid.org/0000-0003-1510-6820
