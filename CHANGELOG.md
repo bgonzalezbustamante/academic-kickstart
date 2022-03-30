@@ -11,7 +11,7 @@ Automatic updates: CV, data and code, CRediT, Xaringan presentations, collaborat
 ### Changed
 - CPS-Ranking from bgonzalezbustamante.com to an own domain (TBC).
 
-## [3.12.7] - 2022-06-05
+## [3.13.7] - 2022-06-05
 ### Added
 - Updated CPS-Ranking.
 ### Changed
@@ -19,11 +19,19 @@ Automatic updates: CV, data and code, CRediT, Xaringan presentations, collaborat
 
 ## [Released]
 
+## [3.12.7] - 2022-03-30
+### Added
+- MIT license.
+### Removed
+- Unlicense license on GitHub repository.
+
 ## [3.11.7] - 2022-03-01
 ### Added
 - Updated CPS-Ranking.
 ### Changed
 - Update of publications.
+### Deprecated
+- Unlicense license on GitHub repository.
 
 ## [3.10.7] - 2021-12-02
 ### Added
