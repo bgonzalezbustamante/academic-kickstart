@@ -51,7 +51,7 @@ Automatic updates: CV, data and code, CRediT, Xaringan presentations, collaborat
 ### Changed
 - Minor corrections.
 ### Removed
-- License CC-BY Attribution 4.0 International on GitHub repository.
+- License CC BY 4.0 on GitHub repository.
 - Projects section.
 
 ## [3.8.7] - 2021-11-17
@@ -61,7 +61,7 @@ Automatic updates: CV, data and code, CRediT, Xaringan presentations, collaborat
 - Minor corrections.
 ### Deprecated
 - Projects section.
-- License CC-BY Attribution 4.0 International on GitHub repository.
+- License CC BY 4.0 on GitHub repository.
 
 ## [3.7.7] - 2021-11-15
 ### Changed
@@ -206,7 +206,7 @@ Automatic updates: CV, data and code, CRediT, Xaringan presentations, collaborat
 ## [2.12.5] - 2020-08-26
 ### Added
 - Automatic CV updates.
-- License CC-BY Attribution 4.0 International on GitHub repository.
+- License CC BY 4.0 on GitHub repository.
 ### Changed
 - Update of badges on GitHub repository.
 
