@@ -21,6 +21,6 @@ authors: ["bgonzalezbustamante"]
 * Varieties of Democracy Project, University of Gothenburg, Sweden, 2014, 2018-2020.
 * Global Academic Reputation Survey, Clarivate Analytics, USA, 2020.
 * Sectoral Commission for Research, Universidad de la República, Uruguay 2016, 2018.
-* Times Higher Education World University Rankings, Elsevier, 2018-2019.
+* Times Higher Education World University Rankings, Elsevier, 2018-2019, 2022.
 * Reviewer in WoS-ISI/SSCI/ESCI & Scopus journals (since 2013).
 * Reviewer in SciELO & Latindex journals (since 2013).
