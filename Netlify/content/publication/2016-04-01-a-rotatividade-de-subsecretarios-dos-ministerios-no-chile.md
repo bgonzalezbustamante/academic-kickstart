@@ -39,6 +39,10 @@ links:
     ## icon_pack: ai
     ## name: OSF-Project
     ## url: ''
+  - icon: github
+    icon_pack: fab
+    name: Code
+    url: 'https://github.com/bgonzalezbustamante/chilean-undersecretaries'
   - icon: dataverse
     icon_pack: ai
     name: Dataset
