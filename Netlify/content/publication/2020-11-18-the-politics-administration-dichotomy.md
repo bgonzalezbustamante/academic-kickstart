@@ -39,10 +39,14 @@ links:
     icon_pack: ai
     name: OSF-Project
     url: 'http://doi.org/10.17605/OSF.IO/MWYC2'
-  ## - icon: dataverse
-    ## icon_pack: ai
-    ## name: Dataset
+  ## - icon: github
+    ## icon_pack: fab
+    ## name: Code
     ## url: ''
+  - icon: dataverse
+    icon_pack: ai
+    name: Dataset
+    url: 'https://doi.org/10.5281/zenodo.5744536'
 image:
   caption: ''
   focal_point: ''
