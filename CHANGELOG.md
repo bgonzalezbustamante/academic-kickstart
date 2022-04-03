@@ -1,6 +1,5 @@
 # Changelog
-All notable changes to "Bastián González-Bustamante website code" will be documented in this file.
-Automatic updates: CV, data and code, CRediT, Xaringan presentations, collaborators' profiles, and minor corrections in the CPS-Ranking.
+All notable changes to "Bastián González-Bustamante website code" will be documented in this file. Automatic updates: CV, data and code, Xaringan presentations, collaborators' profiles, and corrections in the CPS-Ranking.
 
 ## [Unreleased]
 
@@ -11,13 +10,18 @@ Automatic updates: CV, data and code, CRediT, Xaringan presentations, collaborat
 ### Changed
 - CPS-Ranking from bgonzalezbustamante.com to an own domain (TBC).
 
-## [3.13.7] - 2022-06-05
+## [3.13.8] - 2022-06-05
 ### Added
 - Updated CPS-Ranking.
 ### Changed
 - Scripts and folders names standardisation.
 
 ## [Released]
+
+## [3.12.8] - 2022-04-03
+### Changed
+- Update of publications.
+- Minor corrections.
 
 ## [3.12.7] - 2022-03-30
 ### Added
@@ -127,7 +131,7 @@ Automatic updates: CV, data and code, CRediT, Xaringan presentations, collaborat
 ## [3.2.1] - 2021-01-08
 ### Added
 - Projects section.
-- Integration research projects with CRediT.
+- Integration projects with CRediT.
 ### Changed
 - Minor corrections.
 
