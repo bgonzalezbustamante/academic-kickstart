@@ -4,7 +4,7 @@ date: '2022-03-29'
 slug: power-hierarchies-and-visibility-in-the-news
 ## categories: []
 ## tags: []
-authors: ["xorchard","bgonzalezbustamante"]
+authors: ["xorchard", "bgonzalezbustamante"]
 doi: ''
 ## publishDate: ''
 publication_types:
