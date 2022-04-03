@@ -36,15 +36,15 @@ social:
 - icon: university
   icon_pack: fas
   link: http://periodismo.uahurtado.cl/team/ximena-orchard/
-## - icon: orcid
-  ## icon_pack: fab
-  ## link: 
+- icon: orcid
+  icon_pack: fab
+  link: https://orcid.org/0000-0002-8687-1098
 ## - icon: osf
   ## icon_pack: ai
   ## link: https://
 ## - icon: google-scholar
   ## icon_pack: ai
-  ## link: 
+  ## link:
 - icon: researchgate
   icon_pack: fab
   link: https://www.researchgate.net/profile/Ximena_Orchard2
