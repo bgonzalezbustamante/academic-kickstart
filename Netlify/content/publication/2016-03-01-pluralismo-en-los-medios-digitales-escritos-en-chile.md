@@ -30,7 +30,8 @@ links:
   - icon: doi
     icon_pack: ai
     name: DOI
-    url: 'https://doi.org/10.13140/RG.2.2.33899.03362'
+    url: 'http://dx.doi.org/10.13140/RG.2.2.33899.03362/1'
+    ## url: 'https://doi.org/10.13140/RG.2.2.33899.03362'
   ## - icon: arxiv
     ## icon_pack: ai
     ## name: Preprint
