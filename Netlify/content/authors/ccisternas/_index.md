@@ -62,9 +62,9 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/carlacisternasg
-- icon: cv
-  icon_pack: ai
-  link: https://carlacisternas.com/CV-Carla-Cisternas.pdf
+## - icon: cv
+  ## icon_pack: ai
+  ## link: https://carlacisternas.com/CV-Carla-Cisternas.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
