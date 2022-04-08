@@ -12,15 +12,15 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Researcher
+role: Lecturer
 
 # Organizations/Affiliations
 organizations:
-- name: Leiden University
-  url: "https://www.universiteitleiden.nl/en"
+- name: Universidad Mayor
+  url: "https://www.umayor.cl/um/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: PhD Researcher in the Department of Latin American Studies at the Faculty of Humanities at Leiden University, Netherlands. Lecturer in the School of Business at the Faculty of Social Sciences and Arts at the Universidad Mayor, Chile.
+bio: Lecturer in the School of Business at the Faculty of Social Sciences and Arts at the Universidad Mayor, Chile.
 
 interests:
 - Technocracy
@@ -34,7 +34,7 @@ interests:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:c.g.cisternas.guasch@hum.leidenuniv.nl
+  link: mailto:carla.cisternas@umayor.cl
 - icon: home
   icon_pack: fas
   link: https://carlacisternas.com/
@@ -77,6 +77,6 @@ user_groups:
 
 \
 \
-PhD Researcher \
-Faculty of Humanities \
-Leiden University, Netherlands
+Lecturer \
+Faculty of Social Sciences and Arts  \
+Universidad Mayor, Chile
