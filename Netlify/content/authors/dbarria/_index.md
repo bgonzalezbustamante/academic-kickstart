@@ -40,9 +40,9 @@ social:
 ## - icon: osf
   ## icon_pack: ai
   ## link: https://
-## - icon: google-scholar
-  ## icon_pack: ai
-  ## link: https://
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=r5a2T-wAAAAJ
 - icon: researchgate
   icon_pack: fab
   link: https://www.researchgate.net/profile/Diego_Barria_Traverso
