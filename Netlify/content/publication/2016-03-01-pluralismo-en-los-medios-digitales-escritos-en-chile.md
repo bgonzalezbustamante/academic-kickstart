@@ -23,10 +23,10 @@ url_slides: ~
 url_source: ~
 url_video: ~
 links:
-  ## - icon: file-pdf
-    ## icon_pack: far
-    ## name: PDF
-    ## url: ''
+  - icon: file-pdf
+    icon_pack: far
+    name: PDF
+    url: 'https://www.researchgate.net/publication/321981058_Pluralismo_en_los_medios_digitales_escritos_en_Chile_una_exploracion_de_casos_clave?channel=doi&linkId=624d11d7cf60536e234572b4&showFulltext=true'
   - icon: doi
     icon_pack: ai
     name: DOI
