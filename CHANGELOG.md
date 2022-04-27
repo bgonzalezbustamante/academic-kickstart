@@ -1,5 +1,5 @@
 # Changelog
-All notable changes to "Bastián González-Bustamante website code" will be documented in this file. Automatic updates: CV, data and code, Xaringan presentations, collaborators' profiles, and corrections in the CPS-Ranking.
+All notable changes to "Bastián González-Bustamante website code" will be documented in this file. Automated updates: CV, data and code, Xaringan presentations, collaborators' profiles, and corrections in the CPS-Ranking.
 
 ## [Unreleased]
 
@@ -10,13 +10,18 @@ All notable changes to "Bastián González-Bustamante website code" will be docu
 ### Changed
 - CPS-Ranking from bgonzalezbustamante.com to an own domain (TBC).
 
-## [3.13.9] - 2022-06-05
+## [3.13.10] - 2022-06-05
 ### Added
 - Updated CPS-Ranking.
 ### Changed
 - Scripts and folders names standardisation.
 
 ## [Released]
+
+## [3.12.10] - 2022-04-27
+### Changed
+- Biography.
+- Minor corrections.
 
 ## [3.12.9] - 2022-04-08
 ### Changed
@@ -55,7 +60,7 @@ All notable changes to "Bastián González-Bustamante website code" will be docu
 ### Added
 - Unlicense license on GitHub repository.
 - Data and code section.
-- Automatic data and code updates.
+- Automated data and code updates.
 ### Changed
 - Minor corrections.
 ### Removed
@@ -95,7 +100,7 @@ All notable changes to "Bastián González-Bustamante website code" will be docu
 ## [3.6.4] - 2021-09-19
 ### Added
 - Xaringan slides folder.
-- Automatic corrections in Xaringan slides.
+- Automated corrections in Xaringan slides.
 ### Deprecated
 - TinyLetter newsletter.
 
@@ -130,7 +135,7 @@ All notable changes to "Bastián González-Bustamante website code" will be docu
 ## [3.3.1] - 2021-03-08
 ### Added
 - Updated CPS-Ranking.
-- Automatic minor corrections in CPS-Ranking.
+- Automated minor corrections in CPS-Ranking.
 
 ## [3.2.1] - 2021-01-08
 ### Added
@@ -148,9 +153,9 @@ All notable changes to "Bastián González-Bustamante website code" will be docu
 - Preparing integration with CRediT.
 - Landing page on ox.ac.uk domain.
 - Integration with CRediT.
-- Automatic CRediT updates.
-- Automatic projects updates.
-- Automatic collaborator's profiles updates.
+- Automated CRediT updates.
+- Automated projects updates.
+- Automated collaborator's profiles updates.
 - Easter egg.
 ### Changed
 - Minor corrections.
@@ -159,7 +164,7 @@ All notable changes to "Bastián González-Bustamante website code" will be docu
 ## [3.0.0] - 2020-12-19
 ### Added
 - Update to the Wowchemy 5.0.0-beta.1 for Hugo.
-- Automatic deployment from GitHub with Netlify.
+- Automated deployment from GitHub with Netlify.
 - DNS domain redirections.
 - SSL/TLS certificate.
 - Analytics tracker.
@@ -172,7 +177,7 @@ All notable changes to "Bastián González-Bustamante website code" will be docu
 
 ## [2.15.8] - 2020-12-18
 ### Added
-- Preparing automatic deployment from GitHub with Netlify.
+- Preparing automated deployment from GitHub with Netlify.
 ### Deprecated
 - Uploading by FTP on ox.ac.uk server.
 
@@ -213,7 +218,7 @@ All notable changes to "Bastián González-Bustamante website code" will be docu
 
 ## [2.12.5] - 2020-08-26
 ### Added
-- Automatic CV updates.
+- Automated CV updates.
 - License CC BY 4.0 on GitHub repository.
 ### Changed
 - Update of badges on GitHub repository.
