@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Carolina Cuevas
-weight: 28
+weight: 17
 shortname: Cuevas, C.
 
 # Username (this should match the folder name)
@@ -23,12 +23,12 @@ organizations:
 bio: MA in Social Work from the Pontificia Universidad Católica de Chile.
 
 interests:
-## - 
-## - 
-## - 
-## - 
-## - 
-## - 
+## -
+## -
+## -
+## -
+## -
+## -
 
 # Social/Academic Networking
 social:
