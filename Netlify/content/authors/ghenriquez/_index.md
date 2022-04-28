@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Gabriel Henríquez
-weight: 7
+weight: 9
 shortname: Henríquez, G.
 
 # Username (this should match the folder name)
@@ -23,12 +23,12 @@ organizations:
 bio: Dual MSc/MA in Political Economy and International Affairs at the London School of Economics and Political Science (LSE), United Kingdom, and SciencesPo, France.
 
 interests:
-## - 
-## - 
-## - 
-## - 
-## - 
-## - 
+## -
+## -
+## -
+## -
+## -
+## -
 
 # Social/Academic Networking
 social:
