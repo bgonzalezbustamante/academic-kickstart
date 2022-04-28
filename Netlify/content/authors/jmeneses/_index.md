@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Javiera Meneses
-weight: 21
+weight: 26
 shortname: Meneses, J.
 
 # Username (this should match the folder name)
@@ -23,12 +23,12 @@ organizations:
 bio: Research Assistant in the Institute of Public Affairs at the Universidad de Chile.
 
 interests:
-## - 
-## - 
-## - 
-## - 
-## - 
-## - 
+## -
+## -
+## -
+## -
+## -
+## -
 
 # Social/Academic Networking
 social:
