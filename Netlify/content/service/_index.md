@@ -4,6 +4,7 @@ date: '12-12-2019'
 authors: ["bgonzalezbustamante"]
 ---
 
+<br />
 **Supervisor and Examiner**
 
 * BA Dissertations Supervisor and Examiner
