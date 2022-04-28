@@ -5,6 +5,7 @@ date: '12-12-2019'
 authors: ["bgonzalezbustamante"]
 ---
 
+<br>
 **St Hilda’s College Travel Grant**\
 St Hilda's College at the University of Oxford (2022)\
 *Allowances for conference participation in the USA, £950. Oxford, United Kingdom.*
