@@ -4,6 +4,7 @@ date: '12-12-2019'
 authors: ["bgonzalezbustamante"]
 ---
 
+<br />
 **Universidad Mayor, School of Business**
 
 * Machine Learning in Public Policy and Economics (workshop, Prof. Carla Cisternas), Spring 2021.
