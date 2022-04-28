@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Juan Carlos Arellano
-weight: 16
+weight: 21
 shortname: Arellano, J. C.
 
 # Username (this should match the folder name)
@@ -23,12 +23,12 @@ organizations:
 bio: Associate Professor in the Department of Sociology and Political Science at the Universidad Católica de Temuco, Chile.
 
 interests:
-## - 
-## - 
-## - 
-## - 
-## - 
-## - 
+## -
+## -
+## -
+## -
+## -
+## -
 
 # Social/Academic Networking
 social:
