@@ -9,6 +9,10 @@ authors: ["bgonzalezbustamante"]
 St Hilda's College at the University of Oxford (2022)\
 *Allowances for conference participation in the USA, £950. Oxford, United Kingdom.*
 
+**SLAS Conference Grant**\
+The Society for Latin American Studies (2022)\
+*Travel support for the Society for Latin American Studies (SLAS) Annual Conference, £400. Bath, United Kingdom.*
+
 **St Hilda’s College Muriel Wise Fund and Book Grant**\
 St Hilda's College at the University of Oxford (2021)\
 *Research grant for the training of machine learning algorithms, DPhil (PhD) project data storage, and allowances for books, £530. Oxford, United Kingdom.*
