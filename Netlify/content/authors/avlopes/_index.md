@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Amanda Vitoria Lopes
-weight: 26
+weight: 30
 shortname: Lopes, A. V.
 
 # Username (this should match the folder name)
@@ -23,12 +23,12 @@ organizations:
 bio: MA Student at the Universidade de Brasília, Brazil.
 
 interests:
-## - 
-## - 
-## - 
-## - 
-## - 
-## - 
+## -
+## -
+## -
+## -
+## -
+## -
 
 # Social/Academic Networking
 social:
