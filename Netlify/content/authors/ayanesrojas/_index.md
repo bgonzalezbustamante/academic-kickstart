@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Anabel Yanes-Rojas
-weight: 23
+weight: 28
 shortname: Yanes-Rojas, A.
 
 # Username (this should match the folder name)
@@ -16,19 +16,19 @@ role: MA Student
 
 # Organizations/Affiliations
 organizations:
-- name: FLACSO Ecuador 
+- name: FLACSO Ecuador
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: MA Student at FLACSO Ecuador.
 
 interests:
-## - 
-## - 
-## - 
-## - 
-## - 
-## - 
+## -
+## -
+## -
+## -
+## -
+## -
 
 # Social/Academic Networking
 social:
