@@ -20,7 +20,7 @@ organizations:
   url: "http://periodismo.uahurtado.cl/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Head in the Journalism Department at the Universidad Alberto Hurtado.
+bio: Head of the Journalism Department at the Universidad Alberto Hurtado, Chile.
 
 interests:
 - Political communication
