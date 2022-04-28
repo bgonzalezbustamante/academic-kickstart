@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Magdalena Calderón-Orellana
-weight: 29
+weight: 16
 shortname: Calderón-Orellana, M.
 
 # Username (this should match the folder name)
@@ -20,15 +20,15 @@ organizations:
   url: "https://www.usach.cl/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: PhD Researcher at the Faculty of Administration and Economics at the Universidad de Santiago de Chile. Lecturer in the Social Work School at the Pontificia Universidad Católica de Chile.
+bio: PhD Researcher at the Faculty of Administration and Economics at the Universidad de Santiago de Chile (USACH). Lecturer in the Social Work School at the Pontificia Universidad Católica de Chile.
 
 interests:
-## - 
-## - 
-## - 
-## - 
-## - 
-## - 
+## -
+## -
+## -
+## -
+## -
+## -
 
 # Social/Academic Networking
 social:
@@ -67,4 +67,4 @@ user_groups:
 \
 PhD Researcher \
 Faculty of Administration and Economics \
-Universidad de Santiago de Chile
+Universidad de Santiago de Chile (USACH)
