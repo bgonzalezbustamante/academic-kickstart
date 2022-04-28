@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Matías Rodríguez
-weight: 22
+weight: 27
 shortname: Rodríguez, M.
 
 # Username (this should match the folder name)
@@ -23,12 +23,12 @@ organizations:
 bio: Research Assistant in the Institute of Public Affairs at the Universidad de Chile.
 
 interests:
-## - 
-## - 
-## - 
-## - 
-## - 
-## - 
+## -
+## -
+## -
+## -
+## -
+## -
 
 # Social/Academic Networking
 social:
