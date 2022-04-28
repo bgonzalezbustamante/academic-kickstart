@@ -1,7 +1,7 @@
 ---
 # Display name
 title: José Zurita-Tapia
-weight: 24
+weight: 29
 shortname: Zurita-Tapia, J.
 
 # Username (this should match the folder name)
@@ -23,12 +23,12 @@ organizations:
 bio: MA Student at FLACSO Ecuador.
 
 interests:
-## - 
-## - 
-## - 
-## - 
-## - 
-## - 
+## -
+## -
+## -
+## -
+## -
+## -
 
 # Social/Academic Networking
 social:
