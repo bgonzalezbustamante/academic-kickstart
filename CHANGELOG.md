@@ -18,8 +18,9 @@ All notable changes to "Bastián González-Bustamante website code" will be docu
 
 ## [Released]
 
-## [3.12.10] - 2022-04-27
+## [3.12.10] - 2022-04-28
 ### Changed
+- Update of publications.
 - Biography.
 - Minor corrections.
 
