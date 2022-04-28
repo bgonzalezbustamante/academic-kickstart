@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Diego Sazo
-weight: 6
+weight: 8
 shortname: Sazo, D.
 
 # Username (this should match the folder name)
@@ -23,12 +23,12 @@ organizations:
 bio: MRes/PhD Student in Political Science at the London School of Economics and Political Science (LSE), United Kingdom.
 
 interests:
-## - 
-## - 
-## - 
-## - 
-## - 
-## - 
+## -
+## -
+## -
+## -
+## -
+## -
 
 # Social/Academic Networking
 social:
