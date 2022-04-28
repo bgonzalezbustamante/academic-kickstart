@@ -1,7 +1,7 @@
 ---
 # Display name
 title: J. Eduardo Araya
-weight: 14
+weight: 19
 shortname: Araya, J. E.
 
 # Username (this should match the folder name)
@@ -23,12 +23,12 @@ organizations:
 bio: Lecturer at the Universidad de Valparaíso, Chile.
 
 interests:
-## - 
-## - 
-## - 
-## - 
-## - 
-## - 
+## -
+## -
+## -
+## -
+## -
+## -
 
 # Social/Academic Networking
 social:
