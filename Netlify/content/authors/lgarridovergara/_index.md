@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Luis Garrido-Vergara
-weight: 18
+weight: 23
 shortname: Garrido-Vergara, L.
 
 # Username (this should match the folder name)
@@ -25,7 +25,7 @@ bio: Assistant Professor in the Institute of Public Affairs at the Universidad d
 interests:
 ## - Latin American Politics
 ## - Elites and Political Elites
-## - Local Governments 
+## - Local Governments
 ## - Social Networks
 ## - Public Policies
 ## - Sociological Theory
