@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Sergio Toro
-weight: 15
+weight: 20
 shortname: Toro, S.
 
 # Username (this should match the folder name)
@@ -23,12 +23,12 @@ organizations:
 bio: Associate Professor at the Universidad de Concepción, Chile.
 
 interests:
-## - 
-## - 
-## - 
-## - 
-## - 
-## - 
+## -
+## -
+## -
+## -
+## -
+## -
 
 # Social/Academic Networking
 social:
