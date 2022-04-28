@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Diego Barría
-weight: 4
+weight: 3
 shortname: Barría, D.
 
 # Username (this should match the folder name)
