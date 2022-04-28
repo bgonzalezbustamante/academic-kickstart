@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Juan Bautista Canavesi Sosa
-weight: 27
+weight: 32
 shortname: Canavesi Sosa, J. B.
 
 # Username (this should match the folder name)
@@ -23,12 +23,12 @@ organizations:
 bio: BA in Political Science from the Pontificia Universidad Católica de Argentina.
 
 interests:
-## - 
-## - 
-## - 
-## - 
-## - 
-## - 
+## -
+## -
+## -
+## -
+## -
+## -
 
 # Social/Academic Networking
 social:
