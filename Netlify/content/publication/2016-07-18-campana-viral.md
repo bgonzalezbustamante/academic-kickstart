@@ -1,7 +1,7 @@
 ---
 title: 'Campaña viral'
 date: '2016-07-18'
-slug: campaaa-viral
+slug: campana-viral
 ## categories: []
 ## tags: []
 authors: ["bgonzalezbustamante", "dsazo"]
