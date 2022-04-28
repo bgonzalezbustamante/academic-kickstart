@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Rodrigo Cuevas
-weight: 30
+weight: 33
 shortname: Cuevas, R.
 
 # Username (this should match the folder name)
