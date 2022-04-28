@@ -66,6 +66,6 @@ user_groups:
 
 \
 \
-Director \
+Head \
 Journalism Department \
-Universidad Alberto Hurtado
+Universidad Alberto Hurtado, Chile
