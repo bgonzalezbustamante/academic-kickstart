@@ -65,6 +65,6 @@ user_groups:
 
 \
 \
-Joint Head of Department \
+Joint Head \
 Department of Politics and International Relations \
 University of Oxford, United Kingdom
