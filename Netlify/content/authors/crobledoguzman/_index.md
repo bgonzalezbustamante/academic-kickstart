@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Claudio Robledo Guzmán
-weight: 26
+weight: 31
 shortname: Robledo Guzmán, C.
 
 # Username (this should match the folder name)
@@ -23,12 +23,12 @@ organizations:
 bio: BA in Political Science from the Pontificia Universidad Católica de Argentina.
 
 interests:
-## - 
-## - 
-## - 
-## - 
-## - 
-## - 
+## -
+## -
+## -
+## -
+## -
+## -
 
 # Social/Academic Networking
 social:
