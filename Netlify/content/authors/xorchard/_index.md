@@ -17,7 +17,7 @@ role: Head of Department
 # Organizations/Affiliations
 organizations:
 - name: Universidad de Alberto Hurtado
-  url: "http://periodismo.uahurtado.cl/"
+  url: "https://www.uahurtado.cl/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Head of the Journalism Department at the Universidad Alberto Hurtado, Chile.
