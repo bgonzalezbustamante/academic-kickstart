@@ -44,12 +44,12 @@ social:
 - icon: orcid
   icon_pack: fab
   link: http://orcid.org/0000-0001-7948-6194
-- icon: osf
-  icon_pack: ai
-  link: https://osf.io/xkhdn/
 - icon: github
   icon_pack: fab
   link: https://github.com/carlacisternasg
+- icon: osf
+  icon_pack: ai
+  link: https://osf.io/xkhdn/
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.cl/citations?user=ArIMp5YAAAAJ&hl
