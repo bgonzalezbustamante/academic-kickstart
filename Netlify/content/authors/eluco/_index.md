@@ -41,12 +41,12 @@ social:
 ## - icon: orcid
   ## icon_pack: fab
   ## link: http://
-## - icon: osf
-  ## icon_pack: ai
-  ## link: https://
 - icon: github
   icon_pack: fab
   link: https://github.com/elinorlucoq
+- icon: osf
+  icon_pack: ai
+  link: https://osf.io/fw65k/
 ## - icon: google-scholar
   ## icon_pack: ai
   ## link: https://
