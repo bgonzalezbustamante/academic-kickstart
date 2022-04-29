@@ -39,6 +39,9 @@ social:
 - icon: orcid
   icon_pack: fab
   link: https://orcid.org/0000-0002-8687-1098
+- icon: github
+  icon_pack: fab
+  link: https://github.com/XimenaOrch
 ## - icon: osf
   ## icon_pack: ai
   ## link: https://
