@@ -5,12 +5,12 @@ All notable changes to "Bastián González-Bustamante website code" will be docu
 
 ## [4.0.0] - TBC
 ### Added
-- News sections (TBC).
+- News section (TBC).
 - Recent talks section (TBC).
 ### Changed
 - CPS-Ranking from bgonzalezbustamante.com to an own domain (TBC).
 
-## [3.13.10] - 2022-06-05
+## [3.13.11] - 2022-06-05
 ### Added
 - Updated CPS-Ranking.
 ### Changed
@@ -18,9 +18,12 @@ All notable changes to "Bastián González-Bustamante website code" will be docu
 
 ## [Released]
 
-## [3.12.10] - 2022-04-29
+## [3.12.11] - 2022-04-29
 ### Changed
 - Update of publications.
+
+## [3.12.10] - 2022-04-27
+### Changed
 - Biography.
 - Minor corrections.
 
