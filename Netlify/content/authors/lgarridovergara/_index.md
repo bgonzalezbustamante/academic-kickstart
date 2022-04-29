@@ -38,6 +38,9 @@ social:
 ## - icon: orcid
   ## icon_pack: fab
   ## link: http://
+- icon: github
+  icon_pack: fab
+  link: https://github.com/LGarrido-Vergara
 ## - icon: osf
   ## icon_pack: ai
   ## link: https://
