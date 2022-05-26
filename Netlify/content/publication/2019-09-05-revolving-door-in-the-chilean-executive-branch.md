@@ -1,5 +1,5 @@
 ---
-title: 'Public-Private Circulation and the Revolving Door in the Chilean Executive Branch (2000–2014)'
+title: 'Public-Private Circulation and the Revolving Door in the Chilean Executive Branch (2000-2014)'
 date: '2019-09-05'
 slug: revolving-door-in-the-chilean-executive-branch
 ## categories: []
