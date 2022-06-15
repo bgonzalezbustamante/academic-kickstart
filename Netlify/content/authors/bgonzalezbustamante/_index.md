@@ -108,4 +108,4 @@ Before starting the DPhil in October 2019, I earned an MA (1st) in Political Sci
 
 My doctoral research is supervised by [Professor Petra Schleiter](https://www.politics.ox.ac.uk/academic-faculty/petra-schleiter.html) and focuses on cabinets’ stability in Latin American presidential democracies. In my DPhil project, I combine the principal-agent theory elements to evaluate the actors’ incentives and strategies in presidential systems. My data gathering strategy is based on archives revision using Optical Character Recognition (OCR), Natural Language Processing (NLP), and machine learning techniques. In addition, my empirical strategy employs propensity scores and matching methods, competing risks models, and IV estimations.
 
-My research is funded by the Chilean National Agency for Research and Development and the St Hilda’s College Muriel Wise Fund.
+My research is funded by the Chilean National Agency for Research and Development, the St Hilda’s College Muriel Wise Fund and the Society for Latin American Studies Postgraduate and Postdoctoral Research Award.
