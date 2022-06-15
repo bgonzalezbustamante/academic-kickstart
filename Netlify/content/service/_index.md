@@ -5,6 +5,15 @@ authors: ["bgonzalezbustamante"]
 ---
 
 <br />
+**Peer Reviewer and Expert**
+
+* Times Higher Education World University Rankings, Elsevier, 2018, 2019, 2022.
+* Varieties of Democracy Project, University of Gothenburg, Sweden, 2014, 2018-2020.
+* Global Academic Reputation Survey, Clarivate Analytics, USA, 2020.
+* Sectoral Commission for Research, Universidad de la República, Uruguay 2016, 2018.
+* Reviewer in WoS-ISI/SSCI/ESCI & Scopus journals (since 2013).
+* Reviewer in SciELO & Latindex journals (since 2013).
+
 **Supervisor and Examiner**
 
 * BA Dissertations Supervisor and Examiner
@@ -16,12 +25,3 @@ authors: ["bgonzalezbustamante"]
   + BA in Public Administration, Universidad de Santiago, 2018-2019.
   + Student Exchange Programme, Wake Forest University, 2015.
   + Student Exchange Programme, American University, 2015.
-
-**Peer Reviewer and Expert**
-
-* Varieties of Democracy Project, University of Gothenburg, Sweden, 2014, 2018-2020.
-* Global Academic Reputation Survey, Clarivate Analytics, USA, 2020.
-* Sectoral Commission for Research, Universidad de la República, Uruguay 2016, 2018.
-* Times Higher Education World University Rankings, Elsevier, 2018-2019, 2022.
-* Reviewer in WoS-ISI/SSCI/ESCI & Scopus journals (since 2013).
-* Reviewer in SciELO & Latindex journals (since 2013).
