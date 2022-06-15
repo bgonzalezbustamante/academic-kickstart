@@ -26,12 +26,12 @@ date_format: Jan 2006
 
 item:
 - certificate_url: ''
-  date_end: ''
-  date_start: "2022-05-05"
-  description: "Allowances for conference participation in the USA, £950. Oxford, United Kingdom."
+  date_end: '2022-05-05'
+  date_start: "2020-02-13"
+  description: "Research support grant for my DPhil (PhD) project and allowances for participation in conferences and purchase of books, £2,225. Oxford, United Kingdom."
   organization: University of Oxford
   organization_url: ''
-  title: St Hilda’s College Travel Grant
+  title: St Hilda's College Muriel Wise Fund and Travel and Book Grants
   url: ''
 - certificate_url: ''
   date_end: "2023-10-05"
