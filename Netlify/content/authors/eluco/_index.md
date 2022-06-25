@@ -38,9 +38,9 @@ social:
 - icon: university
   icon_pack: fas
   link: https://training-datalab.com/
-## - icon: orcid
-  ## icon_pack: fab
-  ## link: http://
+- icon: orcid
+  icon_pack: fab
+  link: https://orcid.org/0000-0003-3370-4322
 - icon: github
   icon_pack: fab
   link: https://github.com/elinorlucoq
