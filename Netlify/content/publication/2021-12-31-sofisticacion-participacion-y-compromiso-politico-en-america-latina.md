@@ -30,11 +30,11 @@ links:
   - icon: doi
     icon_pack: ai
     name: DOI
+    url: 'https://doi.org/10.5281/zenodo.6739833'
+  - icon: arxiv
+    icon_pack: ai
+    name: Preprint
     url: 'https://doi.org/10.31235/osf.io/r4pj8'
-  ## - icon: arxiv
-    ## icon_pack: ai
-    ## name: Preprint
-    ## url: ''
   ## - icon: osf
     ## icon_pack: ai
     ## name: OSF-Project
