@@ -12,7 +12,7 @@ Society for Latin American Studies (2022)\
 
 **St Hilda's College Muriel Wise Fund and Travel and Book Grants**\
 St Hilda's College at the University of Oxford (2022)\
-*Research support grant for my DPhil (PhD) project and allowances for participation in conferences and purchase of books, £2,225. Oxford, United Kingdom.*
+*Research support grant for my DPhil (PhD) project and allowances for participation in conferences and purchase of books, £2,255. Oxford, United Kingdom.*
 
 **Becas Chile Doctoral Scholarship Abroad**\
 Chilean National Agency for Research and Development (2019)\
