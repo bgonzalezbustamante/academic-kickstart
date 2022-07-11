@@ -1,5 +1,5 @@
 # Changelog
-All notable changes to "Bastián González-Bustamante website code" will be documented in this file. Automated updates: CV, data and code, Xaringan presentations, collaborators' profiles, and corrections in the CPS-Ranking.
+All notable changes to "Bastián González-Bustamante website code" will be documented in this file. Automated updates: CV, data and code section, Xaringan presentations, collaborators' profiles, and corrections in the CPS-Ranking.
 
 ## [Unreleased]
 
@@ -10,12 +10,16 @@ All notable changes to "Bastián González-Bustamante website code" will be docu
 ### Changed
 - CPS-Ranking from bgonzalezbustamante.com to an own domain (TBC).
 
-## [3.14.14] - 2022-09-05
+## [3.14.15] - 2022-09-05
 ### Added
 - Updated CPS-Ranking.
-- Folders standardisation.
+- Folders standardisation (TBC).
 
 ## [Released]
+
+## [3.13.15] - 2022-07-11
+### Changed
+- Update of publications.
 
 ## [3.13.14] - 2022-06-15
 ### Changed
