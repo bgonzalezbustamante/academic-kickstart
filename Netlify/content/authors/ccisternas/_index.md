@@ -12,15 +12,15 @@ authors:
 superuser: false
 
 # Role/position
-role: Lecturer
+role: PhD Researcher
 
 # Organizations/Affiliations
 organizations:
-- name: Universidad Mayor
-  url: "https://www.umayor.cl/um/"
+- name: Leiden University
+  url: "https://www.universiteitleiden.nl/en"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Lecturer in the School of Business at the Faculty of Social Sciences and Arts at the Universidad Mayor, Chile.
+bio: PhD Researcher in the Department of Latin American Studies at the Faculty of Humanities at Leiden University, Netherlands. Lecturer at the Faculty of Social Sciences and Arts at the Universidad Mayor, Chile.
 
 interests:
 - Technocracy
@@ -34,7 +34,7 @@ interests:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:carla.cisternas@umayor.cl
+  link: mailto:c.g.cisternas.guasch@hum.leidenuniv.nl
 - icon: home
   icon_pack: fas
   link: https://carlacisternas.com/
@@ -52,7 +52,7 @@ social:
   link: https://osf.io/xkhdn/
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.cl/citations?user=ArIMp5YAAAAJ&hl
+  link: https://scholar.google.cl/citations?user=ArIMp5YAAAAJ
 - icon: researchgate
   icon_pack: fab
   link: https://www.researchgate.net/profile/Carla_Cisternas3
@@ -62,9 +62,9 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/carlacisternasg
-## - icon: cv
-  ## icon_pack: ai
-  ## link: https://carlacisternas.com/CV-Carla-Cisternas.pdf
+- icon: cv
+  icon_pack: ai
+  link: https://carlacisternas.com/CV-Carla-Cisternas.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -77,6 +77,6 @@ user_groups:
 
 \
 \
-Lecturer \
-Faculty of Social Sciences and Arts  \
-Universidad Mayor, Chile
+PhD Researcher \
+Faculty of Humanities \
+Leiden University, Netherlands
