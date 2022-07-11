@@ -28,7 +28,7 @@ item:
 - certificate_url: ''
   date_end: '2022-05-05'
   date_start: "2020-02-13"
-  description: "Research support grant for my DPhil (PhD) project and allowances for participation in conferences and purchase of books, £2,225. Oxford, United Kingdom."
+  description: "Research support grant for my DPhil (PhD) project and allowances for participation in conferences and purchase of books, £2,255. Oxford, United Kingdom."
   organization: University of Oxford
   organization_url: ''
   title: St Hilda's College Muriel Wise Fund and Travel and Book Grants
