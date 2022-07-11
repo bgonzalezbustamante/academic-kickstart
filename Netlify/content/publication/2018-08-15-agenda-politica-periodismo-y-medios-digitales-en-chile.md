@@ -26,7 +26,7 @@ links:
   - icon: file-pdf
     icon_pack: far
     name: PDF
-    url: 'http://revistas.ufro.cl/ojs/index.php/perspectivas/article/view/1146'
+    url: 'https://revistas.ufro.cl/ojs/index.php/perspectivas/article/view/1146'
   ## - icon: doi
     ## icon_pack: ai
     ## name: DOI
