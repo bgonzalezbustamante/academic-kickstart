@@ -1,6 +1,6 @@
 ---
 title: 'Digital Signatures Validation'
-subtitle: 'Documents Details'
+subtitle: 'Documents'
 date: '2022-07-20'
 authors: ["bgonzalezbustamante"]
 output: html_document
