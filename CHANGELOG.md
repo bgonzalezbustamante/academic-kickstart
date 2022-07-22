@@ -10,12 +10,16 @@ All notable changes to "Bastián González-Bustamante website code" will be docu
 ### Changed
 - CPS-Ranking from bgonzalezbustamante.com to an own domain (TBC).
 
-## [3.15.15] - 2022-09-05
+## [3.15.16] - 2022-09-05
 ### Added
 - Updated CPS-Ranking.
 - Folders standardisation (TBC).
 
 ## [Released]
+
+## [3.14.16] - 2022-07-22
+### Changed
+- Minor corrections.
 
 ## [3.14.15] - 2022-07-20
 ### Added
