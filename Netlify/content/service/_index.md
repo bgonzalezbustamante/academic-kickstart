@@ -7,6 +7,10 @@ authors: ["bgonzalezbustamante"]
 <br />
 **Board Member**
 * MA in Management and Public Policy, Universidad de Santiago (since 2022).
+* Training Data Lab Research Group (since 2020).
+
+**Service to the Discipline**
+* Associate Editor *Revista de Gestión Pública* (since 2016).
 
 **Peer Reviewer and Expert**
 
