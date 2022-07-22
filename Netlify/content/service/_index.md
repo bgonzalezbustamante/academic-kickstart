@@ -5,6 +5,9 @@ authors: ["bgonzalezbustamante"]
 ---
 
 <br />
+**Board Member**
+* MA in Management and Public Policy, Universidad de Santiago (since 2022).
+
 **Peer Reviewer and Expert**
 
 * Times Higher Education World University Rankings, Elsevier, 2018, 2019, 2022.
@@ -20,7 +23,7 @@ authors: ["bgonzalezbustamante"]
   + BA in Public Administration, Universidad de Santiago, 2014-2019.
 * MA Dissertations Examiner
   + MA in Political Science, Universidad de Chile, 2018-2019.
-  + MA in Public Management, Universidad de Santiago, 2018.
+  + MA in Management and Public Policy, Universidad de Santiago, 2018.
 * Internship Supervisor
   + BA in Public Administration, Universidad de Santiago, 2018-2019.
   + Student Exchange Programme, Wake Forest University, 2015.
