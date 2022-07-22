@@ -37,7 +37,7 @@ social:
   link: mailto:elinor.luco@usach.cl
 - icon: university
   icon_pack: fas
-  link: https://training-datalab.com/
+  link: https://training-datalab.com/team/
 - icon: orcid
   icon_pack: fab
   link: https://orcid.org/0000-0003-3370-4322
