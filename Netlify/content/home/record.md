@@ -8,7 +8,7 @@ headless: true
 active: true
 
 # Order that this section appears on the page.
-weight: 20
+weight: 10
 
 title: Publication Record
 subtitle:
@@ -18,7 +18,7 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: Six as first author
-  icon: fa-square-9
+  icon: square-9
   icon_pack: fas
   name: WoS-SSCI
 - description: 100%
