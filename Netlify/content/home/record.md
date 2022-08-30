@@ -17,16 +17,16 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: Six as first author
-  icon: 9-solid
+- description: Nine articles
+  icon: sci-hub
   icon_pack: custom
   name: WoS-SSCI
-- description: Four as first author
-  icon: 9-solid
+- description: Nine articles
+  icon: scopus
   icon_pack: custom
   name: Scopus/ESCI
-- description: 14 as first author
-  icon: 1-solid 4-solid
+- description: 15 articles
+  icon: open-access
   icon_pack: custom
   name: SciELO/Latindex
 
