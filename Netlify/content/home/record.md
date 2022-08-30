@@ -21,14 +21,14 @@ feature:
   icon: 9-solid
   icon_pack: custom
   name: WoS-SSCI
-- description: 100%
-  icon: chart-line
-  icon_pack: fas
-  name: Statistics
-- description: 10%
-  icon: camera-retro
-  icon_pack: fas
-  name: Photography
+- description: Four as first author
+  icon: 9-solid
+  icon_pack: custom
+  name: Scopus/ESCI
+- description: 14 as first author
+  icon: 1-solid 4-solid
+  icon_pack: custom
+  name: SciELO/Latindex
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
