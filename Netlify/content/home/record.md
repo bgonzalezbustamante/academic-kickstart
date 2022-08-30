@@ -18,8 +18,8 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: Six as first author
-  icon: scopus
-  icon_pack: ai
+  icon: square-9
+  icon_pack: fas
   name: WoS-SSCI
 - description: 100%
   icon: chart-line
