@@ -19,7 +19,7 @@ subtitle:
 feature:
 - description: Six as first author
   icon: 9
-  icon_pack: far
+  icon_pack: fas
   name: WoS-SSCI
 - description: 100%
   icon: chart-line
