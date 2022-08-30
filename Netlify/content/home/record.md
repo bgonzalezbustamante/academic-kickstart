@@ -18,7 +18,7 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: Six as first author
-  icon: square-9
+  icon: 9
   icon_pack: far
   name: WoS-SSCI
 - description: 100%
