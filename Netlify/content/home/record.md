@@ -19,7 +19,7 @@ subtitle:
 feature:
 - description: Six as first author
   icon: square-9
-  icon_pack: fas
+  icon_pack: fab
   name: WoS-SSCI
 - description: 100%
   icon: chart-line
@@ -43,4 +43,12 @@ feature:
 #  icon_pack: "custom"
 #  name: "Surfing"
 #  description: "90%"
+
+design:
+  spacing:
+    padding:
+      - 50px
+      - '0'
+      - 50px
+      - '0'
 ---
