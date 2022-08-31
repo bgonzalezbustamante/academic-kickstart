@@ -25,14 +25,14 @@ feature:
   icon: scopus
   icon_pack: custom
   name: Scopus/ESCI
+- description: 12 chapters
+  icon: obp
+  icon_pack: custom
+  name: Book Chapters
 - description: 15 articles
   icon: open-access
   icon_pack: custom
   name: SciELO/Latindex
-- description: 13 chapters
-  icon: obp
-  icon_pack: custom
-  name: Book Chapters
 - description: 3 projects
   icon: zenodo
   icon_pack: custom
