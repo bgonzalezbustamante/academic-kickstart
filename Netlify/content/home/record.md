@@ -17,11 +17,11 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 9 articles
+- description: <a href="https://bgonzalezbustamante.com/publication/#0">9 articles</a>
   icon: sci-hub
   icon_pack: custom
   name: WoS-SSCI
-- description: 9 articles
+- description: <a href="https://bgonzalezbustamante.com/publication/#1">4 articles</a> / <a href="https://bgonzalezbustamante.com/publication/#2">5 articles</a>
   icon: scopus
   icon_pack: custom
   name: Scopus/ESCI
@@ -29,7 +29,7 @@ feature:
   icon: obp
   icon_pack: custom
   name: Book Chapters
-- description: 15 articles
+- description: <a href="https://bgonzalezbustamante.com/publication/#5">15 articles</a>
   icon: open-access
   icon_pack: custom
   name: SciELO/Latindex
