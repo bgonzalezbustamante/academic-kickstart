@@ -29,6 +29,18 @@ feature:
   icon: open-access
   icon_pack: custom
   name: SciELO/Latindex
+- description: 13 chapters
+  icon: obp
+  icon_pack: custom
+  name: Book Chapters
+- description: 3 projects
+  icon: zenodo
+  icon_pack: custom
+  name: Data Collection
+- description: 15 h-index
+  icon: google-scholar
+  icon_pack: custom
+  name: Metrics
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
