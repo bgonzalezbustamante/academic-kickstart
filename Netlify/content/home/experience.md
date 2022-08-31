@@ -22,19 +22,22 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Instructor Professor
+  - title: Lecturer
+    ## title: Instructor Professor
     company: Universidad de Santiago
     company_url: 'https://fae.usach.cl/'
     company_logo: usach
     location: Santiago
     date_start: '2014-08-14'
-    date_end: ''
-    description: |2-
-        Currently, I am on a leave of absence. Prior to being appointed as an Instructor, I worked as an Adjunct Professor between 2014 and 2018.
-        
-        * [Teaching >](teaching)
-        * [Academic Service >](service)
-        
+    date_end: '2019-09-30'
+    ## date_end: ''
+    description: ''
+    ## description: |2-
+        ## Currently, I am on a leave of absence. Prior to being appointed as an Instructor, I worked as an Adjunct Professor between 2014 and 2018.
+
+        ## * [Teaching >](teaching)
+        ## * [Academic Service >](service)
+
   - title: Lecturer
     company: Universidad de Chile
     company_url: 'http://www.inap.uchile.cl/'
