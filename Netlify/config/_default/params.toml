@@ -48,7 +48,8 @@ local_business_type = ""
 org_name = "University of Oxford"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = "Bastián González-Bustamante. DPhil (PhD) Researcher in the Department of Politics and International Relations and St Hilda's College at the University of Oxford, United Kingdom. Instructor Professor in the Management and Public Policies Department at the Faculty of Administration and Economics at the Universidad de Santiago de Chile (USACH)."
+## description = "Bastián González-Bustamante. DPhil (PhD) Researcher in the Department of Politics and International Relations and St Hilda's College at the University of Oxford, United Kingdom. Instructor Professor in the Management and Public Policies Department at the Faculty of Administration and Economics at the Universidad de Santiago de Chile (USACH)."
+description = "Bastián González-Bustamante. DPhil (PhD) Researcher in the Department of Politics and International Relations and St Hilda's College at the University of Oxford, United Kingdom."
 
 ############################
 ## Site Features
