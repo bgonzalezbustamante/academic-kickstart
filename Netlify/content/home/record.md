@@ -18,8 +18,7 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: 9 articles
-  ## icon: sci-hub
-  icon: clarivate
+  icon: sci-hub
   icon_pack: custom
   name: WoS-SSCI
 - description: 9 articles
