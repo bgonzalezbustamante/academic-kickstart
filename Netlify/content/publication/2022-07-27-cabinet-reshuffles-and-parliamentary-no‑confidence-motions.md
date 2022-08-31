@@ -31,10 +31,10 @@ links:
     icon_pack: ai
     name: DOI
     url: 'https://doi.org/10.1017/gov.2022.23'
-  ## - icon: arxiv
-    ## icon_pack: ai
-    ## name: Preprint Upon Request
-    ## url: 'mailto:petra.schleiter@politics.ox.ac.uk'
+  - icon: arxiv
+    icon_pack: ai
+    name: Preprint
+    url: 'https://discovery.ucl.ac.uk/id/eprint/10154109/'
   ## - icon: osf
     ## icon_pack: ai
     ## name: OSF-Project
