@@ -20,7 +20,7 @@ organizations:
   url: "http://www.ox.ac.uk/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: DPhil (PhD) Researcher in the Department of Politics and International Relations and St Hilda’s College at the University of Oxford, United Kingdom. Instructor Professor in the Management and Public Policies Department at the Faculty of Administration and Economics at the Universidad de Santiago de Chile (USACH).
+bio: DPhil (PhD) Researcher in the Department of Politics and International Relations and St Hilda’s College at the University of Oxford, United Kingdom.
 
 interests:
 - Cabinets composition
@@ -102,9 +102,7 @@ user_groups:
 - Researchers
 ---
 
-I am completing my DPhil (PhD) dissertation in the [Department of Politics and International Relations](https://www.politics.ox.ac.uk/) and [St Hilda’s College](https://www.sthildas.ox.ac.uk/) at the [University of Oxford](http://www.ox.ac.uk/), United Kingdom. I am currently based in Oxford, working on my research. Furthermore, I am an Instructor Professor in the Management and Public Policies Department at the [Faculty of Administration and Economics](https://fae.usach.cl/) at the Universidad de Santiago de Chile (USACH).
-
-Before starting the DPhil in October 2019, I earned an MA (1st) in Political Science and a BA (2:1) in Government, both from the Universidad de Chile. Moreover, I served as a lecturer at the Universidad de Chile and a consultant for the United Nations Development Programme (UNDP).
+I am completing my DPhil (PhD) dissertation in the [Department of Politics and International Relations](https://www.politics.ox.ac.uk/) and [St Hilda’s College](https://www.sthildas.ox.ac.uk/) at the [University of Oxford](http://www.ox.ac.uk/), United Kingdom. Before starting the DPhil in October 2019, I earned an MA (1st) in Political Science and a BA (2:1) in Government, both from the Universidad de Chile. Moreover, I served as a lecturer at the Universidad de Santiago and Universidad de Chile and as a consultant for the United Nations Development Programme (UNDP).
 
 My doctoral research is supervised by [Professor Petra Schleiter](https://www.politics.ox.ac.uk/academic-faculty/petra-schleiter.html) and focuses on cabinets’ stability in Latin American presidential democracies. In my DPhil project, I combine the principal-agent theory elements to evaluate the actors’ incentives and strategies in presidential systems. My data gathering strategy is based on archives revision using Optical Character Recognition (OCR), Natural Language Processing (NLP), and machine learning techniques. In addition, my empirical strategy employs propensity scores and matching methods, competing risks models, and IV estimations.
 
