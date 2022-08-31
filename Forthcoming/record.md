@@ -17,11 +17,11 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: Nine articles
+- description: 9 articles
   icon: sci-hub
   icon_pack: custom
   name: WoS-SSCI
-- description: Nine articles
+- description: 9 articles
   icon: scopus
   icon_pack: custom
   name: Scopus/ESCI
@@ -29,6 +29,18 @@ feature:
   icon: open-access
   icon_pack: custom
   name: SciELO/Latindex
+- description: 13 chapters
+  icon: obp
+  icon_pack: custom
+  name: Book Chapters
+- description: 3 projects
+  icon: zenodo
+  icon_pack: custom
+  name: Data Collection
+- description: h-index 15 / i10-index 21
+  icon: google-scholar
+  icon_pack: custom
+  name: Metrics
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
