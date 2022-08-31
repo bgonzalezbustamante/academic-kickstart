@@ -7,22 +7,33 @@ All notable changes to "Bastián González-Bustamante website code" will be docu
 ### Added
 - News section (TBC).
 - Recent talks section (TBC).
+- Folders standardisation (TBC).
 ### Changed
 - CPS-Ranking from bgonzalezbustamante.com to an own domain (TBC).
 
-## [3.17.16] - 2022-09-05
+## [3.18.16] - 2022-12-05
 ### Added
 - Updated CPS-Ranking.
-- Folders standardisation (TBC).
 ### Changed
 - Minor corrections.
 
 ## [Released]
 
+## [3.17.16] - 2022-09-01
+### Added
+- Ubuntu Focal 20.04 build image.
+- Updated CPS-Ranking.
+### Changed
+- Minor corrections.
+### Removed
+- Ubuntu Xenial 16.04 build image.
+
 ## [3.16.16] - 2022-08-31
 ### Added
 - Record of publications.
 - Automated update record of publications.
+### Deprecated
+- Ubuntu Xenial 16.04 build image.
 
 ## [3.15.16] - 2022-07-27
 ### Added
@@ -207,6 +218,7 @@ All notable changes to "Bastián González-Bustamante website code" will be docu
 ### Added
 - Update to the Wowchemy 5.0.0-beta.1 for Hugo.
 - Automated deployment from GitHub with Netlify.
+- Ubuntu Xenial 16.04 build image.
 - DNS domain redirections.
 - SSL/TLS certificate.
 - Analytics tracker.
