@@ -21,7 +21,7 @@ feature:
   icon: sci-hub
   icon_pack: custom
   name: WoS-SSCI
-- description: <a href="https://bgonzalezbustamante.com/publication/#1">4 articles</a>/<a href="https://bgonzalezbustamante.com/publication/#2">5 articles</a>
+- description: <a href="https://bgonzalezbustamante.com/publication/#1">4 articles</a> / <a href="https://bgonzalezbustamante.com/publication/#2">5 articles</a>
   icon: scopus
   icon_pack: custom
   name: Scopus/ESCI
