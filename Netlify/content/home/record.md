@@ -21,7 +21,7 @@ feature:
   icon: sci-hub
   icon_pack: custom
   name: WoS-SSCI
-- description: <a href="https://bgonzalezbustamante.com/publication/#1">4 articles</a> / <a href="https://bgonzalezbustamante.com/publication/#2">5 articles</a>
+- description: <a href="https://bgonzalezbustamante.com/publication/#1">4 articles</a>/<a href="https://bgonzalezbustamante.com/publication/#2">5 articles</a>
   icon: scopus
   icon_pack: custom
   name: Scopus/ESCI
@@ -33,11 +33,11 @@ feature:
   icon: open-access
   icon_pack: custom
   name: SciELO/Latindex
-- description: 3 projects
+- description: <a href="https://bgonzalezbustamante.com/#projects">3 projects</a>
   icon: zenodo
   icon_pack: custom
   name: Data Collection
-- description: h-index 15 / i10-index 21
+- description: <a href="https://scholar.google.co.uk/citations?&user=UknWOrEAAAAJ" target="_blank">h-index 15 / i10-index 21</a>
   icon: google-scholar
   icon_pack: custom
   name: Metrics
