@@ -29,7 +29,7 @@ feature:
   icon: obp
   icon_pack: custom
   name: Book Chapters
-- description: <a href="https://bgonzalezbustamante.com/publication/#5">15 articles</a>
+- description: <a href="https://bgonzalezbustamante.com/publication/#5">14 articles</a>
   icon: open-access
   icon_pack: custom
   name: SciELO/Latindex
