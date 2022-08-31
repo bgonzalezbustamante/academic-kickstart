@@ -37,7 +37,7 @@ feature:
   icon: zenodo
   icon_pack: custom
   name: Data Collection
-- description: H-index 15
+- description: h-index 15 / i10-index 21
   icon: google-scholar
   icon_pack: custom
   name: Metrics
