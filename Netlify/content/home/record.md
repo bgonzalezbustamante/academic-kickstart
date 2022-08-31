@@ -17,11 +17,11 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: Nine articles
+- description: 9 articles
   icon: sci-hub
   icon_pack: custom
   name: WoS-SSCI
-- description: Nine articles
+- description: 9 articles
   icon: scopus
   icon_pack: custom
   name: Scopus/ESCI
