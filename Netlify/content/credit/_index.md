@@ -20,7 +20,7 @@ output: html_document
 
 CRediT (Contributor Roles Taxonomy) is high-level taxonomy, including 14 roles, that can be used to represent the roles typically played by contributors to scientific scholarly output. The roles describe each contributor’s specific contribution to the scholarly output. [See further details](https://casrai.org/credit/).
 
-| **Badge** | **Role** | **Definition** 
+| **Badge** | **Role** | **Definition**
 |---|---|---|
 | [<img src="conceptualization.png" align="center" width="60" />](conceptualization.png) | Conceptualization | Ideas, formulation or evolution of overarching research goals and aims. |
 | [<img src="data_curation.png" align="center" width="60" />](data_curation.png) | Data curation | Produce metadata, scrub data and maintain research data for initial use and later re-use. |
@@ -37,4 +37,4 @@ CRediT (Contributor Roles Taxonomy) is high-level taxonomy, including 14 roles, 
 | [<img src="writing_initial_draft.png" align="center" width="60" />](writing_initial_draft.png) | Writing – original draft | Preparation, creation and/or presentation of the published work, specifically writing the initial draft. |
 | [<img src="writing_review.png" align="center" width="60" />](writing_review.png) | Writing – review and editing | Critical review, commentary or revision – including pre- or post-publication stages. |
 
-<small>Source: Compiled using badges from [Center for Open Science](https://github.com/CenterForOpenScience/open_research_badges) and core definitions from [CASRAI](https://casrai.org/credit/).</small><br />
+<small>Source: Compiled using badges from [Center for Open Science](https://github.com/CenterForOpenScience/open_research_badges) and core definitions from [CASRAI](https://casrai.org/credit/). See also https://training-datalab.com/credit/. </small><br />
