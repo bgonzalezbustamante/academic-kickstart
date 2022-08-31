@@ -8,7 +8,7 @@ authors: ["bgonzalezbustamante"]
 doi: ''
 ## publishDate: '2019-12-15T20:47:28Z'
 publication_types:
-  - '5'
+  - '6'
 publication: '*Revista de Gestión Pública, IV*(1), 143-149'
 publication_short: ''
 abstract: 'Book Review.'
