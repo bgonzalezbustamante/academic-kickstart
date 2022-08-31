@@ -1,5 +1,5 @@
 ---
-title: 'Élites políticas en América Latina: Socialización, trayectorias y capitales'
+title: 'Hibridación digital en el Cono Sur: Consumo de medios tradicionales, digitales y uso de redes sociales'
 date: '2021-12-30'
 slug: hibridacion-digital-en-el-cono-sur
 ## categories: []
