@@ -25,7 +25,7 @@ feature:
   icon: scopus
   icon_pack: custom
   name: Scopus/ESCI
-- description: 12 chapters
+- description: [12 chapters](publication/#4)
   icon: obp
   icon_pack: custom
   name: Book Chapters
