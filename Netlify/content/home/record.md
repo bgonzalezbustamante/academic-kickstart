@@ -25,7 +25,7 @@ feature:
   icon: scopus
   icon_pack: custom
   name: Scopus/ESCI
-- description: [12 chapters](publication/#4)
+- description: <a href="https://bgonzalezbustamante.com/publication/#4">12 chapters</a>
   icon: obp
   icon_pack: custom
   name: Book Chapters
