@@ -135,7 +135,7 @@ summary: 'Data collected on June 2, 2022'
 |   123   | Christopher A Martínez      | 37hEwq8AAAAJ   | UCT         |   57   |    4   |    3   |
 |   124   | Pablo Valenzuela            | cyKIMlUAAAAJ   | PUC         |   55   |    4   |    3   |
 |   125   | María Cristina Escudero     | s6VvyfsAAAAJ   | UCHILE      |   50   |    4   |    3   |
-|   126   | Karina  Arias Yurisch       | glnCpMkAAAAJ   | UCHILE      |   49   |    4   |    3   |
+|   126   | Karina Arias Yurisch        | glnCpMkAAAAJ   | UCHILE      |   49   |    4   |    3   |
 |   127   | Matthias Erlandsen          | HA5\_6QUAAAAJ  | UDD         |   42   |    4   |    3   |
 |   128   | Camilo Vial                 | IOab2sQAAAAJ   | UA          |   38   |    4   |    3   |
 |   129   | Diego Telias                | ZjxwRK0AAAAJ   | PUC         |   38   |    4   |    3   |
