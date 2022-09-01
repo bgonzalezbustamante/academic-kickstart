@@ -126,7 +126,7 @@ summary: 'Data collected on September 1, 2022'
 |  114  | Alfonso Donoso              | OrPr-3AAAAAJ   | PUC         |   71   |    5   |    3   |
 |  115  | Anthony A. Pezzola          | U\_YqfqAAAAAJ  | WU          |   68   |    5   |    3   |
 |  116  | María Cristina Escudero     | s6VvyfsAAAAJ   | UCHILE      |   68   |    5   |    3   |
-|  117  | Karina  Arias Yurisch       | glnCpMkAAAAJ   | UCHILE      |   60   |    5   |    3   |
+|  117  | Karina Arias Yurisch        | glnCpMkAAAAJ   | USACH       |   60   |    5   |    3   |
 |  118  | Jose M. Cabezas             | ie78OmcAAAAJ   | UMAYOR      |   90   |    4   |    3   |
 |  119  | Christopher A Martínez      | 37hEwq8AAAAJ   | UDEC        |   74   |    4   |    3   |
 |  120  | Carla Cisternas             | ArIMp5YAAAAJ   | Leiden      |   72   |    4   |    3   |
