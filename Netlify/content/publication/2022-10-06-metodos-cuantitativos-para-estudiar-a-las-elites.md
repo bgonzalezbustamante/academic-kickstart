@@ -37,10 +37,10 @@ links:
     ## url: 'mailto:bastian.gonzalezbustamante@politics.ox.ac.uk'
     name: Preprint
     url: 'https://doi.org/10.31235/osf.io/5m2ur'
-  ## - icon: osf
-    ## icon_pack: ai
-    ## name: OSF-Project
-    ## url: ''
+  - icon: osf
+    icon_pack: ai
+    name: OSF-Project
+    url: 'https://doi.org/10.17605/OSF.IO/ZH2VF'
   - icon: github
     icon_pack: fab
     name: Code
