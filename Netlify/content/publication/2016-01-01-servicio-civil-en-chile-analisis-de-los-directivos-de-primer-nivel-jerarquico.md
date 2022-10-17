@@ -26,7 +26,7 @@ links:
   - icon: file-pdf
     icon_pack: far
     name: PDF
-    url: 'http://ref.scielo.org/zy34h8'
+    url: 'https://www.scielo.br/j/rap/a/H9hmWfN7NGddmXTB5GMP3Hb/'
   - icon: doi
     icon_pack: ai
     name: DOI
