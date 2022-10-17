@@ -26,7 +26,7 @@ links:
   - icon: file-pdf
     icon_pack: far
     name: PDF
-    url: 'http://ref.scielo.org/zrnp2k'
+    url: 'https://www.redalyc.org/articulo.oa?id=421739499004'
   ## - icon: doi
     ## icon_pack: ai
     ## name: DOI
