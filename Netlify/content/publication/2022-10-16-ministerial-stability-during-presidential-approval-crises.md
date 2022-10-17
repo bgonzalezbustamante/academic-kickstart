@@ -42,11 +42,15 @@ links:
   - icon: github
     icon_pack: fab
     name: Code
-    url: 'https://journals.sagepub.com/doi/suppl/10.1177/13691481221124850/suppl_file/sj-pdf-1-bpi-10.1177_13691481221124850.pdf'
+    url: 'https://doi.org/10.25384/SAGE.21346203.v1'
   - icon: dataverse
     icon_pack: ai
     name: Dataset
     url: 'https://doi.org/10.5281/zenodo.5744536'
+  - icon: file-circle-plus
+    icon_pack: far
+    name: SI-File
+    url: 'https://doi.org/10.25384/SAGE.21346206.v1'
 image:
   caption: ''
   focal_point: ''
