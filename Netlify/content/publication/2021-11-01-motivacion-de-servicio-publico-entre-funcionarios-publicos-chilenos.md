@@ -23,10 +23,10 @@ url_slides: ~
 url_source: ~
 url_video: ~
 links:
-  ## - icon: file-pdf
-    ## icon_pack: far
-    ## name: PDF
-    ## url: ''
+  - icon: file-pdf
+    icon_pack: far
+    name: PDF
+    url: 'https://clad.org/documentacion/revista-clad/articulos-publicados/081-noviembre-2021/'
   ## - icon: doi
     ## icon_pack: ai
     ## name: DOI
