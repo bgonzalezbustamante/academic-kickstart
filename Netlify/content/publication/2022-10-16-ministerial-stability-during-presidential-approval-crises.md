@@ -48,7 +48,7 @@ links:
     name: Dataset
     url: 'https://doi.org/10.5281/zenodo.5744536'
   - icon: file-circle-plus
-    icon_pack: far
+    icon_pack: fas
     name: SI-File
     url: 'https://doi.org/10.25384/SAGE.21346206.v1'
 image:
