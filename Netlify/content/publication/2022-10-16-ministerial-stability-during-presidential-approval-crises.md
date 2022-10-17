@@ -39,10 +39,10 @@ links:
     ## icon_pack: ai
     ## name: OSF-Project
     ## url: ''
-  ## - icon: github
-    ## icon_pack: fab
-    ## name: Code
-    ## url: ''
+  - icon: github
+    icon_pack: fab
+    name: Code
+    url: 'https://journals.sagepub.com/doi/suppl/10.1177/13691481221124850/suppl_file/sj-pdf-1-bpi-10.1177_13691481221124850.pdf'
   - icon: dataverse
     icon_pack: ai
     name: Dataset
