@@ -27,10 +27,10 @@ links:
     icon_pack: far
     name: PDF
     url: 'https://revistas.unife.edu.pe/index.php/comunife/article/view/2580/'
-  ## - icon: doi
-    ## icon_pack: ai
-    ## name: DOI
-    ## url: ''
+  - icon: doi
+    icon_pack: ai
+    name: DOI
+    url: 'https://doi.org/10.33539/comunife.2021.n21.2580'
   ## - icon: arxiv
     ## icon_pack: ai
     ## name: Preprint
