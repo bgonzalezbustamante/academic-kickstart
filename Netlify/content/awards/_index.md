@@ -8,15 +8,15 @@ authors: ["bgonzalezbustamante"]
 <br />
 **SLAS Postgraduate and Postdoctoral Research Award and Conference Grant**\
 Society for Latin American Studies (2022)\
-*Research support grant for my DPhil (PhD) project and travel support for the Society for Latin American Studies (SLAS) Annual Conference, £1,400. Bath, United Kingdom.*
+*Research support grant for my DPhil (PhD) project and travel support for the Society for Latin American Studies (SLAS) Annual Conference, £1 400. Bath, United Kingdom.*
 
 **St Hilda's College Muriel Wise Fund and Travel and Book Grants**\
 St Hilda's College at the University of Oxford (2022)\
-*Research support grant for my DPhil (PhD) project and allowances for participation in conferences and purchase of books, £2,255. Oxford, United Kingdom.*
+*Research support grant for my DPhil (PhD) project and allowances for participation in conferences and purchase of books, £2 255. Oxford, United Kingdom.*
 
 **Becas Chile Doctoral Scholarship Abroad**\
 Chilean National Agency for Research and Development (2019)\
-*Tuition fees, transport and living expenses for pursuing a DPhil (PhD) at the University of Oxford (ANID/PFCHA/72200340), £160,000. Oxford, United Kingdom.*
+*Tuition fees, transport and living expenses for pursuing a DPhil (PhD) at the University of Oxford (ANID/PFCHA/72200340), £160 000. Oxford, United Kingdom.*
 
 **ALACIP Methodological School Prize**\
 Latin American Political Science Association (2015)\
@@ -28,4 +28,4 @@ Argentine Society of Political Analysis (2013)\
 
 **FONDECYT Thesis Writing Grant**\
 Chilean National Agency for Research and Development (2012)\
-*Financial support for MA fieldwork (Prof. Gonzalo Delamaza, Supervisor, ANID/FONDECYT/1100877), £1,150. Santiago, Chile.*
+*Financial support for MA fieldwork (Prof. Gonzalo Delamaza, Supervisor, ANID/FONDECYT/1100877), £1 150. Santiago, Chile.*
