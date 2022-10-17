@@ -28,7 +28,7 @@ item:
 - certificate_url: ''
   date_end: '2022-05-05'
   date_start: "2020-02-13"
-  description: "Research support grant for my DPhil (PhD) project and allowances for participation in conferences and purchase of books, £2,255. Oxford, United Kingdom."
+  description: "Research support grant for my DPhil (PhD) project and allowances for participation in conferences and purchase of books, £2 255. Oxford, United Kingdom."
   organization: University of Oxford
   organization_url: ''
   title: St Hilda's College Muriel Wise Fund and Travel and Book Grants
@@ -36,7 +36,7 @@ item:
 - certificate_url: ''
   date_end: "2023-10-05"
   date_start: "2019-10-06"
-  description: "Tuition fees, transport and living expenses for pursuing a DPhil (PhD) at the University of Oxford (ANID/PFCHA/72200340), £160,000. Oxford, United Kingdom."
+  description: "Tuition fees, transport and living expenses for pursuing a DPhil (PhD) at the University of Oxford (ANID/PFCHA/72200340), £160 000. Oxford, United Kingdom."
   organization: Chilean National Agency for Research and Development
   organization_url: ''
   title: Becas Chile Doctoral Scholarship Abroad
