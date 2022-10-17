@@ -47,6 +47,10 @@ links:
     ## icon_pack: ai
     ## name: Dataset
     ## url: ''
+  - icon: figshare
+    icon_pack: ai
+    name: SI-File
+    url: 'https://doi.org/10.25384/SAGE.19486320.v1'
 image:
   caption: ''
   focal_point: ''
