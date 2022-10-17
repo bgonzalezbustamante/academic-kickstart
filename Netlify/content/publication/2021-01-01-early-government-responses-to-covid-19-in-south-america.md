@@ -47,6 +47,10 @@ links:
     ## icon_pack: ai
     ## name: Dataset
     ## url: ''
+  - icon: figshare
+    icon_pack: ai
+    name: SI-File
+    url: 'https://ars.els-cdn.com/content/image/1-s2.0-S0305750X20303077-mmc1.pdf'
 image:
   caption: ''
   focal_point: ''
