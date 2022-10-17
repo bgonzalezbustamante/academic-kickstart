@@ -9,7 +9,7 @@ doi: ''
 ## publishDate: ''
 publication_types:
   - '0'
-publication: '*The International Journal of Press/Politics*. Online First'
+publication: '*The International Journal of Press/Politics*. OnlineFirst'
 publication_short: ''
 abstract: 'This article studies determinants of political actors’ visibility in the news, and their stability over time, observing the press coverage received by Chilean politicians in the elite press since the beginning of the democratic transition in 1991 and until 2019. In dialogue with theories of news values, we test how political positions in a markedly presidential system, the belonging to a government coalition, gender, and the association to conflict frames behave as determinants of the presence and prominence of politicians in the news in the three decades following the recovery of democracy in Chile. We have three key findings. Firstly, the visibility of political actors in the news follows a clear institutional hierarchy led by the president and cabinet members. Secondly, female politicians are less likely to be mentioned or have speaking space in newspapers than male politicians. Lastly, although an association with conflict-framed news boosts politicians’ visibility, such association is unable to disturb structural power hierarchies, and the value of conflict does not increase over time.'
 summary: ''
