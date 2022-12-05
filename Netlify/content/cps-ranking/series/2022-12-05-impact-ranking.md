@@ -8,7 +8,7 @@ authors: ["bgonzalezbustamante"]
 summary: 'Data collected on December 5, 2022'
 ---
 
-| Ranking | Name                        | ID             | Affiliation    |  Cites | H\_Index | Quartile |
+| Ranking | Name                        | ID             | Affiliation    |  Cites | H-Index | Quartile |
 |:-------:|-----------------------------|----------------|----------------|:------:|:--------:|:--------:|
 |   1   | David Altman                | xWbhhH8AAAAJ   | PUC-VDEM       |  8,852 |   42   |    1   |
 |   2   | Cristóbal Rovira Kaltwasser | 4iRjwbMAAAAJ   | UDP            | 12,365 |   39   |    1   |
