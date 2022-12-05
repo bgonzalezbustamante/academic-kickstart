@@ -24,8 +24,8 @@ It has been elaborated according to the following sampling criteria. First of al
 
 Furthermore, a consistency index (C-Index) was calculated on [March 2021 measurement](/cps-ranking/series/2021-03-08-impact-ranking/). C-Index goes from zero to 100 and reflects the Google profiles' consistency in terms of authorship. Lower values are associated with greater inconsistencies, therefore, the researcher’s indicators could be biased, and his/her position might be overestimated.
 
-The twelfth measurement has been collected on September 1, 2022. The next one will be collected by December 2022. The data set can be downloaded from the <i class="ai ai-osf"></i> OSF-Project (DOI: [10.17605/OSF.IO/C8PRA](http://doi.org/10.17605/OSF.IO/C8PRA)). See also the <i class="fab fa-github-alt"></i> [GitHub repository](https://github.com/bgonzalezbustamante/CPS-Ranking) and the [changelog](https://github.com/bgonzalezbustamante/CPS-Ranking/blob/master/CHANGELOG.md).
+The thirteenth measurement has been collected on December 5, 2022. The next one will be collected by March 2023. The data set can be downloaded from the <i class="ai ai-osf"></i> OSF-Project (DOI: [10.17605/OSF.IO/C8PRA](http://doi.org/10.17605/OSF.IO/C8PRA)). See also the <i class="fab fa-github-alt"></i> [GitHub repository](https://github.com/bgonzalezbustamante/CPS-Ranking) and the [changelog](https://github.com/bgonzalezbustamante/CPS-Ranking/blob/master/CHANGELOG.md).
 
 If you like to suggest someone, please send an email to <i class="fas fa-envelope"></i> bastian.gonzalezbustamante@politics.ox.ac.uk
 
-I would like to thank [Alejandro Olivares](/authors/aolivares/), [Carla Cisternas](/authors/ccisternas/), and [Rodrigo Cuevas](/authors/rcuevas/) for their valuable comments and contributions.
+I would like to thank [Alejandro Olivares](/authors/aolivares/), [Carla Cisternas](/authors/ccisternas/), [Rodrigo Cuevas](/authors/rcuevas/) and Patricio Navia for their valuable comments and contributions.
