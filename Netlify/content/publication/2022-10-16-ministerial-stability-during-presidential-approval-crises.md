@@ -9,7 +9,7 @@ doi: ''
 ## publishDate: ''
 publication_types:
   - '0'
-publication: '*The British Journal of Politics and International Relations*, OnlineFirst'
+publication: '*The British Journal of Politics and International Relations*. OnlineFirst'
 publication_short: ''
 abstract: 'This article analyses the effect of ministers’ exposure to periods of low presidential approval in Brazil and Chile between 1990 and 2014. Approval is explored with quarterly estimates using a dyad-ratios algorithm and merged into a time-dependent cabinet data set to evaluate individual ministerial terminations (*N* = 4,245). The empirical strategy combines time-varying exposure Cox regressions with observational data and propensity score and matching to estimate the effect of low approval on ministerial survival and perform a moderation analysis with three profiles associated with presidential strategies: (1) nonpartisan ministers to limit agency loss and moral hazard; (2) economists as ministers to optimise cabinet performance and send positive signals to the electorate; and (3) party leaders as ministers to optimise legislative support. The main findings show that risk increases by 135.1% in periods of low approval. In addition, approximately only one in five nonpartisan ministers is removed compared to party members.'
 summary: ''
