@@ -25,14 +25,14 @@ feature:
   icon: scopus
   icon_pack: custom
   name: Scopus/ESCI
-- description: <a href="https://bgonzalezbustamante.com/publication/#4">12 chapters</a>
-  icon: obp
-  icon_pack: custom
-  name: Book Chapters
 - description: <a href="https://bgonzalezbustamante.com/publication/#5">14 articles</a>
   icon: open-access
   icon_pack: custom
   name: SciELO/Latindex
+- description: <a href="https://bgonzalezbustamante.com/publication/#4">12 chapters</a>
+  icon: obp
+  icon_pack: custom
+  name: Book Chapters
 - description: <a href="https://bgonzalezbustamante.com/#projects">3 projects</a>
   icon: zenodo
   icon_pack: custom
