@@ -136,7 +136,7 @@ summary: 'Data collected on December 2, 2019'
 |   124   | Marcelo Marzouka              | kj503iEAAAAJ   | PUC         |   0   |    0   |    4   |
 |   125   | Sebastián Carrasco            | CrQouUsAAAAJ   | UMAYOR      |   0   |    0   |    4   |
 
-<small>Note: The affiliations have been standardised. Data collected on December 2, 2019.</small><br />
+<small>Note: This ranking is supported by [Training Data Lab](https://training-datalab.com). The affiliations have been standardised. Data collected on December 2, 2019.</small><br />
 <small>Researchers to be added: Marcelo Mella Polanco (ID qdm2fHgAAAAJ), Hary Hugo Fruhling (ID dJKWN8wAAAAJ), Arturo Arriagada (ID TzPYdWsAAAAJ), Jorge Gordin (ID RJp2E7cAAAAJ), Stefano Palestini (ID 1JylyXQAAAAJ), Ross Mittiga (ID o4ZnQNsAAAAJ), Alfonso Donoso (ID OrPr-3AAAAAJ), Giovanni Agostinis (ID u9c4q20AAAAJ), Antonio Canale-Mayet (ID dFcoyfMAAAAJ), Javier Sajuria (ID elmJq2gAAAAJ), Federico Rojas-de-Galarreta (ID hTyE9WAAAAAJ), Ximena Soto Soutullo (ID r2q0t8cAAAAJ), Luis Garrido-Vergara (ID DlO0jXVS4FIC), and Carolina Acevedo (ID KNKPs0EAAAAJ).</small><br /><br />
 
 **Would you like to suggest someone?**
@@ -145,4 +145,4 @@ Please send an email to <i class="fas fa-envelope"></i> bastian.gonzalezbustaman
 
 **How to download and cite this dataset?**
 
-González-Bustamante, B. (2019). *Chilean Political Science Impact Ranking Dataset* [Data collected on December 2, 2019]. DOI: [10.17605/OSF.IO/M3NZD](http://doi.org/10.17605/OSF.IO/M3NZD)
+González-Bustamante, B. (2019). *Chilean Political Science Impact Ranking Dataset*. University of Oxford, Universidad de Santiago de Chile (USACH) and Training Data Lab. [Data collected on December 2, 2019]. DOI: [10.17605/OSF.IO/M3NZD](http://doi.org/10.17605/OSF.IO/M3NZD)
