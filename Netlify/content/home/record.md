@@ -37,7 +37,7 @@ feature:
   icon: zenodo
   icon_pack: custom
   name: Data Collection
-- description: <a href="https://scholar.google.co.uk/citations?&user=UknWOrEAAAAJ" target="_blank">h-index 16 / i10-index 21</a>
+- description: <a href="https://scholar.google.co.uk/citations?&user=UknWOrEAAAAJ" target="_blank">h-index 16 / i10-index 23</a>
   icon: google-scholar
   icon_pack: custom
   name: Metrics
