@@ -1,6 +1,6 @@
 ---
 title: "Impact Ranking December 2020"
-## weight: 
+## weight:
 date: "2020-12-16"
 authors: ["bgonzalezbustamante"]
 ## categories: []
@@ -163,7 +163,7 @@ summary: 'Data collected on December 1, 2020'
 |   151   | Sebastián Carrasco          | CrQouUsAAAAJ   | UCT         |   1   |    1   |    4   |
 |   152   | Fernando Schmidt            | wXHJZ4oAAAAJ   | UDD         |   0   |    0   |    4   |
 
-<small>Note: The affiliations have been standardised. Data collected on December 1, 2020.</small><br /><br />
+<small>Note: This ranking is supported by [Training Data Lab](https://training-datalab.com). The affiliations have been standardised. Data collected on December 1, 2020.</small><br /><br />
 
 **Would you like to suggest someone?**
 
@@ -171,4 +171,4 @@ Please send an email to <i class="fas fa-envelope"></i> bastian.gonzalezbustaman
 
 **How to download and cite this dataset?**
 
-González-Bustamante, B. (2020). *Chilean Political Science Impact Ranking Dataset* [Data collected on December 1, 2020]. DOI: [10.17605/OSF.IO/M3NZD](http://doi.org/10.17605/OSF.IO/M3NZD)
+González-Bustamante, B. (2020). *Chilean Political Science Impact Ranking Dataset*. University of Oxford, Universidad de Santiago de Chile (USACH) and Training Data Lab. [Data collected on December 1, 2020]. DOI: [10.17605/OSF.IO/M3NZD](http://doi.org/10.17605/OSF.IO/M3NZD)
