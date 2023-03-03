@@ -1,6 +1,6 @@
 ---
 title: "Impact Ranking December 2021"
-## weight: 
+## weight:
 date: '2021-12-02'
 authors: ["bgonzalezbustamante"]
 ## categories: []
@@ -142,7 +142,7 @@ summary: 'Data collected on December 2, 2021'
 |   130   | Macarena Valenzuela Beltrán | xP-7heoAAAAJ   | UDP         |   44  |    3   |    3   |
 |   131   | Waleska Muñoz Aravena       | ihALyKUAAAAJ   | UDEC        |   35  |    3   |    3   |
 |   132   | Carla Alberti               | 3tcX6pYAAAAJ   | PUC         |   34  |    3   |    3   |
-|   133   | Hector Bahamonde            | 3FHDoL0AAAAJ   | TURKU       |   23  |    3   |    3   |
+|   133   | Hector Bahamonde            | 3FHDoL0AAAAJ   | UTU         |   23  |    3   |    3   |
 |   134   | Diego Telias                | ZjxwRK0AAAAJ   | PUC         |   23  |    3   |    3   |
 |   135   | Sergio Huertas-Hernandez    | fv7N0eUAAAAJ   | PUC         |   19  |    3   |    3   |
 |   136   | Sebastián Carrasco Soto     | CrQouUsAAAAJ   | UCT         |   17  |    3   |    3   |
@@ -182,7 +182,7 @@ summary: 'Data collected on December 2, 2021'
 |   170   | Shirley Gotz                | MsPC8uwAAAAJ   | UAH         |   1   |    1   |    4   |
 |   171   | Nerea C. Palma              | qNc7eZgAAAAJ   | PUC         |   0   |    0   |    4   |
 
-<small>Note: The affiliations have been standardised. Data collected on December 2, 2021.</small><br /><br />
+<small>Note: This ranking is supported by [Training Data Lab](https://training-datalab.com). The affiliations have been standardised. Data collected on December 2, 2021.</small><br /><br />
 
 **Would you like to suggest someone?**
 
@@ -190,4 +190,4 @@ Please send an email to <i class="fas fa-envelope"></i> bastian.gonzalezbustaman
 
 **How to download and cite this dataset?**
 
-González-Bustamante, B. (2021). *Chilean Political Science Impact Ranking Dataset* [Data collected on December 2, 2021]. DOI: [10.17605/OSF.IO/M3NZD](http://doi.org/10.17605/OSF.IO/M3NZD)
+González-Bustamante, B. (2021). *Chilean Political Science Impact Ranking Dataset*. University of Oxford, Universidad de Santiago de Chile (USACH) and Training Data Lab [Data collected on December 2, 2021]. DOI: [10.17605/OSF.IO/M3NZD](http://doi.org/10.17605/OSF.IO/M3NZD)
