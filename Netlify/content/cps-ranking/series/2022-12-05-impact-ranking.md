@@ -140,7 +140,7 @@ summary: 'Data collected on December 5, 2022'
 |  128  | Matthias Erlandsen          | HA5\_6QUAAAAJ  | FLACSO         |   50   |    4   |    3   |
 |  129  | Karen Manzano Iturra        | grB28SkAAAAJ   | USS            |   48   |    4   |    3   |
 |  130  | Carla Alberti               | 3tcX6pYAAAAJ   | PUC            |   48   |    4   |    3   |
-|  131  | Hector Bahamonde            | 3FHDoL0AAAAJ   | TURKU          |   43   |    4   |    3   |
+|  131  | Hector Bahamonde            | 3FHDoL0AAAAJ   | UTU            |   43   |    4   |    3   |
 |  132  | Sebastián Carrasco Soto     | CrQouUsAAAAJ   | UCT            |   39   |    4   |    3   |
 |  133  | Javiera Arce-Riffo          | IiVB-oQAAAAJ   | UCL            |   32   |    4   |    3   |
 |  134  | Federico Rojas-de-Galarreta | hTyE9WAAAAAJ   | UCHILE         |   69   |    3   |    4   |
@@ -186,7 +186,7 @@ summary: 'Data collected on December 5, 2022'
 |  174  | Carolina Pérez Aburto       | vgJHvAcAAAAJ   | UDP            |    0   |    0   |    4   |
 |  175  | Verónica Figueroa-Gutiérrez | IuQrLCEAAAAJ   | UDP            |    0   |    0   |    4   |
 
-<small>Note: The affiliations have been standardised. Data collected on December 5, 2022.</small><br /><br />
+<small>Note: This ranking is supported by [Training Data Lab](https://training-datalab.com). The affiliations have been standardised. Data collected on December 5, 2022.</small><br /><br />
 
 **Would you like to suggest someone?**
 
@@ -194,4 +194,4 @@ Please send an email to <i class="fas fa-envelope"></i> bastian.gonzalezbustaman
 
 **How to download and cite this dataset?**
 
-González-Bustamante, B. (2022). *Chilean Political Science Impact Ranking Dataset* [Data collected on December 5, 2022]. DOI: [10.17605/OSF.IO/M3NZD](http://doi.org/10.17605/OSF.IO/M3NZD)
+González-Bustamante, B. (2022). *Chilean Political Science Impact Ranking Dataset*. University of Oxford, Universidad de Santiago de Chile (USACH) and Training Data Lab [Data collected on December 5, 2022]. DOI: [10.17605/OSF.IO/M3NZD](http://doi.org/10.17605/OSF.IO/M3NZD)
