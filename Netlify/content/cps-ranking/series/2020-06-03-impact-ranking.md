@@ -1,6 +1,6 @@
 ---
 title: "Impact Ranking June 2020"
-## weight: 
+## weight:
 date: '2020-06-03'
 authors: ["bgonzalezbustamante"]
 ## categories: []
@@ -156,7 +156,7 @@ summary: 'Data collected on June 2, 2020'
 |   144   | Sebastián Carrasco          | CrQouUsAAAAJ   | UMAYOR      |   0   |    0   |    4   |
 |   145   | Renata Retamal Iturriaga    | V8JzxeQAAAAJ   | unk.        |   0   |    0   |    4   |
 
-<small>Note: The affiliations have been standardised. Data collected on June 2, 2020.</small><br /><br />
+<small>Note: This ranking is supported by [Training Data Lab](https://training-datalab.com). The affiliations have been standardised. Data collected on June 2, 2020.</small><br /><br />
 
 **Would you like to suggest someone?**
 
@@ -164,4 +164,4 @@ Please send an email to <i class="fas fa-envelope"></i> bastian.gonzalezbustaman
 
 **How to download and cite this dataset?**
 
-González-Bustamante, B. (2020). *Chilean Political Science Impact Ranking Dataset* [Data collected on June 2, 2020]. DOI: [10.17605/OSF.IO/M3NZD](http://doi.org/10.17605/OSF.IO/M3NZD)
+González-Bustamante, B. (2020). *Chilean Political Science Impact Ranking Dataset*. University of Oxford, Universidad de Santiago de Chile (USACH) and Training Data Lab [Data collected on June 2, 2020]. DOI: [10.17605/OSF.IO/M3NZD](http://doi.org/10.17605/OSF.IO/M3NZD)
