@@ -139,7 +139,7 @@ summary: 'Data collected on June 2, 2022'
 |   127   | Matthias Erlandsen          | HA5\_6QUAAAAJ  | UDD         |   42   |    4   |    3   |
 |   128   | Camilo Vial                 | IOab2sQAAAAJ   | UA          |   38   |    4   |    3   |
 |   129   | Diego Telias                | ZjxwRK0AAAAJ   | PUC         |   38   |    4   |    3   |
-|   130   | Hector Bahamonde            | 3FHDoL0AAAAJ   | TURKU       |   31   |    4   |    3   |
+|   130   | Hector Bahamonde            | 3FHDoL0AAAAJ   | UTU         |   31   |    4   |    3   |
 |   131   | Sebastián Carrasco Soto     | CrQouUsAAAAJ   | UCT         |   27   |    4   |    3   |
 |   132   | Federico Rojas-de-Galarreta | hTyE9WAAAAAJ   | UCHILE      |   63   |    3   |    4   |
 |   133   | Diego Sazo                  | muKzXeYAAAAJ   | LSE         |   61   |    3   |    4   |
@@ -185,7 +185,7 @@ summary: 'Data collected on June 2, 2022'
 |   173   | Shirley Gotz                | MsPC8uwAAAAJ   | UAH         |    1   |    1   |    4   |
 |   174   | Nerea C. Palma              | qNc7eZgAAAAJ   | PUC         |    0   |    0   |    4   |
 
-<small>Note: The affiliations have been standardised. Data collected on June 2, 2022.</small><br /><br />
+<small>Note: This ranking is supported by [Training Data Lab](https://training-datalab.com). The affiliations have been standardised. Data collected on June 2, 2022.</small><br /><br />
 
 **Would you like to suggest someone?**
 
@@ -193,4 +193,4 @@ Please send an email to <i class="fas fa-envelope"></i> bastian.gonzalezbustaman
 
 **How to download and cite this dataset?**
 
-González-Bustamante, B. (2022). *Chilean Political Science Impact Ranking Dataset* [Data collected on June 2, 2022]. DOI: [10.17605/OSF.IO/M3NZD](http://doi.org/10.17605/OSF.IO/M3NZD)
+González-Bustamante, B. (2022). *Chilean Political Science Impact Ranking Dataset*. University of Oxford, Universidad de Santiago de Chile (USACH) and Training Data Lab [Data collected on June 2, 2022]. DOI: [10.17605/OSF.IO/M3NZD](http://doi.org/10.17605/OSF.IO/M3NZD)
