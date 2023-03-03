@@ -1,6 +1,6 @@
 ---
 title: "Impact Ranking March 2022"
-## weight: 
+## weight:
 date: '2022-03-01'
 authors: ["bgonzalezbustamante"]
 ## categories: []
@@ -143,7 +143,7 @@ summary: 'Data collected on March 1, 2022'
 |   131   | Karen Manzano Iturra        | grB28SkAAAAJ   | USS         |   35   |    3   |    3   |
 |   132   | Carla Alberti               | 3tcX6pYAAAAJ   | PUC         |   35   |    3   |    3   |
 |   133   | Cristóbal Bywaters C.       | omFHUesAAAAJ   | WARW        |   33   |    3   |    3   |
-|   134   | Hector Bahamonde            | 3FHDoL0AAAAJ   | TURKU       |   28   |    3   |    3   |
+|   134   | Hector Bahamonde            | 3FHDoL0AAAAJ   | UTU         |   28   |    3   |    3   |
 |   135   | Sergio Huertas-Hernandez    | fv7N0eUAAAAJ   | PUC         |   23   |    3   |    3   |
 |   136   | Sebastián Carrasco Soto     | CrQouUsAAAAJ   | UCT         |   22   |    3   |    3   |
 |   137   | Javiera Arce                | IiVB-oQAAAAJ   | UCL         |   18   |    3   |    3   |
@@ -182,7 +182,7 @@ summary: 'Data collected on March 1, 2022'
 |   170   | Shirley Gotz                | MsPC8uwAAAAJ   | UAH         |    1   |    1   |    4   |
 |   171   | Nerea C. Palma              | qNc7eZgAAAAJ   | PUC         |    0   |    0   |    4   |
 
-<small>Note: The affiliations have been standardised. Data collected on March 1, 2022.</small><br /><br />
+<small>Note: This ranking is supported by [Training Data Lab](https://training-datalab.com). The affiliations have been standardised. Data collected on March 1, 2022.</small><br /><br />
 
 **Would you like to suggest someone?**
 
@@ -190,4 +190,4 @@ Please send an email to <i class="fas fa-envelope"></i> bastian.gonzalezbustaman
 
 **How to download and cite this dataset?**
 
-González-Bustamante, B. (2022). *Chilean Political Science Impact Ranking Dataset* [Data collected on March 1, 2022]. DOI: [10.17605/OSF.IO/M3NZD](http://doi.org/10.17605/OSF.IO/M3NZD)
+González-Bustamante, B. (2022). *Chilean Political Science Impact Ranking Dataset*. University of Oxford, Universidad de Santiago de Chile (USACH) and Training Data Lab [Data collected on March 1, 2022]. DOI: [10.17605/OSF.IO/M3NZD](http://doi.org/10.17605/OSF.IO/M3NZD)
