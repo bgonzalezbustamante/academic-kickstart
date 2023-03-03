@@ -1,6 +1,6 @@
 ---
 title: "Chilean Universities Ranking September 2020"
-## weight: 
+## weight:
 date: '2020-09-05'
 authors: ["bgonzalezbustamante"]
 ## categories: []
@@ -18,32 +18,32 @@ library(tidyverse)
 data &lt;- read.csv(&quot;https://osf.io/mv9z8/download&quot;, fileEncoding = &quot;UTF-8&quot;)
 
 ## Institutions Codification
-usach &lt;- subset(data, Affiliation == &quot;USACH&quot; | Affiliation == &quot;OXF-USACH&quot;) 
-puc &lt;- subset(data, Affiliation == &quot;PUC&quot; | Affiliation == &quot;PUC-VDEM&quot;) 
-ua &lt;- subset(data, Affiliation == &quot;UA&quot;) 
+usach &lt;- subset(data, Affiliation == &quot;USACH&quot; | Affiliation == &quot;OXF-USACH&quot;)
+puc &lt;- subset(data, Affiliation == &quot;PUC&quot; | Affiliation == &quot;PUC-VDEM&quot;)
+ua &lt;- subset(data, Affiliation == &quot;UA&quot;)
 uach &lt;-subset(data, Affiliation == &quot;UACH&quot;)
-uah &lt;- subset(data, Affiliation == &quot;UAH&quot; | Affiliation == &quot;UCHILE-UAH&quot;) 
-uai &lt;- subset(data, Affiliation == &quot;UAI&quot;) 
-uchile &lt;- subset(data, Affiliation == &quot;UCHILE&quot; | Affiliation == &quot;UCHILE-UAH&quot;) 
+uah &lt;- subset(data, Affiliation == &quot;UAH&quot; | Affiliation == &quot;UCHILE-UAH&quot;)
+uai &lt;- subset(data, Affiliation == &quot;UAI&quot;)
+uchile &lt;- subset(data, Affiliation == &quot;UCHILE&quot; | Affiliation == &quot;UCHILE-UAH&quot;)
 uct &lt;- subset(data, Affiliation == &quot;UCT&quot;)
 udd &lt;- subset(data, Affiliation == &quot;UDD&quot;)
 udec &lt;- subset(data, Affiliation == &quot;UDEC&quot;)
 udp &lt;- subset(data, Affiliation == &quot;UDP&quot; | Affiliation == &quot;UDP-COES&quot; |
-                Affiliation == &quot;UDP-NYU&quot; | Affiliation == &quot;UDP-Leiden&quot;) 
-ulagos &lt;- subset(data, Affiliation == &quot;ULAGOS&quot;) 
-umayor &lt;- subset(data, Affiliation == &quot;UMAYOR&quot;) 
-unab &lt;- subset(data, Affiliation == &quot;UNAB&quot;) 
-utalca &lt;- subset(data, Affiliation == &quot;UTALCA&quot;) 
-utem &lt;- subset(data, Affiliation == &quot;UTEM&quot;) 
-uvalpo &lt;- subset(data, Affiliation == &quot;UVALPO&quot;) 
+                Affiliation == &quot;UDP-NYU&quot; | Affiliation == &quot;UDP-Leiden&quot;)
+ulagos &lt;- subset(data, Affiliation == &quot;ULAGOS&quot;)
+umayor &lt;- subset(data, Affiliation == &quot;UMAYOR&quot;)
+unab &lt;- subset(data, Affiliation == &quot;UNAB&quot;)
+utalca &lt;- subset(data, Affiliation == &quot;UTALCA&quot;)
+utem &lt;- subset(data, Affiliation == &quot;UTEM&quot;)
+uvalpo &lt;- subset(data, Affiliation == &quot;UVALPO&quot;)
 
 ## Dataframe Construction
-Name &lt;- c(&quot;USACH&quot;, &quot;PUC&quot;, &quot;UA&quot;, &quot;UACH&quot;, &quot;UAI&quot;, &quot;UCHILE&quot;, &quot;UCT&quot;, &quot;UDD&quot;, 
-          &quot;UDEC&quot;, &quot;UDP&quot;, &quot;ULAGOS&quot;, &quot;UMAYOR&quot;, &quot;UNAB&quot;, &quot;UTALCA&quot;, &quot;UTEM&quot;, 
+Name &lt;- c(&quot;USACH&quot;, &quot;PUC&quot;, &quot;UA&quot;, &quot;UACH&quot;, &quot;UAI&quot;, &quot;UCHILE&quot;, &quot;UCT&quot;, &quot;UDD&quot;,
+          &quot;UDEC&quot;, &quot;UDP&quot;, &quot;ULAGOS&quot;, &quot;UMAYOR&quot;, &quot;UNAB&quot;, &quot;UTALCA&quot;, &quot;UTEM&quot;,
           &quot;UVALPO&quot;)
-Cases &lt;- c(nrow(usach), nrow(puc), nrow(ua), nrow(uach), nrow(uai), 
-           nrow(uchile), nrow(uct), nrow(udd), nrow(udec), nrow(udp), 
-           nrow(ulagos), nrow(umayor), nrow(unab), nrow(utalca), nrow(utem), 
+Cases &lt;- c(nrow(usach), nrow(puc), nrow(ua), nrow(uach), nrow(uai),
+           nrow(uchile), nrow(uct), nrow(udd), nrow(udec), nrow(udp),
+           nrow(ulagos), nrow(umayor), nrow(unab), nrow(utalca), nrow(utem),
            nrow(uvalpo))
 Avg_Cites &lt;- c(mean(usach$Cites), mean(puc$Cites), mean(ua$Cites), mean(uach$Cites),
                mean(uai$Cites), mean(uchile$Cites), mean(uct$Cites), mean(udd$Cites),
@@ -53,16 +53,16 @@ Cum_Cites &lt;- c(sum(usach$Cites), sum(puc$Cites), sum(ua$Cites), sum(uach$Cite
                sum(uai$Cites), sum(uchile$Cites), sum(uct$Cites), sum(udd$Cites),
                sum(udec$Cites), sum(udp$Cites), sum(ulagos$Cites), sum(umayor$Cites),
                sum(unab$Cites), sum(utalca$Cites), sum(utem$Cites), sum(uvalpo$Cites))
-Avg_H_Index &lt;- c(mean(usach$H_Index), mean(puc$H_Index), mean(ua$H_Index), 
-                 mean(uach$H_Index), mean(uai$H_Index), mean(uchile$H_Index), 
-                 mean(uct$H_Index), mean(udd$H_Index), mean(udec$H_Index), 
-                 mean(udp$H_Index), mean(ulagos$H_Index), mean(umayor$H_Index), 
-                 mean(unab$H_Index), mean(utalca$H_Index), mean(utem$H_Index), 
+Avg_H_Index &lt;- c(mean(usach$H_Index), mean(puc$H_Index), mean(ua$H_Index),
+                 mean(uach$H_Index), mean(uai$H_Index), mean(uchile$H_Index),
+                 mean(uct$H_Index), mean(udd$H_Index), mean(udec$H_Index),
+                 mean(udp$H_Index), mean(ulagos$H_Index), mean(umayor$H_Index),
+                 mean(unab$H_Index), mean(utalca$H_Index), mean(utem$H_Index),
                  mean(uvalpo$H_Index))
-Cum_H_Index &lt;- c(sum(usach$H_Index), sum(puc$H_Index), sum(ua$H_Index), 
-                 sum(uach$H_Index), sum(uai$H_Index), sum(uchile$H_Index), sum(uct$H_Index), 
-                 sum(udd$H_Index), sum(udec$H_Index), sum(udp$H_Index), sum(ulagos$H_Index), 
-                 sum(umayor$H_Index), sum(unab$H_Index), sum(utalca$H_Index), 
+Cum_H_Index &lt;- c(sum(usach$H_Index), sum(puc$H_Index), sum(ua$H_Index),
+                 sum(uach$H_Index), sum(uai$H_Index), sum(uchile$H_Index), sum(uct$H_Index),
+                 sum(udd$H_Index), sum(udec$H_Index), sum(udp$H_Index), sum(ulagos$H_Index),
+                 sum(umayor$H_Index), sum(unab$H_Index), sum(utalca$H_Index),
                  sum(utem$H_Index), sum(uvalpo$H_Index))
 Inv_Avg_Index &lt;- Avg_H_Index*-1
 Inv_Cum_Index &lt;- Cum_H_Index*-1</code></pre>
@@ -71,9 +71,9 @@ Inv_Cum_Index &lt;- Cum_H_Index*-1</code></pre>
 <h3>Cumulative Ranking</h3>
 <pre class="r"><code>Inst_Cum &lt;- data.frame(Name, Cases, Cum_Cites, Cum_H_Index, Inv_Cum_Index)
 Inst_Cum[is.na(Inst_Cum)] &lt;- 0
-Inst_Cum &lt;- within(Inst_Cum, Quartile &lt;- as.integer(cut(Inv_Cum_Index, 
-                                                        quantile(Inv_Cum_Index, 
-                                                                 probs = 0:4/4), 
+Inst_Cum &lt;- within(Inst_Cum, Quartile &lt;- as.integer(cut(Inv_Cum_Index,
+                                                        quantile(Inv_Cum_Index,
+                                                                 probs = 0:4/4),
                                                         include.lowest = TRUE)))
 Inst_Cum$Inv_Cum_Index &lt;- NULL
 Inst_Cum &lt;- Inst_Cum[order(-Inst_Cum$Cum_H_Index, -Inst_Cum$Cum_Cites), ]
@@ -391,9 +391,9 @@ UTEM
 <h3>Average Ranking</h3>
 <pre class="r"><code>Inst_Avg &lt;- data.frame(Name, Cases, Avg_Cites, Avg_H_Index, Inv_Avg_Index)
 Inst_Avg[is.na(Inst_Avg)] &lt;- 0
-Inst_Avg &lt;- within(Inst_Avg, Quartile &lt;- as.integer(cut(Inv_Avg_Index, 
-                                                        quantile(Inv_Avg_Index, 
-                                                                 probs = 0:4/4), 
+Inst_Avg &lt;- within(Inst_Avg, Quartile &lt;- as.integer(cut(Inv_Avg_Index,
+                                                        quantile(Inv_Avg_Index,
+                                                                 probs = 0:4/4),
                                                         include.lowest = TRUE)))
 Inst_Avg$Inv_Avg_Index &lt;- NULL
 Inst_Avg &lt;- Inst_Avg[order(-Inst_Avg$Avg_H_Index, -Inst_Avg$Avg_Cites), ]
@@ -713,5 +713,5 @@ UMAYOR
 <p><br />
 </p>
 <p><strong>How to download and cite this dataset?</strong></p>
-<p>González-Bustamante, B. (2020). <em>Chilean Political Science Impact Ranking Dataset</em> [Data collected on September 5, 2020]. DOI: <a href="http://doi.org/10.17605/OSF.IO/M3NZD">10.17605/OSF.IO/M3NZD</a></p>
+<p>González-Bustamante, B. (2020). <em>Chilean Political Science Impact Ranking Dataset</em>. University of Oxford, Universidad de Santiago de Chile (USACH) and Training Data Lab [Data collected on September 5, 2020]. DOI: <a href="http://doi.org/10.17605/OSF.IO/M3NZD">10.17605/OSF.IO/M3NZD</a></p>
 </div>
