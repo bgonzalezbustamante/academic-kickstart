@@ -1,6 +1,6 @@
 ---
 title: "Impact Ranking March 2021"
-## weight: 
+## weight:
 date: '2021-03-08'
 authors: ["bgonzalezbustamante"]
 ## categories: []
@@ -164,7 +164,7 @@ summary: 'Data collected on March 1, 2021'
 |   152   | Marcelo Marzouka            | kj503iEAAAAJ   | PUC         |   1   |    1   |   100  |
 |   153   | Fernando Schmidt            | wXHJZ4oAAAAJ   | UDD         |   0   |    0   |   100  |
 
-<small>Note: The affiliations have been standardised. Data collected on March 1, 2021. C-Index goes from zero to 100 and reflects the Google profiles' consistency in terms of authorship. Lower values are associated with greater inconsistencies, therefore, the researcher's indicators could be biased, and his/her position might be overestimated. The index has been calculated as follows: </small><br />
+<small>Note: This ranking is supported by [Training Data Lab](https://training-datalab.com). The affiliations have been standardised. Data collected on March 1, 2021. C-Index goes from zero to 100 and reflects the Google profiles' consistency in terms of authorship. Lower values are associated with greater inconsistencies, therefore, the researcher's indicators could be biased, and his/her position might be overestimated. The index has been calculated as follows: </small><br />
 <small>C-Index = $100 - \left(100 * \frac{\sum \text{Cites}}{\sum \text{Cites with Authorship Problems}}\right)$</small><br />
 <small>Researchers to be added: Carla Alberti (ID 3tcX6pYAAAAJ), Cristóbal Bywaters C. (ID omFHUesAAAAJ), Maite De Cea (ID tHL6bFwAAAAJ), Lucia Miranda Leibe (ID PfjSTeUAAAAJ), Carlos Meléndez (ID JD_X4KYAAAAJ), Nerea C. Palma (ID qNc7eZgAAAAJ), Diego Telias (ID ZjxwRK0AAAAJ), Amy L. Atchison (ID LWLkiYMAAAAJ), Arlette Martínez Ossa (ID kv5dWS4AAAAJ), Pablo Argote (ID 6DqP7GsAAAAJ), and Jaime Baeza Freer (ID xwVLXRQAAAAJ).</small><br /><br />
 
@@ -174,4 +174,4 @@ Please send an email to <i class="fas fa-envelope"></i> bastian.gonzalezbustaman
 
 **How to download and cite this dataset?**
 
-González-Bustamante, B. (2021). *Chilean Political Science Impact Ranking Dataset* [Data collected on March 1, 2021]. DOI: [10.17605/OSF.IO/M3NZD](http://doi.org/10.17605/OSF.IO/M3NZD)
+González-Bustamante, B. (2021). *Chilean Political Science Impact Ranking Dataset*. University of Oxford, Universidad de Santiago de Chile (USACH) and Training Data Lab. [Data collected on March 1, 2021]. DOI: [10.17605/OSF.IO/M3NZD](http://doi.org/10.17605/OSF.IO/M3NZD)
