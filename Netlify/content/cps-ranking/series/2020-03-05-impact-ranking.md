@@ -1,6 +1,6 @@
 ---
 title: "Impact Ranking March 2020"
-## weight: 
+## weight:
 date: '2020-03-05'
 authors: ["bgonzalezbustamante"]
 ## categories: []
@@ -150,7 +150,7 @@ summary: 'Data collected on March 5, 2020'
 |   138   | Marcelo Marzouka            | kj503iEAAAAJ   | PUC         |   0   |    0   |    4   |
 |   139   | Sebastián Carrasco          | CrQouUsAAAAJ   | UMAYOR      |   0   |    0   |    4   |
 
-<small>Note: The affiliations have been standardised. Data collected on March 5, 2020.</small><br />
+<small>Note: This ranking is supported by [Training Data Lab](https://training-datalab.com). The affiliations have been standardised. Data collected on March 5, 2020.</small><br />
 <small>Researchers to be added: Andrés Dockendorff (ID fJbvIm4AAAAJ), Hector Bahamonde (ID 3FHDoL0AAAAJ), Renata Retamal Iturriaga (ID V8JzxeQAAAAJ), Gonzalo Contreras Aguirre (ID bsi-e88AAAAJ), Lucas Perelló (ID ShRtBhMAAAAJ), and Carlos Cantillana (ID 8iP3MuwAAAAJ).</small><br /><br />
 
 **Would you like to suggest someone?**
@@ -159,4 +159,4 @@ Please send an email to <i class="fas fa-envelope"></i> bastian.gonzalezbustaman
 
 **How to download and cite this dataset?**
 
-González-Bustamante, B. (2020). *Chilean Political Science Impact Ranking Dataset* [Data collected on March 5, 2020]. DOI: [10.17605/OSF.IO/M3NZD](http://doi.org/10.17605/OSF.IO/M3NZD)
+González-Bustamante, B. (2020). *Chilean Political Science Impact Ranking Dataset*. University of Oxford, Universidad de Santiago de Chile (USACH) and Training Data Lab [Data collected on March 5, 2020]. DOI: [10.17605/OSF.IO/M3NZD](http://doi.org/10.17605/OSF.IO/M3NZD)
