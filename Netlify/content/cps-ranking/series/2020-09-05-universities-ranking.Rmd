@@ -1,6 +1,6 @@
 ---
 title: "Chilean Universities Ranking September 2020"
-## weight: 
+## weight:
 date: '2020-09-05'
 authors: ["bgonzalezbustamante"]
 ## categories: []
@@ -19,32 +19,32 @@ library(tidyverse)
 data <- read.csv("https://osf.io/mv9z8/download", fileEncoding = "UTF-8")
 
 ## Institutions Codification
-usach <- subset(data, Affiliation == "USACH" | Affiliation == "OXF-USACH") 
-puc <- subset(data, Affiliation == "PUC" | Affiliation == "PUC-VDEM") 
-ua <- subset(data, Affiliation == "UA") 
+usach <- subset(data, Affiliation == "USACH" | Affiliation == "OXF-USACH")
+puc <- subset(data, Affiliation == "PUC" | Affiliation == "PUC-VDEM")
+ua <- subset(data, Affiliation == "UA")
 uach <-subset(data, Affiliation == "UACH")
-uah <- subset(data, Affiliation == "UAH" | Affiliation == "UCHILE-UAH") 
-uai <- subset(data, Affiliation == "UAI") 
-uchile <- subset(data, Affiliation == "UCHILE" | Affiliation == "UCHILE-UAH") 
+uah <- subset(data, Affiliation == "UAH" | Affiliation == "UCHILE-UAH")
+uai <- subset(data, Affiliation == "UAI")
+uchile <- subset(data, Affiliation == "UCHILE" | Affiliation == "UCHILE-UAH")
 uct <- subset(data, Affiliation == "UCT")
 udd <- subset(data, Affiliation == "UDD")
 udec <- subset(data, Affiliation == "UDEC")
 udp <- subset(data, Affiliation == "UDP" | Affiliation == "UDP-COES" |
-                Affiliation == "UDP-NYU" | Affiliation == "UDP-Leiden") 
-ulagos <- subset(data, Affiliation == "ULAGOS") 
-umayor <- subset(data, Affiliation == "UMAYOR") 
-unab <- subset(data, Affiliation == "UNAB") 
-utalca <- subset(data, Affiliation == "UTALCA") 
-utem <- subset(data, Affiliation == "UTEM") 
-uvalpo <- subset(data, Affiliation == "UVALPO") 
+                Affiliation == "UDP-NYU" | Affiliation == "UDP-Leiden")
+ulagos <- subset(data, Affiliation == "ULAGOS")
+umayor <- subset(data, Affiliation == "UMAYOR")
+unab <- subset(data, Affiliation == "UNAB")
+utalca <- subset(data, Affiliation == "UTALCA")
+utem <- subset(data, Affiliation == "UTEM")
+uvalpo <- subset(data, Affiliation == "UVALPO")
 
 ## Dataframe Construction
-Name <- c("USACH", "PUC", "UA", "UACH", "UAI", "UCHILE", "UCT", "UDD", 
-          "UDEC", "UDP", "ULAGOS", "UMAYOR", "UNAB", "UTALCA", "UTEM", 
+Name <- c("USACH", "PUC", "UA", "UACH", "UAI", "UCHILE", "UCT", "UDD",
+          "UDEC", "UDP", "ULAGOS", "UMAYOR", "UNAB", "UTALCA", "UTEM",
           "UVALPO")
-Cases <- c(nrow(usach), nrow(puc), nrow(ua), nrow(uach), nrow(uai), 
-           nrow(uchile), nrow(uct), nrow(udd), nrow(udec), nrow(udp), 
-           nrow(ulagos), nrow(umayor), nrow(unab), nrow(utalca), nrow(utem), 
+Cases <- c(nrow(usach), nrow(puc), nrow(ua), nrow(uach), nrow(uai),
+           nrow(uchile), nrow(uct), nrow(udd), nrow(udec), nrow(udp),
+           nrow(ulagos), nrow(umayor), nrow(unab), nrow(utalca), nrow(utem),
            nrow(uvalpo))
 Avg_Cites <- c(mean(usach$Cites), mean(puc$Cites), mean(ua$Cites), mean(uach$Cites),
                mean(uai$Cites), mean(uchile$Cites), mean(uct$Cites), mean(udd$Cites),
@@ -54,29 +54,29 @@ Cum_Cites <- c(sum(usach$Cites), sum(puc$Cites), sum(ua$Cites), sum(uach$Cites),
                sum(uai$Cites), sum(uchile$Cites), sum(uct$Cites), sum(udd$Cites),
                sum(udec$Cites), sum(udp$Cites), sum(ulagos$Cites), sum(umayor$Cites),
                sum(unab$Cites), sum(utalca$Cites), sum(utem$Cites), sum(uvalpo$Cites))
-Avg_H_Index <- c(mean(usach$H_Index), mean(puc$H_Index), mean(ua$H_Index), 
-                 mean(uach$H_Index), mean(uai$H_Index), mean(uchile$H_Index), 
-                 mean(uct$H_Index), mean(udd$H_Index), mean(udec$H_Index), 
-                 mean(udp$H_Index), mean(ulagos$H_Index), mean(umayor$H_Index), 
-                 mean(unab$H_Index), mean(utalca$H_Index), mean(utem$H_Index), 
+Avg_H_Index <- c(mean(usach$H_Index), mean(puc$H_Index), mean(ua$H_Index),
+                 mean(uach$H_Index), mean(uai$H_Index), mean(uchile$H_Index),
+                 mean(uct$H_Index), mean(udd$H_Index), mean(udec$H_Index),
+                 mean(udp$H_Index), mean(ulagos$H_Index), mean(umayor$H_Index),
+                 mean(unab$H_Index), mean(utalca$H_Index), mean(utem$H_Index),
                  mean(uvalpo$H_Index))
-Cum_H_Index <- c(sum(usach$H_Index), sum(puc$H_Index), sum(ua$H_Index), 
-                 sum(uach$H_Index), sum(uai$H_Index), sum(uchile$H_Index), sum(uct$H_Index), 
-                 sum(udd$H_Index), sum(udec$H_Index), sum(udp$H_Index), sum(ulagos$H_Index), 
-                 sum(umayor$H_Index), sum(unab$H_Index), sum(utalca$H_Index), 
+Cum_H_Index <- c(sum(usach$H_Index), sum(puc$H_Index), sum(ua$H_Index),
+                 sum(uach$H_Index), sum(uai$H_Index), sum(uchile$H_Index), sum(uct$H_Index),
+                 sum(udd$H_Index), sum(udec$H_Index), sum(udp$H_Index), sum(ulagos$H_Index),
+                 sum(umayor$H_Index), sum(unab$H_Index), sum(utalca$H_Index),
                  sum(utem$H_Index), sum(uvalpo$H_Index))
 Inv_Avg_Index <- Avg_H_Index*-1
 Inv_Cum_Index <- Cum_H_Index*-1
 ```
 
-### Cumulative Ranking 
+### Cumulative Ranking
 
 ```{r collapse = TRUE, results = "asis", message = FALSE}
 Inst_Cum <- data.frame(Name, Cases, Cum_Cites, Cum_H_Index, Inv_Cum_Index)
 Inst_Cum[is.na(Inst_Cum)] <- 0
-Inst_Cum <- within(Inst_Cum, Quartile <- as.integer(cut(Inv_Cum_Index, 
-                                                        quantile(Inv_Cum_Index, 
-                                                                 probs = 0:4/4), 
+Inst_Cum <- within(Inst_Cum, Quartile <- as.integer(cut(Inv_Cum_Index,
+                                                        quantile(Inv_Cum_Index,
+                                                                 probs = 0:4/4),
                                                         include.lowest = TRUE)))
 Inst_Cum$Inv_Cum_Index <- NULL
 Inst_Cum <- Inst_Cum[order(-Inst_Cum$Cum_H_Index, -Inst_Cum$Cum_Cites), ]
@@ -95,9 +95,9 @@ kable(Inst_Cum) %>%
 ```{r collapse = TRUE, results = "asis", message = FALSE}
 Inst_Avg <- data.frame(Name, Cases, Avg_Cites, Avg_H_Index, Inv_Avg_Index)
 Inst_Avg[is.na(Inst_Avg)] <- 0
-Inst_Avg <- within(Inst_Avg, Quartile <- as.integer(cut(Inv_Avg_Index, 
-                                                        quantile(Inv_Avg_Index, 
-                                                                 probs = 0:4/4), 
+Inst_Avg <- within(Inst_Avg, Quartile <- as.integer(cut(Inv_Avg_Index,
+                                                        quantile(Inv_Avg_Index,
+                                                                 probs = 0:4/4),
                                                         include.lowest = TRUE)))
 Inst_Avg$Inv_Avg_Index <- NULL
 Inst_Avg <- Inst_Avg[order(-Inst_Avg$Avg_H_Index, -Inst_Avg$Avg_Cites), ]
@@ -107,7 +107,7 @@ Avg_H_Index <- format(round(Inst_Avg$Avg_H_Index, 2), nsmall = 2, big.mark = ","
 Quartile <- Inst_Avg$Quartile
 Inst_Avg <- select(Inst_Avg, Name, Cases)
 Inst_Avg <- data.frame(Inst_Avg, Avg_Cites, Avg_H_Index, Quartile)
-``` 
+```
 ```{r echo = FALSE}
 kable(Inst_Avg) %>%
   ## kable_styling() %>%
@@ -118,4 +118,4 @@ kable(Inst_Avg) %>%
 
 **How to download and cite this dataset?**
 
-González-Bustamante, B. (2020). *Chilean Political Science Impact Ranking Dataset* [Data collected on September 5, 2020]. DOI: [10.17605/OSF.IO/M3NZD](http://doi.org/10.17605/OSF.IO/M3NZD)
+González-Bustamante, B. (2020). *Chilean Political Science Impact Ranking Dataset*. University of Oxford, Universidad de Santiago de Chile (USACH) and Training Data Lab [Data collected on September 5, 2020]. DOI: [10.17605/OSF.IO/M3NZD](http://doi.org/10.17605/OSF.IO/M3NZD)
