@@ -1,6 +1,6 @@
 ---
 title: "Impact Ranking September 2021"
-## weight: 
+## weight:
 date: '2021-09-01'
 authors: ["bgonzalezbustamante"]
 ## categories: []
@@ -136,7 +136,7 @@ summary: 'Data collected on September 1, 2021'
 |   124   | Macarena Valenzuela Beltrán | xP-7heoAAAAJ   | UDP         |   40  |    3   |    3   |
 |   125   | Pablo Valenzuela            | cyKIMlUAAAAJ   | PUC         |   39  |    3   |    3   |
 |   126   | Waleska Muñoz Aravena       | ihALyKUAAAAJ   | UDEC        |   34  |    3   |    3   |
-|   127   | Hector Bahamonde            | 3FHDoL0AAAAJ   | TURKU       |   33  |    3   |    3   |
+|   127   | Hector Bahamonde            | 3FHDoL0AAAAJ   | UTU         |   33  |    3   |    3   |
 |   128   | María Cristina Escudero     | s6VvyfsAAAAJ   | UCHILE      |   30  |    3   |    3   |
 |   129   | Carla Alberti               | 3tcX6pYAAAAJ   | PUC         |   30  |    3   |    3   |
 |   130   | Matthias Erlandsen          | HA5\_6QUAAAAJ  | PUC         |   25  |    3   |    3   |
@@ -180,7 +180,7 @@ summary: 'Data collected on September 1, 2021'
 |   168   | Fernando Schmidt            | wXHJZ4oAAAAJ   | UDD         |   0   |    0   |    4   |
 |   169   | Nerea C. Palma              | qNc7eZgAAAAJ   | PUC         |   0   |    0   |    4   |
 
-<small>Note: The affiliations have been standardised. Data collected on September 1, 2021.</small><br />
+<small>Note: This ranking is supported by [Training Data Lab](https://training-datalab.com). The affiliations have been standardised. Data collected on September 1, 2021.</small><br />
 <small>Researchers to be added: Leslie Wehner (ID 8jxM4fcAAAAJ) and Ariel Becerra (ID b7GxWBAAAAAJ).</small><br /><br />
 
 **Would you like to suggest someone?**
@@ -189,4 +189,4 @@ Please send an email to <i class="fas fa-envelope"></i> bastian.gonzalezbustaman
 
 **How to download and cite this dataset?**
 
-González-Bustamante, B. (2021). *Chilean Political Science Impact Ranking Dataset* [Data collected on September 1, 2021]. DOI: [10.17605/OSF.IO/M3NZD](http://doi.org/10.17605/OSF.IO/M3NZD)
+González-Bustamante, B. (2021). *Chilean Political Science Impact Ranking Dataset*. University of Oxford, Universidad de Santiago de Chile (USACH) and Training Data Lab. [Data collected on September 1, 2021]. DOI: [10.17605/OSF.IO/M3NZD](http://doi.org/10.17605/OSF.IO/M3NZD)
