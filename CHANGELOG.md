@@ -8,10 +8,11 @@ All notable changes to "Bastián González-Bustamante website code" will be docu
 - News section (TBC).
 - Recent talks section (TBC).
 - Folders standardisation (TBC).
+- Relevant experience (TBC).
 ### Changed
 - CPS-Ranking from bgonzalezbustamante.com to an own domain (TBC).
 
-## [3.21.18] - 2023-06-05
+## [3.21.19] - 2023-06-05
 ### Added
 - Updated CPS-Ranking.
 ### Changed
@@ -19,9 +20,17 @@ All notable changes to "Bastián González-Bustamante website code" will be docu
 
 ## [Released]
 
-## [3.20.18] - 2023-03-03
+## [3.20.19] - 2023-03-05
+### Changed
+- Minor corrections.
+### Removed
+- Relevant experience.
+
+## [3.20.18] - 2023-03-04
 ### Added
 - GA4 set up.
+### Deprecated
+- Relevant experience.
 
 ## [3.19.18] - 2023-03-03
 ### Added
