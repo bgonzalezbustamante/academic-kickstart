@@ -1,5 +1,5 @@
 ---
-title: 'Ministerial Stability During Presidential Approval Crises: The Moderating Effect of Ministers’ Attributes on Dismissals in Brazil and Chile'
+title: 'Ministerial stability during presidential approval crises: The moderating effect of ministers’ attributes on dismissals in Brazil and Chile'
 date: '2022-10-16'
 slug: ministerial-stability-during-presidential-approval-crises
 ## categories: []
