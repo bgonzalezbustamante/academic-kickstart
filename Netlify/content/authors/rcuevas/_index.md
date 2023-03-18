@@ -16,11 +16,11 @@ role: Lecturer
 
 # Organizations/Affiliations
 organizations:
-- name: Universidad de Chile
-  url: "http://www.inap.uchile.cl/"
+- name: Universidad Católica de Temuco
+  url: "http://soccipol.uct.cl/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Lecturer in the Institute of Public Affairs at the Universidad de Chile.
+bio: Assistant Professor in the Department of Sociology and Political Science at the Universidad Católica de Temuco, Chile.
 
 interests:
 - International politics
@@ -34,7 +34,7 @@ interests:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:rodrigocuevas@uchile.cl
+  link: mailto:rodrigo.cuevas@uct.cl
 - icon: university
   icon_pack: fas
   link: https://training-datalab.com/
@@ -71,6 +71,6 @@ user_groups:
 
 \
 \
-Lecturer \
-Institute of Public Affairs \
-Universidad de Chile
+Assistant Professor \
+Department of Sociology and Political Science \
+Universidad Católica de Temuco, Chile
