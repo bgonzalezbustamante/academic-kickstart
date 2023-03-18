@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Antoine Maillet
-weight: 5
+weight: 6
 shortname: Maillet, A.
 
 # Username (this should match the folder name)
@@ -17,10 +17,10 @@ role: Associate Professor
 # Organizations/Affiliations
 organizations:
 - name: Universidad de Chile
-  url: "http://www.inap.uchile.cl/"
+  url: "https://gobierno.uchile.cl/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Associate Professor in the Institute of Public Affairs at the Universidad de Chile.
+bio: Associate Professor at the Faculty of Government at the Universidad de Chile.
 
 interests:
 - State development
@@ -69,5 +69,5 @@ user_groups:
 \
 \
 Associate Professor \
-Institute of Public Affairs \
+Faculty of Government \
 Universidad de Chile
