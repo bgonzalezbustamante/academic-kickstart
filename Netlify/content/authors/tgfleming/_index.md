@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Thomas G. Fleming
-weight: 11
+weight: 12
 shortname: Fleming, T. G.
 
 # Username (this should match the folder name)
