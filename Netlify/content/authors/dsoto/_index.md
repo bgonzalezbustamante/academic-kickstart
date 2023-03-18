@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Diego Soto
-weight: 22
+weight: 23
 shortname: Soto, D.
 
 # Username (this should match the folder name)
