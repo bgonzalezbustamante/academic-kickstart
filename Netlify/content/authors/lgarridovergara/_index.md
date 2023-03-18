@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Luis Garrido-Vergara
-weight: 23
+weight: 24
 shortname: Garrido-Vergara, L.
 
 # Username (this should match the folder name)
@@ -17,10 +17,10 @@ role: Assistant Professor
 # Organizations/Affiliations
 organizations:
 - name: Universidad de Chile
-  url: "http://www.inap.uchile.cl/"
+  url: "https://gobierno.uchile.cl/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Assistant Professor in the Institute of Public Affairs at the Universidad de Chile.
+bio: Assistant Professor at the Faculty of Government at the Universidad de Chile.
 
 interests:
 ## - Latin American Politics
@@ -69,5 +69,5 @@ user_groups:
 \
 \
 Assistant Professor \
-Institute of Public Affairs \
+Faculty of Government \
 Universidad de Chile
