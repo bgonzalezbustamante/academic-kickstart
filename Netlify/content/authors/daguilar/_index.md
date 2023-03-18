@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Diego Aguilar
-weight: 33
+weight: 5
 shortname: Aguilar, D.
 
 # Username (this should match the folder name)
