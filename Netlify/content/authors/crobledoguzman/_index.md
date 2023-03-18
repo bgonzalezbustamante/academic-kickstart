@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Claudio Robledo Guzmán
-weight: 31
+weight: 32
 shortname: Robledo Guzmán, C.
 
 # Username (this should match the folder name)
