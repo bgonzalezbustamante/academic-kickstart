@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Petra Schleiter
-weight: 10
+weight: 11
 shortname: Schleiter, P.
 
 # Username (this should match the folder name)
