@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Amanda Vitoria Lopes
-weight: 30
+weight: 31
 shortname: Lopes, A. V.
 
 # Username (this should match the folder name)
