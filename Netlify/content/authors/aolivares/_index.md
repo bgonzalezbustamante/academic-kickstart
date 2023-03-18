@@ -16,11 +16,11 @@ role: Associate Professor
 
 # Organizations/Affiliations
 organizations:
-- name: Universidad Católica de Temuco
-  url: "http://soccipol.uct.cl/"
+- name: Universidad Mayor, Chile
+  url: "https://www.umayor.cl/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Associate Professor in the Department of Sociology and Political Science at the Universidad Católica de Temuco, Chile.
+bio: Associate Professor in the Government School at the Universidad Mayor, Chile.
 
 interests:
 - Cabinets composition
@@ -34,7 +34,7 @@ interests:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:alejandro.olivares@uct.cl
+  link: mailto:alejandro.olivares@umayor.cl
 - icon: university
   icon_pack: fas
   link: https://training-datalab.com/
@@ -72,5 +72,5 @@ user_groups:
 \
 \
 Associate Professor \
-Department of Sociology and Political Science \
-Universidad Católica de Temuco, Chile
+Government School \
+Universidad Mayor, Chile
