@@ -1,7 +1,7 @@
 ---
 # Display name
 title: J. Eduardo Araya
-weight: 19
+weight: 20
 shortname: Araya, J. E.
 
 # Username (this should match the folder name)
@@ -66,4 +66,5 @@ user_groups:
 \
 \
 Lecturer \
-Universidad de Valparaíso, Chile
+Universidad de Valparaíso, Chile \
+R.I.P.
