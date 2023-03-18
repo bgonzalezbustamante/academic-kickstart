@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Sergio Toro
-weight: 20
+weight: 21
 shortname: Toro, S.
 
 # Username (this should match the folder name)
@@ -16,11 +16,11 @@ role: Associate Professor
 
 # Organizations/Affiliations
 organizations:
-- name: Universidad de Concepción
-  url: ""
+- name: Universidad Mayor
+  url: "https://www.umayor.cl/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Associate Professor at the Universidad de Concepción, Chile.
+bio: Full Professor in the Government School at the Universidad Mayor, Chile.
 
 interests:
 ## -
@@ -34,7 +34,7 @@ interests:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:sergiotoro@udec.cl
+  link: mailto:sergio.toro@umayor.cl
 ## - icon: orcid
   ## icon_pack: fab
   ## link: http://
@@ -65,5 +65,6 @@ user_groups:
 
 \
 \
-Associate Professor \
-Universidad de Concepción, Chile
+Full Professor \
+Government School \
+Universidad Mayor, Chile
