@@ -34,7 +34,7 @@ links:
   - icon: arxiv
     icon_pack: ai
     name: Preprint
-    url: 'https://osf.io/xnme4'
+    url: 'https://doi.org/10.31235/osf.io/gt8a5'
   - icon: osf
     icon_pack: ai
     name: OSF-Project
