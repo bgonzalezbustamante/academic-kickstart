@@ -33,8 +33,12 @@ links:
     url: 'https://doi.org/10.1111/blar.13044'
   - icon: arxiv
     icon_pack: ai
-    name: Preprint Upon Request
-    url: 'mailto:bastian.gonzalezbustamante@politics.ox.ac.uk'
+    name: Preprint
+    url: 'https://doi.org/10.31235/osf.io/d52au'
+  ## - icon: arxiv
+    ## icon_pack: ai
+    ## name: Preprint Upon Request
+    ## url: 'mailto:bastian.gonzalezbustamante@politics.ox.ac.uk'
   - icon: osf
     icon_pack: ai
     name: OSF-Project
