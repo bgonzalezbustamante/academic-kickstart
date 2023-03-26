@@ -20,7 +20,7 @@ organizations:
   url: "https://www.uv.cl/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Lecturer at the Universidad de Valparaíso, Chile.
+bio: Lecturer at the Universidad de Valparaíso, Chile (R.I.P.).
 
 interests:
 ## -
