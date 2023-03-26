@@ -1,5 +1,5 @@
 ---
-title: 'Territorial patterns of open e-government: Evidence from Chilean municipalities'
+title: 'Territorial patterns of open e-government: evidence from Chilean municipalities'
 date: '2023-03-17'
 slug: territorial-patterns-of-open-e-government
 ## categories: []
