@@ -9,7 +9,7 @@ doi: ''
 ## publishDate: ''
 publication_types:
   - '1'
-publication: '*Political Research Exchange*. Forthcoming'
+publication: '*Political Research Exchange, 5*(1), 2194369'
 publication_short: ''
 abstract: 'This article analyses the development of open e-government between 2019 and 2021 in Chile’s 345 municipalities. We aggregated an e-government index (EGi) to measure the provision of local digital services for citizens. We then combined this with indicators of transparency and access to public information to create an open e-government index (OEGi). Our empirical strategy is based on geospatial econometric analysis in two stages: first, we describe and georeference our index, estimating the level of spatial autocorrelation and then fit different econometric models to measure the impact of the degree of Internet use, socioeconomic dynamism and management capacity on the municipalities’ development of open e-government. Our main findings indicate that monetary poverty has a negative effect on the index, while the municipal government’s budget has a positive effect.'
 summary: ''
@@ -23,14 +23,14 @@ url_slides: ~
 url_source: ~
 url_video: ~
 links:
-  ## - icon: file-pdf
-    ## icon_pack: far
-    ## name: PDF
-    ## url: ''
-  ## - icon: doi
-    ## icon_pack: ai
-    ## name: DOI
-    ## url: ''
+  - icon: file-pdf
+    icon_pack: far
+    name: PDF
+    url: 'https://www.tandfonline.com/doi/full/10.1080/2474736X.2023.2194369'
+  - icon: doi
+    icon_pack: ai
+    name: DOI
+    url: 'https://doi.org/10.1080/2474736X.2023.2194369'
   - icon: arxiv
     icon_pack: ai
     name: Preprint
