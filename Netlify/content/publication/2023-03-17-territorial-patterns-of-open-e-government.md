@@ -47,10 +47,10 @@ links:
     icon_pack: ai
     name: Dataset
     url: 'https://doi.org/10.5281/zenodo.7568387'
-  ## - icon: figshare
-    ## icon_pack: ai
-    ## name: SI-File
-    ## url: ''
+  - icon: figshare
+    icon_pack: ai
+    name: SI-File
+    url: 'https://doi.org/10.6084/m9.figshare.22359986.v1'
 image:
   caption: ''
   focal_point: ''
