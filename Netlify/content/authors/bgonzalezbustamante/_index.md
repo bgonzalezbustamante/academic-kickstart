@@ -12,7 +12,7 @@ authors:
 superuser: true
 
 # Role/position
-role: DPhil (PhD) Researcher
+role: DPhil (PhD) Candidate
 
 # Organizations/Affiliations
 organizations:
@@ -20,15 +20,15 @@ organizations:
   url: "http://www.ox.ac.uk/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: DPhil (PhD) Researcher in the Department of Politics and International Relations and St Hilda’s College at the University of Oxford, United Kingdom.
+bio: DPhil (PhD) Candidate in the Department of Politics and International Relations and St Hilda’s College at the University of Oxford, United Kingdom.
 
 interests:
-- Cabinets composition
-- Ministerial turnover
+- Comparative politics
 - Presidential systems
-- Political elites
-- Civil services
-- Crisis management
+- Ministerial turnover
+- Elites and civil service
+- Quantitative methods
+- Artificial intelligence
 
 education:
   courses:
