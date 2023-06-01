@@ -8,6 +8,8 @@ authors: ["bgonzalezbustamante"]
 summary: 'Elaborated on September 5, 2020'
 ---
 
+**This project remains active, however, it was transferred to the [Training Data Lab](https://training-datalab.com/projects/cps-ranking) site in June 2023.**
+
 ### Precoding
 
 ```{r collapse = TRUE, results = "asis", message = FALSE, warning = FALSE}
@@ -115,7 +117,3 @@ kable(Inst_Avg) %>%
 ```
 
 \
-
-**How to download and cite this dataset?**
-
-González-Bustamante, B. (2020). *Chilean Political Science Impact Ranking Dataset*. University of Oxford, Universidad de Santiago de Chile (USACH) and Training Data Lab [Data collected on September 5, 2020]. DOI: [10.17605/OSF.IO/M3NZD](http://doi.org/10.17605/OSF.IO/M3NZD)
