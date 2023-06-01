@@ -1,5 +1,5 @@
 # Changelog
-All notable changes to "Bastián González-Bustamante website code" will be documented in this file. Automated updates: CV, publications, data and code section, Xaringan presentations, collaborators' profiles, corrections in the CPS-Ranking, validation of digitally signed documents and record of publications indicators.
+All notable changes to "Bastián González-Bustamante website code" will be documented in this file. Automated updates: CV, publications, data and code section, Xaringan presentations, collaborators' profiles, validation of digitally signed documents and record of publications indicators.
 
 ## [Unreleased]
 
@@ -10,11 +10,11 @@ All notable changes to "Bastián González-Bustamante website code" will be docu
 - Folders standardisation (TBC).
 - Relevant experience (TBC).
 
+## [Released]
+
 ## [4.0.0] - 2023-06-01
 ### Removed
-- CPS-Ranking (transferred to raining-datalab.com).
-
-## [Released]
+- CPS-Ranking (transferred to training-datalab.com).
 
 ## [3.20.20] - 2023-05-29
 ### Changed
