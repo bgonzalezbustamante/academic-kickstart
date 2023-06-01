@@ -8,6 +8,8 @@ authors: ["bgonzalezbustamante"]
 summary: 'Data collected on September 1, 2021'
 ---
 
+**This project remains active, however, it was transferred to the [Training Data Lab](https://training-datalab.com/projects/cps-ranking) site in June 2023.**
+
 | Ranking | Name                        | ID             | Affiliation | Cites | H-Index | Quartile |
 |:-------:|-----------------------------|----------------|-------------|:-----:|:--------:|:--------:|
 |    1    | David Altman                | xWbhhH8AAAAJ   | PUC-VDEM    | 7,123 |   39   |    1   |
@@ -185,8 +187,4 @@ summary: 'Data collected on September 1, 2021'
 
 **Would you like to suggest someone?**
 
-Please send an email to <i class="fas fa-envelope"></i> bastian.gonzalezbustamante@politics.ox.ac.uk
-
-**How to download and cite this dataset?**
-
-González-Bustamante, B. (2021). *Chilean Political Science Impact Ranking Dataset*. University of Oxford, Universidad de Santiago de Chile (USACH) and Training Data Lab. [Data collected on September 1, 2021]. DOI: [10.17605/OSF.IO/M3NZD](http://doi.org/10.17605/OSF.IO/M3NZD)
+Please send an email to <i class="fas fa-envelope"></i> bastian.gonzalezbustamante@politics.ox.ac.uk.
