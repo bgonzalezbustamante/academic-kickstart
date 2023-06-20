@@ -1,5 +1,5 @@
 ---
-title: 'Élites políticas en el poder legislativo chileno: La Cámara de Diputados (1990-2014)'
+title: 'Élites políticas en el poder legislativo chileno: la Cámara de Diputados (1990-2014)'
 date: '2016-07-19'
 slug: elites-politicas-en-el-poder-legislativo-chileno-la-camara-de-diputados
 ## categories: []
