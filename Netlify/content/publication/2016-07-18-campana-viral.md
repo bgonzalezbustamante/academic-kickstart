@@ -9,7 +9,7 @@ doi: ''
 ## publishDate: ''
 publication_types:
   - '4'
-publication: 'In I. Crespo, O. D Adamo, V. García Beaudoux, and A. Mora (eds.), *Diccionario Enciclopédico de Comunicación Política. 2nd Edition* (pp. 68-70). Madrid: Centro de Estudios Políticos y Constitucionales'
+publication: 'In I. Crespo, O. D`Adamo, V. García Beaudoux, and A. Mora (eds.), *Diccionario Enciclopédico de Comunicación Política. 2nd Edition* (pp. 68-70). Madrid: Centro de Estudios Políticos y Constitucionales'
 publication_short: ''
 abstract: 'This entry defines a viral campaign as a word-of-mouth process, in which the political messages associated with candidates or political parties are shared and transmitted exponentially among users with digital devices. In order to be viral, the transmission must have a growth rate higher than one, which implies that each receptor re-transmit the message at least two people.'
 summary: ''
