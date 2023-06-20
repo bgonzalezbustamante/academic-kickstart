@@ -9,7 +9,7 @@ doi: ''
 ## publishDate: ''
 publication_types:
   - '4'
-publication: 'In I. Crespo, O. D Adamo, V. García Beaudoux, and A. Mora (eds.), *Diccionario Enciclopédico de Comunicación Política. 2nd Edition* (pp. 378-380). Madrid: Centro de Estudios Políticos y Constitucionales'
+publication: 'In I. Crespo, O. D`Adamo, V. García Beaudoux, and A. Mora (eds.), *Diccionario Enciclopédico de Comunicación Política. 2nd Edition* (pp. 378-380). Madrid: Centro de Estudios Políticos y Constitucionales'
 publication_short: ''
 abstract: 'This entry describes Twitter as a microblogging service that allows their users a status update of 140 characters. This updated is known as a tweet. This platform enables us to share information with known people but also with other social circles because it is possible to follow contents generates for others.'
 summary: ''
