@@ -1,5 +1,5 @@
 ---
-title: 'El estudio de las élites en Chile: Aproximaciones conceptuales y metodológicas'
+title: 'El estudio de las élites en Chile: aproximaciones conceptuales y metodológicas'
 date: '2013-09-01'
 slug: el-estudio-de-las-elites-en-chile-aproximaciones-conceptuales-y-metodologicas
 ## categories: []
