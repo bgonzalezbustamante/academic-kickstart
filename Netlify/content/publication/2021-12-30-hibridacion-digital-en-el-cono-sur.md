@@ -9,7 +9,7 @@ doi: ''
 ## publishDate: '2019-12-15T20:47:28Z'
 publication_types:
   - '5'
-publication: '*Comunifé*, 21, 31-39'
+publication: '*Comunifé: Revista de Comunicación Social*, 21, 31-39'
 publication_short: ''
 abstract: 'This work offers an exploratory approach to the consumption of traditional and digital media and the use of social networks in Argentina, Chile and Uruguay. In the first place, a brief theory is offered that contextualises the advance of new information technologies. Subsequently, with data from the International Telecommunication Union (ITU) and surveys with national probabilistic samples financed by the International Development Research Center (IDRC) of Canada, a descriptive analysis is carried out on the consumption of political information and the use of digital social networks. These three countries have high Internet penetration rates, broadband subscriptions and mobile Internet compared to other Latin American countries. Despite this, traditional channels such as television continue to predominate in the consumption of political information. Finally, the average age of digital media users is lower, and certain sociodemographic differences exist by country. For example, Chile and Uruguay show greater concentration in their metropolitan areas, and a socioeconomic gap can be seen in Internet consumption in Argentina and Chile.'
 summary: ''
