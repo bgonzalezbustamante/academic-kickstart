@@ -9,7 +9,7 @@ doi: ''
 ## publishDate: ''
 publication_types:
   - '4'
-publication: 'In J. R. Gil-García, J. I. Criado, and J. C. Téllez (eds.), *Tecnologías de Información y Comunicación en la Administración Pública: Conceptos, Enfoques, Aplicaciones y Resultados*. Mexico City: INFOTEC'
+publication: 'In J. R. Gil-García, J. I. Criado, and J. C. Téllez (eds.), *Tecnologías de Información y Comunicación en la Administración Pública: Conceptos, Enfoques, Aplicaciones y Resultados* (pp. 351-380). Mexico City: INFOTEC'
 publication_short: ''
 abstract: 'This chapter is focused on electronic participation and its relation to the growth of social networks through the Internet. The e-government and its difference with other emerging ways of digital participation are addressed in detail. Based on a theoretical scheme and a case of study that tells experiences of technological innovation and the usage of social networks, it deepens into the progress of electronic participation and the rising of social networks such as opportunities for the consolidation of spaces of expression and citizen participation in the digital sphere. Among the conclusions, it is shown the importance of bringing together interested but segmented citizens, with public participation initiatives to strengthen governance based on new technologies.'
 summary: ''
