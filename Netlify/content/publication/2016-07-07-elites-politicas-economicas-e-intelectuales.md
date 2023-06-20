@@ -1,5 +1,5 @@
 ---
-title: 'Élites políticas, económicas e intelectuales: Una agenda de investigación creciente para la ciencia política'
+title: 'Élites políticas, económicas e intelectuales: una agenda de investigación creciente para la ciencia política'
 date: '2016-07-07'
 slug: elites-politicas-econemicas-e-intelectuales
 ## categories: []
