@@ -1,5 +1,5 @@
 ---
-title: 'Evaluando Twitter como indicador de opinión pública: Una mirada al arribo de Bachelet a la presidencial chilena 2013'
+title: 'Evaluando Twitter como indicador de opinión pública: una mirada al arribo de Bachelet a la presidencial chilena 2013'
 date: '2015-05-01'
 slug: evaluando-twitter-como-indicador-de-opinion-publica
 ## categories: []
