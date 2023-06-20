@@ -9,7 +9,7 @@ doi: ''
 ## publishDate: ''
 publication_types:
   - '4'
-publication: 'In I. Crespo, O. D'Adamo, V. García Beaudoux, and A. Mora (eds.), *Diccionario Enciclopédico de Comunicación Política. 2nd Edition* (pp. 48-50). Madrid: Centro de Estudios Políticos y Constitucionales'
+publication: 'In I. Crespo, O. D`Adamo, V. García Beaudoux, and A. Mora (eds.), *Diccionario Enciclopédico de Comunicación Política. 2nd Edition* (pp. 48-50). Madrid: Centro de Estudios Políticos y Constitucionales'
 publication_short: ''
 abstract: 'This entry defines political branding as a process that allows candidates and governments to build a positive public image. In this process, the proper management of resources and capitals is associated with brand equity and positive perception.'
 summary: ''
