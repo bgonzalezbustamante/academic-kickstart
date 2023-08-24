@@ -1,5 +1,5 @@
 ---
-title: 'Socializacion, trayectorias y poscarrera de ministros en Chile, 1990-2010'
+title: 'Socialización, trayectorias y poscarrera de ministros en Chile, 1990-2010'
 date: '2018-01-01'
 slug: socializacion-trayectorias-y-poscarrera-de-ministros-en-chile
 ## categories: []
