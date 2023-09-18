@@ -1,5 +1,5 @@
 ---
-title: 'Los think tanks en el gabinete: Una exploración del caso chileno (2006-2014)'
+title: 'Los think tanks en el gabinete: una exploración del caso chileno (2006-2014)'
 date: '2014-12-31'
 slug: los-think-tanks-en-el-gabinete-una-exploracion-del-caso-chileno
 ## categories: []
