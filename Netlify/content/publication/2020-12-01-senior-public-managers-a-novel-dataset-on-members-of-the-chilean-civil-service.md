@@ -1,5 +1,5 @@
 ---
-title: 'Senior Public Managers: A Novel Dataset on Members of the Chilean Civil Service'
+title: 'Altos directivos públicos: Un nuevo conjunto de datos de miembros del servicio civil chileno'
 date: '2020-12-01'
 slug: senior-public-managers-a-novel-dataset-on-members-of-the-chilean-civil-service
 ## categories: []
