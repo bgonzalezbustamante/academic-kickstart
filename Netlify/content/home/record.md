@@ -27,11 +27,11 @@ feature:
   icon: scopus
   icon_pack: custom
   name: Scopus/ESCI
-- description: <a href="https://bgonzalezbustamante.com/publication/#5">14 articles</a>
+- description: <a href="https://bgonzalezbustamante.com/publication/#5">15 articles</a>
   icon: open-access
   icon_pack: custom
   name: SciELO/Latindex
-- description: <a href="https://bgonzalezbustamante.com/publication/#4">12 chapters</a>
+- description: <a href="https://bgonzalezbustamante.com/publication/#4">11 chapters</a>
   icon: obp
   icon_pack: custom
   name: Book Chapters
