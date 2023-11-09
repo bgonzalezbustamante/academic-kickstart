@@ -8,7 +8,7 @@ authors: ["bgonzalezbustamante"]
 doi: ''
 ## publishDate: ''
 publication_types:
-  - '5'
+  - '1'
 publication: '*Revista Chilena de Derecho y Ciencia Política, 13*(2), 12-44'
 publication_short: ''
 abstract: 'This methodological paper discusses the practical applications, advantages and disadvantages of event history or survival analysis compared to classic econometric strategies in social sciences, such as binary logistic regressions. Accordingly, it analyses when the survival approach is suitable compared to logistic models and the risks of working with observational data and potentially biased estimates. To answer both questions, two econometric demonstrations using propensity score matching techniques are carried out in order to analyse the effect of entrepreneurial background and ties on access to and tenure in relevant political positions. For this, we use the Chilean Elite Survey (1990-2010) and a data set of ministers who held office between 1990 and 2014. The findings show that business background has no significant impact on access to relevant positions, however, it is associated with a lower risk of being removed from the cabinet. The econometric demonstrations show that survival analysis is helpful for phenomena involving time intervals, while logistic regressions are pertinent for studying access to positions as long as the sampling is adequate. Significant differences are also evident between models without adjustments or placebos and models with better specifications or fitted after applying the matching algorithm.'
