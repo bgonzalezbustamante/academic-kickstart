@@ -23,15 +23,15 @@ feature:
   icon: clarivate
   icon_pack: custom
   name: WoS-SSCI
-- description: <a href="https://bgonzalezbustamante.com/publication/#1">7 articles</a> / <a href="https://bgonzalezbustamante.com/publication/#2">3 articles</a>
+- description: <a href="https://bgonzalezbustamante.com/publication/#1">8 articles</a> / <a href="https://bgonzalezbustamante.com/publication/#2">3 articles</a>
   icon: scopus
   icon_pack: custom
   name: Scopus/ESCI
-- description: <a href="https://bgonzalezbustamante.com/publication/#5">15 articles</a>
+- description: <a href="https://bgonzalezbustamante.com/publication/#5">13 articles</a>
   icon: open-access
   icon_pack: custom
   name: SciELO/Latindex
-- description: <a href="https://bgonzalezbustamante.com/publication/#4">11 chapters</a>
+- description: <a href="https://bgonzalezbustamante.com/publication/#4">12 chapters</a>
   icon: obp
   icon_pack: custom
   name: Book Chapters
