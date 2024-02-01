@@ -27,7 +27,7 @@ feature:
   icon: scopus
   icon_pack: custom
   name: Scopus/ESCI
-- description: <a href="https://bgonzalezbustamante.com/publication/#5">13 articles</a>
+- description: <a href="https://bgonzalezbustamante.com/publication/#5">14 articles</a>
   icon: open-access
   icon_pack: custom
   name: SciELO/Latindex
