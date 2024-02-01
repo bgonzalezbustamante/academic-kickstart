@@ -45,11 +45,12 @@ local_business_type = ""
 
 # Organization name (optional)
 # Enter an organization or project name. Defaults to the site title from `config.toml`.
-org_name = "University of Oxford"
+## org_name = "University of Oxford"
+org_name = "Leiden University"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
 ## description = "Bastián González-Bustamante. DPhil (PhD) Researcher in the Department of Politics and International Relations and St Hilda's College at the University of Oxford, United Kingdom. Instructor Professor in the Management and Public Policies Department at the Faculty of Administration and Economics at the Universidad de Santiago de Chile (USACH)."
-description = "Bastián González-Bustamante. DPhil (PhD) Researcher in the Department of Politics and International Relations and St Hilda's College at the University of Oxford, United Kingdom."
+description = "Bastián González-Bustamante. Post-doctoral Researcher in Computational Social Science at the Institute of Security and Global Affairs (ISGA) at the Faculty of Governance and Global Affairs at Leiden University, Netherlands."
 
 ############################
 ## Site Features
@@ -89,12 +90,14 @@ show_related = {book = false, page = false, post = false, project = false, publi
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "bastian.gonzalezbustamante@politics.ox.ac.uk"
+## email = "bastian.gonzalezbustamante@politics.ox.ac.uk"
+email = "b.a.gonzalez.bustamante@fgga.leidenuniv.nl"
 ## phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "St Hilda's College, Cowley Place", city = "Oxford", region = "", postcode = "OX4 1DY", country = "United Kingdom", country_code = "UK"}
+## address = {street = "St Hilda's College, Cowley Place", city = "Oxford", region = "", postcode = "OX4 1DY", country = "United Kingdom", country_code = "UK"}
+address = {street = "Wijnhaven, Turfmarkt 99", city = "The Hague", region = "", postcode = "2511 DP", country = "Netherlands", country_code = "NL"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
@@ -125,7 +128,8 @@ contact_links = [
 ############################
 
 # Default image for social sharing and search engines. Place image in `static/media/` folder and specify image name here.
-sharing_image = "oxford-logo.png"
+## sharing_image = "oxford-logo.png"
+sharing_image = "leiden-logo.png"
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
 twitter = "bastiangb"
