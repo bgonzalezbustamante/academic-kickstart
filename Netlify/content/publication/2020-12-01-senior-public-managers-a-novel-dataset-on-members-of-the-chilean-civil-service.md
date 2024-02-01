@@ -43,10 +43,10 @@ links:
     ## icon_pack: fab
     ## name: Code
     ## url: ''
-  ## - icon: dataverse
-    ## icon_pack: ai
-    ## name: Dataset
-    ## url: ''
+  - icon: dataverse
+    icon_pack: ai
+    name: Dataset
+    url: 'https://zenodo.org/doi/10.5281/zenodo.8115596'
 image:
   caption: ''
   focal_point: ''
