@@ -12,7 +12,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Research Associate
+role: Adjunct Researcher
 
 # Organizations/Affiliations
 organizations:
@@ -20,7 +20,7 @@ organizations:
   url: "https://training-datalab.com/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Research Associate in Training Data Lab.
+bio: Adjunct Researcher in Training Data Lab.
 
 interests:
 ## -
@@ -74,5 +74,5 @@ user_groups:
 
 \
 \
-Research Associate \
+Adjunct Researcher \
 Training Data Lab
