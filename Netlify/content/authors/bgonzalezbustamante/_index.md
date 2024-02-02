@@ -20,7 +20,7 @@ organizations:
   url: "https://www.universiteitleiden.nl/en"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Bastián González-Bustamante. Post-doctoral Researcher in Computational Social Science at the Institute of Security and Global Affairs (ISGA) at the Faculty of Governance and Global Affairs at Leiden University, Netherlands.
+bio: Post-doctoral Researcher in Computational Social Science at the Institute of Security and Global Affairs (ISGA) at the Faculty of Governance and Global Affairs at Leiden University, Netherlands.
 
 interests:
 - Comparative politics
