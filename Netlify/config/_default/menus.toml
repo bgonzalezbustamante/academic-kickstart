@@ -28,10 +28,10 @@
   url = "#projects"
   weight = 40
 
-[[main]]
-  name = "Awards"
-  url = "#accomplishments"
-  weight = 50
+## [[main]]
+  ## name = "Awards"
+  ## url = "#accomplishments"
+  ## weight = 50
 
 ## [[main]]
   ## name = "Collaborators"
@@ -50,7 +50,7 @@
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/media/resume.pdf` and uncomment the lines below.
-[[main]]
-  name = "CV"
-  url = "files/CV-Gonzalez-Bustamante.pdf"
-  weight = 90
+## [[main]]
+  ## name = "CV"
+  ## url = "files/CV-Gonzalez-Bustamante.pdf"
+  ## weight = 90
