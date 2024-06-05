@@ -3,7 +3,7 @@ All notable changes to "Bastián González-Bustamante website code" will be docu
 
 ## [Unreleased]
 
-## [5.1.0] - TBC
+## [5.1.1] - TBC
 ### Added
 - News section (TBC).
 - Recent talks section (TBC).
@@ -12,10 +12,20 @@ All notable changes to "Bastián González-Bustamante website code" will be docu
 
 ## [Released]
 
+## [5.0.1] - 2024-06-05
+### Changed
+- Minor corrections.
+### Removed
+- Awards.
+- CV in PDF.
+
 ## [5.0.0] - 2024-02-01
 ### Changed
 - Affiliation (Oxford to Leiden).
 - Minor corrections.
+### Deprecated
+- Awards.
+- CV in PDF.
 
 ## [4.0.0] - 2023-06-01
 ### Removed
