@@ -35,7 +35,7 @@ feature:
   icon: obp
   icon_pack: custom
   name: Book Chapters
-- description: <a href="https://bgonzalezbustamante.com/#projects">3 projects</a>
+- description: <a href="https://bgonzalezbustamante.com/#projects">9 projects</a>
   icon: zenodo
   icon_pack: custom
   name: Data Collection
