@@ -4,6 +4,10 @@ title: Bastián González-Bustamante
 weight: 1
 shortname: González-Bustamante, B.
 
+# Full Name (for SEO)
+first_name: Bastián
+last_name: González-Bustamante
+
 # Username (this should match the folder name)
 authors:
 - bgonzalezbustamante
@@ -20,7 +24,7 @@ organizations:
   url: "https://www.universiteitleiden.nl/en"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Post-doctoral Researcher in Computational Social Science at the Institute of Security and Global Affairs (ISGA) at the Faculty of Governance and Global Affairs at Leiden University, Netherlands.
+bio: Post-doctoral Researcher in Computational Social Science at the Faculty of Governance and Global Affairs at Leiden University, Netherlands.
 
 interests:
 - Comparative politics
@@ -50,22 +54,12 @@ social:
 - icon: envelope
   icon_pack: fas
   link: mailto:b.a.gonzalez.bustamante@fgga.leidenuniv.nl
-## - icon: envelope
+## - icon: home
   ## icon_pack: fas
-  ## link: mailto:bastian.gonzalezbustamante@politics.ox.ac.uk
-  ## '#contact'
-## - icon: mail-bulk
+  ## link: https://bgonzalezbustamante.com/
+## - icon: university
   ## icon_pack: fas
-  ## link: mailto:bastian.gonzalezbustamante@st-hildas.ox.ac.uk
-## - icon: envelope
-  ## icon_pack: far
-  ## link: mailto:bastian.gonzalez.b@usach.cl
-- icon: home
-  icon_pack: fas
-  link: https://bgonzalezbustamante.com/
-- icon: university
-  icon_pack: fas
-  link: https://www.politics.ox.ac.uk/person/bastian-gonzalez-bustamante
+  ## link: https://www.politics.ox.ac.uk/person/bastian-gonzalez-bustamante
 - icon: orcid
   icon_pack: fab
   link: http://orcid.org/0000-0003-1510-6820
@@ -81,20 +75,20 @@ social:
 - icon: researchgate
   icon_pack: fab
   link: https://www.researchgate.net/profile/Bastian_Gonzalez-Bustamante
-- icon: academia
-  icon_pack: ai
-  link: https://oxford.academia.edu/GonzalezBustamante
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/bastiangb
+## - icon: academia
+  ## icon_pack: ai
+  ## link: https://oxford.academia.edu/GonzalezBustamante
+## - icon: twitter
+  ## icon_pack: fab
+  ## link: https://twitter.com/bastiangb
 ## - icon: facebook-f
   ## icon_pack: fab
   ## link: https://www.facebook.com/bastiangb
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-- icon: cv
-  icon_pack: ai
-  link: files/CV-Gonzalez-Bustamante.pdf
+## - icon: cv
+  ## icon_pack: ai
+  ## link: files/CV-Gonzalez-Bustamante.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -105,7 +99,7 @@ user_groups:
 - Researchers
 ---
 
-I am a post-doctoral researcher in Computational Social Science at the Institute of Security and Global Affairs (ISGA) at the [Faculty of Governance and Global Affairs at Leiden University](https://www.universiteitleiden.nl/en/governance-and-global-affairs), Netherlands. I hold a [DPhil (PhD) in Politics from the University of Oxford](https://www.politics.ox.ac.uk/), United Kingdom. Before my DPhil, I earned an MA (1st) in Political Science and a BA (2:1) in Government, both from the Universidad de Chile.
+I am a post-doctoral researcher in Computational Social Science at the [Faculty of Governance and Global Affairs at Leiden University](https://www.universiteitleiden.nl/en/governance-and-global-affairs), Netherlands. I hold a [DPhil (PhD) in Politics from the University of Oxford](https://www.politics.ox.ac.uk/), United Kingdom. Before my DPhil, I earned an MA (1st) in Political Science and a BA (2:1) in Government, both from the Universidad de Chile.
 
 My research interests lie in the intersection of comparative politics and government, focusing mainly on cabinets, political regimes and civil services. Methodologically, my interests rely on the application of quantitative text analysis, machine learning methods and causal inference strategies in the comparative politics field. In the last  years, my work has been published in *The International Journal of Press/Politics*, *World Development*, *Government and Opposition*, *The British Journal of Politics and International Relations*, *Bulletin of Latin American Research* and elsewhere.
 
