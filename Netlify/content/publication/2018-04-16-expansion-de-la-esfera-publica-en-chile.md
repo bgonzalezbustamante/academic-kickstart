@@ -7,8 +7,10 @@ slug: expansion-de-la-esfera-publica-en-chile
 authors: ["bgonzalezbustamante", "dbarria"]
 doi: ''
 ## publishDate: ''
+
 publication_types:
   - '4'
+
 publication: 'In N. Del Valle (ed.), *Transformaciones de la Esfera Pública en Chile. Luchas sociales, espacio público y pluralismo informativo* (pp. 99-116). Santiago: RIL Editores'
 publication_short: ''
 abstract: 'In this chapter, we explore the online social network use in electoral campaigns, as well as the political conversations in the digital sphere. For this, we use Chile between 2009 and 2015 as a case study. In order to facilitate the presentation, we divide the chapter into three sections. First of all, we address briefly several theoretical issues with a particular focus on the progress of TIC and their influence on democratic and electoral phenomena. The later, with a specific focus on the online social networks expansion with electoral purposes. After that, we explore the use of social networks in recent electoral campaigns, specifically over the last two presidential elections (2009-2010 and 2013), as well as in other political junctures like public accounts or shocks that affect the political system (e.g. corruption scandals). Finally, in the conclusions, we revisit the initial questions to answer them, considering the theoretical and descriptive work presented.'

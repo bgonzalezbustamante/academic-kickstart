@@ -7,8 +7,10 @@ slug: civil-service-models-in-latin-america
 authors: ["bgonzalezbustamante"]
 doi: ''
 ## publishDate: ''
+
 publication_types:
   - '4'
+
 publication: 'In A. Farazmand (ed.), *Global Encyclopedia of Public Administration, Public Policy, and Governance* (pp. 775-783). Cham: Springer'
 publication_short: ''
 abstract: 'This chapter examines the concept of public service models with special emphasis on Latin American reality. The following section deals with the subject from a historical perspective, its ties to the patronage systems, and the main milestones which have shaped the evolution of the civil services. Subsequently, the next section deals with the chief characteristics and changes in the civil services and presents an evaluation of the models in Latin America. Finally, the last section sets out some brief conclusions and summarises the main ideas of this entry.'
@@ -23,10 +25,10 @@ url_slides: ~
 url_source: ~
 url_video: ~
 links:
-  - icon: file-pdf
-    icon_pack: far
-    name: PDF
-    url: 'https://link.springer.com/referenceworkentry/10.1007%2F978-3-319-20928-9_2699'
+  ## - icon: file-pdf
+    ## icon_pack: far
+    ## name: PDF
+    ## url: 'https://link.springer.com/referenceworkentry/10.1007%2F978-3-319-20928-9_2699'
   - icon: doi
     icon_pack: ai
     name: DOI

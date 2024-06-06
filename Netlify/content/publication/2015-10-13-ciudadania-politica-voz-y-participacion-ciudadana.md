@@ -7,8 +7,10 @@ slug: ciudadania-politica-voz-y-participacion-ciudadana
 authors: ["bgonzalezbustamante"]
 doi: ''
 ## publishDate: '2019-12-15T20:47:28Z'
+
 publication_types:
   - '6'
+
 publication: '*Revista de Gestión Pública, IV*(1), 143-149'
 publication_short: ''
 abstract: 'Book Review.'
@@ -23,10 +25,10 @@ url_slides: ~
 url_source: ~
 url_video: ~
 links:
-  - icon: file-pdf
-    icon_pack: far
-    name: PDF
-    url: 'https://revistas.uv.cl/index.php/rgp/article/view/2240'
+  ## - icon: file-pdf
+    ## icon_pack: far
+    ## name: PDF
+    ## url: 'https://revistas.uv.cl/index.php/rgp/article/view/2240'
   - icon: doi
     icon_pack: ai
     name: DOI

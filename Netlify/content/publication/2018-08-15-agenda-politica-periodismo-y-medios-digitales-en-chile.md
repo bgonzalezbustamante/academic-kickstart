@@ -6,9 +6,11 @@ slug: agenda-politica-periodismo-y-medios-digitales-en-chile
 ## tags: []
 authors: ["ndelvalle", "bgonzalezbustamante"]
 doi: ''
-## publishDate: '2019-12-15T19:23:15Z'
+## publishDate: ''
+
 publication_types:
   - '2'
+
 publication: '*Perspectivas de la Comunicación, 11*(1), 291-326'
 publication_short: ''
 abstract: 'This article analyses the political opinion of the journalists who lead,  manage and edit written digital media (MDE for its acronym in Spanish) in Chile. Based on data from a non-probabilistic survey carried out in 2014, the journalist’s opinion on some public issues and the mass media conditions are addressed. Furthermore,   comparisons are made with other national probabilistic surveys in order to identify connections with trends of Chilean public opinion. Finally, some conclusions on the MDE editorial lines, public opinion and the perspective of communicators are discussed.'

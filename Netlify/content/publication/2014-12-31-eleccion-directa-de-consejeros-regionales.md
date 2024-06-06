@@ -7,8 +7,10 @@ slug: eleccion-directa-de-consejeros-regionales
 authors: ["bgonzalezbustamante"]
 doi: ''
 ## publishDate: ''
+
 publication_types:
   - '5'
+
 publication: '*Política, Revista de Ciencia Política, 52*(2), 49-91'
 publication_short: ''
 abstract: 'This article analyses the first popular election of regional councillors in Chile, a post which, before 2013, was chosen by local government representatives. The database used contains electoral and biographical information for each candidate (N = 1,382), which is compared to similar data for candidates in all Chilean elections between 1989-2013 (N = 50,462). This paper analyses electoral results and the factors that determine the election as a regional council member, using the concept of species of capital used in political sociology. It presents a descriptive analysis and maximum likelihood logit model. It finds that political and economic capitals are relevant factors for electoral success.'

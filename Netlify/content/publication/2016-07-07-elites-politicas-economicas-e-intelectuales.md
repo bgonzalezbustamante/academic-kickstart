@@ -6,9 +6,11 @@ slug: elites-politicas-econemicas-e-intelectuales
 ## tags: []
 authors: ["bgonzalezbustamante"]
 doi: ''
-## publishDate: '2019-12-15T20:47:28Z'
+## publishDate: ''
+
 publication_types:
   - '5'
+
 publication: '*Política, Revista de Ciencia Política, 54*(1), 7-17'
 publication_short: ''
 abstract: 'Peer-Reviewed Edited Volume Introduction.'

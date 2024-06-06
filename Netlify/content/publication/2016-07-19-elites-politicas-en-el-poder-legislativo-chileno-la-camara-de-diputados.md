@@ -7,8 +7,10 @@ slug: elites-politicas-en-el-poder-legislativo-chileno-la-camara-de-diputados
 authors: ["bgonzalezbustamante", "ccisternas"]
 doi: ''
 ## publishDate: ''
+
 publication_types:
   - '5'
+
 publication: '*Política, Revista de Ciencia Política, 54*(1), 19-52'
 publication_short: ''
 abstract: 'This article analyses the social composition of political elites in the Chilean legislative branch, specifically in the Chamber of Deputies between 1990 and 2014.  The personal characteristics and re-election rates of deputies in that period  (n  =  720)  are analysed.  The degree of homogeneity in the educational background for each legislature is complemented with interdependence models, specifically cluster analysis with a non-hierarchical grouping algorithm, as well as social network analysis. The findings suggest that the closer a legislative period is to the democratic transition,  the more homogeneous/dense it is social composition. Despite the confirmation of the sociocultural elitisation of deputies, this does not imply, generally speaking, a greater concentration of density in the post-transitional legislatures.'

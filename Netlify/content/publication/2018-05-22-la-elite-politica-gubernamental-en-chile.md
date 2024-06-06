@@ -7,8 +7,10 @@ slug: la-elite-politica-gubernamental-en-chile
 authors: ["bgonzalezbustamante", "aolivares"]
 doi: ''
 ## publishDate: ''
+
 publication_types:
   - '4'
+
 publication: 'In A. Codato and F. Espinoza (eds.), *Las élites en las Américas: diferentes perspectivas* (pp. 245-282). Curitiba: Editora Universidade Federal do Paraná'
 publication_short: ''
 abstract: 'In this chapter, we address the capacity that Chilean ministers had to survive in their positions during 1990-2014 period. We analyse the trajectories and profiles of the ministers over 24 years (232 appointments) to identify how these are related with the elements of the institutional architecture (*e.g.* quotas, party equilibriums, president autonomy, among others) with factors associated with the parties, which formed the government coalitions. In particular, using a trajectories analysis of the all individuals in the period, we aim to evaluate factors that illuminate patterns linked with the politics professionalisation phenomena in the governmental sphere, as well as the functioning of the executive power in a presidential system.'

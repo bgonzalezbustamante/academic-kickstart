@@ -7,8 +7,10 @@ slug: nuevos-medios-y-politica-digital-el-caso-de-las-primarias-presidenciales-c
 authors: ["bgonzalezbustamante"]
 doi: ''
 ## publishDate: ''
+
 publication_types:
   - '4'
+
 publication: 'In G. Sibaja (ed.), *Nuevos medios y comunicación política digital* (pp. 227-246). San Jose: Fundación Educativa San Judas Tadeo'
 publication_short: ''
 abstract: 'This chapter explores the use of Twitter in digital campaigns. For this, the Chilean primary presidential elections of June 2013 are used as a case study. A dataset of messages emitted by presidential pre-candidates is analysed. In so doing this, data mining, sentiment analysis and statistical models are used. These techniques allow to obtain a landscape of the network activity, as well as identifying message replication mechanisms, which underlying in the virtual interaction.'

@@ -7,8 +7,10 @@ slug: the-politics-administration-dichotomy
 authors: ["bgonzalezbustamante"]
 doi: ''
 ## publishDate: ''
+
 publication_types:
   - '0'
+
 publication: '*Bulletin of Latin American Research, 39*(5), 582-597'
 publication_short: ''
 abstract: 'This article presents a case study of the Chilean executive, focusing on the civil service in the period after the Pinochet dictatorship and the transition of the country to democracy. It provides synchronic and diachronic analysis of the organisation of the executive, public employment and the civil service. Both the qualitative description and statistical evidence reveal the establishment of a flexible regime of public employment with low levels of stability in senior public management positions.'
@@ -23,10 +25,10 @@ url_slides: ~
 url_source: ~
 url_video: ~
 links:
-  - icon: file-pdf
-    icon_pack: far
-    name: PDF
-    url: 'https://onlinelibrary.wiley.com/doi/10.1111/blar.13044'
+  ## - icon: file-pdf
+    ## icon_pack: far
+    ## name: PDF
+    ## url: 'https://onlinelibrary.wiley.com/doi/10.1111/blar.13044'
   - icon: doi
     icon_pack: ai
     name: DOI

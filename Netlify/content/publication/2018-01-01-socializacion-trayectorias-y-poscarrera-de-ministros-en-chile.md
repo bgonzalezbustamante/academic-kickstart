@@ -7,8 +7,10 @@ slug: socializacion-trayectorias-y-poscarrera-de-ministros-en-chile
 authors: ["bgonzalezbustamante", "lgarridovergara"]
 doi: ''
 ## publishDate: ''
+
 publication_types:
   - '0'
+
 publication: '*Política y Gobierno, XXV*(1), 31-64'
 publication_short: ''
 abstract: 'We analyse the political careers of the ministers in the Chilean cabinets from 1990 to 2010. We consider data from a survey of 386 members of the political elite who held top positions within the Chilean government during the mentioned period. Considering this sample, only 108 cases were appointed as ministers, which represents more than 60 per cent of the appointments for the whole period. We describe the group and present a Qualitative Comparative Analysis (QCA) of their political careers with long-standing trajectories. We also carry out a trajectory and post-ministerial careers analysis in order to find common circulation patterns. One of the main findings of the analysis is that a group of individuals share social circles and specific forms of capital.'

@@ -7,8 +7,10 @@ slug: campanas-digitales-branding-o-participacion-politica
 authors: ["bgonzalezbustamante", "ghenriquez"]
 doi: ''
 ## publishDate: ''
+
 publication_types:
   - '5'
+
 publication: '*Más Poder Local*, 12, 32-39'
 publication_short: ''
 abstract: 'Although television has been traditionally the main channel of mass communication between candidates and electors, social media has emerged as a new channel, becoming a relevant platform where a dynamic flux of information is shared by electors and candidates. The role of social media can be considered from a classical perspective, in other words, as a tool or asset to be managed. Or, it can also be viewed as a new dimension of development that encourages political participation. Considering the Barack Obama’s 2007-2008 presidential campaign established an opening point in the use of new technologies of information and Internet in electoral campaigning throughout the world, the main objective of our work is to evaluate the role of social media in the last Chilean presidential campaign.'

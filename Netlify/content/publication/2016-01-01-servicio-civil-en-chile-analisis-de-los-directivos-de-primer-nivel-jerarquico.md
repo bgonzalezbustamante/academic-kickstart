@@ -7,8 +7,10 @@ slug: servicio-civil-en-chile-analisis-de-los-directivos-de-primer-nivel-jerarqu
 authors: ["bgonzalezbustamante", "aolivares", "pabarca", "emolina"]
 doi: ''
 ## publishDate: ''
+
 publication_types:
   - '1'
+
 publication: '*Revista de Administração Pública, 50*(1), 59-79'
 publication_short: ''
 abstract: 'This article analyses the main factors that affect the election of a high civil servant in the first level of hierarchy in Chile, according to a sociological perspective using the capital species concept. This paper provides a theoretical and descriptive journey on State modernisation and professionalisation of public management in Chile. Later, with a sample of 45 cases regarding high civil servants designated from 2003 to 2013, maximum likelihood logit models were performed to determine the factors that influence the selection of these civil servants. It concludes that political capital is not a factor that gives advantage in the selection.'
@@ -23,10 +25,10 @@ url_slides: ~
 url_source: ~
 url_video: ~
 links:
-  - icon: file-pdf
-    icon_pack: far
-    name: PDF
-    url: 'https://www.scielo.br/j/rap/a/H9hmWfN7NGddmXTB5GMP3Hb/'
+  ## - icon: file-pdf
+    ## icon_pack: far
+    ## name: PDF
+    ## url: 'https://www.scielo.br/j/rap/a/H9hmWfN7NGddmXTB5GMP3Hb/'
   - icon: doi
     icon_pack: ai
     name: DOI

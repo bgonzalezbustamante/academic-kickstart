@@ -7,8 +7,10 @@ slug: evaluando-twitter-como-indicador-de-opinion-publica
 authors: ["bgonzalezbustamante"]
 doi: ''
 ## publishDate: ''
+
 publication_types:
   - '5'
+
 publication: '*Revista SAAP, 9*(1), 119-141'
 publication_short: ''
 abstract: 'This work analyses if Twitter is an effective public opinion indicator. It uses a dataset that gathers up two weeks activity of the main users that interact upon the arrival of Michelle Bachelet last march 2013 for the Chilean presidential election. It presents a general description of the case, sentiment analysis, and social network analysis. It is discovered that most messages were not favourable to the candidate, and it is detected a cluster of users that express messages against her.'

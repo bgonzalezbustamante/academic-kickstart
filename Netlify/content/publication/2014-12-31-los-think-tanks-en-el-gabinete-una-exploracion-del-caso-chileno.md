@@ -7,8 +7,10 @@ slug: los-think-tanks-en-el-gabinete-una-exploracion-del-caso-chileno
 authors: ["aolivares", "bgonzalezbustamante", "jmeneses", "mrodriguez"]
 doi: ''
 ## publishDate: ''
+
 publication_types:
   - '5'
+
 publication: '*Revista de Sociología*, 29, 37-54'
 publication_short: ''
 abstract: 'This paper analyses the main factors that allow access to Michelle Bachelet’s cabinet (2006-2010) and Sebastián Piñera’s cabinet (2010-2014) in Chile, with focus on the influence of participation in think tanks to access the cabinet. We work with a database of 102 cases corresponding to 90 people who were appointed ministers in the mentioned period. We present a description of the group and a Qualitative Comparative Analysis (QCA). The results find that think tank membership is a relevant factor for appointments in political and economic ministries during both governments.'
@@ -23,10 +25,10 @@ url_slides: ~
 url_source: ~
 url_video: ~
 links:
-  - icon: file-pdf
-    icon_pack: far
-    name: PDF
-    url: 'https://revistadesociologia.uchile.cl/index.php/RDS/article/view/36177'
+  ## - icon: file-pdf
+    ## icon_pack: far
+    ## name: PDF
+    ## url: 'https://revistadesociologia.uchile.cl/index.php/RDS/article/view/36177'
   - icon: doi
     icon_pack: ai
     name: DOI

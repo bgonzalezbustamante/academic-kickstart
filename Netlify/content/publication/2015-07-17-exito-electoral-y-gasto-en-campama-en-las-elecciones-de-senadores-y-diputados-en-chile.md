@@ -7,8 +7,10 @@ slug: exito-electoral-y-gasto-en-campana-en-las-elecciones-de-senadores-y-diputa
 authors: ["bgonzalezbustamante"]
 doi: ''
 ## publishDate: ''
+
 publication_types:
   - '5'
+
 publication: '*Políticas Públicas, 8*(1), 21-35'
 publication_short: ''
 abstract: 'Campaign spending is one of the most relevant factors for the electoral success of a political player.  This situation shows how important it is to regulate the relationship between politics and money, in order to avoid problems of representation, entry barriers to the political field,  potential conflicts of interest, and corruption.  This paper offers a descriptive analysis of the election of senators and deputies in Chile 2013, in which a linear relation is observed between campaign spending and votes obtained by every political party involved. This situation confirms the importance of economic capital in the electoral process.'
