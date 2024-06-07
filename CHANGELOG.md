@@ -3,7 +3,7 @@ All notable changes to "Bastián González-Bustamante website code" will be docu
 
 ## [Unreleased]
 
-## [5.1.1] - TBC
+## [5.2.1] - TBC
 ### Added
 - News section (TBC).
 - Recent talks section (TBC).
@@ -11,6 +11,10 @@ All notable changes to "Bastián González-Bustamante website code" will be docu
 - Relevant experience (TBC).
 
 ## [Released]
+
+## [5.1.1] - 2024-06-07
+### Added
+- Processing capacity.
 
 ## [5.0.1] - 2024-06-05
 ### Changed
