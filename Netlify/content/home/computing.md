@@ -12,7 +12,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 50
 
-title: Publication Record
+title: Computing Power
 subtitle:
 
 # Showcase personal skills or business features.
@@ -26,9 +26,9 @@ feature:
 - description: Cooling Down
   icon: amd
   icon_pack: custom
-  name: AMD Ryzen 9 16GB RAM
-- description: Running ToxicBERT
-  icon: raspberry5
+  name: AMD Ryzen 9
+- description: 16GB RAM<br>Running ToxicBERT
+  icon: raspberry
   icon_pack: custom
   name: Raspberry Pi 5 8GB RAM
 
