@@ -12,25 +12,25 @@ headless: true
 # Order that this section appears on the page.
 weight: 50
 
-title: Computing Power
+title: Processing Capacity
 subtitle:
 
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: Running DistilBERT
+- description: 64GB RAM<br>Running DistilBERT
   icon: intel
   icon_pack: custom
-  name: Intel Core i9 64GB RAM
-- description: Cooling Down
-  icon: amd
+  name: Intel Core i9
+- description: 16GB RAM<br>Cooling Down
+  icon: ryzen
   icon_pack: custom
   name: AMD Ryzen 9
-- description: 16GB RAM<br>Running ToxicBERT
+- description: 8GB RAM<br>Running ToxicBERT
   icon: raspberry
   icon_pack: custom
-  name: Raspberry Pi 5 8GB RAM
+  name: Raspberry Pi 5
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
