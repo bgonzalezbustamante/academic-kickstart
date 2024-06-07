@@ -33,10 +33,10 @@
   ## url = "#accomplishments"
   ## weight = 50
 
-[[main]]
-  name = "Computing Power"
-  url = "#computing"
-  weight = 50
+## [[main]]
+  ## name = "Processing Capacity"
+  ## url = "#computing"
+  ## weight = 50
 
 ## [[main]]
   ## name = "Collaborators"
