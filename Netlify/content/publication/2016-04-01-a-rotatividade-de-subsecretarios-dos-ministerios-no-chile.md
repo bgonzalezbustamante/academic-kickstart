@@ -4,7 +4,9 @@ date: '2016-04-01'
 slug: a-rotatividade-de-subsecretarios-dos-ministerios-no-chile
 ## categories: []
 ## tags: []
-authors: ["bgonzalezbustamante", "Olivares, A."]
+authors:
+- "bgonzalezbustamante"
+- "Alejandro Olivares"
 doi: ''
 ## publishDate: ''
 

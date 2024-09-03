@@ -4,7 +4,8 @@ date: '2015-07-17'
 slug: exito-electoral-y-gasto-en-campana-en-las-elecciones-de-senadores-y-diputados-en-chile
 ## categories: []
 ## tags: []
-authors: ["bgonzalezbustamante"]
+authors:
+- "bgonzalezbustamante"
 doi: ''
 ## publishDate: ''
 

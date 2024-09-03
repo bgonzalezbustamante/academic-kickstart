@@ -4,7 +4,8 @@ date: '2023-12-29'
 slug: 2023-12-29-analisis-de-componentes-principales-con-correlaciones-policoricas
 ## categories: []
 ## tags: []
-authors: ["bgonzalezbustamante"]
+authors:
+- "bgonzalezbustamante"
 doi: ''
 ## publishDate: ''
 

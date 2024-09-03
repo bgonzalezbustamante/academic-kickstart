@@ -4,7 +4,9 @@ date: '2018-05-22'
 slug: la-elite-politica-gubernamental-en-chile
 ## categories: []
 ## tags: []
-authors: ["bgonzalezbustamante", "Olivares, A."]
+authors:
+- "bgonzalezbustamante"
+- "Alejandro Olivares"
 doi: ''
 ## publishDate: ''
 

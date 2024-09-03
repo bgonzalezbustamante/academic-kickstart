@@ -4,7 +4,8 @@ date: '2021-12-31'
 slug: sofisticacion-participacion-y-compromiso-politico-en-america-latina
 ## categories: []
 ## tags: []
-authors: ["bgonzalezbustamante"]
+authors:
+- "bgonzalezbustamante"
 doi: ''
 ## publishDate: ''
 

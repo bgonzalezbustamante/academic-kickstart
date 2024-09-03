@@ -4,7 +4,8 @@ date: '2015-10-13'
 slug: ciudadania-politica-voz-y-participacion-ciudadana
 ## categories: []
 ## tags: []
-authors: ["bgonzalezbustamante"]
+authors:
+- "bgonzalezbustamante"
 doi: ''
 ## publishDate: '2019-12-15T20:47:28Z'
 

@@ -4,7 +4,10 @@ date: '2022-07-27'
 slug: cabinet-reshuffles-and-parliamentary-no‑confidence-motions
 ## categories: []
 ## tags: []
-authors: ["Fleming, T. G.", "bgonzalezbustamante", "Schleiter, P."]
+authors:
+- "Thomas G. Fleming"
+- "bgonzalezbustamante"
+- "Petra Schleiter"
 doi: ''
 ## publishDate: ''
 

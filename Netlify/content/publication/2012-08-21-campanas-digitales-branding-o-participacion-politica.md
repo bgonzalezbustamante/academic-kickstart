@@ -4,7 +4,9 @@ date: '2012-08-21'
 slug: campanas-digitales-branding-o-participacion-politica
 ## categories: []
 ## tags: []
-authors: ["bgonzalezbustamante", "Henríquez, G."]
+authors:
+- "bgonzalezbustamante"
+- "Gabriel Henríquez"
 doi: ''
 ## publishDate: ''
 

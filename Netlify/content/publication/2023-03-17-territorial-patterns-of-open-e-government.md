@@ -4,7 +4,9 @@ date: '2023-03-17'
 slug: territorial-patterns-of-open-e-government
 ## categories: []
 ## tags: []
-authors: ["bgonzalezbustamante", "Aguilar, D."]
+authors:
+- "bgonzalezbustamante"
+- "Diego Aguilar"
 doi: ''
 ## publishDate: ''
 

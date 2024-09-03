@@ -4,7 +4,8 @@ date: '2016-07-07'
 slug: elites-politicas-econemicas-e-intelectuales
 ## categories: []
 ## tags: []
-authors: ["bgonzalezbustamante"]
+authors:
+- "bgonzalezbustamante"
 doi: ''
 ## publishDate: ''
 

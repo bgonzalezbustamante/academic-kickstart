@@ -4,7 +4,8 @@ date: '2021-01-01'
 slug: early-government-responses-to-covid-19-in-south-america
 ## categories: []
 ## tags: []
-authors: ["bgonzalezbustamante"]
+authors:
+- "bgonzalezbustamante"
 doi: ''
 ## publishDate: ''
 

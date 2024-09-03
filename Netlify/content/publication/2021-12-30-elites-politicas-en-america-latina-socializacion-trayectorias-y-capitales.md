@@ -4,7 +4,9 @@ date: '2021-12-30'
 slug: elites-politicas-en-america-latina-socializacion-trayectorias-y-capitales
 ## categories: []
 ## tags: []
-authors: ["bgonzalezbustamante", "Luci, F."]
+authors:
+- "bgonzalezbustamante"
+- "Florencia Luci"
 doi: ''
 ## publishDate: ''
 

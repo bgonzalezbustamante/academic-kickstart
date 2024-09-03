@@ -4,7 +4,8 @@ date: '2013-08-09'
 slug: factores-de-acceso-y-permanencia-de-la-elite-politica-gubernamental-en-chile
 ## categories: []
 ## tags: []
-authors: ["bgonzalezbustamante"]
+authors:
+- "bgonzalezbustamante"
 doi: ''
 ## publishDate: ''
 

@@ -4,7 +4,10 @@ date: '2019-01-01'
 slug: la-literatura-sobre-gobierno-abierto-en-espanol
 ## categories: []
 ## tags: []
-authors: ["Barría, D.", "bgonzalezbustamante", "Cisternas, C."]
+authors:
+- "Diego Barría"
+- "bgonzalezbustamante"
+- "Carla Cisternas"
 doi: ''
 ## publishDate: ''
 

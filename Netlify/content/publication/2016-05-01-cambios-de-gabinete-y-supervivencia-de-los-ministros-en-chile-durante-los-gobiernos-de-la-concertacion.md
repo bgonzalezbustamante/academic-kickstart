@@ -4,7 +4,9 @@ date: '2016-05-01'
 slug: cambios-de-gabinete-y-supervivencia-de-los-ministros-en-chile-durante-los-gobiernos-de-la-concertacion
 ## categories: []
 ## tags: []
-authors: ["bgonzalezbustamante", "Olivares, A."]
+authors:
+- "bgonzalezbustamante"
+- "Alejandro Olivares"
 doi: ''
 ## publishDate: ''
 

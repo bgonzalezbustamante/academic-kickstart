@@ -4,7 +4,9 @@ date: '2018-08-15'
 slug: agenda-politica-periodismo-y-medios-digitales-en-chile
 ## categories: []
 ## tags: []
-authors: ["Del Valle, N.", "bgonzalezbustamante"]
+authors:
+- "Nicolás Del Valle"
+- "bgonzalezbustamante"
 doi: ''
 ## publishDate: ''
 

@@ -4,7 +4,8 @@ date: '2018-04-12'
 slug: internet-uso-de-redes-sociales-digitales-y-participacion-en-el-cono-sur
 ## categories: []
 ## tags: []
-authors: ["bgonzalezbustamante"]
+authors:
+- "bgonzalezbustamante"
 doi: ''
 ## publishDate: ''
 

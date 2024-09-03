@@ -1,10 +1,13 @@
 ---
 title: 'Altos directivos públicos: Un nuevo conjunto de datos de miembros del servicio civil chileno'
 date: '2020-12-01'
-slug: senior-public-managers-a-novel-dataset-on-members-of-the-chilean-civil-service
+slug: altos-directivos-publicos-un-nuevo-conjunto-de-datos-de-miembros-del-servicio-civil-chileno
 ## categories: []
 ## tags: []
-authors: ["bgonzalezbustamante", "Astete, M.", "Orvenes, B."]
+authors:
+- "bgonzalezbustamante"
+- "Matías Astete"
+- "Berenice Orvenes"
 doi: ''
 ## publishDate: ''
 

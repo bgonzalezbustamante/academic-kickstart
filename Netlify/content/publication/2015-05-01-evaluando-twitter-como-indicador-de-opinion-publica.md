@@ -4,7 +4,8 @@ date: '2015-05-01'
 slug: evaluando-twitter-como-indicador-de-opinion-publica
 ## categories: []
 ## tags: []
-authors: ["bgonzalezbustamante"]
+authors:
+- "bgonzalezbustamante"
 doi: ''
 ## publishDate: ''
 

@@ -4,7 +4,8 @@ date: '2023-11-04'
 slug: ministerial-stability-during-presidential-approval-crises
 ## categories: []
 ## tags: []
-authors: ["bgonzalezbustamante"]
+authors:
+- "bgonzalezbustamante"
 doi: ''
 ## publishDate: ''
 

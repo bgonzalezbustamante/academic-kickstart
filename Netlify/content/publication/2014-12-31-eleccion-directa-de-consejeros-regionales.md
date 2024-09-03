@@ -4,7 +4,8 @@ date: '2014-12-31'
 slug: eleccion-directa-de-consejeros-regionales
 ## categories: []
 ## tags: []
-authors: ["bgonzalezbustamante"]
+authors:
+- "bgonzalezbustamante"
 doi: ''
 ## publishDate: ''
 

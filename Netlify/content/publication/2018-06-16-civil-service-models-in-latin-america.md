@@ -4,7 +4,8 @@ date: '2018-06-16'
 slug: civil-service-models-in-latin-america
 ## categories: []
 ## tags: []
-authors: ["bgonzalezbustamante"]
+authors:
+- "bgonzalezbustamante"
 doi: ''
 ## publishDate: ''
 

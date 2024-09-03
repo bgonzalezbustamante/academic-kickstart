@@ -4,7 +4,8 @@ date: '2014-05-02'
 slug: activismo-digital-redes-sociales-e-intermediacion
 ## categories: []
 ## tags: []
-authors: ["bgonzalezbustamante"]
+authors:
+- "bgonzalezbustamante"
 doi: ''
 ## publishDate: ''
 

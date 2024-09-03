@@ -4,7 +4,8 @@ date: '2022-12-30'
 slug: metodos-cuantitativos-para-estudiar-a-las-elites
 ## categories: []
 ## tags: []
-authors: ["bgonzalezbustamante"]
+authors:
+- "bgonzalezbustamante"
 doi: ''
 ## publishDate: ''
 

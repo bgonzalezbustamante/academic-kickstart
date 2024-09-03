@@ -4,7 +4,11 @@ date: '2016-01-01'
 slug: servicio-civil-en-chile-analisis-de-los-directivos-de-primer-nivel-jerarquico
 ## categories: []
 ## tags: []
-authors: ["bgonzalezbustamante", "Olivares, A.", "Abarca, P.", "Molina, E."]
+authors:
+- "bgonzalezbustamante"
+- "Alejandro Olivares"
+- "Pedro Abarca"
+- "Esteban Molina"
 doi: ''
 ## publishDate: ''
 

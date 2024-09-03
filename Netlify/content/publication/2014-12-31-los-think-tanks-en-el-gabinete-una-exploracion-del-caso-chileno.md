@@ -4,7 +4,11 @@ date: '2014-12-31'
 slug: los-think-tanks-en-el-gabinete-una-exploracion-del-caso-chileno
 ## categories: []
 ## tags: []
-authors: ["Olivares, A.", "bgonzalezbustamante", "Meneses, J.", "Rodríguez, M."]
+authors:
+- "Alejandro Olivares"
+- "bgonzalezbustamante"
+- "Javiera Meneses"
+- "Matías Rodríguez"
 doi: ''
 ## publishDate: ''
 

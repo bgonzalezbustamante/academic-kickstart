@@ -4,7 +4,10 @@ date: '2017-04-01'
 slug: democracia-electronica-y-participacion-digital
 ## categories: []
 ## tags: []
-authors: ["Barría, D.", "bgonzalezbustamante", "Araya, E."]
+authors:
+- "Diego Barría"
+- "bgonzalezbustamante"
+- "Eduardo Araya"
 doi: ''
 ## publishDate: ''
 

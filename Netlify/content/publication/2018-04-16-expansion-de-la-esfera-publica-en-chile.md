@@ -4,7 +4,9 @@ date: '2018-04-16'
 slug: expansion-de-la-esfera-publica-en-chile
 ## categories: []
 ## tags: []
-authors: ["bgonzalezbustamante", "Barría, D."]
+authors:
+- "bgonzalezbustamante"
+- "Diego Barría"
 doi: ''
 ## publishDate: ''
 

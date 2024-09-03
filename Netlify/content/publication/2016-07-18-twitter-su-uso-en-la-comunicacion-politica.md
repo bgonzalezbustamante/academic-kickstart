@@ -4,7 +4,8 @@ date: '2016-07-18'
 slug: twitter-su-uso-en-la-comunicacion-politica
 ## categories: []
 ## tags: []
-authors: ["bgonzalezbustamante"]
+authors:
+- "bgonzalezbustamante"
 doi: ''
 ## publishDate: ''
 

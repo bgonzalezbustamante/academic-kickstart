@@ -4,7 +4,9 @@ date: '2016-07-18'
 slug: campana-viral
 ## categories: []
 ## tags: []
-authors: ["bgonzalezbustamante", "Sazo, D."]
+authors:
+- "bgonzalezbustamante"
+- "Diego Sazo"
 doi: ''
 ## publishDate: ''
 

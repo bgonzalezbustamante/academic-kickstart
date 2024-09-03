@@ -4,7 +4,8 @@ date: '2014-10-09'
 slug: nuevos-medios-y-politica-digital-el-caso-de-las-primarias-presidenciales-chilenas
 ## categories: []
 ## tags: []
-authors: ["bgonzalezbustamante"]
+authors:
+- "bgonzalezbustamante"
 doi: ''
 ## publishDate: ''
 

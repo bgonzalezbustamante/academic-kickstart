@@ -4,7 +4,11 @@ date: '2021-11-01'
 slug: motivacion-de-servicio-publico-entre-funcionarios-publicos-chilenos
 ## categories: []
 ## tags: []
-authors: ["Cuevas, C.", "bgonzalezbustamante", "Calderón-Orellana, M.", "Barría, D."]
+authors:
+- "Carolina Cuevas"
+- "bgonzalezbustamante"
+- "Magdalena Calderón-Orellana"
+- "Diego Barría"
 doi: ''
 ## publishDate: ''
 

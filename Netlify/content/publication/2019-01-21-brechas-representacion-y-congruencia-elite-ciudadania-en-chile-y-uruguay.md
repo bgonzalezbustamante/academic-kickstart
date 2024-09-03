@@ -4,7 +4,8 @@ date: '2019-01-21'
 slug: brechas-representacion-y-congruencia-elite-ciudadania-en-chile-y-uruguay
 ## categories: []
 ## tags: []
-authors: ["bgonzalezbustamante"]
+authors:
+- "bgonzalezbustamante"
 doi: ''
 ## publishDate: ''
 

@@ -4,7 +4,9 @@ date: '2016-07-19'
 slug: elites-politicas-en-el-poder-legislativo-chileno-la-camara-de-diputados
 ## categories: []
 ## tags: []
-authors: ["bgonzalezbustamante", "Cisternas, C."]
+authors:
+- "bgonzalezbustamante"
+- "Carla Cisternas"
 doi: ''
 ## publishDate: ''
 

@@ -4,7 +4,8 @@ date: '2013-09-01'
 slug: el-estudio-de-las-elites-en-chile-aproximaciones-conceptuales-y-metodologicas
 ## categories: []
 ## tags: []
-authors: ["bgonzalezbustamante"]
+authors:
+- "bgonzalezbustamante"
 doi: ''
 ## publishDate: ''
 

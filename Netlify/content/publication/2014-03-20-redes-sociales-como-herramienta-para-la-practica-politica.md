@@ -4,7 +4,8 @@ date: '2014-03-20'
 slug: redes-sociales-como-herramienta-para-la-practica-politica
 ## categories: []
 ## tags: []
-authors: ["bgonzalezbustamante"]
+authors:
+- "bgonzalezbustamante"
 doi: ''
 ## publishDate: ''
 

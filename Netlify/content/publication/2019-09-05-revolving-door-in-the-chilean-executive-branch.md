@@ -4,7 +4,10 @@ date: '2019-09-05'
 slug: revolving-door-in-the-chilean-executive-branch
 ## categories: []
 ## tags: []
-authors: ["Maillet, A.", "bgonzalezbustamante", "Olivares, A."]
+authors:
+- "Antoine Maillet"
+- "bgonzalezbustamante"
+- "Alejandro Olivares"
 doi: ''
 ## publishDate: ''
 
