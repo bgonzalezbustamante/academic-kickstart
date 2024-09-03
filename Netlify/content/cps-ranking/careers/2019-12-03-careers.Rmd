@@ -8,6 +8,6 @@ authors: ["bgonzalezbustamante"]
 summary: 'Figure plotted on December 3, 2019'
 ---
 
-**This project remains active, however, it was transferred to the [Training Data Lab](https://training-datalab.com/projects/cps-ranking) site in June 2023.**
+**This project remains active, however, it was transferred to the [Training Data Lab](https://training-datalab.com/cps-ranking) site in June 2023.**
 
 ![](Careers-Dec-2019.png){ width=90% }

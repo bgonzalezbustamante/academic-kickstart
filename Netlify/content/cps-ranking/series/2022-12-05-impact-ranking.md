@@ -8,7 +8,7 @@ authors: ["bgonzalezbustamante"]
 summary: 'Data collected on December 5, 2022'
 ---
 
-**This project remains active, however, it was transferred to the [Training Data Lab](https://training-datalab.com/projects/cps-ranking) site in June 2023.**
+**This project remains active, however, it was transferred to the [Training Data Lab](https://training-datalab.com/cps-ranking) site in June 2023.**
 
 | Ranking | Name                        | ID             | Affiliation    |  Cites | H-Index | Quartile |
 |:-------:|-----------------------------|----------------|----------------|:------:|:--------:|:--------:|
