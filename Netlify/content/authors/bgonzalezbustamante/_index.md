@@ -2,7 +2,7 @@
 # Display name
 title: Bastián González-Bustamante
 ## weight: 1
-## shortname: Bastián González-Bustamante
+shortname: Bastián González-Bustamante
 
 # Full Name (for SEO)
 first_name: Bastián
