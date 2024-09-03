@@ -22,7 +22,7 @@ publication_types:
 
 publication: '*Iberoamericana. América Latina - España - Portugal, XX*(74), 229-259'
 publication_short: ''
-abstract: 'This article analyses some theoretical difficulties briefly and offers a study object overview and the recent lines of research in the framework of the study of governmental political elites in Latin American. Subsequently, some methodological challenges and brief conclusions are presented.'
+abstract: 'This section analyses new challenges, analytical approaches and methodologies for the study of different political elites. Based on the existing literature and a review of Latin American cases, these articles reflect on the different research perspectives considering governmental, legislative and ministerial elites as dependent variables or phenomena to be explained.'
 summary: ''
 featured: no
 url_pdf: ~
