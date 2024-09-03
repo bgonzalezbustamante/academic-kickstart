@@ -5,6 +5,7 @@ slug: power-hierarchies-and-visibility-in-the-news
 ## categories: []
 ## tags: []
 authors: ["Orchard, X.", "bgonzalezbustamante"]
+pager: true
 doi: ''
 ## publishDate: ''
 
