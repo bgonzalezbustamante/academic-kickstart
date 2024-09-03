@@ -2,7 +2,7 @@
 # Display name
 title: Bastián González-Bustamante
 ## weight: 1
-shortname: González-Bustamante, B.
+## shortname: González-Bustamante, B.
 
 # Full Name (for SEO)
 first_name: Bastián
@@ -102,7 +102,9 @@ user_groups:
 - Researchers
 ---
 
-I am a post-doctoral researcher in Computational Social Science at the Institute of Public Administration at the [Faculty of Governance and Global Affairs at Leiden University, Netherlands](https://www.universiteitleiden.nl/en/governance-and-global-affairs). I hold a [DPhil (PhD) in Politics from the University of Oxford, United Kingdom](https://www.politics.ox.ac.uk/). Before my DPhil, I earned an MA (1st) in Political Science and a BA (2:1) in Public Administration, both from the [Universidad de Chile](https://www.uchile.cl/). In addition, in Chile, I am a lecturer in the School of Public Administration at the [Universidad Diego Portales](https://www.udp.cl/) and a research associate at the [Training Data Lab](https://training-datalab.com/), a research group focused on data mining, econometric modelling and AI machine learning in social sciences.
+I am a post-doctoral researcher in Computational Social Science at the Institute of Public Administration at the [Faculty of Governance and Global Affairs at Leiden University, Netherlands](https://www.universiteitleiden.nl/en/governance-and-global-affairs). I hold a [DPhil (PhD) in Politics from the University of Oxford, United Kingdom](https://www.politics.ox.ac.uk/). Before my DPhil, I earned an MA (1st) in Political Science and a BA (2:1) in Public Administration, both from the [Universidad de Chile](https://www.uchile.cl/). 
+
+In addition, in Chile, I am a lecturer in the School of Public Administration at the [Universidad Diego Portales](https://www.udp.cl/) and a research associate at the [Training Data Lab](https://training-datalab.com/), a research group focused on data mining, econometric modelling and AI machine learning in social sciences.
 
 My research interests lie in the intersection of comparative politics and government, focusing mainly on cabinets, political regimes and civil services. Methodologically, my interests rely on the application of quantitative text analysis, machine learning methods and causal inference strategies in the comparative politics field. In the last  years, my work has been published in *The International Journal of Press/Politics*, *World Development*, *Government and Opposition*, *The British Journal of Politics and International Relations*, *Bulletin of Latin American Research* and elsewhere.
 
