@@ -50,7 +50,7 @@ org_name = "Leiden University"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
 ## description = "Bastián González-Bustamante. DPhil (PhD) Researcher in the Department of Politics and International Relations and St Hilda's College at the University of Oxford, United Kingdom. Instructor Professor in the Management and Public Policies Department at the Faculty of Administration and Economics at the Universidad de Santiago de Chile (USACH)."
-description = "Bastián González-Bustamante. Post-doctoral Researcher in Computational Social Science at the Institute of Security and Global Affairs (ISGA) at the Faculty of Governance and Global Affairs at Leiden University, Netherlands."
+description = "Bastián González-Bustamante. Post-doctoral Researcher in Computational Social Science at the Faculty of Governance and Global Affairs at Leiden University, Netherlands."
 
 ############################
 ## Site Features
@@ -169,7 +169,7 @@ sharing = false
 copyright_license = {enable = false, allow_derivatives = false, share_alike = true, allow_commercial = false, notice = "This work is licensed under {license}"}
 
 # Link authors to their profile page? (true/false)
-link_authors = false
+link_authors = true
 
 # Abstract length (characters) in the Compact and Portfolio Card list views. Also, see `summaryLength` in `config.toml`.
 abstract_length = 135
