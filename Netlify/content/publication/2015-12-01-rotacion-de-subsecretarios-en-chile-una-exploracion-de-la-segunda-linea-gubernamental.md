@@ -4,7 +4,7 @@ date: '2015-12-01'
 slug: rotacion-de-subsecretarios-en-chile-una-exploracion-de-la-segunda-linea-gubernamental
 ## categories: []
 ## tags: []
-authors: ["bgonzalezbustamante", "aolivares"]
+authors: ["bgonzalezbustamante", "Olivares, A."]
 doi: ''
 ## publishDate: ''
 

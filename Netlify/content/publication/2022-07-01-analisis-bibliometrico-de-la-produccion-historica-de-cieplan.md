@@ -4,7 +4,7 @@ date: '2022-07-01'
 slug: analisis-bibliometrico-de-la-produccion-historica-de-cieplan
 ## categories: []
 ## tags: []
-authors: ["ccisternas", "bgonzalezbustamante"]
+authors: ["Cisternas, C.", "bgonzalezbustamante"]
 doi: ''
 ## publishDate: ''
 

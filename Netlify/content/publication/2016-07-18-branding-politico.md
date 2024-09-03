@@ -4,7 +4,7 @@ date: '2016-07-18'
 slug: branding-politico
 ## categories: []
 ## tags: []
-authors: ["bgonzalezbustamante", "dsazo"]
+authors: ["bgonzalezbustamante", "Sazo, D."]
 doi: ''
 ## publishDate: ''
 

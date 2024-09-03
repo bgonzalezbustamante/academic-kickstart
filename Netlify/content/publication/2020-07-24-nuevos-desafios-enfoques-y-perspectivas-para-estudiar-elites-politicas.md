@@ -4,7 +4,7 @@ date: '2020-07-24'
 slug: nuevos-desafios-enfoques-y-perspectivas-para-estudiar-elites-politicas
 ## categories: []
 ## tags: []
-authors: ["aolivares", "bgonzalezbustamante", "storo", "jcarellano", "ayanesrojas", "jzuritatapia", "avlopes", "crobledoguzman", "jbcanavesisosa"]
+authors: ["Olivares, A.", "bgonzalezbustamante", "Toro, S.", "Arellano, J. C.", "Yanes-Rojas, A.", "Zurita-Tapia, J.", "Vitoria Lopes, A.", "Robleado Guzmán, C.", "Canavesi Sosa, J. B."]
 doi: ''
 ## publishDate: ''
 

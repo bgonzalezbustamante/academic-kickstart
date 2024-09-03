@@ -4,7 +4,7 @@ date: '2020-12-01'
 slug: senior-public-managers-a-novel-dataset-on-members-of-the-chilean-civil-service
 ## categories: []
 ## tags: []
-authors: ["bgonzalezbustamante", "mastete", "borvenes"]
+authors: ["bgonzalezbustamante", "Astete, M.", "Orvenes, B."]
 doi: ''
 ## publishDate: ''
 

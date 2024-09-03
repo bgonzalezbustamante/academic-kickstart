@@ -4,7 +4,7 @@ date: '2013-01-02'
 slug: chile-la-campana-digital
 ## categories: []
 ## tags: []
-authors: ["bgonzalezbustamante", "ghenriquez"]
+authors: ["bgonzalezbustamante", "Henríquez, G."]
 doi: ''
 ## publishDate: ''
 

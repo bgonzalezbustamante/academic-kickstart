@@ -4,7 +4,7 @@ date: '2016-03-01'
 slug: pluralismo-en-los-medios-digitales-escritos-en-chile
 ## categories: []
 ## tags: []
-authors: ["bgonzalezbustamante", "dsoto"]
+authors: ["bgonzalezbustamante", "Soto, D."]
 doi: ''
 ## publishDate: ''
 

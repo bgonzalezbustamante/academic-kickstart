@@ -4,7 +4,7 @@ date: '2018-01-01'
 slug: socializacion-trayectorias-y-poscarrera-de-ministros-en-chile
 ## categories: []
 ## tags: []
-authors: ["bgonzalezbustamante", "lgarridovergara"]
+authors: ["bgonzalezbustamante", "Garrido-Vergara, L."]
 doi: ''
 ## publishDate: ''
 

@@ -4,7 +4,7 @@ date: '2016-12-01'
 slug: puerta-giratoria-análisis-de-la-circulacion-publico-privada-en-chile
 ## categories: []
 ## tags: []
-authors: ["amaillet", "bgonzalezbustamante", "aolivares"]
+authors: ["Maillet, A.", "bgonzalezbustamante", "Olivares, A."]
 doi: ''
 ## publishDate: '2019-12-15T23:07:52Z'
 
