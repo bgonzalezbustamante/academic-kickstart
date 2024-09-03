@@ -1,16 +1,22 @@
 # Changelog
-All notable changes to "Bastián González-Bustamante website code" will be documented in this file. Automated updates: CV, publications, data and code section, Xaringan presentations, collaborators' profiles, validation of digitally signed documents, record of publications indicators and processing capacity.
+All notable changes to "Bastián González-Bustamante website code" will be documented in this file. Automated updates: CV, publications, data and projects section, Xaringan presentations, validation of digitally signed documents and record of publications.
 
 ## [Unreleased]
 
-## [5.2.1] - TBC
-### Added
-- News section (TBC).
-- Recent talks section (TBC).
-- Folders standardisation (TBC).
-- Relevant experience (TBC).
-
 ## [Released]
+
+## [5.1.3] - 2024-09-03
+### Changed
+- Badges on GitHub repository.
+- Minor corrections.
+### Removed
+- Coauthors' profiles.
+- Processing capacity.
+
+## [5.1.2] - 2024-09-02
+### Deprecated
+- Coauthors' profiles.
+- Processing capacity.
 
 ## [5.1.1] - 2024-06-07
 ### Added
@@ -292,7 +298,7 @@ All notable changes to "Bastián González-Bustamante website code" will be docu
 ### Changed
 - Update to the Academic for Hugo v4.8.0 on R v3.6.1 and Hugo v0.74.3.
 - Downgrading blogdown::install_hugo(version = "0.74.3", force = TRUE).
-- Update of collaborators' profiles.
+- Update of coauthors' profiles.
 - Minor corrections.
 
 ## [2.14.7] - 2020-12-16
@@ -311,7 +317,7 @@ All notable changes to "Bastián González-Bustamante website code" will be docu
 - Updated CPS-Ranking.
 ### Changed
 - Minor corrections.
-- Update of collaborators' profiles.
+- Update of coauthors' profiles.
 - Update of academic service.
 - Update of awards.
 - Update of publications.
@@ -328,7 +334,7 @@ All notable changes to "Bastián González-Bustamante website code" will be docu
 - Automated CV updates.
 - License CC BY 4.0 on GitHub repository.
 ### Changed
-- Update of badges on GitHub repository.
+- Badges on GitHub repository.
 
 ## [2.11.5] - 2020-07-31
 ### Changed
@@ -347,7 +353,7 @@ All notable changes to "Bastián González-Bustamante website code" will be docu
 - Featured publications instead of recent ones.
 - Update of publications.
 - Minor corrections.
-- Update of collaborators' profiles.
+- Update of coauthors' profiles.
 
 ## [2.10.3] - 2020-05-02
 ### Added
@@ -389,7 +395,7 @@ All notable changes to "Bastián González-Bustamante website code" will be docu
 ### Changed
 - Minor corrections.
 ### Removed
-- Collaborators section.
+- Coauthors section.
 - Skills section.
 
 ## [2.4.2] 2020-02-09
@@ -400,14 +406,14 @@ All notable changes to "Bastián González-Bustamante website code" will be docu
 ### Changed
 - Revision of upgrade versioning.
 ### Deprecated
-- Collaborators section.
+- Coauthors section.
 
 ## [2.4.0] - 2020-01-14
 ### Added
-- CPS-Ranking badges in SVG on GitHub repository.
+- Badges in SVG on GitHub repository.
 ### Changed
 - Minor corrections.
-- Update of collaborators' profiles.
+- Update of coauthors' profiles.
 - Update of researchers to be added CPS-Ranking.
 
 ## [2.3.0] - 2020-01-05
@@ -424,7 +430,7 @@ All notable changes to "Bastián González-Bustamante website code" will be docu
 ## [2.2.0] - 2020-01-04
 ### Added
 - CPS-Ranking section.
-- Collaborators section.
+- Coauthors section.
 - CV in PDF.
 ### Changed
 - Update to the Academic for Hugo v4.6.3.
