@@ -18,7 +18,7 @@ view: 1
 
 ---
 
-**This project remains active, however, it was transferred to the [Training Data Lab](https://training-datalab.com/projects/cps-ranking) site in June 2023.**
+**This project remains active, however, it was transferred to the [Training Data Lab](https://training-datalab.com/cps-ranking) site in June 2023.**
 
 This ranking is presented from the highest to the lowest H-Index. The number of cites has been used as a second criterion in case of a tie in H-Index.
 
