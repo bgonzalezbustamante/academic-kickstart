@@ -19,15 +19,15 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: LLMs in social sciences
+- description: <a href="https://textclass-benchmark.com/" target="_blank">LLMs in social sciences</a>
   icon: textclass
   icon_pack: custom
   name: TextClass Benchmark
-- description: Observatory of the Executive Power
+- description: <a href="https://obpex.com/" target="_blank">Observatory of the Executive Power</a>
   icon: obpex
   icon_pack: custom
   name: OBPEX
-- description: Conference presentations
+- description: <a href="https://bgonzalezbustamante.github.io/Public-Presentations" target="_blank">Presentations repository</a>
   icon: programming
   icon_pack: custom
   name: Public-Presentations
