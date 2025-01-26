@@ -5,10 +5,22 @@ All notable changes to "Bastián González-Bustamante website code" will be docu
 
 ## [Released]
 
+## [5.2.3] - 2025-01-26
+### Added
+- Projects and presentations.
+### Changed
+- Minor corrections.
+### Removed
+- Data and code section.
+- Record of publications.
+
 ## [5.1.3] - 2024-09-03
 ### Changed
 - Badges on GitHub repository.
 - Minor corrections.
+### Deprecated
+- Data and code section.
+- Record of publications.
 ### Removed
 - Coauthors' profiles.
 - Processing capacity.
