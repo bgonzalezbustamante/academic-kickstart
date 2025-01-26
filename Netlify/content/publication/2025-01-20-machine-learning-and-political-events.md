@@ -35,10 +35,10 @@ links:
     icon_pack: ai
     name: DOI
     url: 'https://doi.org/10.1177/08944393251315917'
-  ## - icon: arxiv
-    ## icon_pack: ai
-    ## name: Preprint
-    ## url: ''
+  - icon: arxiv
+    icon_pack: ai
+    name: Preprint Upon Request
+    url: 'mailto:b.a.gonzalez.bustamante@fgga.leidenuniv.nl'
   ## - icon: osf
     ## icon_pack: ai
     ## name: OSF-Project
