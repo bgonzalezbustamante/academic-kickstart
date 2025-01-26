@@ -27,7 +27,7 @@ organizations:
   url: "https://www.universiteitleiden.nl/en"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Post-doctoral Researcher in Computational Social Science and a lecturer in Governance and Development at the Institute of Public Administration at the Faculty of Governance and Global Affairs at Leiden University, Netherlands. Lecturer at the School of Public Administration at Universidad Diego Portales and Research Associate in Training Data Lab, Chile.
+bio: Post-doctoral Researcher in Computational Social Science and a lecturer in Governance and Development at the Institute of Public Administration at the Faculty of Governance and Global Affairs at Leiden University, Netherlands. Lecturer in the School of Public Administration at the Universidad Diego Portales, Chile.
 
 interests:
 - Comparative politics
@@ -102,10 +102,10 @@ user_groups:
 - Researchers
 ---
 
-I am a post-doctoral researcher in Computational Social Science at the Institute of Public Administration at the [Faculty of Governance and Global Affairs at Leiden University, Netherlands](https://www.universiteitleiden.nl/en/governance-and-global-affairs). I hold a [DPhil (PhD) in Politics from the University of Oxford, United Kingdom](https://www.politics.ox.ac.uk/). Before my DPhil, I earned an MA (1st) in Political Science and a BA (2:1) in Public Administration, both from the [Universidad de Chile](https://www.uchile.cl/). 
+I am a post-doctoral researcher in Computational Social Science at the Institute of Public Administration, [Faculty of Governance and Global Affairs, Leiden University, the Netherlands](https://www.universiteitleiden.nl/en/governance-and-global-affairs). I hold a [DPhil (PhD) in Politics from the University of Oxford, UK](https://www.politics.ox.ac.uk/), and prior to that, I completed an MA (1st) in Political Science and a BA (2:1) in Government at the [Universidad de Chile](https://www.uchile.cl/).
 
-In addition, in Chile, I am a lecturer in the School of Public Administration at the [Universidad Diego Portales](https://www.udp.cl/) and a research associate at the [Training Data Lab](https://training-datalab.com/), a research group focused on data mining, econometric modelling and AI machine learning in social sciences.
+In Chile, I am also a lecturer in the School of Public Administration at the [Universidad Diego Portales](https://www.udp.cl/) and serve as a research associate at the [Training Data Lab](https://training-datalab.com/), a group specialising in data mining, econometric modelling, and AI-driven machine learning in the social sciences.
 
-My research interests lie in the intersection of comparative politics and government, focusing mainly on cabinets, political regimes and civil services. Methodologically, my interests rely on the application of quantitative text analysis, machine learning methods and causal inference strategies in the comparative politics field. In the last  years, my work has been published in *The International Journal of Press/Politics*, *World Development*, *Government and Opposition*, *The British Journal of Politics and International Relations*, *Bulletin of Latin American Research* and elsewhere.
+My research, which initially focused on comparative politics and government, particularly cabinets, political regimes and civil services, has now expanded to explore the emerging field of digital governance and other policy domains. My work has appeared in *Social Science Computer Review*, *World Development*, *Government and Opposition*, *The International Journal of Press/Politics*, *The British Journal of Politics and International Relations* and elsewhere.
 
-During my post-doctorate, I will be working on a research project funded by the Dutch Research Council (NWO) related to automated text analysis of investment data to study the effects of governance on sustainable investments. Specifically, I will employ Natural Language Processing (NLP) and text-as-data techniques to find patterns and topics within big text data. In addition, I will teach the Institutions of Governance and Development course at Leiden University College.
+During my current postdoctoral appointment, I am mainly contributing to an NWO-funded project on automated text analysis of investment data, investigating how governance structures shape sustainable investments. Specifically, I use Natural Language Processing (NLP) and text-as-data methods to identify patterns and topics within large-scale textual corpora. In addition, I teach the Institutions of Governance and Development course at Leiden University College.
