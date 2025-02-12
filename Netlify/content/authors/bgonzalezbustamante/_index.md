@@ -27,15 +27,19 @@ organizations:
   url: "https://www.universiteitleiden.nl/en"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Post-doctoral Researcher in Computational Social Science and a lecturer in Governance and Development at the Institute of Public Administration at the Faculty of Governance and Global Affairs at Leiden University, Netherlands. Lecturer in the School of Public Administration at the Universidad Diego Portales, Chile.
+bio: Post-doctoral Researcher in Computational Social Science and a lecturer in Governance and Development at the Institute of Public Administration at the Faculty of Governance and Global Affairs at Leiden University, Netherlands. 
+
+## Lecturer in the School of Public Administration at the Universidad Diego Portales, Chile.
 
 interests:
 - Comparative politics
+- Comparative government
+- Digital governance
 - Machine learning
 - Artificial intelligence
 - Quantitative methods
-- Ministerial turnover
-- Elites and civil service
+## - Ministerial turnover
+## - Elites and civil service
 
 education:
   courses:
@@ -104,8 +108,6 @@ user_groups:
 
 I am a post-doctoral researcher in Computational Social Science at the Institute of Public Administration, [Faculty of Governance and Global Affairs, Leiden University, the Netherlands](https://www.universiteitleiden.nl/en/governance-and-global-affairs). I hold a [DPhil (PhD) in Politics from the University of Oxford, UK](https://www.politics.ox.ac.uk/), and prior to that, I completed an MA (1st) in Political Science and a BA (2:1) in Government at the [Universidad de Chile](https://www.uchile.cl/).
 
-In Chile, I am also a lecturer in the School of Public Administration at the [Universidad Diego Portales](https://www.udp.cl/) and serve as a research associate at the [Training Data Lab](https://training-datalab.com/), a group specialising in data mining, econometric modelling, and AI-driven machine learning in the social sciences.
-
-My research, which initially focused on comparative politics and government, particularly cabinets, political regimes and civil services, has now expanded to explore the emerging field of digital governance and other policy domains. My work has appeared in *Social Science Computer Review*, *World Development*, *Government and Opposition*, *The International Journal of Press/Politics*, *The British Journal of Politics and International Relations* and elsewhere.
+From an earlier focus on cabinets and civil service, I have developed an active research agenda on how emerging technologies –including AI– shape policymaking and the organisation of bureaucracies. My work has appeared in *Social Science Computer Review*, *World Development*, *Government and Opposition*, *The International Journal of Press/Politics*, *The British Journal of Politics and International Relations* and elsewhere.
 
 During my current postdoctoral appointment, I am mainly contributing to an NWO-funded project on automated text analysis of investment data, investigating how governance structures shape sustainable investments. Specifically, I use Natural Language Processing (NLP) and text-as-data methods to identify patterns and topics within large-scale textual corpora. In addition, I teach the Institutions of Governance and Development course at Leiden University College.
