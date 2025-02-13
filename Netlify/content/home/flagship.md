@@ -27,7 +27,7 @@ feature:
   ## icon: obpex
   ## icon_pack: custom
   ## name: OBPEX
-- description: <a href="https://www.cost.eu/actions/CA22150/" target="_blank">Executive Triangle Research</a>
+- description: <a href="https://www.cost.eu/actions/CA22150/" target="_blank">The Executive Triangle Research</a>
   icon: cost
   icon_pack: custom
   name: CoREx
