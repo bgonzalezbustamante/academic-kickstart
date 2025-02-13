@@ -5,6 +5,10 @@ All notable changes to "Bastián González-Bustamante website code" will be docu
 
 ## [Released]
 
+## [5.2.4] - 2025-02-12
+### Changed
+- Minor corrections.
+
 ## [5.2.3] - 2025-01-26
 ### Added
 - Projects and presentations.
