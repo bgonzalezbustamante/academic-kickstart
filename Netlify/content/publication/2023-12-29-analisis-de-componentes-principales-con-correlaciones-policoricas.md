@@ -1,7 +1,7 @@
 ---
 title: 'Análisis de Componentes Principales con correlaciones policóricas: Aplicación en consumo de medios'
 date: '2023-12-29'
-slug: 2023-12-29-analisis-de-componentes-principales-con-correlaciones-policoricas
+slug: analisis-de-componentes-principales-con-correlaciones-policoricas
 ## categories: []
 ## tags: []
 authors:
