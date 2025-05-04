@@ -23,10 +23,10 @@ feature:
   icon: textclass
   icon_pack: custom
   name: TextClass Benchmark
-- description: <a href="https://obpex.com/" target="_blank">Observatory of the Executive Power</a>
-  icon: obpex
-  icon_pack: custom
-  name: OBPEX
+## - description: <a href="https://obpex.com/" target="_blank">Observatory of the Executive Power</a>
+  ## icon: obpex
+  ## icon_pack: custom
+  ## name: OBPEX
 - description: <a href="https://www.cost.eu/actions/CA22150/" target="_blank">The Executive Triangle Research</a>
   icon: cost
   icon_pack: custom
