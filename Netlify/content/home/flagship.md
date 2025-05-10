@@ -19,18 +19,26 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: <a href="https://textclass-benchmark.com/" target="_blank">LLMs in social sciences</a>
-  icon: textclass
-  icon_pack: custom
-  name: TextClass Benchmark
-## - description: <a href="https://obpex.com/" target="_blank">Observatory of the Executive Power</a>
-  ## icon: obpex
-  ## icon_pack: custom
-  ## name: OBPEX
 - description: <a href="https://www.cost.eu/actions/CA22150/" target="_blank">The Executive Triangle Research</a>
   icon: cost
   icon_pack: custom
   name: CoREx
+- description: <a href="https://obpex.com/" target="_blank">Observatory of the Executive Power</a>
+  icon: obpex
+  icon_pack: custom
+  name: OBPEX
+- description: <a href="https://textclass-benchmark.com/" target="_blank">LLMs in social sciences</a>
+  icon: textclass
+  icon_pack: custom
+  name: TextClass Benchmark
+- description: <a href="https://training-datalab.com/" target="_blank">Research group</a>
+  icon: datalab
+  icon_pack: custom
+  name: Training Data Lab
+- description: <a href="https://scholar.google.co.uk/citations?&user=UknWOrEAAAAJ" target="_blank">H-index 17</a>
+  icon: google-scholar
+  icon_pack: custom
+  name: Google Scholar
 - description: <a href="https://bgonzalezbustamante.github.io/Public-Presentations" target="_blank">Presentations repository</a>
   icon: programming
   icon_pack: custom
