@@ -18,6 +18,11 @@
   url = "#publications"
   weight = 20
 
+[[main]]
+  name = "Preprints"
+  url = "#preprints"
+  weight = 20
+
 ## [[main]]
   ## name = "Experience"
   ## url = "#experience"
@@ -29,7 +34,7 @@
   ## weight = 40
 
 [[main]]
-  name = "Projects and Presentations"
+  name = "Projects and Resources"
   url = "#flagship"
   weight = 50
 
