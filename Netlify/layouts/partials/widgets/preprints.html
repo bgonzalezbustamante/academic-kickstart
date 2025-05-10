@@ -65,22 +65,4 @@
   {{ $i18n = "more_pages" }}
 {{ end }}
 
-
-  <div class="col-12 col-lg-8">
-
-    {{ with $st.Content }}{{ . }}{{ end }}
-
-    {{ range $post := $query }}
-      {{ if eq $st.Params.design.view 1 }}
-        {{ partial "li_list" . }}
-      {{ else if eq $st.Params.design.view 3 }}
-        {{ partial "li_card" . }}
-      {{ else if eq $st.Params.design.view 4 | and (eq $items_type "publication") }}
-        {{ partial "li_citation" . }}
-      {{ else }}
-        {{ partial "li_compact" . }}
-      {{ end }}
-    {{end}}
-
-  </div>
 </div>
