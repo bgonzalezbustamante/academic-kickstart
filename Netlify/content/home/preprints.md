@@ -1,7 +1,7 @@
 ---
 # An instance of the Pages widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: pages_short
+widget: pages
 
 # Activate this widget? true/false
 active: true
