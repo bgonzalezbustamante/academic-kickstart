@@ -11,7 +11,7 @@ doi: ''
 ## publishDate: ''
 
 publication_types:
-  - '6'
+  - '5'
 
 publication: '*Serie Política, Gestión y Políticas Públicas*, 2, 1-26'
 publication_short: ''
