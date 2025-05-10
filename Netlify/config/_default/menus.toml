@@ -21,7 +21,7 @@
 [[main]]
   name = "Preprints"
   url = "#preprints"
-  weight = 20
+  weight = 30
 
 ## [[main]]
   ## name = "Experience"

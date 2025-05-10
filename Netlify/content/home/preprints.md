@@ -1,7 +1,7 @@
 ---
 # An instance of the Pages widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: pages
+widget: preprints
 
 # Activate this widget? true/false
 active: true
@@ -13,7 +13,7 @@ headless: true
 weight: 30
 
 title: Preprints
-## subtitle: '[All Publications >](publication)'
+subtitle: 'Works in progress'
 
 content:
   # Page type to display. E.g. post, talk, publication...

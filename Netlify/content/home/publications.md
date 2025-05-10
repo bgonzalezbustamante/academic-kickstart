@@ -14,6 +14,7 @@ weight: 20
 
 title: Featured Publications
 ## subtitle: '[All Publications >](publication)'
+subtitle: 'Peer-reviewed'
 
 content:
   # Page type to display. E.g. post, talk, publication...
