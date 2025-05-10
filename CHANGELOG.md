@@ -1,9 +1,15 @@
 # Changelog
-All notable changes to "Bastián González-Bustamante website code" will be documented in this file. Automated updates: CV, publications, projects and data section, Xaringan presentations, validation of digitally signed documents and record of publications.
+All notable changes to "Bastián González-Bustamante website code" will be documented in this file. Automated updates: CV, publications, projects and resources section, Xaringan presentations, validation of digitally signed documents and record of publications.
 
 ## [Unreleased]
 
 ## [Released]
+
+## [5.3.4] - 2025-05-10
+### Added
+- Featured preprints.
+### Changed
+- Minor corrections.
 
 ## [5.2.4] - 2025-02-12
 ### Changed
@@ -11,7 +17,7 @@ All notable changes to "Bastián González-Bustamante website code" will be docu
 
 ## [5.2.3] - 2025-01-26
 ### Added
-- Projects and presentations.
+- Projects and resources.
 ### Changed
 - Minor corrections.
 ### Removed
