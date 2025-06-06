@@ -33,13 +33,13 @@ bio: Post-doctoral Researcher in Computational Social Science and a lecturer in 
 
 interests:
 - Comparative politics
-- Comparative government
-- Digital governance
+- Ministerial turnover
+- Elites and civil service
+## - Comparative government
+## - Digital governance
 - Machine learning
 - Artificial intelligence
 - Quantitative methods
-## - Ministerial turnover
-## - Elites and civil service
 
 education:
   courses:
