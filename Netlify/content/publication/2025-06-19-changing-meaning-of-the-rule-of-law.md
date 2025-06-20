@@ -1,6 +1,6 @@
 ---
 title: 'Changing Meaning of the Rule of Law'
-date: '2025-05-28'
+date: '2025-06-19'
 slug: changing-meaning-of-the-rule-of-law
 ## categories: []
 ## tags: []
@@ -31,10 +31,10 @@ links:
     ## icon_pack: far
     ## name: PDF
     ## url: ''
-  ## - icon: doi
-    ## icon_pack: ai
-    ## name: DOI
-    ## url: ''
+  - icon: doi
+    icon_pack: ai
+    name: DOI
+    url: 'https://doi.org/10.1007/s10506-025-09468-4'
   - icon: arxiv
     icon_pack: ai
     name: Preprint
