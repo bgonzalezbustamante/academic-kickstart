@@ -5,6 +5,10 @@ All notable changes to "Bastián González-Bustamante website code" will be docu
 
 ## [Released]
 
+## [5.3.6] - 2025-06-20
+### Changed
+- Update of social icons.
+
 ## [5.3.5] - 2025-06-06
 ### Changed
 - Minor corrections.

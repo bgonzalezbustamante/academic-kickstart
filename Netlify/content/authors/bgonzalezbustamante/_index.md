@@ -27,7 +27,7 @@ organizations:
   url: "https://www.universiteitleiden.nl/en"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Post-doctoral Researcher in Computational Social Science and a lecturer in Governance and Development at the Institute of Public Administration at the Faculty of Governance and Global Affairs at Leiden University, Netherlands. 
+bio: Post-doctoral Researcher in Computational Social Science and a lecturer in Governance and Development at the Institute of Public Administration, Faculty of Governance and Global Affairs, Leiden University, Netherlands. 
 
 ## Lecturer in the School of Public Administration at the Universidad Diego Portales, Chile.
 
@@ -91,6 +91,9 @@ social:
 ## - icon: facebook-f
   ## icon_pack: fab
   ## link: https://www.facebook.com/bastiangb
+- icon: linkedin
+  icon_pack: fab
+  link: www.linkedin.com/in/bgonzalezbustamante
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 ## - icon: cv
