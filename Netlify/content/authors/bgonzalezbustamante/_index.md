@@ -91,9 +91,9 @@ social:
 ## - icon: facebook-f
   ## icon_pack: fab
   ## link: https://www.facebook.com/bastiangb
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/bgonzalezbustamante
+## - icon: linkedin
+  ## icon_pack: fab
+  ## link: https://www.linkedin.com/in/bgonzalezbustamante
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 ## - icon: cv
@@ -113,6 +113,6 @@ I am a post-doctoral researcher in Computational Social Science at Leiden Univer
 
 My work bridges the fields of comparative politics, public administration, and computational social science. I build large-scale text-as-data pipelines, deploy AI and machine learning models, and apply causal inference strategies to gain insights into executive politics and elite behaviour. This agenda centres on cabinet reshuffles, ministerial survival, civil service dynamics, and blame-shifting, while also engaging with broader debates on policy agendas, bureaucratic careers, and digital governance.
 
-My recent peer-reviewed articles have appeared in *Social Science Computer Review*, *Public Opinion Quarterly*, *World Development*, *Artificial Intelligence and Law*, *Government and Opposition*, among others. I regularly present at IPSA, ECPR, EPSA and COMPTEXT. I am currently working on an NWO-funded project that uses Large Language Models (LLMs) to analyse global investment prospectuses and reveal how governance arrangements shape sustainable finance flows. In parallel, I contribute to COST Action CA22150 on executive-bureaucratic careers and lead the Enlace-Inserción UDP 2025-2026 project “Unpacking the Unpredictable: Using NLP and LLMs to Examine Cabinet Politics and Responses to Stochastic Events in Presidential Democracies.”
+My recent peer-reviewed articles have appeared in *Social Science Computer Review*, *Public Opinion Quarterly*, *World Development*, *Artificial Intelligence and Law*, *Government and Opposition*, among others. I regularly present at IPSA, ECPR, EPSA (now EPSS) and COMPTEXT. I am currently working on an NWO-funded project that uses Large Language Models (LLMs) to analyse global investment prospectuses and reveal how governance arrangements shape sustainable finance flows. In parallel, I contribute to COST Action CA22150 on executive-bureaucratic careers and lead the Enlace-Inserción UDP 2025-2026 project “Unpacking the Unpredictable: Using NLP and LLMs to Examine Cabinet Politics and Responses to Stochastic Events in Presidential Democracies.”
 
 In addition to research, I convene the undergraduate course Institutions of Governance and Development at Leiden University College and deliver doctoral lectures on data mining and AI at Universidad Diego Portales.
