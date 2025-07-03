@@ -12,7 +12,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 20
 
-title: 'Featured Publications'
+title: Featured Publications
 ## subtitle: '[All Publications >](publication)'
 subtitle: 'Peer-reviewed'
 
