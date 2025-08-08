@@ -5,9 +5,19 @@ All notable changes to "Bastián González-Bustamante website code" will be docu
 
 ## [Released]
 
+## [5.4.7] - 2025-08-08
+### Added
+- Ubuntu Noble 24.04 build image.
+### Changed
+- Minor corrections.
+### Removed
+- Ubuntu Focal 20.04 build image.
+
 ## [5.3.7] - 2025-07-02
 ### Changed
 - Minor corrections.
+### Deprecated
+- Ubuntu Focal 20.04 build image.
 
 ## [5.3.6] - 2025-06-20
 ### Changed
