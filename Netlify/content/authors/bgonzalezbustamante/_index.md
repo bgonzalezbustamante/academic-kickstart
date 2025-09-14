@@ -27,7 +27,7 @@ organizations:
   url: "https://www.universiteitleiden.nl/en"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Post-doctoral Researcher in Computational Social Science and a lecturer in Governance and Development at the Institute of Public Administration, Faculty of Governance and Global Affairs, Leiden University, Netherlands. 
+bio: Associate Professor of Public Administration at Universidad Diego Portales. Post-doctoral Researcher in Computational Social Science and a lecturer in Governance and Development at Leiden University, Netherlands. 
 
 ## Lecturer in the School of Public Administration at the Universidad Diego Portales, Chile.
 
@@ -109,10 +109,10 @@ user_groups:
 - Researchers
 ---
 
-I am a post-doctoral researcher in Computational Social Science at Leiden University’s Institute of Public Administration, [Faculty of Governance and Global Affairs](https://www.universiteitleiden.nl/en/governance-and-global-affairs), in the Netherlands. I hold a [DPhil (PhD) in Politics from the University of Oxford, UK](https://www.politics.ox.ac.uk/) and previously earned an MA in Political Science and a BA in Public Administration and Government from the Universidad de Chile.
+Based in the Netherlands, I hold dual appointments as an Associate Professor of Public Administration at [Universidad Diego Portales](https://www.udp.cl/) and as a post-doctoral researcher in Computational Social Science at Leiden University’s Institute of Public Administration, [Faculty of Governance and Global Affairs](https://www.universiteitleiden.nl/en/governance-and-global-affairs). I hold a DPhil (PhD) in Politics from the University of Oxford and previously earned an MA in Political Science and a BA in Public Administration and Government from the Universidad de Chile.
 
-My work bridges the fields of comparative politics and computational social science. I build large-scale text-as-data pipelines, deploy AI and machine learning models, and apply causal inference strategies. My recent peer-reviewed articles have appeared in *Social Science Computer Review*, *Public Opinion Quarterly*, *World Development*, *Artificial Intelligence and Law*, *Government and Opposition*, among others. I regularly present at IPSA, ECPR, EPSA and COMPTEXT. 
+My work bridges the fields of comparative politics, government and computational social science. I build large-scale text-as-data pipelines, deploy AI and machine learning models, and apply causal inference strategies. My recent peer-reviewed articles have appeared in *Social Science Computer Review*, *Public Opinion Quarterly*, *World Development*, *Artificial Intelligence and Law*, *Government and Opposition*, among others. I regularly present at IPSA, ECPR, EPSA and COMPTEXT.
 
-I am currently working on an NWO-funded project that uses Large Language Models (LLMs) to analyse global investment prospectuses and reveal how governance arrangements shape sustainable finance flows. In parallel, I contribute to COST Action CA22150 on executive-bureaucratic careers and lead the Enlace-Inserción UDP 2025-2026 project “Unpacking the Unpredictable: Using NLP and LLMs to Examine Cabinet Politics and Responses to Stochastic Events in Presidential Democracies.”
+I am currently working on an NWO-funded project that uses Large Language Models (LLMs) to analyse global investment prospectuses and reveal how governance arrangements shape sustainable finance flows. In parallel, I contribute to COST Action CA22150 on executive-bureaucratic careers and lead the Enlace-Inserción UDP 2025-2026 project [“Unpacking the Unpredictable: Using NLP and LLMs to Examine Cabinet Politics and Responses to Stochastic Events in Presidential Democracies.”](https://obpex.com/enlace-udp)
 
 In addition to research, I teach the undergraduate course Institutions of Governance and Development at Leiden University College and deliver doctoral lectures on data mining and AI at Universidad Diego Portales.
