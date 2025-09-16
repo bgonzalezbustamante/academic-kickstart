@@ -13,7 +13,7 @@ headless: true
 weight: 30
 
 title: Preprints
-subtitle: 'Works in progress'
+subtitle: 'Working papers'
 
 content:
   # Page type to display. E.g. post, talk, publication...
