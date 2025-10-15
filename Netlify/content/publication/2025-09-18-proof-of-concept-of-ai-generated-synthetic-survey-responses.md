@@ -36,7 +36,7 @@ links:
   - icon: doi
     icon_pack: ai
     name: DOI
-    url: 'https://zenodo.org/records/17077752'
+    url: 'https://doi.org/10.5281/zenodo.17077751'
   - icon: arxiv
     icon_pack: ai
     name: Preprint
