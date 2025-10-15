@@ -1,5 +1,5 @@
 ---
-title: 'Changing Meaning of the Rule of Law'
+title: 'Changing meaning of the rule of law'
 date: '2025-06-19'
 slug: changing-meaning-of-the-rule-of-law
 ## categories: []
