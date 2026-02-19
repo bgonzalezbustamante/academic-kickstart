@@ -1,7 +1,7 @@
 ---
-title: 'Motivación de servicio público entre funcionarios públicos chilenos'
+title: 'Motivación de servicio público en los funcionarios públicos chilenos'
 date: '2021-11-01'
-slug: motivacion-de-servicio-publico-entre-funcionarios-publicos-chilenos
+slug: motivacion-de-servicio-publico-en-los-funcionarios-publicos-chilenos
 ## categories: []
 ## tags: []
 authors:
@@ -32,7 +32,7 @@ links:
   - icon: file-pdf
     icon_pack: far
     name: PDF
-    url: 'https://clad.org/documentacion/revista-clad/articulos-publicados/081-noviembre-2021/'
+    url: 'https://revista.clad.org/ryd/en/issue/view/50'
   ## - icon: doi
     ## icon_pack: ai
     ## name: DOI
