@@ -8,7 +8,7 @@ authors:
 - "Balazs Aczel"
 - "Barnabas Szaszi"
 - "Harry T. Clelland"
-- "(et al., including Bastián González-Bustamante)"
+- "et al. (including Bastián González-Bustamante)"
 doi: ''
 ## publishDate: ''
 
