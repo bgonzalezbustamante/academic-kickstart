@@ -33,7 +33,7 @@ feature:
   ## name: TextClass Benchmark
 - description: <a href="https://ocpsg-benchmarking-llms.github.io/" target="_blank">Oxford Computational Political Science Group</a>
   icon: ocpsg
-  icon_packk: custom
+  icon_pack: custom
   name: OCPSG
 ## - description: <a href="https://training-datalab.com/" target="_blank">Research group</a>
   ## icon: datalab
