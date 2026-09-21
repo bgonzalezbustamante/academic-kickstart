@@ -12,7 +12,7 @@ doi: ''
 publication_types:
   - '0'
 
-publication: '*Social Science Computer Review.* OnlineFirst'
+publication: '*Social Science Computer Review, 44*(2), 245-258'
 publication_short: ''
 abstract: 'This paper describes the creation of a novel dataset on ministerial turnover and resignation calls in 12 presidential cabinets in Latin America from the mid-1970s to the early 2020s. The indicators on resignation calls and reallocations of cabinet members are entirely novel. Both constitute a relevant empirical contribution not only to the study of political dynamics in presidential systems and cabinet politics but also to public opinion and public policy topics. We focus on the creation of the dataset using optical recognition algorithms on press report archives together with machine learning models. The models permitted the training of ensemble semi-supervised classifiers over a period of almost 50 years. Subsequently, we provide a number of measurement validity checks to cross-validate the dataset by comparing it with similar existing data and an exploratory analysis.'
 

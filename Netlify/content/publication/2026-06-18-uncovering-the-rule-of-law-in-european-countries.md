@@ -13,7 +13,7 @@ doi: ''
 publication_types:
   - '0'
 
-publication: '*Law & Social Inquiry*. First View'
+publication: '*Law & Social Inquiry*. OnlineFirst'
 publication_short: ''
 abstract: 'This article examines the multifaceted nature of the rule of law. It primarily shows a way to measure how the meaning of the rule of law differs across countries, or across different contexts more generally, by analyzing parliamentary discourse on the rule of law. The findings point to a convergence in the conceptualization of the rule of law across diverse legal traditions despite ex ante differences between common law, French, German, and post-socialist legal traditions. The article also proposes a principled approach for deriving weights for rule-of-law indicators in order to assess the sensitivity of country rankings with respect to the adherence to rule-of-law principles.'
 summary: ''
