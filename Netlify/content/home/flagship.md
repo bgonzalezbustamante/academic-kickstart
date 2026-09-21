@@ -27,10 +27,14 @@ feature:
   ## icon: obpex
   ## icon_pack: custom
   ## name: OBPEX
-- description: <a href="https://textclass-benchmark.com/" target="_blank">LLMs in social sciences</a>
-  icon: textclass
-  icon_pack: custom
-  name: TextClass Benchmark
+## - description: <a href="https://textclass-benchmark.com/" target="_blank">LLMs in social sciences</a>
+  ## icon: textclass
+  ## icon_pack: custom
+  ## name: TextClass Benchmark
+- description: <a href="https://ocpsg-benchmarking-llms.github.io/" target="_blank">Oxford Computational Political Science Group</a>
+  icon: ocpsg
+  icon_packk: custom
+  name: OCPSG
 ## - description: <a href="https://training-datalab.com/" target="_blank">Research group</a>
   ## icon: datalab
   ## icon_pack: custom
